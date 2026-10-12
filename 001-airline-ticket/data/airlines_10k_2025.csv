@@ -1,0 +1,86 @@
+airline,company,cik,line,xbrl_tag,value_usd,form,filed,source
+DL,"DELTA AIR LINES, INC.",27904,revenue,RevenueFromContractWithCustomerExcludingAssessedTax,63364000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,fuel,FuelCosts,9819000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,labor,LaborAndRelatedExpense,17520000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,regional_capacity,AirlineCapacityPurchaseArrangements,2553000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,landing_fees_and_rent,LandingFeesAndOtherRentals,3564000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,maintenance,AircraftMaintenanceMaterialsAndRepairs,2432000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,depreciation,DepreciationDepletionAndAmortization,2443000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,aircraft_rent,AircraftRental,542000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,operating_expenses,CostsAndExpenses,57542000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,operating_income,OperatingIncomeLoss,5822000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,pretax_income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,6185000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,income_tax,IncomeTaxExpenseBenefit,1180000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+DL,"DELTA AIR LINES, INC.",27904,net_income,NetIncomeLoss,5005000000,10-K,2026-02-11,https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/
+UA,"United Airlines Holdings, Inc.",100517,revenue,RevenueFromContractWithCustomerExcludingAssessedTax,59070000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,fuel,FuelCosts,11396000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,labor,LaborAndRelatedExpense,17647000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,regional_capacity,AirlineCapacityPurchaseArrangements,2693000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,landing_fees_and_rent,LandingFeesAndOtherRentals,3849000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,maintenance,AircraftMaintenanceMaterialsAndRepairs,3294000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,depreciation,DepreciationDepletionAndAmortization,2939000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,aircraft_rent,AircraftRental,252000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,operating_expenses,CostsAndExpenses,54356000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,operating_income,OperatingIncomeLoss,4713000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,pretax_income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,4306000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,income_tax,IncomeTaxExpenseBenefit,953000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+UA,"United Airlines Holdings, Inc.",100517,net_income,NetIncomeLoss,3353000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/
+AA,American Airlines Group Inc.,6201,revenue,RevenueFromContractWithCustomerExcludingAssessedTax,54633000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,fuel,FuelCosts,10718000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,labor,LaborAndRelatedExpense,17566000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,regional_capacity,AirlineCapacityPurchaseArrangements,5448000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,landing_fees_and_rent,LandingFeesAndOtherRentals,3476000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,maintenance,AircraftMaintenanceMaterialsAndRepairs,3844000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,depreciation,DepreciationDepletionAndAmortization,2200000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,aircraft_rent,AircraftRental,1220000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,operating_expenses,CostsAndExpenses,53166000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,operating_income,OperatingIncomeLoss,1467000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,pretax_income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,190000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,income_tax,IncomeTaxExpenseBenefit,79000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+AA,American Airlines Group Inc.,6201,net_income,NetIncomeLoss,111000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/
+WN,SOUTHWEST AIRLINES CO.,92380,revenue,RevenueFromContractWithCustomerExcludingAssessedTax,28063000000,10-K,2026-02-05,https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/
+WN,SOUTHWEST AIRLINES CO.,92380,fuel,FuelCosts,5240000000,10-K,2026-02-05,https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/
+WN,SOUTHWEST AIRLINES CO.,92380,labor,LaborAndRelatedExpense,12963000000,10-K,2026-02-05,https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/
+WN,SOUTHWEST AIRLINES CO.,92380,landing_fees_and_rent,LandingFeesAndOtherRentals,2178000000,10-K,2026-02-05,https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/
+WN,SOUTHWEST AIRLINES CO.,92380,maintenance,AircraftMaintenanceMaterialsAndRepairs,1227000000,10-K,2026-02-05,https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/
+WN,SOUTHWEST AIRLINES CO.,92380,depreciation,DepreciationAndAmortization,1560000000,10-K,2026-02-05,https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/
+WN,SOUTHWEST AIRLINES CO.,92380,operating_income,OperatingIncomeLoss,428000000,10-K,2026-02-05,https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/
+WN,SOUTHWEST AIRLINES CO.,92380,pretax_income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,563000000,10-K,2026-02-05,https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/
+WN,SOUTHWEST AIRLINES CO.,92380,income_tax,IncomeTaxExpenseBenefit,122000000,10-K,2026-02-05,https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/
+WN,SOUTHWEST AIRLINES CO.,92380,net_income,NetIncomeLoss,441000000,10-K,2026-02-05,https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/
+AS,"ALASKA AIR GROUP, INC.",766421,revenue,RevenueFromContractWithCustomerExcludingAssessedTax,14239000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,fuel,FuelCosts,2879000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,labor,LaborAndRelatedExpense,4763000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,landing_fees_and_rent,LandingFeesAndOtherRentals,1109000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,maintenance,AircraftMaintenanceMaterialsAndRepairs,912000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,depreciation,DepreciationDepletionAndAmortization,795000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,aircraft_rent,AircraftRental,250000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,operating_expenses,CostsAndExpenses,13936000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,operating_income,OperatingIncomeLoss,303000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,pretax_income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,146000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,income_tax,IncomeTaxExpenseBenefit,46000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+AS,"ALASKA AIR GROUP, INC.",766421,net_income,NetIncomeLoss,100000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/
+B6,JETBLUE AIRWAYS CORP,1158463,revenue,RevenueFromContractWithCustomerExcludingAssessedTax,9062000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,fuel,FuelCosts,2057000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,labor,LaborAndRelatedExpense,3453000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,landing_fees_and_rent,LandingFeesAndOtherRentals,658000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,maintenance,AircraftMaintenanceMaterialsAndRepairs,791000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,depreciation,DepreciationDepletionAndAmortization,688000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,aircraft_rent,AircraftRental,74000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,operating_expenses,CostsAndExpenses,9430000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,operating_income,OperatingIncomeLoss,-368000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,pretax_income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-774000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,income_tax,IncomeTaxExpenseBenefit,-172000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+B6,JETBLUE AIRWAYS CORP,1158463,net_income,NetIncomeLoss,-602000000,10-K,2026-02-12,https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+F9,"Frontier Group Holdings, Inc.",1670076,revenue,RevenueFromContractWithCustomerExcludingAssessedTax,3724000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,fuel,FuelCosts,929000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,labor,LaborAndRelatedExpense,1016000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,landing_fees_and_rent,LandingFeesAndOtherRentals,717000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,maintenance,AircraftMaintenanceMaterialsAndRepairs,209000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,depreciation,DepreciationAndAmortization,91000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,aircraft_rent,AircraftRental,748000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,operating_expenses,CostsAndExpenses,3873000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,operating_income,OperatingIncomeLoss,-149000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,pretax_income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-134000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,income_tax,IncomeTaxExpenseBenefit,3000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/
+F9,"Frontier Group Holdings, Inc.",1670076,net_income,NetIncomeLoss,-137000000,10-K,2026-02-18,https://www.sec.gov/Archives/edgar/data/1670076/000167007626000020/

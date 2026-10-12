@@ -1,0 +1,9 @@
+name,value,kind,year,description,source
+federal_ticket_tax_rate,0.075,published rate,2026,Federal excise tax on domestic air fares,https://www.irs.gov/pub/irs-pdf/p510.pdf
+segment_fee,5.3,published rate,2026,Federal domestic flight segment fee,https://www.irs.gov/pub/irs-pdf/p510.pdf
+tsa_fee,5.6,published rate,2026,"TSA September 11th Security Fee, per one-way trip",https://www.tsa.gov/for-industry/security-fees
+airport_fee_max,4.5,published rate,2026,"Passenger Facility Charge, legal maximum per boarding",https://www.law.cornell.edu/uscode/text/49/40117
+price,400,assumption,2025,"Example fare paid, taxes included: nonstop domestic round trip",
+segments,2,assumption,2025,Flight segments in the trip (nonstop round trip),
+airport_fee_boardings_per_segment,1,assumption,2025,Airport fee charges per segment (nonstop: one boarding per segment),
+line,0.05,assumption,2025,The line set before the math: share of the price,

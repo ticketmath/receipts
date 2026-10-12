@@ -1,0 +1,290 @@
+{
+ "price": {
+  "value": 400.0,
+  "unit": "usd",
+  "label": "price",
+  "formula": "input (data/inputs.csv)"
+ },
+ "line": {
+  "value": 0.05,
+  "unit": "share",
+  "label": "line",
+  "formula": "input (data/inputs.csv)"
+ },
+ "federal_ticket_tax_rate": {
+  "value": 0.075,
+  "unit": "share",
+  "label": "federal ticket tax rate",
+  "formula": "input (data/inputs.csv)"
+ },
+ "segment_fee": {
+  "value": 5.3,
+  "unit": "usd",
+  "label": "segment fee",
+  "formula": "input (data/inputs.csv)"
+ },
+ "tsa_fee": {
+  "value": 5.6,
+  "unit": "usd",
+  "label": "tsa fee",
+  "formula": "input (data/inputs.csv)"
+ },
+ "airport_fee_max": {
+  "value": 4.5,
+  "unit": "usd",
+  "label": "airport fee max",
+  "formula": "input (data/inputs.csv)"
+ },
+ "ticket_government": {
+  "value": 47.55813953488372,
+  "unit": "usd",
+  "label": "Federal taxes and fees on the ticket",
+  "formula": "7.5% tax on the fare + segment fee x segments + TSA fee x segments"
+ },
+ "ticket_airport_fee": {
+  "value": 9.0,
+  "unit": "usd",
+  "label": "Airport fee on the ticket (PFC)",
+  "formula": "PFC maximum x boardings"
+ },
+ "ticket_airline_fare": {
+  "value": 343.4418604651163,
+  "unit": "usd",
+  "label": "What the airline counts as revenue",
+  "formula": "(price - fixed fees) / (1 + tax rate)"
+ },
+ "group_revenue": {
+  "value": 232155000000.0,
+  "unit": "usd",
+  "label": "Combined revenue of the 7 airlines",
+  "formula": "sum of 10-K revenues"
+ },
+ "share_fuel": {
+  "value": 0.1853847644892421,
+  "unit": "share",
+  "label": "Fuel: share of every revenue dollar",
+  "formula": "sum of fuel / sum of revenue"
+ },
+ "ticket_fuel": {
+  "value": 63.66888841807273,
+  "unit": "usd",
+  "label": "Fuel: dollars of the example ticket",
+  "formula": "airline fare x fuel / revenue"
+ },
+ "share_labor": {
+  "value": 0.3227498869289914,
+  "unit": "share",
+  "label": "Pilots, flight attendants and other employees: share of every revenue dollar",
+  "formula": "sum of labor / sum of revenue"
+ },
+ "ticket_labor": {
+  "value": 110.84582163179873,
+  "unit": "usd",
+  "label": "Pilots, flight attendants and other employees: dollars of the example ticket",
+  "formula": "airline fare x labor / revenue"
+ },
+ "share_regional": {
+  "value": 0.04606405203420129,
+  "unit": "share",
+  "label": "Regional airline partners: share of every revenue dollar",
+  "formula": "sum of regional / sum of revenue"
+ },
+ "ticket_regional": {
+  "value": 15.820323731188015,
+  "unit": "usd",
+  "label": "Regional airline partners: dollars of the example ticket",
+  "formula": "airline fare x regional / revenue"
+ },
+ "share_airport_costs": {
+  "value": 0.0669854192242252,
+  "unit": "share",
+  "label": "Landing fees and airport rent: share of every revenue dollar",
+  "formula": "sum of airport_costs / sum of revenue"
+ },
+ "ticket_airport_costs": {
+  "value": 23.00559700240367,
+  "unit": "usd",
+  "label": "Landing fees and airport rent: dollars of the example ticket",
+  "formula": "airline fare x airport_costs / revenue"
+ },
+ "share_maintenance": {
+  "value": 0.05474359802718012,
+  "unit": "share",
+  "label": "Aircraft maintenance: share of every revenue dollar",
+  "formula": "sum of maintenance / sum of revenue"
+ },
+ "ticket_maintenance": {
+  "value": 18.80124315500921,
+  "unit": "usd",
+  "label": "Aircraft maintenance: dollars of the example ticket",
+  "formula": "airline fare x maintenance / revenue"
+ },
+ "share_planes": {
+  "value": 0.05945165945165945,
+  "unit": "share",
+  "label": "Depreciation (planes, ground equipment, buildings) and aircraft rent: share of every revenue dollar",
+  "formula": "sum of planes / sum of revenue"
+ },
+ "ticket_planes": {
+  "value": 20.418188529816437,
+  "unit": "usd",
+  "label": "Depreciation (planes, ground equipment, buildings) and aircraft rent: dollars of the example ticket",
+  "formula": "airline fare x planes / revenue"
+ },
+ "share_other_costs": {
+  "value": 0.21199629557838512,
+  "unit": "share",
+  "label": "Other operating costs (not broken out in the 10-K): share of every revenue dollar",
+  "formula": "sum of other_costs / sum of revenue"
+ },
+ "ticket_other_costs": {
+  "value": 72.8084021651533,
+  "unit": "usd",
+  "label": "Other operating costs (not broken out in the 10-K): dollars of the example ticket",
+  "formula": "airline fare x other_costs / revenue"
+ },
+ "share_interest_and_other": {
+  "value": 0.00746914776765523,
+  "unit": "share",
+  "label": "Interest and other non-operating items: share of every revenue dollar",
+  "formula": "sum of interest_and_other / sum of revenue"
+ },
+ "ticket_interest_and_other": {
+  "value": 2.5652180054123823,
+  "unit": "usd",
+  "label": "Interest and other non-operating items: dollars of the example ticket",
+  "formula": "airline fare x interest_and_other / revenue"
+ },
+ "share_income_tax": {
+  "value": 0.009523809523809525,
+  "unit": "share",
+  "label": "Income taxes: share of every revenue dollar",
+  "formula": "sum of income_tax / sum of revenue"
+ },
+ "ticket_income_tax": {
+  "value": 3.270874861572536,
+  "unit": "usd",
+  "label": "Income taxes: dollars of the example ticket",
+  "formula": "airline fare x income_tax / revenue"
+ },
+ "share_profit": {
+  "value": 0.035627059507656524,
+  "unit": "share",
+  "label": "Net profit: share of every revenue dollar",
+  "formula": "sum of profit / sum of revenue"
+ },
+ "ticket_profit": {
+  "value": 12.235823600210967,
+  "unit": "usd",
+  "label": "Net profit: dollars of the example ticket",
+  "formula": "airline fare x profit / revenue"
+ },
+ "profit_share_of_price": {
+  "value": 0.030589559000527417,
+  "unit": "share",
+  "label": "Airline profit as a share of the full price paid",
+  "formula": "profit on the ticket / price paid"
+ },
+ "group_boardings": {
+  "value": 909410259.0,
+  "unit": "count",
+  "label": "Passenger boardings (the group and the regionals flying for it)",
+  "formula": "sum of T-100 PASSENGERS"
+ },
+ "profit_per_boarding": {
+  "value": 9.09490509717243,
+  "unit": "usd",
+  "label": "Net profit per boarding",
+  "formula": "combined net profit / boardings"
+ },
+ "revenue_per_boarding": {
+  "value": 255.28082370137415,
+  "unit": "usd",
+  "label": "Revenue per boarding",
+  "formula": "combined revenue / boardings"
+ },
+ "margin_dl": {
+  "value": 0.07898806893504198,
+  "unit": "share",
+  "label": "DL: net profit per revenue dollar",
+  "formula": "net profit / revenue"
+ },
+ "profit_share_of_price_dl": {
+  "value": 0.06781952337399419,
+  "unit": "share",
+  "label": "DL: profit as a share of the example ticket",
+  "formula": "airline fare x margin / price paid"
+ },
+ "margin_ua": {
+  "value": 0.05676316234975453,
+  "unit": "share",
+  "label": "UA: net profit per revenue dollar",
+  "formula": "net profit / revenue"
+ },
+ "profit_share_of_price_ua": {
+  "value": 0.04873711520820785,
+  "unit": "share",
+  "label": "UA: profit as a share of the example ticket",
+  "formula": "airline fare x margin / price paid"
+ },
+ "margin_aa": {
+  "value": 0.002031739058810609,
+  "unit": "share",
+  "label": "AA: net profit per revenue dollar",
+  "formula": "net profit / revenue"
+ },
+ "profit_share_of_price_aa": {
+  "value": 0.0017444606058438998,
+  "unit": "share",
+  "label": "AA: profit as a share of the example ticket",
+  "formula": "airline fare x margin / price paid"
+ },
+ "margin_wn": {
+  "value": 0.015714642055375407,
+  "unit": "share",
+  "label": "WN: net profit per revenue dollar",
+  "formula": "net profit / revenue"
+ },
+ "profit_share_of_price_wn": {
+  "value": 0.013492664760103721,
+  "unit": "share",
+  "label": "WN: profit as a share of the example ticket",
+  "formula": "airline fare x margin / price paid"
+ },
+ "margin_as": {
+  "value": 0.007022965095863473,
+  "unit": "share",
+  "label": "AS: net profit per revenue dollar",
+  "formula": "net profit / revenue"
+ },
+ "profit_share_of_price_as": {
+  "value": 0.0060299504962623126,
+  "unit": "share",
+  "label": "AS: profit as a share of the example ticket",
+  "formula": "airline fare x margin / price paid"
+ },
+ "margin_b6": {
+  "value": -0.06643125137938645,
+  "unit": "share",
+  "label": "B6: net profit per revenue dollar",
+  "formula": "net profit / revenue"
+ },
+ "profit_share_of_price_b6": {
+  "value": -0.05703818141690577,
+  "unit": "share",
+  "label": "B6: profit as a share of the example ticket",
+  "formula": "airline fare x margin / price paid"
+ },
+ "margin_f9": {
+  "value": -0.03678839957035446,
+  "unit": "share",
+  "label": "F9: net profit per revenue dollar",
+  "formula": "net profit / revenue"
+ },
+ "profit_share_of_price_f9": {
+  "value": -0.031586690979941545,
+  "unit": "share",
+  "label": "F9: profit as a share of the example ticket",
+  "formula": "airline fare x margin / price paid"
+ }
+}
