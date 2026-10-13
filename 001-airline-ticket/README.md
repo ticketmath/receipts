@@ -1,6 +1,6 @@
 # #001 · How much of a $400 airline ticket does the airline keep?
 
-**Video:** coming soon
+**Video:** https://youtu.be/yJrcfD89yBc
 
 ## The answer
 
