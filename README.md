@@ -7,6 +7,7 @@ Each video has its own folder:
 | Folder | Video |
 |---|---|
 | [001-airline-ticket](001-airline-ticket/) | How much of a $400 airline ticket does the airline keep? |
+| [002-rental-car](002-rental-car/) | How many rental days a month does a rental car need just to cover what it loses? |
 
 Inside each folder:
 

@@ -1,0 +1,21 @@
+metric,year,value,label_in_10k,source
+fleet_cost_per_car_month,2025,310.0,Depreciation Per Unit Per Month (in whole dollars) (f),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+fleet_cost_per_car_month,2024,587.0,Depreciation Per Unit Per Month (in whole dollars) (f),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+revenue_per_rental_day,2025,56.49,Total RPD (in dollars) (d),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+revenue_per_rental_day,2024,59.17,Total RPD (in dollars) (d),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+revenue_per_rentable_car_month,2025,1405.0,Total RPU Per Month (in whole dollars) (e),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+revenue_per_rentable_car_month,2024,1444.0,Total RPU Per Month (in whole dollars) (e),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+average_vehicles,2025,422346.0,Average Vehicles (in whole units) (c),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+average_vehicles,2024,453706.0,Average Vehicles (in whole units) (c),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+average_rentable_vehicles,2025,400355.0,Average Rentable Vehicles (in whole units) (c),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+average_rentable_vehicles,2024,426017.0,Average Rentable Vehicles (in whole units) (c),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+transaction_days_thousands,2025,119473.0,Transaction Days (in thousands) (b),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+transaction_days_thousands,2024,124767.0,Transaction Days (in thousands) (b),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+vehicle_utilization_pct,2025,82.0,Vehicle Utilization (c),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+vehicle_utilization_pct,2024,80.0,Vehicle Utilization (c),https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+program_vehicles_pct,2025,11.0,Percentage of program vehicles as of period end,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+program_vehicles_pct,2024,7.0,Percentage of program vehicles as of period end,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+fleet_cost_usd_millions,2025,1573.0,Adjusted depreciation of revenue earning vehicles and lease charges,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+fleet_cost_usd_millions,2024,3196.0,Adjusted depreciation of revenue earning vehicles and lease charges,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+revenue_usd_millions,2025,6749.0,Total Revenues-adjusted for foreign currency,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+revenue_usd_millions,2024,7382.0,Total Revenues-adjusted for foreign currency,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm

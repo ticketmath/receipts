@@ -1,0 +1,9 @@
+company,item,value,unit,quote,source
+hertz,months_in_fleet_of_cars_sold,18.0,months,holding period for rental vehicles sold was 18 months in our Americas,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+hertz,depreciation_of_vehicles,1771.0,usd_millions,"Depreciation of revenue earning vehicles and lease charges, net (note)",https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+hertz,loss_on_disposal_of_vehicles,64.0,usd_millions,"Depreciation of revenue earning vehicles and lease charges, net (note)",https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+hertz,rents_paid_for_vehicles_leased,92.0,usd_millions,"Depreciation of revenue earning vehicles and lease charges, net (note)",https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+hertz,fleet_cost_net,1927.0,usd_millions,"Depreciation of revenue earning vehicles and lease charges, net (note)",https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+hertz,costs_of_selling_vehicles,246.0,usd_millions,Includes costs associated with the sales of vehicles of $ 246 million,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+hertz,vehicle_impairment_2024,923.0,usd_millions,impairment charges of $ 923 million and $ 125 million against the Company's revenue earning vehicles,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231.htm
+avis,fleet_disposal_charges,390.0,usd_millions,includes other fleet charges of $ 390 million related to the disposal of certain fleet in our Americas reportable segment,https://www.sec.gov/Archives/edgar/data/723612/000072361226000012/car-20251231.htm

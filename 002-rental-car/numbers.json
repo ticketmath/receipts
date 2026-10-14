@@ -1,0 +1,182 @@
+{
+ "days_to_cover": {
+  "value": 5.487696937511064,
+  "unit": "count",
+  "label": "Rental days a month whose revenue covers what a Hertz car in the Americas loses in the month",
+  "formula": "fleet cost per car per month / revenue per rental day"
+ },
+ "days_to_cover_2024": {
+  "value": 9.920567855332093,
+  "unit": "count",
+  "label": "The same in 2024, the year of the EV write-downs",
+  "formula": "fleet cost per car per month / revenue per rental day"
+ },
+ "fleet_cost_per_car_month": {
+  "value": 310.0,
+  "unit": "usd",
+  "label": "Fleet cost per car per month: depreciation, rents for leased cars and the result of selling the cars",
+  "formula": "published"
+ },
+ "fleet_cost_per_car_month_2024": {
+  "value": 587.0,
+  "unit": "usd",
+  "label": "The same in 2024",
+  "formula": "published"
+ },
+ "revenue_per_rental_day": {
+  "value": 56.49,
+  "unit": "usd",
+  "label": "Revenue per rental day",
+  "formula": "published"
+ },
+ "revenue_per_rental_day_2024": {
+  "value": 59.17,
+  "unit": "usd",
+  "label": "Revenue per rental day in 2024",
+  "formula": "published"
+ },
+ "revenue_per_rentable_car_month": {
+  "value": 1405.0,
+  "unit": "usd",
+  "label": "Revenue per rentable car per month (excludes cars held for sale)",
+  "formula": "published"
+ },
+ "revenue_per_fleet_car_month": {
+  "value": 1331.6490902403873,
+  "unit": "usd",
+  "label": "Revenue per fleet car per month",
+  "formula": "revenue / average vehicles / 12"
+ },
+ "fleet_cost_share_of_car_revenue": {
+  "value": 0.23279406134242112,
+  "unit": "share",
+  "label": "Share of a fleet car's monthly revenue that goes to fleet cost",
+  "formula": "fleet cost per car / revenue per fleet car"
+ },
+ "rented_days_per_car_month": {
+  "value": 23.57328667332787,
+  "unit": "count",
+  "label": "Days a month a fleet car is out on rent, on average",
+  "formula": "transaction days / average vehicles / 12"
+ },
+ "vehicle_utilization": {
+  "value": 0.82,
+  "unit": "share",
+  "label": "Utilization of rentable cars",
+  "formula": "published"
+ },
+ "average_vehicles": {
+  "value": 422346.0,
+  "unit": "count",
+  "label": "Hertz average fleet in the Americas",
+  "formula": "published"
+ },
+ "months_in_fleet": {
+  "value": 18.0,
+  "unit": "count",
+  "label": "Months the cars sold in 2025 spent in the fleet, on average",
+  "formula": "10-K text"
+ },
+ "program_vehicles_share": {
+  "value": 0.11,
+  "unit": "share",
+  "label": "Share of the Americas fleet at year end with a buyback or guaranteed depreciation from the maker",
+  "formula": "published"
+ },
+ "hertz_2024_vehicle_impairment": {
+  "value": 923000000.0,
+  "unit": "usd",
+  "label": "Hertz 2024 write-down of fleet values (whole company), booked outside the fleet cost per car",
+  "formula": "10-K note"
+ },
+ "hertz_revenue": {
+  "value": 8504000000.0,
+  "unit": "usd",
+  "label": "hertz: revenue for the year",
+  "formula": "XBRL: Revenues"
+ },
+ "hertz_vehicle_sales": {
+  "value": 8086000000.0,
+  "unit": "usd",
+  "label": "hertz: cash received from selling fleet cars",
+  "formula": "XBRL"
+ },
+ "hertz_sales_share_of_revenue": {
+  "value": 0.9508466603951082,
+  "unit": "share",
+  "label": "hertz: car sales as a share of revenue",
+  "formula": "car sales / revenue"
+ },
+ "hertz_gain_on_sale": {
+  "value": -64000000.0,
+  "unit": "usd",
+  "label": "hertz: gain (or loss) on selling the cars",
+  "formula": "XBRL"
+ },
+ "hertz_net_income": {
+  "value": -747000000.0,
+  "unit": "usd",
+  "label": "hertz: net income (or loss) for the year",
+  "formula": "XBRL: NetIncomeLoss"
+ },
+ "avis_revenue": {
+  "value": 11652000000.0,
+  "unit": "usd",
+  "label": "avis: revenue for the year",
+  "formula": "XBRL: Revenues"
+ },
+ "avis_vehicle_sales": {
+  "value": 10406000000.0,
+  "unit": "usd",
+  "label": "avis: cash received from selling fleet cars",
+  "formula": "XBRL"
+ },
+ "avis_sales_share_of_revenue": {
+  "value": 0.8930655681428081,
+  "unit": "share",
+  "label": "avis: car sales as a share of revenue",
+  "formula": "car sales / revenue"
+ },
+ "avis_gain_on_sale": {
+  "value": -238000000.0,
+  "unit": "usd",
+  "label": "avis: gain (or loss) on selling the cars",
+  "formula": "XBRL"
+ },
+ "avis_net_income": {
+  "value": -889000000.0,
+  "unit": "usd",
+  "label": "avis: net income (or loss) for the year",
+  "formula": "XBRL: NetIncomeLoss"
+ },
+ "hertz_costs_of_selling": {
+  "value": 246000000.0,
+  "unit": "usd",
+  "label": "Hertz: costs of selling the cars, included in the result of the sale",
+  "formula": "10-K note"
+ },
+ "hertz_gain_before_selling_costs": {
+  "value": 182000000.0,
+  "unit": "usd",
+  "label": "Hertz: result of selling the cars before the costs of selling",
+  "formula": "gain (loss) on sale + costs of selling"
+ },
+ "hertz_sales_share_returning_book_value": {
+  "value": 0.977491961414791,
+  "unit": "share",
+  "label": "Hertz: share of the sale cash that only gave back the cars' book value (approximate)",
+  "formula": "(car sales - gain before costs of selling) / car sales"
+ },
+ "avis_fleet_charges": {
+  "value": 390000000.0,
+  "unit": "usd",
+  "label": "Avis Budget: charges for disposing of part of the Americas fleet, included in the loss",
+  "formula": "10-K note"
+ },
+ "avis_gain_before_fleet_charges": {
+  "value": 152000000.0,
+  "unit": "usd",
+  "label": "Avis Budget: result of selling the cars without those charges",
+  "formula": "gain (loss) on sale + fleet charges"
+ }
+}

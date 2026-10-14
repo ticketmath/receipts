@@ -1,0 +1,9 @@
+company,item,xbrl_tag,value_usd,source
+hertz,revenue,us-gaap:Revenues,8504000000.0,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231_htm.xml
+hertz,vehicle_sales,htz:ProceedsFromSaleOfRevenueEarningEquipment,8086000000.0,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231_htm.xml
+hertz,gain_on_sale_of_vehicles,htz:GainLossOnDisposalOfRevenueEarningVehicles,-64000000.0,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231_htm.xml
+hertz,net_income,us-gaap:NetIncomeLoss,-747000000.0,https://www.sec.gov/Archives/edgar/data/1657853/000165785326000008/htz-20251231_htm.xml
+avis,revenue,us-gaap:Revenues,11652000000.0,https://www.sec.gov/Archives/edgar/data/723612/000072361226000012/car-20251231_htm.xml
+avis,vehicle_sales,car:ProceedsReceivedOnDispositionOfVehicles,10406000000.0,https://www.sec.gov/Archives/edgar/data/723612/000072361226000012/car-20251231_htm.xml
+avis,gain_on_sale_of_vehicles,car:GainLossOnSaleOfVehicles,-238000000.0,https://www.sec.gov/Archives/edgar/data/723612/000072361226000012/car-20251231_htm.xml
+avis,net_income,us-gaap:NetIncomeLoss,-889000000.0,https://www.sec.gov/Archives/edgar/data/723612/000072361226000012/car-20251231_htm.xml
