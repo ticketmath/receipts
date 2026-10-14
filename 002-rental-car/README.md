@@ -1,6 +1,6 @@
 # #002 · How many rental days a month does a rental car need just to cover what it loses?
 
-**Video:** coming soon
+**Video:** https://youtu.be/L0zXVfDKga4
 
 ## The answer
 
