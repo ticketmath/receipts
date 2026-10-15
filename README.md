@@ -8,6 +8,7 @@ Each video has its own folder:
 |---|---|
 | [001-airline-ticket](001-airline-ticket/) | How much of a $400 airline ticket does the airline keep? |
 | [002-rental-car](002-rental-car/) | How many rental days a month does a rental car need just to cover what it loses? |
+| [003-hotel-room](003-hotel-room/) | Who makes money on a hotel room: the owner of the building, or the brand on the door? |
 
 Inside each folder:
 

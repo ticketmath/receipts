@@ -1,0 +1,548 @@
+{
+ "host_revenue_per_night": {
+  "value": 389.08967294900225,
+  "unit": "usd",
+  "label": "Host: total revenue per available room night",
+  "formula": "revenue / available nights"
+ },
+ "host_rooms_cost_per_night": {
+  "value": 57.65705654101996,
+  "unit": "usd",
+  "label": "Host: Rooms expenses (staff, housekeeping, front desk), per available room night",
+  "formula": "line / available nights"
+ },
+ "host_food_beverage_cost_per_night": {
+  "value": 77.89430155210644,
+  "unit": "usd",
+  "label": "Host: Food and beverage expenses, per available room night",
+  "formula": "line / available nights"
+ },
+ "host_support_cost_per_night": {
+  "value": 93.29497228381375,
+  "unit": "usd",
+  "label": "Host: Other departmental and support expenses, per available room night",
+  "formula": "line / available nights"
+ },
+ "host_property_cost_per_night": {
+  "value": 27.11027161862528,
+  "unit": "usd",
+  "label": "Host: Other property-level expenses, per available room night",
+  "formula": "line / available nights"
+ },
+ "host_management_fees_per_night": {
+  "value": 16.673453436807097,
+  "unit": "usd",
+  "label": "Host: Management fees paid to the companies that run the hotels, per available room night",
+  "formula": "line / available nights"
+ },
+ "host_depreciation_per_night": {
+  "value": 50.59311252771619,
+  "unit": "usd",
+  "label": "Host: Depreciation and amortization, per available room night",
+  "formula": "line / available nights"
+ },
+ "host_corporate_other_per_night": {
+  "value": 11.455044345898004,
+  "unit": "usd",
+  "label": "Host: Costs outside the hotels: corporate expenses and condominiums sold, less insurance gain, per available room night",
+  "formula": "line / available nights"
+ },
+ "host_interest_per_night": {
+  "value": 14.955196784922396,
+  "unit": "usd",
+  "label": "Host: Interest expense, per available room night",
+  "formula": "line / available nights"
+ },
+ "host_gains_other_income_per_night": {
+  "value": -12.600548780487806,
+  "unit": "usd",
+  "label": "Host: Gains outside operations (hotel sales, interest income, equity income), as a negative, per available room night",
+  "formula": "line / available nights"
+ },
+ "host_income_tax_per_night": {
+  "value": 2.6728436807095344,
+  "unit": "usd",
+  "label": "Host: Income tax, per available room night",
+  "formula": "line / available nights"
+ },
+ "host_net_income_per_night": {
+  "value": 49.3839689578714,
+  "unit": "usd",
+  "label": "Host: Net income kept by the owner, per available room night",
+  "formula": "line / available nights"
+ },
+ "host_net_income_per_night_2024": {
+  "value": 45.07176590776416,
+  "unit": "usd",
+  "label": "Host: net income per available night, 2024",
+  "formula": "net income / available nights"
+ },
+ "host_net_income_per_night_sold": {
+  "value": 70.8508647450111,
+  "unit": "usd",
+  "label": "Host: net income per room night sold",
+  "formula": "net income / nights sold"
+ },
+ "host_gain_on_hotel_sales": {
+  "value": 143000000.0,
+  "unit": "usd",
+  "label": "Host: gain on selling hotels in 2025",
+  "formula": "10-K text"
+ },
+ "host_net_income_per_night_without_sales": {
+  "value": 40.28357261640799,
+  "unit": "usd",
+  "label": "Host: net income without the gain on hotel sales, per available night",
+  "formula": "(net income - gain) / available nights"
+ },
+ "host_adr": {
+  "value": 329.42,
+  "unit": "usd",
+  "label": "Host: average daily rate (all hotels, effective basis)",
+  "formula": "published"
+ },
+ "host_adr_2024": {
+  "value": 311.21,
+  "unit": "usd",
+  "label": "Host: average daily rate, 2024",
+  "formula": "published"
+ },
+ "host_revpar": {
+  "value": 229.61,
+  "unit": "usd",
+  "label": "Host: rooms revenue per available room night (RevPAR)",
+  "formula": "published"
+ },
+ "host_occupancy": {
+  "value": 0.6970000000000001,
+  "unit": "share",
+  "label": "Host: occupancy",
+  "formula": "published"
+ },
+ "host_hotels": {
+  "value": 79.0,
+  "unit": "count",
+  "label": "Host: consolidated hotels at year end",
+  "formula": "published"
+ },
+ "host_average_rooms": {
+  "value": 43050.96253146341,
+  "unit": "count",
+  "label": "Host: rooms in operation, average for the year",
+  "formula": "available nights / 365"
+ },
+ "host_available_room_nights": {
+  "value": 15713601.323984146,
+  "unit": "count",
+  "label": "Host: available room nights in the year",
+  "formula": "rooms revenue / RevPAR"
+ },
+ "host_management_fees_share": {
+  "value": 0.04285246974157671,
+  "unit": "share",
+  "label": "Host: management fees as a share of revenue",
+  "formula": "management fees / revenue"
+ },
+ "host_comparable_hotel_ebitda_per_night": {
+  "value": 110.92750520832139,
+  "unit": "usd",
+  "label": "Host: comparable hotels' EBITDA (before interest, depreciation and corporate costs), per available night",
+  "formula": "comparable hotel EBITDA / (comparable rooms x 365)"
+ },
+ "host_property_cost_per_room": {
+  "value": 491603.41036585375,
+  "unit": "usd",
+  "label": "Host: gross property cost per room (historical cost on the balance sheet)",
+  "formula": "gross property / average rooms"
+ },
+ "host_gross_property": {
+  "value": 21164000000.0,
+  "unit": "usd",
+  "label": "Host: gross property cost on the balance sheet",
+  "formula": "XBRL"
+ },
+ "host_share_depreciated": {
+  "value": 0.49744849744849745,
+  "unit": "share",
+  "label": "Host: share of the property cost already depreciated",
+  "formula": "accumulated depreciation / gross property"
+ },
+ "host_average_hotel_age": {
+  "value": 38.0,
+  "unit": "count",
+  "label": "Host: average age of its hotels",
+  "formula": "10-K text"
+ },
+ "host_debt_per_room": {
+  "value": 117929.99973669625,
+  "unit": "usd",
+  "label": "Host: debt per room",
+  "formula": "debt / average rooms"
+ },
+ "host_capex_per_night": {
+  "value": 40.98360310421286,
+  "unit": "usd",
+  "label": "Host: capital expenditures per available night",
+  "formula": "capex / available nights"
+ },
+ "host_net_income_on_gross_property": {
+  "value": 0.03666603666603667,
+  "unit": "share",
+  "label": "Host: net income as a share of gross property cost",
+  "formula": "net income / gross property"
+ },
+ "host_return_on_assets": {
+  "value": 0.05946815847957698,
+  "unit": "share",
+  "label": "Host: net income as a share of total assets",
+  "formula": "net income / total assets"
+ },
+ "host_years_of_profit_to_match_property": {
+  "value": 27.27319587628866,
+  "unit": "count",
+  "label": "Host: years of net income, at this year's pace, to match the gross property cost",
+  "formula": "gross property / net income"
+ },
+ "host_purchase_central_park_price_per_room": {
+  "value": 1132478.6324786325,
+  "unit": "usd",
+  "label": "Host: price paid per room, 2024 purchase (central_park)",
+  "formula": "price / rooms"
+ },
+ "host_purchase_central_park_rooms": {
+  "value": 234.0,
+  "unit": "count",
+  "label": "Host: rooms, 2024 purchase (central_park)",
+  "formula": "10-K note"
+ },
+ "host_purchase_central_park_price": {
+  "value": 265000000.0,
+  "unit": "usd",
+  "label": "Host: price, 2024 purchase (central_park)",
+  "formula": "10-K note"
+ },
+ "host_purchase_nashville_price_per_room": {
+  "value": 735090.1525658807,
+  "unit": "usd",
+  "label": "Host: price paid per room, 2024 purchase (nashville)",
+  "formula": "price / rooms"
+ },
+ "host_purchase_nashville_rooms": {
+  "value": 721.0,
+  "unit": "count",
+  "label": "Host: rooms, 2024 purchase (nashville)",
+  "formula": "10-K note"
+ },
+ "host_purchase_nashville_price": {
+  "value": 530000000.0,
+  "unit": "usd",
+  "label": "Host: price, 2024 purchase (nashville)",
+  "formula": "10-K note"
+ },
+ "host_purchase_turtle_bay_price_per_room": {
+  "value": 1511111.111111111,
+  "unit": "usd",
+  "label": "Host: price paid per room, 2024 purchase (turtle_bay)",
+  "formula": "price / rooms"
+ },
+ "host_purchase_turtle_bay_rooms": {
+  "value": 450.0,
+  "unit": "count",
+  "label": "Host: rooms, 2024 purchase (turtle_bay)",
+  "formula": "10-K note"
+ },
+ "host_purchase_turtle_bay_price": {
+  "value": 680000000.0,
+  "unit": "usd",
+  "label": "Host: price, 2024 purchase (turtle_bay)",
+  "formula": "10-K note"
+ },
+ "host_2024_purchases_price_per_room": {
+  "value": 1049822.0640569394,
+  "unit": "usd",
+  "label": "Host: average price per room of its 2024 purchases",
+  "formula": "sum of prices / sum of rooms"
+ },
+ "marriott_key_money_turtle_bay": {
+  "value": 45000000.0,
+  "unit": "usd",
+  "label": "Marriott: key money paid to Host tied to the Ritz-Carlton conversion",
+  "formula": "10-K text (Host)"
+ },
+ "marriott_key_money_per_room": {
+  "value": 100000.0,
+  "unit": "usd",
+  "label": "Marriott: key money per Turtle Bay room",
+  "formula": "key money / rooms"
+ },
+ "park_property_cost_per_room": {
+  "value": 459734.27982157416,
+  "unit": "usd",
+  "label": "Park: gross property cost per room of its consolidated hotels",
+  "formula": "gross property / rooms (Item 2 list)"
+ },
+ "park_rooms": {
+  "value": 20849.0,
+  "unit": "count",
+  "label": "Park: rooms of its consolidated hotels",
+  "formula": "sum of the Item 2 list"
+ },
+ "park_hotels": {
+  "value": 32.0,
+  "unit": "count",
+  "label": "Park: consolidated hotels",
+  "formula": "10-K text"
+ },
+ "park_net_income": {
+  "value": -277000000.0,
+  "unit": "usd",
+  "label": "Park: net income (loss), 2025",
+  "formula": "XBRL: ProfitLoss"
+ },
+ "park_net_income_2024": {
+  "value": 226000000.0,
+  "unit": "usd",
+  "label": "Park: net income, 2024",
+  "formula": "10-K reconciliation"
+ },
+ "park_impairment": {
+  "value": 318000000.0,
+  "unit": "usd",
+  "label": "Park: write-down of hotel values (impairment)",
+  "formula": "XBRL"
+ },
+ "park_net_income_per_night": {
+  "value": -36.40002444189367,
+  "unit": "usd",
+  "label": "Park: net income (loss) per available room night (approximate)",
+  "formula": "net income / (rooms x 365)"
+ },
+ "park_hotel_ebitda_per_night": {
+  "value": 84.62677162664087,
+  "unit": "usd",
+  "label": "Park: Hotel Adjusted EBITDA per available room night (approximate)",
+  "formula": "Hotel Adjusted EBITDA / (rooms x 365)"
+ },
+ "park_debt_per_room": {
+  "value": 184948.91841335315,
+  "unit": "usd",
+  "label": "Park: debt per room",
+  "formula": "debt / rooms"
+ },
+ "park_net_income_on_gross_property": {
+  "value": -0.028899321857068335,
+  "unit": "share",
+  "label": "Park: net income (loss) as a share of gross property",
+  "formula": "net income / gross property"
+ },
+ "park_return_on_assets": {
+  "value": -0.03597402597402597,
+  "unit": "share",
+  "label": "Park: net income (loss) as a share of total assets",
+  "formula": "net income / total assets"
+ },
+ "park_management_fees_share": {
+  "value": 0.046438410074773714,
+  "unit": "share",
+  "label": "Park: management fees as a share of revenue",
+  "formula": "management fees / revenue"
+ },
+ "park_sf_rooms": {
+  "value": 2945.0,
+  "unit": "count",
+  "label": "Park: rooms of the two San Francisco hotels taken over by a receiver and sold in 2025",
+  "formula": "10-K text"
+ },
+ "park_sf_loan": {
+  "value": 725000000.0,
+  "unit": "usd",
+  "label": "Park: loan on the San Francisco hotels, assumed by the buyer",
+  "formula": "10-K text"
+ },
+ "park_sf_loan_per_room": {
+  "value": 246179.9660441426,
+  "unit": "usd",
+  "label": "Park: San Francisco loan per room",
+  "formula": "loan / rooms"
+ },
+ "marriott_cost_reimbursement_revenue": {
+  "value": 19204000000.0,
+  "unit": "usd",
+  "label": "Marriott: cost reimbursement revenue from the hotels it runs",
+  "formula": "income statement"
+ },
+ "marriott_fees": {
+  "value": 5438000000.0,
+  "unit": "usd",
+  "label": "marriott: fees for the year (franchise, management, incentive)",
+  "formula": "10-K"
+ },
+ "marriott_rooms": {
+  "value": 1779936.0,
+  "unit": "count",
+  "label": "marriott: system rooms at year end",
+  "formula": "10-K text"
+ },
+ "marriott_fees_per_night": {
+  "value": 8.547039074738855,
+  "unit": "usd",
+  "label": "marriott: fees per system room night",
+  "formula": "fees / (average of rooms at start and end of year x 365)"
+ },
+ "marriott_net_income_per_night": {
+  "value": 4.088056019381346,
+  "unit": "usd",
+  "label": "marriott: net income (loss) per system room night",
+  "formula": "net income / (average rooms x 365)"
+ },
+ "marriott_net_income": {
+  "value": 2601000000.0,
+  "unit": "usd",
+  "label": "marriott: net income (loss) for the year",
+  "formula": "XBRL: NetIncomeLoss"
+ },
+ "marriott_net_income_on_fees": {
+  "value": 0.47830084589922767,
+  "unit": "share",
+  "label": "marriott: net income as a share of fees (not a margin)",
+  "formula": "net income / fees"
+ },
+ "marriott_return_on_assets": {
+  "value": 0.09444444444444444,
+  "unit": "share",
+  "label": "marriott: net income as a share of total assets",
+  "formula": "net income / total assets"
+ },
+ "marriott_property_per_room": {
+  "value": 1629.8338816676555,
+  "unit": "usd",
+  "label": "marriott: its own gross property per system room",
+  "formula": "gross property / system rooms"
+ },
+ "marriott_adr": {
+  "value": 185.81,
+  "unit": "usd",
+  "label": "marriott: average daily rate, comparable system hotels, worldwide",
+  "formula": "published"
+ },
+ "marriott_fees_share_of_revpar": {
+  "value": 0.06635899902747558,
+  "unit": "share",
+  "label": "marriott: fees per night as a share of RevPAR",
+  "formula": "fees per night / RevPAR"
+ },
+ "hilton_fees": {
+  "value": 3469000000.0,
+  "unit": "usd",
+  "label": "hilton: fees for the year (franchise, management, incentive)",
+  "formula": "10-K"
+ },
+ "hilton_rooms": {
+  "value": 1351351.0,
+  "unit": "count",
+  "label": "hilton: system rooms at year end",
+  "formula": "10-K text"
+ },
+ "hilton_fees_per_night": {
+  "value": 7.2562724071597575,
+  "unit": "usd",
+  "label": "hilton: fees per system room night",
+  "formula": "fees / (average of rooms at start and end of year x 365)"
+ },
+ "hilton_net_income_per_night": {
+  "value": 3.0476762459589986,
+  "unit": "usd",
+  "label": "hilton: net income (loss) per system room night",
+  "formula": "net income / (average rooms x 365)"
+ },
+ "hilton_net_income": {
+  "value": 1457000000.0,
+  "unit": "usd",
+  "label": "hilton: net income (loss) for the year",
+  "formula": "XBRL: NetIncomeLoss"
+ },
+ "hilton_net_income_on_fees": {
+  "value": 0.42000576535024503,
+  "unit": "share",
+  "label": "hilton: net income as a share of fees (not a margin)",
+  "formula": "net income / fees"
+ },
+ "hilton_return_on_assets": {
+  "value": 0.08686061762251103,
+  "unit": "share",
+  "label": "hilton: net income as a share of total assets",
+  "formula": "net income / total assets"
+ },
+ "hilton_property_per_room": {
+  "value": 865.8002251080585,
+  "unit": "usd",
+  "label": "hilton: its own gross property per system room",
+  "formula": "gross property / system rooms"
+ },
+ "hilton_adr": {
+  "value": 159.89,
+  "unit": "usd",
+  "label": "hilton: average daily rate, comparable system hotels, worldwide",
+  "formula": "published"
+ },
+ "hilton_fees_share_of_revpar": {
+  "value": 0.0634344995817795,
+  "unit": "share",
+  "label": "hilton: fees per night as a share of RevPAR",
+  "formula": "fees per night / RevPAR"
+ },
+ "hyatt_fees": {
+  "value": 1198000000.0,
+  "unit": "usd",
+  "label": "hyatt: fees for the year (franchise, management, incentive)",
+  "formula": "10-K"
+ },
+ "hyatt_rooms": {
+  "value": 372763.0,
+  "unit": "count",
+  "label": "hyatt: system rooms at year end",
+  "formula": "10-K text"
+ },
+ "hyatt_fees_per_night": {
+  "value": 9.116389045479062,
+  "unit": "usd",
+  "label": "hyatt: fees per system room night",
+  "formula": "fees / (average of rooms at start and end of year x 365)"
+ },
+ "hyatt_net_income_per_night": {
+  "value": -0.39570303035468385,
+  "unit": "usd",
+  "label": "hyatt: net income (loss) per system room night",
+  "formula": "net income / (average rooms x 365)"
+ },
+ "hyatt_net_income": {
+  "value": -52000000.0,
+  "unit": "usd",
+  "label": "hyatt: net income (loss) for the year",
+  "formula": "XBRL: NetIncomeLoss"
+ },
+ "hyatt_net_income_on_fees": {
+  "value": -0.04340567612687813,
+  "unit": "share",
+  "label": "hyatt: net income as a share of fees (not a margin)",
+  "formula": "net income / fees"
+ },
+ "hyatt_return_on_assets": {
+  "value": -0.0037047591906526076,
+  "unit": "share",
+  "label": "hyatt: net income as a share of total assets",
+  "formula": "net income / total assets"
+ },
+ "hyatt_property_per_room": {
+  "value": 8750.868514310701,
+  "unit": "usd",
+  "label": "hyatt: its own gross property per system room",
+  "formula": "gross property / system rooms"
+ },
+ "host_vs_marriott_property_per_room": {
+  "value": 301.6279241064999,
+  "unit": "count",
+  "label": "How many times Host's property cost per room is Marriott's own property per system room",
+  "formula": "ratio"
+ }
+}

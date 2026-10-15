@@ -1,0 +1,128 @@
+company,item,value,unit,label_or_quote,source
+host,comparable_rooms,41839.0,,Comparable Hotel Results by Location: All Locations,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,comparable_adr,327.54,usd,Comparable Hotel Results by Location: All Locations,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,comparable_occupancy_pct,70.0,,Comparable Hotel Results by Location: All Locations,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,comparable_revpar,229.24,usd,Comparable Hotel Results by Location: All Locations,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,comparable_total_revpar,382.83,usd,Comparable Hotel Results by Location: All Locations,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,hotels,79.0,,"Hotel results, all locations (all hotels, effective basis): All Locations",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,adr,329.42,,"Hotel results, all locations (all hotels, effective basis): All Locations",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,occupancy_pct,69.7,,"Hotel results, all locations (all hotels, effective basis): All Locations",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,revpar,229.61,,"Hotel results, all locations (all hotels, effective basis): All Locations",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,total_revpar,382.76,,"Hotel results, all locations (all hotels, effective basis): All Locations",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,adr_2024,311.21,,"Hotel results, all locations (all hotels, effective basis): All Locations",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,occupancy_pct_2024,70.2,,"Hotel results, all locations (all hotels, effective basis): All Locations",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,revpar_2024,218.41,,"Hotel results, all locations (all hotels, effective basis): All Locations",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,total_revpar_2024,362.37,,"Hotel results, all locations (all hotels, effective basis): All Locations",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,rooms_revenue_musd,3608.0,usd_millions,Revenues: Rooms,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,rooms_revenue_musd_2024,3426.0,usd_millions,Revenues: Rooms,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,condominium_sales_musd,99.0,usd_millions,Condominium sales,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,condominium_sales_musd_2024,0.0,usd_millions,Condominium sales,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,total_revenues_musd,6114.0,usd_millions,Total revenues,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,total_revenues_musd_2024,5684.0,usd_millions,Total revenues,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,rooms_expense_musd,906.0,usd_millions,Expenses: Rooms,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,food_beverage_expense_musd,1224.0,usd_millions,Food and beverage,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,support_expense_musd,1466.0,usd_millions,Other departmental and support expenses,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,management_fees_musd,262.0,usd_millions,Management fees,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,other_property_expense_musd,426.0,usd_millions,Other property-level expenses,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,depreciation_musd,795.0,usd_millions,Depreciation and amortization,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,total_property_expenses_musd,5079.0,usd_millions,Total property-level operating expenses,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,condominium_cost_musd,80.0,usd_millions,Cost of goods sold,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,comparable_revenues_musd,5856.0,usd_millions,Comparable hotel revenues,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,comparable_ebitda_musd,1694.0,usd_millions,Comparable hotel EBITDA,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,comparable_ebitda_margin_pct,28.9,,Comparable hotel EBITDA margin,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,capex_musd,-644.0,usd_millions,Capital expenditures,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,revenue,6114000000.0,usd,XBRL: RevenueFromContractWithCustomerExcludingAssessedTax,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,costs_and_expenses,5259000000.0,usd,XBRL: CostsAndExpenses,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,operating_income,855000000.0,usd,XBRL: OperatingIncomeLoss,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,interest_expense,235000000.0,usd,XBRL: InterestExpenseNonoperating,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,other_gains,148000000.0,usd,XBRL: OtherNonoperatingGainsLosses,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,interest_and_other_income,32000000.0,usd,XBRL: InterestAndOtherIncome,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,equity_investments_income,18000000.0,usd,XBRL: IncomeLossFromEquityMethodInvestments,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,income_before_tax,818000000.0,usd,XBRL: IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,income_tax,42000000.0,usd,XBRL: IncomeTaxExpenseBenefit,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,net_income,776000000.0,usd,XBRL: ProfitLoss,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,depreciation,795000000.0,usd,XBRL: DepreciationAndAmortization,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,general_and_administrative,124000000.0,usd,XBRL: GeneralAndAdministrativeExpense,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,insurance_gain,24000000.0,usd,XBRL: GainOnBusinessInterruptionInsuranceRecovery,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,payments_capital_improvements,282000000.0,usd,XBRL: PaymentsForCapitalImprovements,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,payments_other_productive_assets,362000000.0,usd,XBRL: PaymentsToAcquireOtherProductiveAssets,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,gross_property,21164000000.0,usd,XBRL: PropertyPlantAndEquipmentGross,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,land,2431000000.0,usd,XBRL: LandAndLandImprovements,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,buildings,15745000000.0,usd,XBRL: BuildingsAndImprovementsGross,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,fixtures,2717000000.0,usd,XBRL: FixturesAndEquipmentGross,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,construction_in_progress,271000000.0,usd,XBRL: ConstructionInProgressGross,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,accumulated_depreciation,10528000000.0,usd,XBRL: AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,debt,5077000000.0,usd,XBRL: DebtAndCapitalLeaseObligations,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,total_assets,13049000000.0,usd,XBRL: Assets,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,net_income_2024,707000000.0,usd,XBRL: ProfitLoss,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231_htm.xml
+host,gain_on_hotel_sales_musd,143.0,usd_millions,We disposed of two hotels in 2025 and one hotel in 2023 and recorded aggregate gains on sale of approximately $ 143 million,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,average_hotel_age_years,38.0,years,average age of our properties is 38 years,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,purchase_central_park_rooms,234.0,rooms,the 234 -room 1 Hotel Central Park for $ 265 million,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,purchase_central_park_price_musd,265.0,usd_millions,the 234 -room 1 Hotel Central Park for $ 265 million,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,purchase_nashville_rooms,721.0,rooms,the 215 -room 1 Hotel Nashville and 506 -room Embassy Suites by Hilton Nashville Downtown for $ 530 million,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,purchase_nashville_price_musd,530.0,usd_millions,the 215 -room 1 Hotel Nashville and 506 -room Embassy Suites by Hilton Nashville Downtown for $ 530 million,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,purchase_turtle_bay_rooms,450.0,rooms,"the 450 -room Turtle Bay Resort, including a 49 -acre land parcel entitled for development, for $ 680 million",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,purchase_turtle_bay_price_musd,680.0,usd_millions,"the 450 -room Turtle Bay Resort, including a 49 -acre land parcel entitled for development, for $ 680 million",https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,turtle_bay_gross_price_musd,725.0,usd_millions,sales price of $725 million net of $45 million of key money received from Marriott,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+host,marriott_key_money_musd,45.0,usd_millions,sales price of $725 million net of $45 million of key money received from Marriott,https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm
+park,core_rooms_subtotal,15764.0,rooms,"15,764 Consolidated Non-Core Hotels",https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231.htm
+park,non_core_rooms_subtotal,5085.0,rooms,"5,085 Unconsolidated Joint Ventures",https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231.htm
+park,core_hotels,20.0,hotels,portfolio includes 20 of our consolidated hotels,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231.htm
+park,non_core_hotels,12.0,hotels,Non-Core portfolio includes 12 consolidated hotels,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231.htm
+park,gross_property,9585000000.0,usd,XBRL: PropertyPlantAndEquipmentGross,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231_htm.xml
+park,land,2918000000.0,usd,XBRL: Land,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231_htm.xml
+park,buildings,5487000000.0,usd,XBRL: BuildingsAndImprovementsGross,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231_htm.xml
+park,furniture,931000000.0,usd,XBRL: FurnitureAndFixturesGross,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231_htm.xml
+park,construction_in_progress,249000000.0,usd,XBRL: ConstructionInProgressGross,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231_htm.xml
+park,debt,3856000000.0,usd,XBRL: LongTermDebt,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231_htm.xml
+park,total_assets,7700000000.0,usd,XBRL: Assets,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231_htm.xml
+park,net_income,-277000000.0,usd,XBRL: ProfitLoss,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231_htm.xml
+park,revenue,2541000000.0,usd,XBRL: RevenueFromContractWithCustomerExcludingAssessedTax,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231_htm.xml
+park,impairment,318000000.0,usd,XBRL: ImpairmentOfLongLivedAssetsHeldForUse,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231_htm.xml
+park,net_income_2024_musd,226.0,usd_millions,Reconciliation to Hotel Adjusted EBITDA: Net (loss) income,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231.htm
+park,hotel_adjusted_ebitda_musd,644.0,usd_millions,Hotel Adjusted EBITDA,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231.htm
+park,management_fees_musd,118.0,usd_millions,Management fees expense,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231.htm
+park,sf_loan_musd,725.0,usd_millions,$725 million non-recourse CMBS loan,https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231.htm
+park,sf_hilton_union_square_rooms,1921.0,rooms,"the 1,921-room Hilton San Francisco Union Square and the 1,024-room",https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231.htm
+park,sf_parc_55_rooms,1024.0,rooms,"the 1,921-room Hilton San Francisco Union Square and the 1,024-room",https://www.sec.gov/Archives/edgar/data/1617406/000161740626000006/pk-20251231.htm
+marriott,net_income,2601000000.0,usd,XBRL: NetIncomeLoss,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231_htm.xml
+marriott,gross_property,2901000000.0,usd,XBRL: PropertyPlantAndEquipmentGross,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231_htm.xml
+marriott,total_assets,27540000000.0,usd,XBRL: Assets,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231_htm.xml
+marriott,goodwill,8907000000.0,usd,XBRL: Goodwill,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231_htm.xml
+marriott,net_property,1954000000.0,usd,XBRL: PropertyPlantAndEquipmentNet,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231_htm.xml
+marriott,franchise_fees_musd,3325.0,usd_millions,Franchise fees,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm
+marriott,base_management_fees_musd,1322.0,usd_millions,Base management fees,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm
+marriott,incentive_management_fees_musd,791.0,usd_millions,Incentive management fees,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm
+marriott,gross_fees_musd,5438.0,usd_millions,Gross fee revenues,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm
+marriott,cost_reimbursement_revenue_musd,19204.0,usd_millions,"Cost reimbursement revenue (1) 19,204",https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm
+marriott,rooms_2024,1706331.0,rooms,"Our system grew from 9,361 properties (1,706,331 rooms) at year-end 2024 to 9,805 properties (1,779,936 rooms) at year-end 2025",https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm
+marriott,rooms,1779936.0,rooms,"Our system grew from 9,361 properties (1,706,331 rooms) at year-end 2024 to 9,805 properties (1,779,936 rooms) at year-end 2025",https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm
+marriott,rooms_2024_prior_10k,1706331.0,rooms,"As of year-end 2024, our system included 9,361 properties (1,706,331 rooms)",https://www.sec.gov/Archives/edgar/data/1048286/000162828025004818/mar-20241231.htm
+marriott,revpar,128.8,,Worldwide (2) $ 128.80 2.0 % 69.3 % — % pts. $ 185.81,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm
+marriott,occupancy_pct,69.3,,Worldwide (2) $ 128.80 2.0 % 69.3 % — % pts. $ 185.81,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm
+marriott,adr,185.81,,Worldwide (2) $ 128.80 2.0 % 69.3 % — % pts. $ 185.81,https://www.sec.gov/Archives/edgar/data/1048286/000104828626000007/mar-20251231.htm
+hilton,net_income,1457000000.0,usd,XBRL: NetIncomeLoss,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231_htm.xml
+hilton,gross_property,1170000000.0,usd,XBRL: PropertyPlantAndEquipmentGross,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231_htm.xml
+hilton,total_assets,16774000000.0,usd,XBRL: Assets,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231_htm.xml
+hilton,goodwill,5081000000.0,usd,XBRL: Goodwill,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231_htm.xml
+hilton,net_property,684000000.0,usd,XBRL: PropertyPlantAndEquipmentNet,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231_htm.xml
+hilton,franchise_fees_musd,2780.0,usd_millions,Franchise and licensing fees,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231.htm
+hilton,base_management_fees_musd,376.0,usd_millions,Base and other management fees,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231.htm
+hilton,incentive_management_fees_musd,313.0,usd_millions,Incentive management fees,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231.htm
+hilton,total_management_fees_musd,689.0,usd_millions,Total management fees $ 689 $ 659,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231.htm
+hilton,rooms,1351351.0,rooms,"with 9,158 properties comprising 1,351,351 rooms in 143 countries and territories as of December 31, 2025",https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231.htm
+hilton,rooms_2024,1268206.0,rooms,"with 8,447 properties comprising 1,268,206 rooms in 140 countries and territories as of December 31, 2024",https://www.sec.gov/Archives/edgar/data/1585689/000158568925000008/hlt-20241231.htm
+hilton,occupancy_pct,71.5,,System-wide Occupancy 71.5 % (0.1) % pts. ADR $ 159.89 0.5 % RevPAR $ 114.39,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231.htm
+hilton,adr,159.89,,System-wide Occupancy 71.5 % (0.1) % pts. ADR $ 159.89 0.5 % RevPAR $ 114.39,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231.htm
+hilton,revpar,114.39,,System-wide Occupancy 71.5 % (0.1) % pts. ADR $ 159.89 0.5 % RevPAR $ 114.39,https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231.htm
+hyatt,net_income,-52000000.0,usd,XBRL: NetIncomeLoss,https://www.sec.gov/Archives/edgar/data/1468174/000146817426000007/h-20251231_htm.xml
+hyatt,gross_property,3262000000.0,usd,XBRL: PropertyPlantAndEquipmentGross,https://www.sec.gov/Archives/edgar/data/1468174/000146817426000007/h-20251231_htm.xml
+hyatt,total_assets,14036000000.0,usd,XBRL: Assets,https://www.sec.gov/Archives/edgar/data/1468174/000146817426000007/h-20251231_htm.xml
+hyatt,goodwill,3454000000.0,usd,XBRL: Goodwill,https://www.sec.gov/Archives/edgar/data/1468174/000146817426000007/h-20251231_htm.xml
+hyatt,net_property,1577000000.0,usd,XBRL: PropertyPlantAndEquipmentNet,https://www.sec.gov/Archives/edgar/data/1468174/000146817426000007/h-20251231_htm.xml
+hyatt,base_management_fees_musd,446.0,usd_millions,Base management fees,https://www.sec.gov/Archives/edgar/data/1468174/000146817426000007/h-20251231.htm
+hyatt,incentive_management_fees_musd,272.0,usd_millions,Incentive management fees,https://www.sec.gov/Archives/edgar/data/1468174/000146817426000007/h-20251231.htm
+hyatt,franchise_fees_musd,480.0,usd_millions,Franchise and other fees,https://www.sec.gov/Archives/edgar/data/1468174/000146817426000007/h-20251231.htm
+hyatt,gross_fees_musd,1198.0,usd_millions,Gross fees,https://www.sec.gov/Archives/edgar/data/1468174/000146817426000007/h-20251231.htm
+hyatt,rooms,372763.0,rooms,"At December 31, 2025, our hotel portfolio consisted of 1,528 hotels and all-inclusive resorts (372,763 rooms)",https://www.sec.gov/Archives/edgar/data/1468174/000146817426000007/h-20251231.htm
+hyatt,rooms_2024,347301.0,rooms,"At December 31, 2024, our hotel portfolio consisted of 1,442 hotels and all-inclusive resorts (347,301 rooms)",https://www.sec.gov/Archives/edgar/data/1468174/000146817425000009/h-20241231.htm
