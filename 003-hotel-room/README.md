@@ -1,6 +1,6 @@
 # #003 · Who makes money on a hotel room: the owner of the building, or the brand on the door?
 
-**Video:** coming soon
+**Video:** https://youtu.be/_b2vcJagr04
 
 ## The answer
 
