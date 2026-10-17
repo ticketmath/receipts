@@ -1,0 +1,230 @@
+{
+ "china_imports": {
+  "value": 308651863680.0,
+  "unit": "usd",
+  "label": "china: US imports in 2025 (general imports value)",
+  "formula": "GEN_VAL_YR"
+ },
+ "china_ocean_share": {
+  "value": 0.07653251363292693,
+  "unit": "share",
+  "label": "china: ocean freight, insurance and other charges per dollar of containerized goods",
+  "formula": "CNT_CHA_YR / CNT_VAL_YR"
+ },
+ "china_tariff_share": {
+  "value": 0.30604908655684565,
+  "unit": "share",
+  "label": "china: calculated duty per dollar of goods",
+  "formula": "CAL_DUT_YR / CON_VAL_YR"
+ },
+ "china_tariff_vs_ocean": {
+  "value": 3.9989420447464927,
+  "unit": "count",
+  "label": "china: tariff share / ocean share",
+  "formula": "ratio"
+ },
+ "china_ocean_charges": {
+  "value": 15671191845.0,
+  "unit": "usd",
+  "label": "china: charges on containerized goods for the year",
+  "formula": "CNT_CHA_YR"
+ },
+ "china_tariff_total": {
+  "value": 91764547544.0,
+  "unit": "usd",
+  "label": "china: calculated duty for the year",
+  "formula": "CAL_DUT_YR"
+ },
+ "vietnam_imports": {
+  "value": 193879321149.0,
+  "unit": "usd",
+  "label": "vietnam: US imports in 2025 (general imports value)",
+  "formula": "GEN_VAL_YR"
+ },
+ "vietnam_ocean_share": {
+  "value": 0.049972270870408696,
+  "unit": "share",
+  "label": "vietnam: ocean freight, insurance and other charges per dollar of containerized goods",
+  "formula": "CNT_CHA_YR / CNT_VAL_YR"
+ },
+ "vietnam_tariff_share": {
+  "value": 0.0872505492443083,
+  "unit": "share",
+  "label": "vietnam: calculated duty per dollar of goods",
+  "formula": "CAL_DUT_YR / CON_VAL_YR"
+ },
+ "vietnam_tariff_vs_ocean": {
+  "value": 1.745979274597547,
+  "unit": "count",
+  "label": "vietnam: tariff share / ocean share",
+  "formula": "ratio"
+ },
+ "vietnam_ocean_charges": {
+  "value": 5385743126.0,
+  "unit": "usd",
+  "label": "vietnam: charges on containerized goods for the year",
+  "formula": "CNT_CHA_YR"
+ },
+ "vietnam_tariff_total": {
+  "value": 17280953997.0,
+  "unit": "usd",
+  "label": "vietnam: calculated duty for the year",
+  "formula": "CAL_DUT_YR"
+ },
+ "all_countries_imports": {
+  "value": 3414510592814.0,
+  "unit": "usd",
+  "label": "all_countries: US imports in 2025 (general imports value)",
+  "formula": "GEN_VAL_YR"
+ },
+ "all_countries_ocean_share": {
+  "value": 0.048906312516936785,
+  "unit": "share",
+  "label": "all_countries: ocean freight, insurance and other charges per dollar of containerized goods",
+  "formula": "CNT_CHA_YR / CNT_VAL_YR"
+ },
+ "all_countries_tariff_share": {
+  "value": 0.0764817654577841,
+  "unit": "share",
+  "label": "all_countries: calculated duty per dollar of goods",
+  "formula": "CAL_DUT_YR / CON_VAL_YR"
+ },
+ "all_countries_tariff_vs_ocean": {
+  "value": 1.5638424064643524,
+  "unit": "count",
+  "label": "all_countries: tariff share / ocean share",
+  "formula": "ratio"
+ },
+ "all_countries_ocean_charges": {
+  "value": 48428877206.0,
+  "unit": "usd",
+  "label": "all_countries: charges on containerized goods for the year",
+  "formula": "CNT_CHA_YR"
+ },
+ "all_countries_tariff_total": {
+  "value": 259366570786.0,
+  "unit": "usd",
+  "label": "all_countries: calculated duty for the year",
+  "formula": "CAL_DUT_YR"
+ },
+ "china_ocean_per_pound": {
+  "value": 0.1282449001101505,
+  "unit": "usd",
+  "label": "China: ocean charges per pound of containerized goods",
+  "formula": "CNT_CHA_YR / weight in pounds"
+ },
+ "china_value_per_pound": {
+  "value": 1.6756917292074296,
+  "unit": "usd",
+  "label": "China: value per pound of containerized goods",
+  "formula": "CNT_VAL_YR / weight in pounds"
+ },
+ "tariffs_collected": {
+  "value": 264044068431.11002,
+  "unit": "usd",
+  "label": "Tariffs collected by the US government in 2025 (calendar year)",
+  "formula": "sum of 12 months"
+ },
+ "tariffs_collected_january": {
+  "value": 7341415936.58,
+  "unit": "usd",
+  "label": "Tariffs collected in January 2025",
+  "formula": "Customs Duties, January"
+ },
+ "tariffs_collected_december": {
+  "value": 27892382035.2,
+  "unit": "usd",
+  "label": "Tariffs collected in December 2025",
+  "formula": "Customs Duties, December"
+ },
+ "example_box_value": {
+  "value": 100.0,
+  "unit": "usd",
+  "label": "Example: a box of goods from China worth $100 at customs",
+  "formula": "assumption"
+ },
+ "example_box_ocean": {
+  "value": 7.653251363292693,
+  "unit": "usd",
+  "label": "Example: the ocean on that box",
+  "formula": "box x china_ocean_share"
+ },
+ "example_box_tariff": {
+  "value": 30.604908655684564,
+  "unit": "usd",
+  "label": "Example: the tariff on that box",
+  "formula": "box x china_tariff_share"
+ },
+ "thesis_threshold": {
+  "value": 0.1,
+  "unit": "share",
+  "label": "Threshold chosen for the thesis: ocean below one tenth",
+  "formula": "assumption"
+ },
+ "la_value_per_teu": {
+  "value": 46064.27263079993,
+  "unit": "usd",
+  "label": "Average value of goods in one loaded import TEU at Los Angeles",
+  "formula": "port CNT_VAL_YR / loaded import TEU"
+ },
+ "teu_per_container": {
+  "value": 2.0,
+  "unit": "count",
+  "label": "TEU in a 40-foot container",
+  "formula": "assumption"
+ },
+ "la_value_per_container": {
+  "value": 92128.54526159987,
+  "unit": "usd",
+  "label": "Average value of goods in a 40-foot container at Los Angeles",
+  "formula": "value per TEU x 2"
+ },
+ "hapag_lloyd_rate_per_teu": {
+  "value": 1376.0,
+  "unit": "usd",
+  "label": "Hapag-Lloyd average freight rate per TEU, all routes",
+  "formula": "published"
+ },
+ "union_pacific_revenue_per_container": {
+  "value": 1380.0,
+  "unit": "usd",
+  "label": "Union Pacific: average revenue per intermodal container or trailer",
+  "formula": "published"
+ },
+ "train_share": {
+  "value": 0.014979070776397013,
+  "unit": "share",
+  "label": "Train per dollar of goods: revenue per container / value of a Los Angeles container",
+  "formula": "ratio"
+ },
+ "ups_revenue_per_package": {
+  "value": 13.21,
+  "unit": "usd",
+  "label": "UPS: average revenue per US domestic package",
+  "formula": "published"
+ },
+ "ups_ground_revenue_per_package": {
+  "value": 11.6,
+  "unit": "usd",
+  "label": "UPS: average revenue per Ground package",
+  "formula": "published"
+ },
+ "ups_revenue_per_package_2024": {
+  "value": 12.34,
+  "unit": "usd",
+  "label": "UPS: average revenue per US package, 2024",
+  "formula": "published"
+ },
+ "amazon_shipping_costs": {
+  "value": 102700000000.0,
+  "unit": "usd",
+  "label": "Amazon: shipping costs in 2025",
+  "formula": "10-K"
+ },
+ "amazon_shipping_share": {
+  "value": 0.17460077286768594,
+  "unit": "share",
+  "label": "Amazon: shipping costs per dollar of store sales (rough)",
+  "formula": "shipping costs / (North America + International sales)"
+ }
+}
