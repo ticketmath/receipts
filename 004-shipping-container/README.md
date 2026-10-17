@@ -1,6 +1,6 @@
 # #004 · What does it cost to get goods from China to your door?
 
-**Video:** coming soon
+**Video:** https://youtu.be/h50drnl6kSA
 
 ## The answer
 
