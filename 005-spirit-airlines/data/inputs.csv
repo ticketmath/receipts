@@ -1,0 +1,117 @@
+source,key,value,unit,label_or_quote,url
+spirit_10k_2019,passenger_segments,34537000.0,passengers,Passenger flight segments (thousands),https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,load_factor,0.8440000000000001,share,Load factor (%),https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,daily_hours,12.3,hours,Average daily aircraft utilization (hours),https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,aircraft_end,145.0,aircraft,Aircraft at end of period,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,operating_revenue,3830536000.0,usd,Total operating revenues,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,operating_expenses,3329489000.0,usd,Total operating expenses,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,line_wages,865019000.0,usd,"Salaries, wages and benefits",https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,line_fuel,993478000.0,usd,Aircraft fuel,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,line_aircraft_rent,182609000.0,usd,Aircraft rent,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,line_airports,256275000.0,usd,Landing fees and other rents,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,line_depreciation,225264000.0,usd,Depreciation and amortization,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,line_maintenance,143575000.0,usd,"Maintenance, materials and repairs",https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,line_distribution,153770000.0,usd,Distribution,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,line_other,491432000.0,usd,Other operating,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,special_encargos,717000.0,usd,Special charges,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,special_venda_ativos,17350000.0,usd,Loss on disposal of assets,https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2019,employees,8077.0,employees,"On an average full-time equivalent basis, for the full year 2019 , we had 8,077 employees",https://www.sec.gov/Archives/edgar/data/1498710/000149871020000083/save-20191231x10kss.htm
+spirit_10k_2024,passenger_segments,44180000.0,passengers,Passenger flight segments (PFSs) (thousands),https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,load_factor,0.8240000000000001,share,Load factor (%),https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,daily_hours,9.9,hours,Average daily aircraft utilization (hours),https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,aircraft_end,213.0,aircraft,Aircraft at end of period,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,operating_revenue,4913421000.0,usd,Total operating revenues,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,operating_expenses,6018799000.0,usd,Total operating expenses,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,line_wages,1689083000.0,usd,"Salaries, wages and benefits",https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,line_fuel,1479203000.0,usd,Aircraft fuel,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,line_aircraft_rent,541909000.0,usd,Aircraft rent,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,line_airports,451008000.0,usd,Landing fees and other rents,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,line_depreciation,325273000.0,usd,Depreciation and amortization,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,line_maintenance,217738000.0,usd,"Maintenance, materials and repairs",https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,line_distribution,197197000.0,usd,Distribution,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,line_other,807488000.0,usd,Other operating,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,special_encargos,36029000.0,usd,Special charges (credits),https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,special_venda_ativos,273871000.0,usd,Loss (gain) on disposal of assets,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,employees,11941.0,employees,"On an average full-time equivalent basis, for the full year 2024, we had 11,941 employees",https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2024,jetblue_breakup_fee,69000000.0,usd,JetBlue paid us $69.0 million,https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-20241231.htm
+spirit_10k_2025,passenger_segments,32031000.0,passengers,Passenger flight segments (PFSs) (thousands),https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,load_factor,0.784,share,Load factor (%),https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,daily_hours,7.7,hours,Average daily aircraft utilization (hours),https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,aircraft_end,131.0,aircraft,Aircraft at end of period,https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,operating_revenue,3796747000.0,usd,"Total operating revenues, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,operating_expenses,4565457000.0,usd,"Total operating expenses, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,line_wages,1441207000.0,usd,"Salaries, wages and benefits, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,line_fuel,998949000.0,usd,"Aircraft fuel, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,line_aircraft_rent,548515000.0,usd,"Aircraft rent, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,line_airports,391484000.0,usd,"Landing fees and other rents, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,line_depreciation,245097000.0,usd,"Depreciation and amortization, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,line_maintenance,207097000.0,usd,"Maintenance, materials and repairs, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,line_distribution,172972000.0,usd,"Distribution, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,line_other,687581000.0,usd,"Other operating, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,special_encargos,-30004000.0,usd,"Special charges (credits), the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,special_venda_ativos,-97441000.0,usd,"Loss (gain) on disposal of assets, the sum of the two 2025 columns (predecessor and successor)",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,employees,9699.0,employees,"On an average full-time equivalent basis, for the full year 2025, we had 9,699 employees",https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+spirit_10k_2025,cash_end,272959000.0,usd,Cash and cash equivalents,https://www.sec.gov/Archives/edgar/data/1498710/000162828026018265/flyy-20251231.htm
+frontier_10k_2021,passengers_2019,22823000.0,passengers,"Passengers (thousands), 2019 column",https://www.sec.gov/Archives/edgar/data/1670076/000167007622000016/fron-20211231.htm
+frontier_10k_2021,load_factor_2019,0.861,share,"Load Factor (%), 2019 column",https://www.sec.gov/Archives/edgar/data/1670076/000167007622000016/fron-20211231.htm
+frontier_10k_2021,operating_revenue_2019,2508000000.0,usd,"Total operating revenues, 2019 column",https://www.sec.gov/Archives/edgar/data/1670076/000167007622000016/fron-20211231.htm
+frontier_10k_2021,operating_expenses_2019,2199000000.0,usd,"Total operating expenses, 2019 column",https://www.sec.gov/Archives/edgar/data/1670076/000167007622000016/fron-20211231.htm
+frontier_10k_2021,sale_leaseback_gains_2019,107000000.0,usd,"net sale-leaseback gains, year ended December 31, 2019",https://www.sec.gov/Archives/edgar/data/1670076/000167007622000016/fron-20211231.htm
+frontier_10k_2024,passengers_2024,33296000.0,passengers,"Passengers (thousands), 2024 column",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+frontier_10k_2024,load_factor_2024,0.768,share,"Load factor, 2024 column",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+frontier_10k_2024,operating_revenue_2024,3775000000.0,usd,"Total operating revenues, 2024 column",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+frontier_10k_2024,operating_expenses_2024,3717000000.0,usd,"Total operating expenses, 2024 column",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+frontier_10k_2024,sale_leaseback_gains_2024,294000000.0,usd,"net sale-leaseback gains, year ended December 31, 2024",https://www.sec.gov/Archives/edgar/data/1670076/000167007625000041/fron-20241231.htm
+bls_cpi_u,cpi_average_2019,255.65741666666668,index,"BLS, CPI-U (all items, U.S. city average), média de 2019",https://data.bls.gov/timeseries/CUUR0000SA0
+bls_cpi_u,cpi_average_2024,313.6888333333333,index,"BLS, CPI-U (all items, U.S. city average), média de 2024",https://data.bls.gov/timeseries/CUUR0000SA0
+bts_t100_domestic,NK_passenger_miles_2019,31590298421.0,passenger_miles,sum of PASSENGERS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,NK_seat_miles_2019,37107422735.0,seat_miles,sum of SEATS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,NK_passenger_miles_2024,38887862379.0,passenger_miles,sum of PASSENGERS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,NK_seat_miles_2024,46779260295.0,seat_miles,sum of SEATS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,F9_passenger_miles_2024,28491614819.0,passenger_miles,sum of PASSENGERS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,F9_seat_miles_2024,36794382992.0,seat_miles,sum of SEATS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,WN_passenger_miles_2024,137662095414.0,passenger_miles,sum of PASSENGERS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,WN_seat_miles_2024,171634297901.0,seat_miles,sum of SEATS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,NK_passenger_miles_march_2026,1800349934.0,passenger_miles,sum of PASSENGERS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,NK_seat_miles_march_2026,2100303466.0,seat_miles,sum of SEATS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,NK_passenger_miles_april_2026,1493448200.0,passenger_miles,sum of PASSENGERS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_domestic,NK_seat_miles_april_2026,1800364166.0,seat_miles,sum of SEATS x DISTANCE,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIM&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_all,NK_passengers_2026_01,1938206.0,passengers,"sum of PASSENGERS, month 1",https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMG&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_all,NK_passengers_2026_02,1869264.0,passengers,"sum of PASSENGERS, month 2",https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMG&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_all,NK_passengers_2026_03,2176233.0,passengers,"sum of PASSENGERS, month 3",https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMG&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_t100_all,NK_passengers_2026_04,1801643.0,passengers,"sum of PASSENGERS, month 4",https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMG&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12a,NK_fuel_gallons_2026_01,26099844.0,gallons,TOTAL_GALLONS,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMH&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12a,NK_fuel_cost_2026_01,59086665.0,usd,TOTAL_COST,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMH&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12a,NK_fuel_gallons_2026_03,27993400.0,gallons,TOTAL_GALLONS,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMH&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12a,NK_fuel_cost_2026_03,99662449.0,usd,TOTAL_COST,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMH&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12a,NK_fuel_gallons_2026_04,22537392.0,gallons,TOTAL_GALLONS,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMH&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12a,NK_fuel_cost_2026_04,104254088.0,usd,TOTAL_COST,https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMH&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12,NK_op_revenues_q1_2026,729074340.0,usd,"OP_REVENUES, quarter 1 (thousands x 1000)",https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMI&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12,NK_op_expenses_q1_2026,956018780.0,usd,"OP_EXPENSES, quarter 1 (thousands x 1000)",https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMI&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12,NK_op_profit_loss_q1_2026,-226944440.0,usd,"OP_PROFIT_LOSS, quarter 1 (thousands x 1000)",https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMI&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p6,NK_aircraft_fuel_q1_2026,222416230.0,usd,"AIRCRAFT_FUEL, quarter 1 (thousands x 1000)",https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FME&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12,F9_op_profit_loss_2025,-148331860.0,usd,"OP_PROFIT_LOSS, sum of 4 quarters",https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMI&QO_fu146_anzr=Nv4%20Pn44vr45
+bts_form41_p12,F9_op_profit_loss_q1_2026,-283060950.0,usd,"OP_PROFIT_LOSS, quarter 1",https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMI&QO_fu146_anzr=Nv4%20Pn44vr45
+spirit_8k_2026_03_16,plan_revenue_q1,827000000.0,usd,"Total Revenue, q1",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_revenue_q2,806000000.0,usd,"Total Revenue, q2",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_revenue_year,3024000000.0,usd,"Total Revenue, year",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_fuel_q1,196000000.0,usd,"Aircraft Fuel, q1",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_fuel_q2,174000000.0,usd,"Aircraft Fuel, q2",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_fuel_year,649000000.0,usd,"Aircraft Fuel, year",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_operating_expenses_q1,873000000.0,usd,"Total Operating Expenses, q1",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_operating_expenses_q2,805000000.0,usd,"Total Operating Expenses, q2",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_operating_expenses_year,3008000000.0,usd,"Total Operating Expenses, year",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_operating_income_q1,-46000000.0,usd,"Operating Income, q1",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_operating_income_q2,1000000.0,usd,"Operating Income, q2",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_operating_income_year,15000000.0,usd,"Operating Income, year",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_fuel_per_gallon_q1,2.32,usd,"Fuel Cost Per Gallon (economic), q1",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_fuel_per_gallon_q2,2.22,usd,"Fuel Cost Per Gallon (economic), q2",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2026_03_16,plan_fuel_per_gallon_year,2.24,usd,"Fuel Cost Per Gallon (economic), year",https://www.sec.gov/Archives/edgar/data/1498710/000095010326003790/dp243147_ex9901.htm
+spirit_8k_2022_07_28,jetblue_deal_value,3800000000.0,usd,aggregate fully diluted equity value of $3.8 billion,https://www.sec.gov/Archives/edgar/data/1498710/000119312522204192/d368049dex992.htm
+jetblue_10k,jetblue_net_income_2020,-1354000000.0,usd,"NetIncomeLoss, 2020",https://www.sec.gov/Archives/edgar/data/1158463/000115846323000002/
+jetblue_10k,jetblue_net_income_2021,-182000000.0,usd,"NetIncomeLoss, 2021",https://www.sec.gov/Archives/edgar/data/1158463/000115846324000006/
+jetblue_10k,jetblue_net_income_2022,-362000000.0,usd,"NetIncomeLoss, 2022",https://www.sec.gov/Archives/edgar/data/1158463/000115846325000005/
+jetblue_10k,jetblue_net_income_2023,-310000000.0,usd,"NetIncomeLoss, 2023",https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+jetblue_10k,jetblue_net_income_2024,-795000000.0,usd,"NetIncomeLoss, 2024",https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+jetblue_10k,jetblue_net_income_2025,-602000000.0,usd,"NetIncomeLoss, 2025",https://www.sec.gov/Archives/edgar/data/1158463/000115846326000007/
+assumption,min_route_passengers,3000.0,passengers,minimum nonstop Spirit passengers in a market in a quarter (both directions) to count as served,

@@ -10,6 +10,7 @@ Each video has its own folder:
 | [002-rental-car](002-rental-car/) | How many rental days a month does a rental car need just to cover what it loses? |
 | [003-hotel-room](003-hotel-room/) | Who makes money on a hotel room: the owner of the building, or the brand on the door? |
 | [004-shipping-container](004-shipping-container/) | What does it cost to get goods from China to your door? |
+| [005-spirit-airlines](005-spirit-airlines/) | Spirit filled most of its seats and still went under: what did each passenger cost? |
 
 Inside each folder:
 

@@ -1,0 +1,692 @@
+{
+  "spirit_load_factor_2019": {
+    "value": 0.8440000000000001,
+    "unit": "share",
+    "description": "Spirit load factor, 2019 (10-K)"
+  },
+  "spirit_revenue_per_passenger_2019": {
+    "value": 110.91108086979182,
+    "unit": "usd",
+    "description": "Spirit operating revenue per passenger, 2019"
+  },
+  "spirit_cost_per_passenger_2019": {
+    "value": 96.40353823435736,
+    "unit": "usd",
+    "description": "Spirit operating cost per passenger, 2019"
+  },
+  "spirit_cost_per_passenger_ex_special_2019": {
+    "value": 95.88041810232504,
+    "unit": "usd",
+    "description": "Spirit operating cost per passenger without special items, 2019"
+  },
+  "spirit_result_per_passenger_2019": {
+    "value": 14.507542635434461,
+    "unit": "usd",
+    "description": "Spirit operating result per passenger, 2019"
+  },
+  "spirit_result_per_passenger_ex_special_2019": {
+    "value": 15.03066276746678,
+    "unit": "usd",
+    "description": "Spirit operating result per passenger without special items, 2019"
+  },
+  "spirit_passengers_2019": {
+    "value": 34537000.0,
+    "unit": "passengers",
+    "description": "Spirit passenger flight segments, 2019"
+  },
+  "spirit_daily_hours_2019": {
+    "value": 12.3,
+    "unit": "hours",
+    "description": "Spirit average daily aircraft utilization, 2019"
+  },
+  "spirit_aircraft_2019": {
+    "value": 145.0,
+    "unit": "aircraft",
+    "description": "Spirit aircraft at end of 2019"
+  },
+  "spirit_employees_2019": {
+    "value": 8077.0,
+    "unit": "employees",
+    "description": "Spirit average full-time equivalent employees, 2019"
+  },
+  "spirit_load_factor_2024": {
+    "value": 0.8240000000000001,
+    "unit": "share",
+    "description": "Spirit load factor, 2024 (10-K)"
+  },
+  "spirit_revenue_per_passenger_2024": {
+    "value": 111.2136939791761,
+    "unit": "usd",
+    "description": "Spirit operating revenue per passenger, 2024"
+  },
+  "spirit_cost_per_passenger_2024": {
+    "value": 136.2335672249887,
+    "unit": "usd",
+    "description": "Spirit operating cost per passenger, 2024"
+  },
+  "spirit_cost_per_passenger_ex_special_2024": {
+    "value": 129.21908103214125,
+    "unit": "usd",
+    "description": "Spirit operating cost per passenger without special items, 2024"
+  },
+  "spirit_result_per_passenger_2024": {
+    "value": -25.01987324581259,
+    "unit": "usd",
+    "description": "Spirit operating result per passenger, 2024"
+  },
+  "spirit_result_per_passenger_ex_special_2024": {
+    "value": -18.005387052965148,
+    "unit": "usd",
+    "description": "Spirit operating result per passenger without special items, 2024"
+  },
+  "spirit_passengers_2024": {
+    "value": 44180000.0,
+    "unit": "passengers",
+    "description": "Spirit passenger flight segments, 2024"
+  },
+  "spirit_daily_hours_2024": {
+    "value": 9.9,
+    "unit": "hours",
+    "description": "Spirit average daily aircraft utilization, 2024"
+  },
+  "spirit_aircraft_2024": {
+    "value": 213.0,
+    "unit": "aircraft",
+    "description": "Spirit aircraft at end of 2024"
+  },
+  "spirit_employees_2024": {
+    "value": 11941.0,
+    "unit": "employees",
+    "description": "Spirit average full-time equivalent employees, 2024"
+  },
+  "spirit_load_factor_2025": {
+    "value": 0.784,
+    "unit": "share",
+    "description": "Spirit load factor, 2025 (10-K)"
+  },
+  "spirit_revenue_per_passenger_2025": {
+    "value": 118.53351440791732,
+    "unit": "usd",
+    "description": "Spirit operating revenue per passenger, 2025"
+  },
+  "spirit_cost_per_passenger_2025": {
+    "value": 142.53245293621805,
+    "unit": "usd",
+    "description": "Spirit operating cost per passenger, 2025"
+  },
+  "spirit_cost_per_passenger_ex_special_2025": {
+    "value": 146.51125472198808,
+    "unit": "usd",
+    "description": "Spirit operating cost per passenger without special items, 2025"
+  },
+  "spirit_result_per_passenger_2025": {
+    "value": -23.998938528300727,
+    "unit": "usd",
+    "description": "Spirit operating result per passenger, 2025"
+  },
+  "spirit_result_per_passenger_ex_special_2025": {
+    "value": -27.977740314070758,
+    "unit": "usd",
+    "description": "Spirit operating result per passenger without special items, 2025"
+  },
+  "spirit_passengers_2025": {
+    "value": 32031000.0,
+    "unit": "passengers",
+    "description": "Spirit passenger flight segments, 2025"
+  },
+  "spirit_daily_hours_2025": {
+    "value": 7.7,
+    "unit": "hours",
+    "description": "Spirit average daily aircraft utilization, 2025"
+  },
+  "spirit_aircraft_2025": {
+    "value": 131.0,
+    "unit": "aircraft",
+    "description": "Spirit aircraft at end of 2025"
+  },
+  "spirit_employees_2025": {
+    "value": 9699.0,
+    "unit": "employees",
+    "description": "Spirit average full-time equivalent employees, 2025"
+  },
+  "cost_change_ex_special": {
+    "value": 33.33866292981621,
+    "unit": "usd",
+    "description": "Spirit cost per passenger without special items, 2024 minus 2019 (main number)"
+  },
+  "cost_change": {
+    "value": 39.830028990631334,
+    "unit": "usd",
+    "description": "Spirit cost per passenger with special items, 2024 minus 2019"
+  },
+  "revenue_change": {
+    "value": 0.3026131093842821,
+    "unit": "usd",
+    "description": "Spirit revenue per passenger, 2024 minus 2019"
+  },
+  "cost_change_pct": {
+    "value": 0.34771086306941923,
+    "unit": "share",
+    "description": "Spirit cost per passenger without special items, change 2019-2024"
+  },
+  "revenue_change_pct": {
+    "value": 0.002728429900882068,
+    "unit": "share",
+    "description": "Spirit revenue per passenger, change 2019-2024"
+  },
+  "load_factor_change": {
+    "value": -0.020000000000000018,
+    "unit": "share",
+    "description": "Spirit load factor, 2024 minus 2019 (points)"
+  },
+  "special_items_change": {
+    "value": 6.491366060815129,
+    "unit": "usd",
+    "description": "Spirit special items per passenger, 2024 minus 2019"
+  },
+  "line_wages_2019": {
+    "value": 25.046153400700696,
+    "unit": "usd",
+    "description": "Spirit wages per passenger, 2019"
+  },
+  "line_wages_2024": {
+    "value": 38.23184698958805,
+    "unit": "usd",
+    "description": "Spirit wages per passenger, 2024"
+  },
+  "line_wages_change": {
+    "value": 13.185693588887354,
+    "unit": "usd",
+    "description": "Spirit wages per passenger, 2024 minus 2019"
+  },
+  "line_fuel_2019": {
+    "value": 28.765613689666154,
+    "unit": "usd",
+    "description": "Spirit fuel per passenger, 2019"
+  },
+  "line_fuel_2024": {
+    "value": 33.481281122679945,
+    "unit": "usd",
+    "description": "Spirit fuel per passenger, 2024"
+  },
+  "line_fuel_change": {
+    "value": 4.715667433013792,
+    "unit": "usd",
+    "description": "Spirit fuel per passenger, 2024 minus 2019"
+  },
+  "line_aircraft_rent_2019": {
+    "value": 5.287344007875611,
+    "unit": "usd",
+    "description": "Spirit aircraft_rent per passenger, 2019"
+  },
+  "line_aircraft_rent_2024": {
+    "value": 12.265934812132187,
+    "unit": "usd",
+    "description": "Spirit aircraft_rent per passenger, 2024"
+  },
+  "line_aircraft_rent_change": {
+    "value": 6.978590804256576,
+    "unit": "usd",
+    "description": "Spirit aircraft_rent per passenger, 2024 minus 2019"
+  },
+  "line_airports_2019": {
+    "value": 7.420302863595564,
+    "unit": "usd",
+    "description": "Spirit airports per passenger, 2019"
+  },
+  "line_airports_2024": {
+    "value": 10.208420099592576,
+    "unit": "usd",
+    "description": "Spirit airports per passenger, 2024"
+  },
+  "line_airports_change": {
+    "value": 2.788117235997012,
+    "unit": "usd",
+    "description": "Spirit airports per passenger, 2024 minus 2019"
+  },
+  "line_depreciation_2019": {
+    "value": 6.522396270666242,
+    "unit": "usd",
+    "description": "Spirit depreciation per passenger, 2019"
+  },
+  "line_depreciation_2024": {
+    "value": 7.362449071978271,
+    "unit": "usd",
+    "description": "Spirit depreciation per passenger, 2024"
+  },
+  "line_depreciation_change": {
+    "value": 0.8400528013120292,
+    "unit": "usd",
+    "description": "Spirit depreciation per passenger, 2024 minus 2019"
+  },
+  "line_maintenance_2019": {
+    "value": 4.15713582534673,
+    "unit": "usd",
+    "description": "Spirit maintenance per passenger, 2019"
+  },
+  "line_maintenance_2024": {
+    "value": 4.928429153463106,
+    "unit": "usd",
+    "description": "Spirit maintenance per passenger, 2024"
+  },
+  "line_maintenance_change": {
+    "value": 0.7712933281163759,
+    "unit": "usd",
+    "description": "Spirit maintenance per passenger, 2024 minus 2019"
+  },
+  "line_distribution_2019": {
+    "value": 4.452326490430552,
+    "unit": "usd",
+    "description": "Spirit distribution per passenger, 2019"
+  },
+  "line_distribution_2024": {
+    "value": 4.46349026708918,
+    "unit": "usd",
+    "description": "Spirit distribution per passenger, 2024"
+  },
+  "line_distribution_change": {
+    "value": 0.011163776658627889,
+    "unit": "usd",
+    "description": "Spirit distribution per passenger, 2024 minus 2019"
+  },
+  "line_other_2019": {
+    "value": 14.22914555404349,
+    "unit": "usd",
+    "description": "Spirit other per passenger, 2019"
+  },
+  "line_other_2024": {
+    "value": 18.277229515617925,
+    "unit": "usd",
+    "description": "Spirit other per passenger, 2024"
+  },
+  "line_other_change": {
+    "value": 4.048083961574436,
+    "unit": "usd",
+    "description": "Spirit other per passenger, 2024 minus 2019"
+  },
+  "wages_per_employee_2019": {
+    "value": 107096.5705088523,
+    "unit": "usd",
+    "description": "Spirit wages and benefits per employee, 2019"
+  },
+  "passengers_per_employee_2019": {
+    "value": 4275.96880029714,
+    "unit": "passengers",
+    "description": "Spirit passengers per employee, 2019"
+  },
+  "wages_per_employee_2024": {
+    "value": 141452.39092203334,
+    "unit": "usd",
+    "description": "Spirit wages and benefits per employee, 2024"
+  },
+  "passengers_per_employee_2024": {
+    "value": 3699.85763336404,
+    "unit": "passengers",
+    "description": "Spirit passengers per employee, 2024"
+  },
+  "wages_per_employee_change": {
+    "value": 0.3207929091468087,
+    "unit": "share",
+    "description": "Spirit wages and benefits per employee, change 2019-2024"
+  },
+  "passengers_per_employee_change": {
+    "value": -0.13473231303583544,
+    "unit": "share",
+    "description": "Spirit passengers per employee, change 2019-2024"
+  },
+  "spirit_domestic_load_factor_2019": {
+    "value": 0.8513201966787036,
+    "unit": "share",
+    "description": "Spirit domestic load factor, 2019 (T-100)"
+  },
+  "spirit_domestic_load_factor_2024": {
+    "value": 0.8313056284722083,
+    "unit": "share",
+    "description": "Spirit domestic load factor, 2024 (T-100)"
+  },
+  "frontier_domestic_load_factor_2024": {
+    "value": 0.7743468568339569,
+    "unit": "share",
+    "description": "Frontier domestic load factor, 2024 (T-100)"
+  },
+  "southwest_domestic_load_factor_2024": {
+    "value": 0.8020663532728439,
+    "unit": "share",
+    "description": "Southwest domestic load factor, 2024 (T-100)"
+  },
+  "spirit_domestic_load_factor_march_2026": {
+    "value": 0.857185622527559,
+    "unit": "share",
+    "description": "Spirit domestic load factor, march 2026 (T-100)"
+  },
+  "spirit_domestic_load_factor_april_2026": {
+    "value": 0.8295256194295971,
+    "unit": "share",
+    "description": "Spirit domestic load factor, april 2026 (T-100)"
+  },
+  "inflation": {
+    "value": 0.22698898167436954,
+    "unit": "share",
+    "description": "US consumer prices, 2019 to 2024 (CPI-U annual averages)"
+  },
+  "revenue_below_inflation": {
+    "value": 24.872980193653405,
+    "unit": "usd",
+    "description": "How far 2024 revenue per passenger fell short of 2019's, adjusted for inflation"
+  },
+  "cost_above_inflation": {
+    "value": 11.574864462256656,
+    "unit": "usd",
+    "description": "How far 2024 cost per passenger (without special items) rose beyond 2019's, adjusted for inflation"
+  },
+  "frontier_load_factor_2019": {
+    "value": 0.861,
+    "unit": "share",
+    "description": "Frontier load factor, 2019 (10-K)"
+  },
+  "frontier_revenue_per_passenger_2019": {
+    "value": 109.8891469132016,
+    "unit": "usd",
+    "description": "Frontier revenue per passenger, 2019"
+  },
+  "frontier_cost_per_passenger_2019": {
+    "value": 96.35017307102484,
+    "unit": "usd",
+    "description": "Frontier cost per passenger, 2019"
+  },
+  "frontier_cost_per_passenger_ex_gains_2019": {
+    "value": 101.03842614906016,
+    "unit": "usd",
+    "description": "Frontier cost per passenger without sale-leaseback gains, 2019"
+  },
+  "frontier_result_per_passenger_ex_gains_2019": {
+    "value": 8.850720764141442,
+    "unit": "usd",
+    "description": "Frontier operating result per passenger without sale-leaseback gains, 2019"
+  },
+  "frontier_load_factor_2024": {
+    "value": 0.768,
+    "unit": "share",
+    "description": "Frontier load factor, 2024 (10-K)"
+  },
+  "frontier_revenue_per_passenger_2024": {
+    "value": 113.3769822200865,
+    "unit": "usd",
+    "description": "Frontier revenue per passenger, 2024"
+  },
+  "frontier_cost_per_passenger_2024": {
+    "value": 111.63503123498319,
+    "unit": "usd",
+    "description": "Frontier cost per passenger, 2024"
+  },
+  "frontier_cost_per_passenger_ex_gains_2024": {
+    "value": 120.46492071119654,
+    "unit": "usd",
+    "description": "Frontier cost per passenger without sale-leaseback gains, 2024"
+  },
+  "frontier_result_per_passenger_ex_gains_2024": {
+    "value": -7.087938491110037,
+    "unit": "usd",
+    "description": "Frontier operating result per passenger without sale-leaseback gains, 2024"
+  },
+  "frontier_cost_change_ex_gains": {
+    "value": 19.426494562136384,
+    "unit": "usd",
+    "description": "Frontier cost per passenger without gains, 2024 minus 2019"
+  },
+  "frontier_cost_change": {
+    "value": 15.284858163958347,
+    "unit": "usd",
+    "description": "Frontier cost per passenger, 2024 minus 2019"
+  },
+  "frontier_revenue_change": {
+    "value": 3.4878353068849037,
+    "unit": "usd",
+    "description": "Frontier revenue per passenger, 2024 minus 2019"
+  },
+  "spirit_vs_frontier": {
+    "value": 1.7161440435473947,
+    "unit": "times",
+    "description": "Spirit's cost increase per passenger / Frontier's"
+  },
+  "plan_fuel_per_gallon_q1": {
+    "value": 2.32,
+    "unit": "usd",
+    "description": "March 2026 plan: fuel cost per gallon, Q1 2026"
+  },
+  "plan_fuel_per_gallon_q2": {
+    "value": 2.22,
+    "unit": "usd",
+    "description": "March 2026 plan: fuel cost per gallon, Q2 2026"
+  },
+  "plan_fuel_per_gallon_year": {
+    "value": 2.24,
+    "unit": "usd",
+    "description": "March 2026 plan: fuel cost per gallon, 2026"
+  },
+  "plan_operating_income_q1": {
+    "value": -46000000.0,
+    "unit": "usd",
+    "description": "March 2026 plan: operating income, Q1 2026"
+  },
+  "plan_operating_income_q2": {
+    "value": 1000000.0,
+    "unit": "usd",
+    "description": "March 2026 plan: operating income, Q2 2026"
+  },
+  "plan_revenue_q1": {
+    "value": 827000000.0,
+    "unit": "usd",
+    "description": "March 2026 plan: revenue, Q1 2026"
+  },
+  "fuel_per_gallon_january_2026": {
+    "value": 2.263870427731292,
+    "unit": "usd",
+    "description": "Spirit fuel cost per gallon, January 2026 (Form 41)"
+  },
+  "fuel_per_gallon_march_2026": {
+    "value": 3.560212371487565,
+    "unit": "usd",
+    "description": "Spirit fuel cost per gallon, March 2026 (Form 41)"
+  },
+  "fuel_per_gallon_april_2026": {
+    "value": 4.625827513671502,
+    "unit": "usd",
+    "description": "Spirit fuel cost per gallon, April 2026 (Form 41)"
+  },
+  "april_fuel_vs_plan": {
+    "value": 2.083706087239415,
+    "unit": "times",
+    "description": "April 2026 fuel per gallon / plan for Q2"
+  },
+  "fuel_above_plan_march_april": {
+    "value": 88938838.76,
+    "unit": "usd",
+    "description": "Fuel cost above the plan's price, March and April 2026"
+  },
+  "fuel_above_plan_per_passenger_april": {
+    "value": 30.095350610526058,
+    "unit": "usd",
+    "description": "Fuel cost above the plan's price per passenger, April 2026"
+  },
+  "fuel_above_plan_vs_2019_profit": {
+    "value": 2.0022637109300425,
+    "unit": "times",
+    "description": "April 2026 extra fuel per passenger / 2019 profit per passenger"
+  },
+  "q1_2026_revenue": {
+    "value": 729074340.0,
+    "unit": "usd",
+    "description": "Spirit revenue, Q1 2026 (Form 41)"
+  },
+  "q1_2026_operating_result": {
+    "value": -226944440.0,
+    "unit": "usd",
+    "description": "Spirit operating result, Q1 2026 (Form 41)"
+  },
+  "q1_2026_result_per_passenger": {
+    "value": -37.92708962994988,
+    "unit": "usd",
+    "description": "Spirit operating result per passenger, Q1 2026"
+  },
+  "q1_2026_margin": {
+    "value": -0.3112775029224043,
+    "unit": "share",
+    "description": "Spirit operating margin, Q1 2026"
+  },
+  "plan_margin_q1": {
+    "value": -0.05562273276904474,
+    "unit": "share",
+    "description": "March 2026 plan: operating margin, Q1 2026"
+  },
+  "q1_2026_gap_vs_plan": {
+    "value": 180944440.0,
+    "unit": "usd",
+    "description": "Q1 2026 operating result below the plan"
+  },
+  "q1_2026_revenue_short": {
+    "value": 97925660.0,
+    "unit": "usd",
+    "description": "Q1 2026 revenue below the plan"
+  },
+  "q1_2026_fuel_over": {
+    "value": 26416230.0,
+    "unit": "usd",
+    "description": "Q1 2026 fuel above the plan"
+  },
+  "q1_2026_other_over": {
+    "value": 56602550.0,
+    "unit": "usd",
+    "description": "Q1 2026 other costs above the plan"
+  },
+  "q1_2026_fuel_share_of_gap": {
+    "value": 0.14599083563993456,
+    "unit": "share",
+    "description": "Share of the Q1 2026 gap that came from fuel"
+  },
+  "frontier_operating_result_2025": {
+    "value": -148331860.0,
+    "unit": "usd",
+    "description": "Frontier operating result, 2025 (Form 41)"
+  },
+  "frontier_operating_result_q1_2026": {
+    "value": -283060950.0,
+    "unit": "usd",
+    "description": "Frontier operating result, Q1 2026 (Form 41)"
+  },
+  "spirit_cash_end_2025": {
+    "value": 272959000.0,
+    "unit": "usd",
+    "description": "Spirit cash and cash equivalents, end of 2025"
+  },
+  "jetblue_breakup_fee": {
+    "value": 69000000.0,
+    "unit": "usd",
+    "description": "What JetBlue paid Spirit when the deal ended"
+  },
+  "jetblue_deal_value": {
+    "value": 3800000000.0,
+    "unit": "usd",
+    "description": "JetBlue's July 2022 deal for Spirit (equity value)"
+  },
+  "jetblue_net_loss_2024": {
+    "value": 795000000.0,
+    "unit": "usd",
+    "description": "JetBlue net loss, 2024"
+  },
+  "jetblue_loss_years": {
+    "value": 6,
+    "unit": "years",
+    "description": "JetBlue years with a net loss, 2020-2025"
+  },
+  "min_route_passengers": {
+    "value": 3000.0,
+    "unit": "passengers",
+    "description": "Assumption: nonstop Spirit passengers per quarter to count a market as served"
+  },
+  "markets_left": {
+    "value": 76,
+    "unit": "markets",
+    "description": "Top-1,000 markets where Spirit left (Q1 2024 to Q1 2026)"
+  },
+  "fare_left_2024": {
+    "value": 232.582261238791,
+    "unit": "usd",
+    "description": "Average fare, markets where Spirit left, Q1 2024"
+  },
+  "fare_left_2026": {
+    "value": 269.92731405078433,
+    "unit": "usd",
+    "description": "Average fare, markets where Spirit left, Q1 2026 (Q1 2024 weights)"
+  },
+  "fare_left_change": {
+    "value": 0.16056707254063274,
+    "unit": "share",
+    "description": "Average fare change, markets where Spirit left"
+  },
+  "markets_stayed": {
+    "value": 91,
+    "unit": "markets",
+    "description": "Top-1,000 markets where Spirit stayed (Q1 2024 to Q1 2026)"
+  },
+  "fare_stayed_2024": {
+    "value": 221.30109910885014,
+    "unit": "usd",
+    "description": "Average fare, markets where Spirit stayed, Q1 2024"
+  },
+  "fare_stayed_2026": {
+    "value": 241.45253255875835,
+    "unit": "usd",
+    "description": "Average fare, markets where Spirit stayed, Q1 2026 (Q1 2024 weights)"
+  },
+  "fare_stayed_change": {
+    "value": 0.09105889456064764,
+    "unit": "share",
+    "description": "Average fare change, markets where Spirit stayed"
+  },
+  "markets_never": {
+    "value": 692,
+    "unit": "markets",
+    "description": "Top-1,000 markets where Spirit never (Q1 2024 to Q1 2026)"
+  },
+  "fare_never_2024": {
+    "value": 243.60014562079766,
+    "unit": "usd",
+    "description": "Average fare, markets where Spirit never, Q1 2024"
+  },
+  "fare_never_2026": {
+    "value": 268.17813392401143,
+    "unit": "usd",
+    "description": "Average fare, markets where Spirit never, Q1 2026 (Q1 2024 weights)"
+  },
+  "fare_never_change": {
+    "value": 0.10089480135809659,
+    "unit": "share",
+    "description": "Average fare change, markets where Spirit never"
+  },
+  "fare_left_excess": {
+    "value": 0.05967227118253615,
+    "unit": "share",
+    "description": "Extra fare increase where Spirit left, against markets it never flew (points)"
+  },
+  "markets_spirit_cheapest": {
+    "value": 68,
+    "unit": "markets",
+    "description": "Markets where Spirit had the lowest fare and another airline the largest share, Q1 2026"
+  },
+  "fare_spirit_cheapest": {
+    "value": 112.55425965183073,
+    "unit": "usd",
+    "description": "Spirit's average fare in those markets, Q1 2026"
+  },
+  "fare_largest_airline": {
+    "value": 273.599111731674,
+    "unit": "usd",
+    "description": "Largest airline's average fare in those markets, Q1 2026"
+  },
+  "spirit_discount": {
+    "value": 0.5886161364360871,
+    "unit": "share",
+    "description": "How much cheaper Spirit was than the largest airline in those markets"
+  }
+}
