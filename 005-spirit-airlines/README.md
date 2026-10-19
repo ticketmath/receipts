@@ -1,6 +1,6 @@
 # #005 · Spirit filled most of its seats and still went under: what did each passenger cost?
 
-**Video:** coming soon
+**Video:** https://youtu.be/z9aCdm3hzG0
 
 ## The answer
 
