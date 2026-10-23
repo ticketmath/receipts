@@ -1,0 +1,817 @@
+{
+  "carnival_passengers_2025": {
+    "value": 13600000.0,
+    "unit": "passengers",
+    "description": "Carnival: passengers carried, 2025"
+  },
+  "carnival_passenger_days_2025": {
+    "value": 101700000.0,
+    "unit": "passenger days",
+    "description": "Carnival: passenger cruise days, 2025 (one passenger on board for one day)"
+  },
+  "carnival_occupancy_2025": {
+    "value": 1.05,
+    "unit": "share",
+    "description": "Carnival: occupancy, 2025 (the industry counts two people per cabin)"
+  },
+  "carnival_average_cruise_days_2025": {
+    "value": 7.477941176470588,
+    "unit": "days",
+    "description": "Carnival: average cruise length, 2025"
+  },
+  "carnival_ticket_per_day_2025": {
+    "value": 171.27826941986234,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: passenger ticket revenue per passenger day, 2025"
+  },
+  "carnival_onboard_per_day_2025": {
+    "value": 90.4818092428712,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: onboard and other revenue per passenger day, 2025"
+  },
+  "carnival_onboard_cost_per_day_2025": {
+    "value": 27.689282202556537,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: direct cost of what was sold on board, per passenger day, 2025"
+  },
+  "carnival_onboard_margin_per_day_2025": {
+    "value": 62.79252704031465,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: onboard margin per passenger day, 2025"
+  },
+  "carnival_operating_income_per_day_2025": {
+    "value": 44.08062930186824,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: operating income per passenger day, 2025"
+  },
+  "carnival_net_income_per_day_2025": {
+    "value": 27.13864306784661,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: net income per passenger day, 2025"
+  },
+  "carnival_interest_per_day_2025": {
+    "value": 13.264503441494591,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: interest on debt per passenger day, 2025"
+  },
+  "carnival_ticket_alone_operating_result_per_day_2025": {
+    "value": -18.71189773844641,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: operating result per passenger day without the onboard margin (the fare alone), 2025"
+  },
+  "carnival_ticket_alone_loss_per_day_2025": {
+    "value": 18.71189773844641,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: what the fare alone lost per passenger day, 2025 (operating loss, before interest and taxes)"
+  },
+  "carnival_ticket_alone_net_result_per_day_2025": {
+    "value": -35.653883972468044,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: net result per passenger day without the onboard margin, 2025"
+  },
+  "carnival_onboard_margin_2025": {
+    "value": 6386000000.0,
+    "unit": "usd",
+    "description": "Carnival: onboard margin, 2025"
+  },
+  "carnival_operating_income_2025": {
+    "value": 4483000000.0,
+    "unit": "usd",
+    "description": "Carnival: operating income, 2025"
+  },
+  "carnival_net_income_2025": {
+    "value": 2760000000.0,
+    "unit": "usd",
+    "description": "Carnival: net income, 2025"
+  },
+  "carnival_ticket_alone_operating_result_2025": {
+    "value": -1903000000.0,
+    "unit": "usd",
+    "description": "Carnival: operating income without the onboard margin, 2025"
+  },
+  "carnival_ticket_alone_net_result_2025": {
+    "value": -3626000000.0,
+    "unit": "usd",
+    "description": "Carnival: net income without the onboard margin, 2025"
+  },
+  "carnival_onboard_margin_vs_operating_income_2025": {
+    "value": 1.4244925273254516,
+    "unit": "share",
+    "description": "Carnival: onboard margin as a share of operating income, 2025"
+  },
+  "carnival_onboard_share_of_revenue_2025": {
+    "value": 0.34565397040042073,
+    "unit": "share",
+    "description": "Carnival: onboard share of total revenue, 2025"
+  },
+  "carnival_onboard_vs_ticket_2025": {
+    "value": 0.5282737240943797,
+    "unit": "share",
+    "description": "Carnival: onboard revenue as a share of ticket revenue, 2025"
+  },
+  "carnival_onboard_per_passenger_per_cruise_2025": {
+    "value": 676.6176470588235,
+    "unit": "usd per passenger per cruise",
+    "description": "Carnival: onboard revenue per passenger, per cruise, 2025"
+  },
+  "carnival_income_tax_rate_2025": {
+    "value": 0.004329004329004329,
+    "unit": "share",
+    "description": "Carnival: income tax / income before tax, 2025"
+  },
+  "royal_caribbean_passengers_2025": {
+    "value": 9446010.0,
+    "unit": "passengers",
+    "description": "Royal Caribbean: passengers carried, 2025"
+  },
+  "royal_caribbean_passenger_days_2025": {
+    "value": 58518751.0,
+    "unit": "passenger days",
+    "description": "Royal Caribbean: passenger cruise days, 2025 (one passenger on board for one day)"
+  },
+  "royal_caribbean_occupancy_2025": {
+    "value": 1.097,
+    "unit": "share",
+    "description": "Royal Caribbean: occupancy, 2025 (the industry counts two people per cabin)"
+  },
+  "royal_caribbean_average_cruise_days_2025": {
+    "value": 6.195076122087527,
+    "unit": "days",
+    "description": "Royal Caribbean: average cruise length, 2025"
+  },
+  "royal_caribbean_ticket_per_day_2025": {
+    "value": 213.8630744186594,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: passenger ticket revenue per passenger day, 2025"
+  },
+  "royal_caribbean_onboard_per_day_2025": {
+    "value": 92.60279666597806,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: onboard and other revenue per passenger day, 2025"
+  },
+  "royal_caribbean_onboard_cost_per_day_2025": {
+    "value": 16.76385745143467,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: direct cost of what was sold on board, per passenger day, 2025"
+  },
+  "royal_caribbean_onboard_margin_per_day_2025": {
+    "value": 75.83893921454339,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: onboard margin per passenger day, 2025"
+  },
+  "royal_caribbean_operating_income_per_day_2025": {
+    "value": 83.90472995570258,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: operating income per passenger day, 2025"
+  },
+  "royal_caribbean_net_income_per_day_2025": {
+    "value": 73.32692387778407,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: net income per passenger day, 2025"
+  },
+  "royal_caribbean_interest_per_day_2025": {
+    "value": 16.951831388198972,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: interest on debt per passenger day, 2025"
+  },
+  "royal_caribbean_ticket_alone_operating_result_per_day_2025": {
+    "value": 8.065790741159189,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: operating result per passenger day without the onboard margin (the fare alone), 2025"
+  },
+  "royal_caribbean_ticket_alone_net_result_per_day_2025": {
+    "value": -2.5120153367593234,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: net result per passenger day without the onboard margin, 2025"
+  },
+  "royal_caribbean_onboard_margin_2025": {
+    "value": 4438000000.0,
+    "unit": "usd",
+    "description": "Royal Caribbean: onboard margin, 2025"
+  },
+  "royal_caribbean_operating_income_2025": {
+    "value": 4910000000.0,
+    "unit": "usd",
+    "description": "Royal Caribbean: operating income, 2025"
+  },
+  "royal_caribbean_net_income_2025": {
+    "value": 4291000000.0,
+    "unit": "usd",
+    "description": "Royal Caribbean: net income, 2025"
+  },
+  "royal_caribbean_ticket_alone_operating_result_2025": {
+    "value": 472000000.0,
+    "unit": "usd",
+    "description": "Royal Caribbean: operating income without the onboard margin, 2025"
+  },
+  "royal_caribbean_ticket_alone_net_result_2025": {
+    "value": -147000000.0,
+    "unit": "usd",
+    "description": "Royal Caribbean: net income without the onboard margin, 2025"
+  },
+  "royal_caribbean_onboard_margin_vs_operating_income_2025": {
+    "value": 0.9038696537678208,
+    "unit": "share",
+    "description": "Royal Caribbean: onboard margin as a share of operating income, 2025"
+  },
+  "royal_caribbean_onboard_share_of_revenue_2025": {
+    "value": 0.30214664064678004,
+    "unit": "share",
+    "description": "Royal Caribbean: onboard share of total revenue, 2025"
+  },
+  "royal_caribbean_onboard_vs_ticket_2025": {
+    "value": 0.4330003995205753,
+    "unit": "share",
+    "description": "Royal Caribbean: onboard revenue as a share of ticket revenue, 2025"
+  },
+  "royal_caribbean_onboard_per_passenger_per_cruise_2025": {
+    "value": 573.6813744639271,
+    "unit": "usd per passenger per cruise",
+    "description": "Royal Caribbean: onboard revenue per passenger, per cruise, 2025"
+  },
+  "royal_caribbean_income_tax_rate_2025": {
+    "value": 0.018751429224788476,
+    "unit": "share",
+    "description": "Royal Caribbean: income tax / income before tax, 2025"
+  },
+  "norwegian_passengers_2025": {
+    "value": 2997829.0,
+    "unit": "passengers",
+    "description": "Norwegian: passengers carried, 2025"
+  },
+  "norwegian_passenger_days_2025": {
+    "value": 25278352.0,
+    "unit": "passenger days",
+    "description": "Norwegian: passenger cruise days, 2025 (one passenger on board for one day)"
+  },
+  "norwegian_occupancy_2025": {
+    "value": 1.035,
+    "unit": "share",
+    "description": "Norwegian: occupancy, 2025 (the industry counts two people per cabin)"
+  },
+  "norwegian_average_cruise_days_2025": {
+    "value": 8.432219449474937,
+    "unit": "days",
+    "description": "Norwegian: average cruise length, 2025"
+  },
+  "norwegian_ticket_per_day_2025": {
+    "value": 264.5610362574269,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: passenger ticket revenue per passenger day, 2025"
+  },
+  "norwegian_onboard_per_day_2025": {
+    "value": 124.21399148172317,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: onboard and other revenue per passenger day, 2025"
+  },
+  "norwegian_onboard_cost_per_day_2025": {
+    "value": 27.245605251481585,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: direct cost of what was sold on board, per passenger day, 2025"
+  },
+  "norwegian_onboard_margin_per_day_2025": {
+    "value": 96.96838623024159,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: onboard margin per passenger day, 2025"
+  },
+  "norwegian_operating_income_per_day_2025": {
+    "value": 61.74722149608487,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: operating income per passenger day, 2025"
+  },
+  "norwegian_net_income_per_day_2025": {
+    "value": 16.743417450631274,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: net income per passenger day, 2025"
+  },
+  "norwegian_interest_per_day_2025": {
+    "value": 37.720259611860776,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: interest on debt per passenger day, 2025"
+  },
+  "norwegian_ticket_alone_operating_result_per_day_2025": {
+    "value": -35.22116473415672,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: operating result per passenger day without the onboard margin (the fare alone), 2025"
+  },
+  "norwegian_ticket_alone_loss_per_day_2025": {
+    "value": 35.22116473415672,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: what the fare alone lost per passenger day, 2025 (operating loss, before interest and taxes)"
+  },
+  "norwegian_ticket_alone_net_result_per_day_2025": {
+    "value": -80.22496877961032,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: net result per passenger day without the onboard margin, 2025"
+  },
+  "norwegian_onboard_margin_2025": {
+    "value": 2451201000.0,
+    "unit": "usd",
+    "description": "Norwegian: onboard margin, 2025"
+  },
+  "norwegian_operating_income_2025": {
+    "value": 1560868000.0,
+    "unit": "usd",
+    "description": "Norwegian: operating income, 2025"
+  },
+  "norwegian_net_income_2025": {
+    "value": 423246000.0,
+    "unit": "usd",
+    "description": "Norwegian: net income, 2025"
+  },
+  "norwegian_ticket_alone_operating_result_2025": {
+    "value": -890333000.0,
+    "unit": "usd",
+    "description": "Norwegian: operating income without the onboard margin, 2025"
+  },
+  "norwegian_ticket_alone_net_result_2025": {
+    "value": -2027955000.0,
+    "unit": "usd",
+    "description": "Norwegian: net income without the onboard margin, 2025"
+  },
+  "norwegian_onboard_margin_vs_operating_income_2025": {
+    "value": 1.5704089006885913,
+    "unit": "share",
+    "description": "Norwegian: onboard margin as a share of operating income, 2025"
+  },
+  "norwegian_onboard_share_of_revenue_2025": {
+    "value": 0.3195009520134739,
+    "unit": "share",
+    "description": "Norwegian: onboard share of total revenue, 2025"
+  },
+  "norwegian_onboard_vs_ticket_2025": {
+    "value": 0.4695097707466595,
+    "unit": "share",
+    "description": "Norwegian: onboard revenue as a share of ticket revenue, 2025"
+  },
+  "norwegian_onboard_per_passenger_per_cruise_2025": {
+    "value": 1047.3996348691003,
+    "unit": "usd per passenger per cruise",
+    "description": "Norwegian: onboard revenue per passenger, per cruise, 2025"
+  },
+  "norwegian_income_tax_rate_2025": {
+    "value": 0.012770543080464918,
+    "unit": "share",
+    "description": "Norwegian: income tax / income before tax, 2025"
+  },
+  "carnival_commissions_per_day_2025": {
+    "value": 32.753195673549655,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: commissions transportation other per passenger day, 2025"
+  },
+  "carnival_payroll_per_day_2025": {
+    "value": 25.457227138643066,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: payroll per passenger day, 2025"
+  },
+  "carnival_fuel_per_day_2025": {
+    "value": 17.77777777777778,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: fuel per passenger day, 2025"
+  },
+  "carnival_food_per_day_2025": {
+    "value": 14.739429695181908,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: food per passenger day, 2025"
+  },
+  "carnival_other_ship_operating_per_day_2025": {
+    "value": 38.3874139626352,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: other operating per passenger day, 2025"
+  },
+  "carnival_selling_admin_per_day_2025": {
+    "value": 33.45132743362832,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: selling admin per passenger day, 2025"
+  },
+  "carnival_depreciation_per_day_2025": {
+    "value": 27.43362831858407,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: depreciation per passenger day, 2025"
+  },
+  "carnival_ship_cost_per_day_2025": {
+    "value": 157.24680432645033,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: cost of the ship per passenger day, 2025 (payroll, fuel, food, other operating, selling and administrative, depreciation)"
+  },
+  "carnival_net_ticket_per_day_2025": {
+    "value": 138.52507374631267,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: ticket revenue minus commissions, transportation and other, per passenger day, 2025"
+  },
+  "big_three_onboard_per_day_2025": {
+    "value": 95.74772173126607,
+    "unit": "usd per passenger per day",
+    "description": "The big three together: onboard revenue per passenger day, 2025"
+  },
+  "big_three_onboard_margin_per_day_2025": {
+    "value": 71.56554353304375,
+    "unit": "usd per passenger per day",
+    "description": "The big three together: onboard margin per passenger day, 2025"
+  },
+  "big_three_operating_income_per_day_2025": {
+    "value": 59.051423568593414,
+    "unit": "usd per passenger per day",
+    "description": "The big three together: operating income per passenger day, 2025"
+  },
+  "big_three_net_income_per_day_2025": {
+    "value": 40.293060533673135,
+    "unit": "usd per passenger per day",
+    "description": "The big three together: net income per passenger day, 2025"
+  },
+  "big_three_onboard_margin_vs_operating_income_2025": {
+    "value": 1.2119190225772303,
+    "unit": "share",
+    "description": "The big three together: onboard margin as a share of operating income, 2025"
+  },
+  "big_three_passengers_2025": {
+    "value": 26043839.0,
+    "unit": "passengers",
+    "description": "The big three together: passengers carried, 2025"
+  },
+  "clia_world_ocean_passengers_2025": {
+    "value": 37301000.0,
+    "unit": "passengers",
+    "description": "CLIA: ocean cruise passengers worldwide, 2025"
+  },
+  "big_three_share_of_world_passengers_2025": {
+    "value": 0.6982075279483124,
+    "unit": "share",
+    "description": "The big three's passengers as a share of the world's ocean cruise passengers (CLIA), 2025"
+  },
+  "inflation_2019_2025": {
+    "value": 0.2592750259217331,
+    "unit": "share",
+    "description": "US consumer prices, 2019 to 2025 (CPI-U annual averages)"
+  },
+  "carnival_ticket_per_day_2019": {
+    "value": 151.05683232708748,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: passenger ticket revenue per passenger day, 2019"
+  },
+  "carnival_onboard_per_day_2019": {
+    "value": 67.80635319503622,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: onboard and other revenue per passenger day, 2019"
+  },
+  "carnival_onboard_margin_vs_operating_income_2019": {
+    "value": 1.2912087912087913,
+    "unit": "share",
+    "description": "Carnival: onboard margin as a share of operating income, 2019"
+  },
+  "carnival_ticket_alone_operating_result_2019": {
+    "value": -954000000.0,
+    "unit": "usd",
+    "description": "Carnival: operating income without the onboard margin, 2019"
+  },
+  "carnival_onboard_share_of_revenue_2019": {
+    "value": 0.30400960384153664,
+    "unit": "share",
+    "description": "Carnival: onboard share of total revenue, 2019"
+  },
+  "carnival_ticket_per_day_change_nominal": {
+    "value": 0.13386641822985434,
+    "unit": "share",
+    "description": "Carnival: ticket revenue per passenger day, 2019 to 2025 (dollars of each year)"
+  },
+  "carnival_onboard_per_day_change_nominal": {
+    "value": 0.3344149180625,
+    "unit": "share",
+    "description": "Carnival: onboard revenue per passenger day, 2019 to 2025 (dollars of each year)"
+  },
+  "carnival_ticket_per_day_change_real": {
+    "value": -0.09958794156192008,
+    "unit": "share",
+    "description": "Carnival: ticket revenue per passenger day, 2019 to 2025, after inflation"
+  },
+  "carnival_onboard_per_day_change_real": {
+    "value": 0.05966916725420468,
+    "unit": "share",
+    "description": "Carnival: onboard revenue per passenger day, 2019 to 2025, after inflation"
+  },
+  "carnival_cost_ex_onboard_per_day_2019": {
+    "value": 162.58102061296,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: cost per passenger day without the onboard cost, 2019"
+  },
+  "carnival_cost_ex_onboard_per_day_2025": {
+    "value": 190.0,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: cost per passenger day without the onboard cost, 2025"
+  },
+  "carnival_cost_ex_onboard_per_day_change_real": {
+    "value": -0.07196754417784013,
+    "unit": "share",
+    "description": "Carnival: that cost per passenger day, 2019 to 2025, after inflation"
+  },
+  "carnival_ticket_minus_cost_per_day_2019": {
+    "value": -11.524188285872526,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: ticket per passenger day minus that cost, 2019 (what the fare alone left)"
+  },
+  "carnival_ticket_alone_loss_per_day_2019": {
+    "value": 11.524188285872526,
+    "unit": "usd per passenger per day",
+    "description": "Carnival: what the fare alone lost per passenger day, 2019"
+  },
+  "royal_caribbean_ticket_per_day_2019": {
+    "value": 175.36526297132755,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: passenger ticket revenue per passenger day, 2019"
+  },
+  "royal_caribbean_onboard_per_day_2019": {
+    "value": 69.04756819113706,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: onboard and other revenue per passenger day, 2019"
+  },
+  "royal_caribbean_onboard_margin_vs_operating_income_2019": {
+    "value": 1.1781921648858862,
+    "unit": "share",
+    "description": "Royal Caribbean: onboard margin as a share of operating income, 2019"
+  },
+  "royal_caribbean_ticket_alone_operating_result_2019": {
+    "value": -371121000.0,
+    "unit": "usd",
+    "description": "Royal Caribbean: operating income without the onboard margin, 2019"
+  },
+  "royal_caribbean_onboard_share_of_revenue_2019": {
+    "value": 0.28250385981266335,
+    "unit": "share",
+    "description": "Royal Caribbean: onboard share of total revenue, 2019"
+  },
+  "royal_caribbean_ticket_per_day_change_nominal": {
+    "value": 0.2195292887259337,
+    "unit": "share",
+    "description": "Royal Caribbean: ticket revenue per passenger day, 2019 to 2025 (dollars of each year)"
+  },
+  "royal_caribbean_onboard_per_day_change_nominal": {
+    "value": 0.3411449395239461,
+    "unit": "share",
+    "description": "Royal Caribbean: onboard revenue per passenger day, 2019 to 2025 (dollars of each year)"
+  },
+  "royal_caribbean_ticket_per_day_change_real": {
+    "value": -0.03156239612288614,
+    "unit": "share",
+    "description": "Royal Caribbean: ticket revenue per passenger day, 2019 to 2025, after inflation"
+  },
+  "royal_caribbean_onboard_per_day_change_real": {
+    "value": 0.06501352914728686,
+    "unit": "share",
+    "description": "Royal Caribbean: onboard revenue per passenger day, 2019 to 2025, after inflation"
+  },
+  "royal_caribbean_cost_ex_onboard_per_day_2019": {
+    "value": 183.64848298095484,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: cost per passenger day without the onboard cost, 2019"
+  },
+  "royal_caribbean_cost_ex_onboard_per_day_2025": {
+    "value": 205.81437221720608,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: cost per passenger day without the onboard cost, 2025"
+  },
+  "royal_caribbean_cost_ex_onboard_per_day_change_real": {
+    "value": -0.11004558276769982,
+    "unit": "share",
+    "description": "Royal Caribbean: that cost per passenger day, 2019 to 2025, after inflation"
+  },
+  "royal_caribbean_ticket_minus_cost_per_day_2019": {
+    "value": -8.283220009627286,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: ticket per passenger day minus that cost, 2019 (what the fare alone left)"
+  },
+  "royal_caribbean_ticket_alone_loss_per_day_2019": {
+    "value": 8.283220009627286,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: what the fare alone lost per passenger day, 2019"
+  },
+  "norwegian_ticket_per_day_2019": {
+    "value": 218.8876908262541,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: passenger ticket revenue per passenger day, 2019"
+  },
+  "norwegian_onboard_per_day_2019": {
+    "value": 94.24303742586049,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: onboard and other revenue per passenger day, 2019"
+  },
+  "norwegian_onboard_margin_vs_operating_income_2019": {
+    "value": 1.3159666133877497,
+    "unit": "share",
+    "description": "Norwegian: onboard margin as a share of operating income, 2019"
+  },
+  "norwegian_ticket_alone_operating_result_2019": {
+    "value": -372233000.0,
+    "unit": "usd",
+    "description": "Norwegian: operating income without the onboard margin, 2019"
+  },
+  "norwegian_onboard_share_of_revenue_2019": {
+    "value": 0.30097026233075885,
+    "unit": "share",
+    "description": "Norwegian: onboard share of total revenue, 2019"
+  },
+  "norwegian_ticket_per_day_change_nominal": {
+    "value": 0.2086610958284849,
+    "unit": "share",
+    "description": "Norwegian: ticket revenue per passenger day, 2019 to 2025 (dollars of each year)"
+  },
+  "norwegian_onboard_per_day_change_nominal": {
+    "value": 0.3180177005589442,
+    "unit": "share",
+    "description": "Norwegian: onboard revenue per passenger day, 2019 to 2025 (dollars of each year)"
+  },
+  "norwegian_ticket_per_day_change_real": {
+    "value": -0.04019291183528462,
+    "unit": "share",
+    "description": "Norwegian: ticket revenue per passenger day, 2019 to 2025, after inflation"
+  },
+  "norwegian_onboard_per_day_change_real": {
+    "value": 0.046648010504467985,
+    "unit": "share",
+    "description": "Norwegian: onboard revenue per passenger day, 2019 to 2025, after inflation"
+  },
+  "norwegian_cost_ex_onboard_per_day_2019": {
+    "value": 236.92402767348636,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: cost per passenger day without the onboard cost, 2019"
+  },
+  "norwegian_cost_ex_onboard_per_day_2025": {
+    "value": 299.78220099158364,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: cost per passenger day without the onboard cost, 2025"
+  },
+  "norwegian_cost_ex_onboard_per_day_change_real": {
+    "value": 0.004791948612563601,
+    "unit": "share",
+    "description": "Norwegian: that cost per passenger day, 2019 to 2025, after inflation"
+  },
+  "norwegian_ticket_minus_cost_per_day_2019": {
+    "value": -18.036336847232263,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: ticket per passenger day minus that cost, 2019 (what the fare alone left)"
+  },
+  "norwegian_ticket_alone_loss_per_day_2019": {
+    "value": 18.036336847232263,
+    "unit": "usd per passenger per day",
+    "description": "Norwegian: what the fare alone lost per passenger day, 2019"
+  },
+  "viking_passengers_2025": {
+    "value": 791582.0,
+    "unit": "passengers",
+    "description": "Viking: passengers, 2025 (ocean and river)"
+  },
+  "viking_onboard_share_of_revenue_2025": {
+    "value": 0.06921319791879281,
+    "unit": "share",
+    "description": "Viking: onboard share of total revenue, 2025"
+  },
+  "viking_ticket_per_day_2025": {
+    "value": 822.9858898869363,
+    "unit": "usd per passenger per day",
+    "description": "Viking: cruise and land revenue per passenger day, 2025"
+  },
+  "viking_onboard_per_day_2025": {
+    "value": 61.19713467547501,
+    "unit": "usd per passenger per day",
+    "description": "Viking: onboard revenue per passenger day, 2025"
+  },
+  "viking_operating_income_per_day_2025": {
+    "value": 204.2063238199685,
+    "unit": "usd per passenger per day",
+    "description": "Viking: operating income per passenger day, 2025"
+  },
+  "carnival_onboard_share_north_america_2025": {
+    "value": 0.38,
+    "unit": "share",
+    "description": "Carnival: onboard share of North America segment revenue, 2025 (10-K text, rounded)"
+  },
+  "carnival_onboard_share_europe_2025": {
+    "value": 0.23,
+    "unit": "share",
+    "description": "Carnival: onboard share of Europe segment revenue, 2025 (10-K text, rounded)"
+  },
+  "royal_caribbean_port_charges_in_ticket_2025": {
+    "value": 1300000000.0,
+    "unit": "usd",
+    "description": "Royal Caribbean: port costs charged to guests inside ticket revenue, 2025 (10-K, rounded)"
+  },
+  "royal_caribbean_port_charges_per_day_2025": {
+    "value": 22.21510161759946,
+    "unit": "usd per passenger per day",
+    "description": "Royal Caribbean: port costs inside the ticket, per passenger day, 2025"
+  },
+  "price_carnival_cheers_onboard": {
+    "value": 89.94,
+    "unit": "usd",
+    "description": "Carnival CHEERS! beverage package bought on board, per person per day, including the service charge (sold for the whole cruise); official page, October 2026"
+  },
+  "price_carnival_cheers_presale": {
+    "value": 83.94,
+    "unit": "usd",
+    "description": "Carnival CHEERS! beverage package bought before the cruise, per person per day, including the service charge; official page, October 2026"
+  },
+  "price_carnival_beer": {
+    "value": 8.0,
+    "unit": "usd",
+    "description": "Carnival, a single beer on board, lowest price in the sample price list; official page, October 2026"
+  },
+  "price_carnival_soda": {
+    "value": 3.0,
+    "unit": "usd",
+    "description": "Carnival, a single soda on board (sample price list); official page, October 2026"
+  },
+  "price_carnival_cheers_drink_cap": {
+    "value": 20.0,
+    "unit": "usd",
+    "description": "Carnival, highest drink price covered by CHEERS!; official page, October 2026"
+  },
+  "price_carnival_soda_package": {
+    "value": 14.38,
+    "unit": "usd",
+    "description": "Carnival Bottomless Bubbles soda package for adults, per person per day, including the service charge; official page, October 2026"
+  },
+  "price_carnival_wifi_social": {
+    "value": 25.0,
+    "unit": "usd",
+    "description": "Carnival Wi-Fi, cheapest plan (Social: social media only), bought on board, per day; official page, October 2026"
+  },
+  "price_carnival_wifi_premium": {
+    "value": 35.0,
+    "unit": "usd",
+    "description": "Carnival Wi-Fi, Premium plan (video streaming), bought on board, per day; official page, October 2026"
+  },
+  "price_carnival_gratuity": {
+    "value": 17.0,
+    "unit": "usd",
+    "description": "Carnival, recommended crew gratuity for a standard cabin, per person per day (added to the onboard account if not prepaid); official page, October 2026"
+  },
+  "price_carnival_service_charge": {
+    "value": 0.2,
+    "unit": "share",
+    "description": "Carnival, service charge added to beverages, specialty restaurants and other paid food; official page, October 2026"
+  },
+  "price_carnival_third_entree": {
+    "value": 5.0,
+    "unit": "usd",
+    "description": "Carnival, charge for a third main course in the main dining room (the second is free); the same page lists what the fare includes and what it doesn't; official page, October 2026"
+  },
+  "price_carnival_steakhouse": {
+    "value": 52.0,
+    "unit": "usd",
+    "description": "Carnival Steakhouse dinner, per adult; official page, October 2026"
+  },
+  "price_royal_caribbean_gratuity": {
+    "value": 18.5,
+    "unit": "usd",
+    "description": "Royal Caribbean, automatic gratuity for a non-suite cabin, per person per day; official page, October 2026"
+  },
+  "price_royal_caribbean_beverage_gratuity": {
+    "value": 0.18,
+    "unit": "share",
+    "description": "Royal Caribbean, automatic gratuity on beverages, beverage packages, specialty dining and room service; official page, October 2026"
+  },
+  "price_royal_caribbean_deluxe_drink_cap": {
+    "value": 14.0,
+    "unit": "usd",
+    "description": "Royal Caribbean, highest drink price covered by the Deluxe Beverage Package (the package price varies by sailing and is not published); official page, October 2026"
+  },
+  "price_norwegian_service_charge": {
+    "value": 20.0,
+    "unit": "usd",
+    "description": "Norwegian, daily service charge for cabins below suite level, per person per day, age 3 and up; official page, October 2026"
+  },
+  "price_norwegian_free_bar_gratuities": {
+    "value": 28.5,
+    "unit": "usd",
+    "description": "Norwegian, gratuities charged per person per day on the \"free\" open bar of the Free at Sea package, for every guest 21 and older in the cabin (pre-cruise price, December 2025 flyer); official page, October 2026"
+  },
+  "royal_caribbean_onboard_booked_before_cruise_2025": {
+    "value": 0.5,
+    "unit": "share",
+    "description": "Royal Caribbean: \"nearly 50%\" of 2025 onboard revenue booked before the cruise (2025 results release, January 29, 2026)"
+  },
+  "carnival_celebration_key_guests": {
+    "value": 1000000.0,
+    "unit": "count",
+    "description": "In 2025, we opened our game-changing new exclusive destination, Celebration Key, Grand Bahama, which has already hosted more than one million guests since its July opening."
+  },
+  "carnival_onboard_per_day_vs_cheers_2025": {
+    "value": 1.006024118777754,
+    "unit": "share",
+    "description": "Carnival: average onboard spending per passenger day, 2025, as a share of a day of the CHEERS! drinks package bought on board"
+  },
+  "carnival_onboard_per_day_in_beers_2025": {
+    "value": 11.3102261553589,
+    "unit": "beers a day",
+    "description": "Carnival: average onboard spending per passenger day, 2025, in single beers at the lowest listed price"
+  },
+  "carnival_gratuity_vs_operating_income_per_day_2025": {
+    "value": 0.38565692616551417,
+    "unit": "share",
+    "description": "Carnival: the recommended daily gratuity as a share of operating income per passenger day, 2025"
+  },
+  "norwegian_service_charge_vs_ticket_per_day_2025": {
+    "value": 0.07559692191611814,
+    "unit": "share",
+    "description": "Norwegian: the standard daily service charge as a share of ticket revenue per passenger day, 2025"
+  }
+}
