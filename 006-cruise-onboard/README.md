@@ -1,6 +1,6 @@
 # #006 · The fare is the bait: what a cruise line earns after you board
 
-**Video:** coming soon
+**Video:** https://youtu.be/1oi9sRjtwVU
 
 ## The answer
 
