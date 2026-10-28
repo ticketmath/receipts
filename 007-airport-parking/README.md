@@ -1,6 +1,6 @@
 # #007 · Parking vs planes: who pays a US airport more, your car or the airlines?
 
-**Video:** coming soon
+**Video:** https://youtu.be/ZUcGKvh1rWg
 
 ## The answer
 
