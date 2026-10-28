@@ -1,0 +1,3227 @@
+{
+  "large_hubs_airports": {
+    "value": 30,
+    "unit": "airports",
+    "description": "Large hubs that filed a Form 127 for fiscal 2025"
+  },
+  "large_hubs_parking_beats_airline_payments": {
+    "value": 2,
+    "unit": "airports",
+    "description": "Large hubs where parking and ground transportation (4.6) beat everything passenger airlines pay (1.6)"
+  },
+  "large_hubs_parking_beats_landing_fees": {
+    "value": 23,
+    "unit": "airports",
+    "description": "Large hubs where parking and ground transportation (4.6) beat passenger airline landing fees (1.1)"
+  },
+  "large_hubs_parking_beats_airlines_plus_cargo": {
+    "value": 2,
+    "unit": "airports",
+    "description": "Large hubs where 4.6 beats 1.6 plus cargo landing fees (2.1) and cargo and hangar rentals (2.4)"
+  },
+  "large_hubs_parking_beats_all_aeronautical": {
+    "value": 2,
+    "unit": "airports",
+    "description": "Large hubs where 4.6 beats all aeronautical revenue (3.0)"
+  },
+  "large_hubs_parking_loses_to_airline_payments": {
+    "value": 28,
+    "unit": "airports",
+    "description": "Large hubs where parking and ground transportation bring in less than everything airlines pay"
+  },
+  "large_hubs_parking": {
+    "value": 4229777792.0,
+    "unit": "usd",
+    "description": "Large hubs, all 30 together: parking and ground transportation (4.6), fiscal 2025"
+  },
+  "large_hubs_landing_fees": {
+    "value": 4355932313.0,
+    "unit": "usd",
+    "description": "Large hubs, all 30 together: passenger airline landing fees (1.1), fiscal 2025"
+  },
+  "large_hubs_terminal_rents": {
+    "value": 6998177246.0,
+    "unit": "usd",
+    "description": "Large hubs, all 30 together: terminal rents paid by airlines (1.2), fiscal 2025"
+  },
+  "large_hubs_airline_payments": {
+    "value": 12286533068.0,
+    "unit": "usd",
+    "description": "Large hubs, all 30 together: everything passenger airlines pay (1.6), fiscal 2025"
+  },
+  "large_hubs_rental_cars": {
+    "value": 1395184939.0,
+    "unit": "usd",
+    "description": "Large hubs, all 30 together: rental cars, without customer facility charges (4.5), fiscal 2025"
+  },
+  "large_hubs_enplanements": {
+    "value": 704057592.0,
+    "unit": "passengers",
+    "description": "Large hubs, all 30 together: enplanements (16.1)"
+  },
+  "large_hubs_parking_per_passenger": {
+    "value": 6.007715618809775,
+    "unit": "usd per enplaned passenger",
+    "description": "Large hubs, all together: parking and ground transportation per enplaned passenger"
+  },
+  "large_hubs_landing_fees_per_passenger": {
+    "value": 6.186897723276024,
+    "unit": "usd per enplaned passenger",
+    "description": "Large hubs, all together: landing fees per enplaned passenger"
+  },
+  "large_hubs_airline_payments_per_passenger": {
+    "value": 17.451034130741963,
+    "unit": "usd per enplaned passenger",
+    "description": "Large hubs, all together: everything passenger airlines pay per enplaned passenger"
+  },
+  "large_hubs_landing_share_of_airline_payments": {
+    "value": 0.3545290025177996,
+    "unit": "share",
+    "description": "Large hubs, all together: landing fees as a share of everything passenger airlines pay"
+  },
+  "bwi_parking": {
+    "value": 106265175.0,
+    "unit": "usd",
+    "description": "BALTIMORE-WASHINGTON INTL (BWI): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "bwi_parking_per_passenger": {
+    "value": 8.199914378111231,
+    "unit": "usd per enplaned passenger",
+    "description": "BALTIMORE-WASHINGTON INTL (BWI): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "bwi_landing_fees": {
+    "value": 58440221.0,
+    "unit": "usd",
+    "description": "BALTIMORE-WASHINGTON INTL (BWI): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "bwi_landing_fees_per_passenger": {
+    "value": 4.509518837548593,
+    "unit": "usd per enplaned passenger",
+    "description": "BALTIMORE-WASHINGTON INTL (BWI): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "bwi_airline_payments": {
+    "value": 149899513.0,
+    "unit": "usd",
+    "description": "BALTIMORE-WASHINGTON INTL (BWI): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "bwi_airline_payments_per_passenger": {
+    "value": 11.566942527696128,
+    "unit": "usd per enplaned passenger",
+    "description": "BALTIMORE-WASHINGTON INTL (BWI): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "bwi_enplanements": {
+    "value": 12959303.0,
+    "unit": "passengers",
+    "description": "BALTIMORE-WASHINGTON INTL (BWI): enplanements (16.1)"
+  },
+  "bwi_cargo_landing_fees": {
+    "value": 5362397.0,
+    "unit": "usd",
+    "description": "BALTIMORE-WASHINGTON INTL (BWI): cargo landing fees (2.1)"
+  },
+  "bwi_all_aeronautical": {
+    "value": 170913630.0,
+    "unit": "usd",
+    "description": "BALTIMORE-WASHINGTON INTL (BWI): all aeronautical revenue (3.0)"
+  },
+  "phl_parking": {
+    "value": 110002102.0,
+    "unit": "usd",
+    "description": "PHILADELPHIA INTL (PHL): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "phl_parking_per_passenger": {
+    "value": 7.150801010921925,
+    "unit": "usd per enplaned passenger",
+    "description": "PHILADELPHIA INTL (PHL): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "phl_landing_fees": {
+    "value": 85765775.0,
+    "unit": "usd",
+    "description": "PHILADELPHIA INTL (PHL): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "phl_landing_fees_per_passenger": {
+    "value": 5.575293375507519,
+    "unit": "usd per enplaned passenger",
+    "description": "PHILADELPHIA INTL (PHL): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "phl_airline_payments": {
+    "value": 251256440.0,
+    "unit": "usd",
+    "description": "PHILADELPHIA INTL (PHL): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "phl_airline_payments_per_passenger": {
+    "value": 16.333186116322068,
+    "unit": "usd per enplaned passenger",
+    "description": "PHILADELPHIA INTL (PHL): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "phl_enplanements": {
+    "value": 15383186.0,
+    "unit": "passengers",
+    "description": "PHILADELPHIA INTL (PHL): enplanements (16.1)"
+  },
+  "phl_cargo_landing_fees": {
+    "value": 10931967.0,
+    "unit": "usd",
+    "description": "PHILADELPHIA INTL (PHL): cargo landing fees (2.1)"
+  },
+  "phl_all_aeronautical": {
+    "value": 284870474.0,
+    "unit": "usd",
+    "description": "PHILADELPHIA INTL (PHL): all aeronautical revenue (3.0)"
+  },
+  "ewr_parking": {
+    "value": 147105044.0,
+    "unit": "usd",
+    "description": "NEWARK INTL (EWR): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "ewr_parking_per_passenger": {
+    "value": 6.229872199676354,
+    "unit": "usd per enplaned passenger",
+    "description": "NEWARK INTL (EWR): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "ewr_landing_fees": {
+    "value": 350320069.0,
+    "unit": "usd",
+    "description": "NEWARK INTL (EWR): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "ewr_landing_fees_per_passenger": {
+    "value": 14.835992019769234,
+    "unit": "usd per enplaned passenger",
+    "description": "NEWARK INTL (EWR): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "ewr_airline_payments": {
+    "value": 834745058.0,
+    "unit": "usd",
+    "description": "NEWARK INTL (EWR): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "ewr_airline_payments_per_passenger": {
+    "value": 35.35130332207661,
+    "unit": "usd per enplaned passenger",
+    "description": "NEWARK INTL (EWR): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "ewr_enplanements": {
+    "value": 23612851.0,
+    "unit": "passengers",
+    "description": "NEWARK INTL (EWR): enplanements (16.1)"
+  },
+  "ewr_cargo_landing_fees": {
+    "value": 27709573.0,
+    "unit": "usd",
+    "description": "NEWARK INTL (EWR): cargo landing fees (2.1)"
+  },
+  "ewr_all_aeronautical": {
+    "value": 1043335220.0,
+    "unit": "usd",
+    "description": "NEWARK INTL (EWR): all aeronautical revenue (3.0)"
+  },
+  "iad_parking": {
+    "value": 127636704.0,
+    "unit": "usd",
+    "description": "WASHINGTON DULLES INTERNATI (IAD): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "iad_parking_per_passenger": {
+    "value": 8.922432184723442,
+    "unit": "usd per enplaned passenger",
+    "description": "WASHINGTON DULLES INTERNATI (IAD): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "iad_landing_fees": {
+    "value": 40467925.0,
+    "unit": "usd",
+    "description": "WASHINGTON DULLES INTERNATI (IAD): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "iad_landing_fees_per_passenger": {
+    "value": 2.82890661661848,
+    "unit": "usd per enplaned passenger",
+    "description": "WASHINGTON DULLES INTERNATI (IAD): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "iad_airline_payments": {
+    "value": 136763041.0,
+    "unit": "usd",
+    "description": "WASHINGTON DULLES INTERNATI (IAD): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "iad_airline_payments_per_passenger": {
+    "value": 9.560407942679653,
+    "unit": "usd per enplaned passenger",
+    "description": "WASHINGTON DULLES INTERNATI (IAD): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "iad_enplanements": {
+    "value": 14305147.0,
+    "unit": "passengers",
+    "description": "WASHINGTON DULLES INTERNATI (IAD): enplanements (16.1)"
+  },
+  "iad_cargo_landing_fees": {
+    "value": 798451.0,
+    "unit": "usd",
+    "description": "WASHINGTON DULLES INTERNATI (IAD): cargo landing fees (2.1)"
+  },
+  "iad_all_aeronautical": {
+    "value": 196378522.0,
+    "unit": "usd",
+    "description": "WASHINGTON DULLES INTERNATI (IAD): all aeronautical revenue (3.0)"
+  },
+  "dca_parking": {
+    "value": 109006547.0,
+    "unit": "usd",
+    "description": "RONALD REAGAN WASHINGTON NATIONAL (DCA): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "dca_parking_per_passenger": {
+    "value": 8.751837133115316,
+    "unit": "usd per enplaned passenger",
+    "description": "RONALD REAGAN WASHINGTON NATIONAL (DCA): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "dca_landing_fees": {
+    "value": 36259385.0,
+    "unit": "usd",
+    "description": "RONALD REAGAN WASHINGTON NATIONAL (DCA): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "dca_landing_fees_per_passenger": {
+    "value": 2.911166721636678,
+    "unit": "usd per enplaned passenger",
+    "description": "RONALD REAGAN WASHINGTON NATIONAL (DCA): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "dca_airline_payments": {
+    "value": 93248252.0,
+    "unit": "usd",
+    "description": "RONALD REAGAN WASHINGTON NATIONAL (DCA): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "dca_airline_payments_per_passenger": {
+    "value": 7.486646783258757,
+    "unit": "usd per enplaned passenger",
+    "description": "RONALD REAGAN WASHINGTON NATIONAL (DCA): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "dca_enplanements": {
+    "value": 12455276.0,
+    "unit": "passengers",
+    "description": "RONALD REAGAN WASHINGTON NATIONAL (DCA): enplanements (16.1)"
+  },
+  "dca_cargo_landing_fees": {
+    "value": 0,
+    "unit": "usd",
+    "description": "RONALD REAGAN WASHINGTON NATIONAL (DCA): cargo landing fees (2.1)"
+  },
+  "dca_all_aeronautical": {
+    "value": 97576656.0,
+    "unit": "usd",
+    "description": "RONALD REAGAN WASHINGTON NATIONAL (DCA): all aeronautical revenue (3.0)"
+  },
+  "lga_parking": {
+    "value": 95048816.0,
+    "unit": "usd",
+    "description": "LAGUARDIA (LGA): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "lga_parking_per_passenger": {
+    "value": 5.797774993021844,
+    "unit": "usd per enplaned passenger",
+    "description": "LAGUARDIA (LGA): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "lga_landing_fees": {
+    "value": 323350065.0,
+    "unit": "usd",
+    "description": "LAGUARDIA (LGA): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "lga_landing_fees_per_passenger": {
+    "value": 19.723664110124083,
+    "unit": "usd per enplaned passenger",
+    "description": "LAGUARDIA (LGA): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "lga_airline_payments": {
+    "value": 391704070.0,
+    "unit": "usd",
+    "description": "LAGUARDIA (LGA): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "lga_airline_payments_per_passenger": {
+    "value": 23.893112584494244,
+    "unit": "usd per enplaned passenger",
+    "description": "LAGUARDIA (LGA): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "lga_enplanements": {
+    "value": 16394016.0,
+    "unit": "passengers",
+    "description": "LAGUARDIA (LGA): enplanements (16.1)"
+  },
+  "lga_cargo_landing_fees": {
+    "value": 0,
+    "unit": "usd",
+    "description": "LAGUARDIA (LGA): cargo landing fees (2.1)"
+  },
+  "lga_all_aeronautical": {
+    "value": 430306342.0,
+    "unit": "usd",
+    "description": "LAGUARDIA (LGA): all aeronautical revenue (3.0)"
+  },
+  "jfk_parking": {
+    "value": 130178067.0,
+    "unit": "usd",
+    "description": "JOHN F KENNEDY INTL (JFK): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "jfk_parking_per_passenger": {
+    "value": 4.17119263916155,
+    "unit": "usd per enplaned passenger",
+    "description": "JOHN F KENNEDY INTL (JFK): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "jfk_landing_fees": {
+    "value": 426152968.0,
+    "unit": "usd",
+    "description": "JOHN F KENNEDY INTL (JFK): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "jfk_landing_fees_per_passenger": {
+    "value": 13.654881841796342,
+    "unit": "usd per enplaned passenger",
+    "description": "JOHN F KENNEDY INTL (JFK): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "jfk_airline_payments": {
+    "value": 1197614617.0,
+    "unit": "usd",
+    "description": "JOHN F KENNEDY INTL (JFK): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "jfk_airline_payments_per_passenger": {
+    "value": 38.37421610341379,
+    "unit": "usd per enplaned passenger",
+    "description": "JOHN F KENNEDY INTL (JFK): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "jfk_enplanements": {
+    "value": 31208836.0,
+    "unit": "passengers",
+    "description": "JOHN F KENNEDY INTL (JFK): enplanements (16.1)"
+  },
+  "jfk_cargo_landing_fees": {
+    "value": 30994605.0,
+    "unit": "usd",
+    "description": "JOHN F KENNEDY INTL (JFK): cargo landing fees (2.1)"
+  },
+  "jfk_all_aeronautical": {
+    "value": 1576633735.0,
+    "unit": "usd",
+    "description": "JOHN F KENNEDY INTL (JFK): all aeronautical revenue (3.0)"
+  },
+  "msp_parking": {
+    "value": 157957251.0,
+    "unit": "usd",
+    "description": "MINNEAPOLIS-ST PAUL INTL (MSP): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "msp_parking_per_passenger": {
+    "value": 9.044299401294293,
+    "unit": "usd per enplaned passenger",
+    "description": "MINNEAPOLIS-ST PAUL INTL (MSP): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "msp_landing_fees": {
+    "value": 122468015.0,
+    "unit": "usd",
+    "description": "MINNEAPOLIS-ST PAUL INTL (MSP): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "msp_landing_fees_per_passenger": {
+    "value": 7.012260518146143,
+    "unit": "usd per enplaned passenger",
+    "description": "MINNEAPOLIS-ST PAUL INTL (MSP): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "msp_airline_payments": {
+    "value": 221988158.0,
+    "unit": "usd",
+    "description": "MINNEAPOLIS-ST PAUL INTL (MSP): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "msp_airline_payments_per_passenger": {
+    "value": 12.710574233112114,
+    "unit": "usd per enplaned passenger",
+    "description": "MINNEAPOLIS-ST PAUL INTL (MSP): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "msp_enplanements": {
+    "value": 17464841.0,
+    "unit": "passengers",
+    "description": "MINNEAPOLIS-ST PAUL INTL (MSP): enplanements (16.1)"
+  },
+  "msp_cargo_landing_fees": {
+    "value": 4452259.0,
+    "unit": "usd",
+    "description": "MINNEAPOLIS-ST PAUL INTL (MSP): cargo landing fees (2.1)"
+  },
+  "msp_all_aeronautical": {
+    "value": 249048315.0,
+    "unit": "usd",
+    "description": "MINNEAPOLIS-ST PAUL INTL (MSP): all aeronautical revenue (3.0)"
+  },
+  "dtw_parking": {
+    "value": 124285379.0,
+    "unit": "usd",
+    "description": "DETROIT METRO WAYNE (DTW): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "dtw_parking_per_passenger": {
+    "value": 7.457580337129486,
+    "unit": "usd per enplaned passenger",
+    "description": "DETROIT METRO WAYNE (DTW): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "dtw_landing_fees": {
+    "value": 78291698.0,
+    "unit": "usd",
+    "description": "DETROIT METRO WAYNE (DTW): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "dtw_landing_fees_per_passenger": {
+    "value": 4.697790136402769,
+    "unit": "usd per enplaned passenger",
+    "description": "DETROIT METRO WAYNE (DTW): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "dtw_airline_payments": {
+    "value": 200153032.0,
+    "unit": "usd",
+    "description": "DETROIT METRO WAYNE (DTW): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "dtw_airline_payments_per_passenger": {
+    "value": 12.00991884862055,
+    "unit": "usd per enplaned passenger",
+    "description": "DETROIT METRO WAYNE (DTW): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "dtw_enplanements": {
+    "value": 16665644.0,
+    "unit": "passengers",
+    "description": "DETROIT METRO WAYNE (DTW): enplanements (16.1)"
+  },
+  "dtw_cargo_landing_fees": {
+    "value": 1984604.0,
+    "unit": "usd",
+    "description": "DETROIT METRO WAYNE (DTW): cargo landing fees (2.1)"
+  },
+  "dtw_all_aeronautical": {
+    "value": 212349484.0,
+    "unit": "usd",
+    "description": "DETROIT METRO WAYNE (DTW): all aeronautical revenue (3.0)"
+  },
+  "mdw_parking": {
+    "value": 35727030.0,
+    "unit": "usd",
+    "description": "CHICAGO MIDWAY INTERNATIONAL (MDW): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "mdw_parking_per_passenger": {
+    "value": 3.697766644800454,
+    "unit": "usd per enplaned passenger",
+    "description": "CHICAGO MIDWAY INTERNATIONAL (MDW): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "mdw_landing_fees": {
+    "value": 97532046.0,
+    "unit": "usd",
+    "description": "CHICAGO MIDWAY INTERNATIONAL (MDW): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "mdw_landing_fees_per_passenger": {
+    "value": 10.094618738191883,
+    "unit": "usd per enplaned passenger",
+    "description": "CHICAGO MIDWAY INTERNATIONAL (MDW): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "mdw_airline_payments": {
+    "value": 184948324.0,
+    "unit": "usd",
+    "description": "CHICAGO MIDWAY INTERNATIONAL (MDW): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "mdw_airline_payments_per_passenger": {
+    "value": 19.142250097445753,
+    "unit": "usd per enplaned passenger",
+    "description": "CHICAGO MIDWAY INTERNATIONAL (MDW): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "mdw_enplanements": {
+    "value": 9661786.0,
+    "unit": "passengers",
+    "description": "CHICAGO MIDWAY INTERNATIONAL (MDW): enplanements (16.1)"
+  },
+  "mdw_cargo_landing_fees": {
+    "value": 0,
+    "unit": "usd",
+    "description": "CHICAGO MIDWAY INTERNATIONAL (MDW): cargo landing fees (2.1)"
+  },
+  "mdw_all_aeronautical": {
+    "value": 237725490.0,
+    "unit": "usd",
+    "description": "CHICAGO MIDWAY INTERNATIONAL (MDW): all aeronautical revenue (3.0)"
+  },
+  "ord_parking": {
+    "value": 136914891.0,
+    "unit": "usd",
+    "description": "CHICAGO OHARE INTL (ORD): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "ord_parking_per_passenger": {
+    "value": 3.2354224918319194,
+    "unit": "usd per enplaned passenger",
+    "description": "CHICAGO OHARE INTL (ORD): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "ord_landing_fees": {
+    "value": 734707877.0,
+    "unit": "usd",
+    "description": "CHICAGO OHARE INTL (ORD): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "ord_landing_fees_per_passenger": {
+    "value": 17.361810485404977,
+    "unit": "usd per enplaned passenger",
+    "description": "CHICAGO OHARE INTL (ORD): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "ord_airline_payments": {
+    "value": 1262610934.0,
+    "unit": "usd",
+    "description": "CHICAGO OHARE INTL (ORD): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "ord_airline_payments_per_passenger": {
+    "value": 29.836636354598618,
+    "unit": "usd per enplaned passenger",
+    "description": "CHICAGO OHARE INTL (ORD): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "ord_enplanements": {
+    "value": 42317469.0,
+    "unit": "passengers",
+    "description": "CHICAGO OHARE INTL (ORD): enplanements (16.1)"
+  },
+  "ord_cargo_landing_fees": {
+    "value": 0,
+    "unit": "usd",
+    "description": "CHICAGO OHARE INTL (ORD): cargo landing fees (2.1)"
+  },
+  "ord_all_aeronautical": {
+    "value": 1308277609.0,
+    "unit": "usd",
+    "description": "CHICAGO OHARE INTL (ORD): all aeronautical revenue (3.0)"
+  },
+  "bos_parking": {
+    "value": 264609157.0,
+    "unit": "usd",
+    "description": "GENERAL EDWARD LAWRENCE LOGAN (BOS): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "bos_parking_per_passenger": {
+    "value": 12.125022573252236,
+    "unit": "usd per enplaned passenger",
+    "description": "GENERAL EDWARD LAWRENCE LOGAN (BOS): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "bos_landing_fees": {
+    "value": 166763518.0,
+    "unit": "usd",
+    "description": "GENERAL EDWARD LAWRENCE LOGAN (BOS): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "bos_landing_fees_per_passenger": {
+    "value": 7.641502066933215,
+    "unit": "usd per enplaned passenger",
+    "description": "GENERAL EDWARD LAWRENCE LOGAN (BOS): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "bos_airline_payments": {
+    "value": 512823302.0,
+    "unit": "usd",
+    "description": "GENERAL EDWARD LAWRENCE LOGAN (BOS): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "bos_airline_payments_per_passenger": {
+    "value": 23.498786600343347,
+    "unit": "usd per enplaned passenger",
+    "description": "GENERAL EDWARD LAWRENCE LOGAN (BOS): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "bos_enplanements": {
+    "value": 21823395.0,
+    "unit": "passengers",
+    "description": "GENERAL EDWARD LAWRENCE LOGAN (BOS): enplanements (16.1)"
+  },
+  "bos_cargo_landing_fees": {
+    "value": 5678057.0,
+    "unit": "usd",
+    "description": "GENERAL EDWARD LAWRENCE LOGAN (BOS): cargo landing fees (2.1)"
+  },
+  "bos_all_aeronautical": {
+    "value": 588806740.0,
+    "unit": "usd",
+    "description": "GENERAL EDWARD LAWRENCE LOGAN (BOS): all aeronautical revenue (3.0)"
+  },
+  "sea_parking": {
+    "value": 153834133.0,
+    "unit": "usd",
+    "description": "SEATTLE-TACOMA INTL (SEA): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "sea_parking_per_passenger": {
+    "value": 5.845487914133408,
+    "unit": "usd per enplaned passenger",
+    "description": "SEATTLE-TACOMA INTL (SEA): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "sea_landing_fees": {
+    "value": 147886987.0,
+    "unit": "usd",
+    "description": "SEATTLE-TACOMA INTL (SEA): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "sea_landing_fees_per_passenger": {
+    "value": 5.619504451369739,
+    "unit": "usd per enplaned passenger",
+    "description": "SEATTLE-TACOMA INTL (SEA): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "sea_airline_payments": {
+    "value": 501609430.0,
+    "unit": "usd",
+    "description": "SEATTLE-TACOMA INTL (SEA): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "sea_airline_payments_per_passenger": {
+    "value": 19.060476394275565,
+    "unit": "usd per enplaned passenger",
+    "description": "SEATTLE-TACOMA INTL (SEA): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "sea_enplanements": {
+    "value": 26316731.0,
+    "unit": "passengers",
+    "description": "SEATTLE-TACOMA INTL (SEA): enplanements (16.1)"
+  },
+  "sea_cargo_landing_fees": {
+    "value": 12331245.0,
+    "unit": "usd",
+    "description": "SEATTLE-TACOMA INTL (SEA): cargo landing fees (2.1)"
+  },
+  "sea_all_aeronautical": {
+    "value": 545307095.0,
+    "unit": "usd",
+    "description": "SEATTLE-TACOMA INTL (SEA): all aeronautical revenue (3.0)"
+  },
+  "slc_parking": {
+    "value": 82627688.0,
+    "unit": "usd",
+    "description": "SALT LAKE CITY INTL (SLC): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "slc_parking_per_passenger": {
+    "value": 5.942076971862187,
+    "unit": "usd per enplaned passenger",
+    "description": "SALT LAKE CITY INTL (SLC): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "slc_landing_fees": {
+    "value": 79745820.0,
+    "unit": "usd",
+    "description": "SALT LAKE CITY INTL (SLC): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "slc_landing_fees_per_passenger": {
+    "value": 5.734830685620382,
+    "unit": "usd per enplaned passenger",
+    "description": "SALT LAKE CITY INTL (SLC): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "slc_airline_payments": {
+    "value": 267750282.0,
+    "unit": "usd",
+    "description": "SALT LAKE CITY INTL (SLC): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "slc_airline_payments_per_passenger": {
+    "value": 19.254959486241546,
+    "unit": "usd per enplaned passenger",
+    "description": "SALT LAKE CITY INTL (SLC): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "slc_enplanements": {
+    "value": 13905523.0,
+    "unit": "passengers",
+    "description": "SALT LAKE CITY INTL (SLC): enplanements (16.1)"
+  },
+  "slc_cargo_landing_fees": {
+    "value": 5158771.0,
+    "unit": "usd",
+    "description": "SALT LAKE CITY INTL (SLC): cargo landing fees (2.1)"
+  },
+  "slc_all_aeronautical": {
+    "value": 286574191.0,
+    "unit": "usd",
+    "description": "SALT LAKE CITY INTL (SLC): all aeronautical revenue (3.0)"
+  },
+  "den_parking": {
+    "value": 276752959.0,
+    "unit": "usd",
+    "description": "DENVER INTL (DEN): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "den_parking_per_passenger": {
+    "value": 6.717462005664404,
+    "unit": "usd per enplaned passenger",
+    "description": "DENVER INTL (DEN): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "den_landing_fees": {
+    "value": 223329772.0,
+    "unit": "usd",
+    "description": "DENVER INTL (DEN): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "den_landing_fees_per_passenger": {
+    "value": 5.420752369060286,
+    "unit": "usd per enplaned passenger",
+    "description": "DENVER INTL (DEN): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "den_airline_payments": {
+    "value": 651087339.0,
+    "unit": "usd",
+    "description": "DENVER INTL (DEN): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "den_airline_payments_per_passenger": {
+    "value": 15.803460522717085,
+    "unit": "usd per enplaned passenger",
+    "description": "DENVER INTL (DEN): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "den_enplanements": {
+    "value": 41199036.0,
+    "unit": "passengers",
+    "description": "DENVER INTL (DEN): enplanements (16.1)"
+  },
+  "den_cargo_landing_fees": {
+    "value": 7821072.0,
+    "unit": "usd",
+    "description": "DENVER INTL (DEN): cargo landing fees (2.1)"
+  },
+  "den_all_aeronautical": {
+    "value": 736985967.0,
+    "unit": "usd",
+    "description": "DENVER INTL (DEN): all aeronautical revenue (3.0)"
+  },
+  "fll_parking": {
+    "value": 76399164.0,
+    "unit": "usd",
+    "description": "FORT LAUDERDALE/ HOLLYWOOD INTL (FLL): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "fll_parking_per_passenger": {
+    "value": 4.708947727273007,
+    "unit": "usd per enplaned passenger",
+    "description": "FORT LAUDERDALE/ HOLLYWOOD INTL (FLL): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "fll_landing_fees": {
+    "value": 32010664.0,
+    "unit": "usd",
+    "description": "FORT LAUDERDALE/ HOLLYWOOD INTL (FLL): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "fll_landing_fees_per_passenger": {
+    "value": 1.9730129964681273,
+    "unit": "usd per enplaned passenger",
+    "description": "FORT LAUDERDALE/ HOLLYWOOD INTL (FLL): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "fll_airline_payments": {
+    "value": 153705463.0,
+    "unit": "usd",
+    "description": "FORT LAUDERDALE/ HOLLYWOOD INTL (FLL): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "fll_airline_payments_per_passenger": {
+    "value": 9.473807732546593,
+    "unit": "usd per enplaned passenger",
+    "description": "FORT LAUDERDALE/ HOLLYWOOD INTL (FLL): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "fll_enplanements": {
+    "value": 16224254.0,
+    "unit": "passengers",
+    "description": "FORT LAUDERDALE/ HOLLYWOOD INTL (FLL): enplanements (16.1)"
+  },
+  "fll_cargo_landing_fees": {
+    "value": 1353560.0,
+    "unit": "usd",
+    "description": "FORT LAUDERDALE/ HOLLYWOOD INTL (FLL): cargo landing fees (2.1)"
+  },
+  "fll_all_aeronautical": {
+    "value": 176187555.0,
+    "unit": "usd",
+    "description": "FORT LAUDERDALE/ HOLLYWOOD INTL (FLL): all aeronautical revenue (3.0)"
+  },
+  "mia_parking": {
+    "value": 81086911.0,
+    "unit": "usd",
+    "description": "MIAMI INTL (MIA): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "mia_parking_per_passenger": {
+    "value": 2.9255033625087856,
+    "unit": "usd per enplaned passenger",
+    "description": "MIAMI INTL (MIA): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "mia_landing_fees": {
+    "value": 57007867.0,
+    "unit": "usd",
+    "description": "MIAMI INTL (MIA): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "mia_landing_fees_per_passenger": {
+    "value": 2.0567648285178066,
+    "unit": "usd per enplaned passenger",
+    "description": "MIAMI INTL (MIA): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "mia_airline_payments": {
+    "value": 488309802.0,
+    "unit": "usd",
+    "description": "MIAMI INTL (MIA): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "mia_airline_payments_per_passenger": {
+    "value": 17.617540859300945,
+    "unit": "usd per enplaned passenger",
+    "description": "MIAMI INTL (MIA): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "mia_enplanements": {
+    "value": 27717251.0,
+    "unit": "passengers",
+    "description": "MIAMI INTL (MIA): enplanements (16.1)"
+  },
+  "mia_cargo_landing_fees": {
+    "value": 20294169.0,
+    "unit": "usd",
+    "description": "MIAMI INTL (MIA): cargo landing fees (2.1)"
+  },
+  "mia_all_aeronautical": {
+    "value": 633982429.0,
+    "unit": "usd",
+    "description": "MIAMI INTL (MIA): all aeronautical revenue (3.0)"
+  },
+  "bna_parking": {
+    "value": 131380157.0,
+    "unit": "usd",
+    "description": "NASHVILLE INTL (BNA): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "bna_parking_per_passenger": {
+    "value": 10.607682462335829,
+    "unit": "usd per enplaned passenger",
+    "description": "NASHVILLE INTL (BNA): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "bna_landing_fees": {
+    "value": 32815270.0,
+    "unit": "usd",
+    "description": "NASHVILLE INTL (BNA): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "bna_landing_fees_per_passenger": {
+    "value": 2.6495170353298865,
+    "unit": "usd per enplaned passenger",
+    "description": "NASHVILLE INTL (BNA): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "bna_airline_payments": {
+    "value": 116522502.0,
+    "unit": "usd",
+    "description": "NASHVILLE INTL (BNA): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "bna_airline_payments_per_passenger": {
+    "value": 9.408069903074416,
+    "unit": "usd per enplaned passenger",
+    "description": "NASHVILLE INTL (BNA): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "bna_enplanements": {
+    "value": 12385378.0,
+    "unit": "passengers",
+    "description": "NASHVILLE INTL (BNA): enplanements (16.1)"
+  },
+  "bna_cargo_landing_fees": {
+    "value": 1041829.0,
+    "unit": "usd",
+    "description": "NASHVILLE INTL (BNA): cargo landing fees (2.1)"
+  },
+  "bna_all_aeronautical": {
+    "value": 124553638.0,
+    "unit": "usd",
+    "description": "NASHVILLE INTL (BNA): all aeronautical revenue (3.0)"
+  },
+  "mco_parking": {
+    "value": 139620087.0,
+    "unit": "usd",
+    "description": "ORLANDO INTL (MCO): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "mco_parking_per_passenger": {
+    "value": 4.923592396344639,
+    "unit": "usd per enplaned passenger",
+    "description": "ORLANDO INTL (MCO): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "mco_landing_fees": {
+    "value": 64065689.0,
+    "unit": "usd",
+    "description": "ORLANDO INTL (MCO): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "mco_landing_fees_per_passenger": {
+    "value": 2.2592260612685364,
+    "unit": "usd per enplaned passenger",
+    "description": "ORLANDO INTL (MCO): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "mco_airline_payments": {
+    "value": 356168395.0,
+    "unit": "usd",
+    "description": "ORLANDO INTL (MCO): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "mco_airline_payments_per_passenger": {
+    "value": 12.559997913769198,
+    "unit": "usd per enplaned passenger",
+    "description": "ORLANDO INTL (MCO): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "mco_enplanements": {
+    "value": 28357361.0,
+    "unit": "passengers",
+    "description": "ORLANDO INTL (MCO): enplanements (16.1)"
+  },
+  "mco_cargo_landing_fees": {
+    "value": 2291279.0,
+    "unit": "usd",
+    "description": "ORLANDO INTL (MCO): cargo landing fees (2.1)"
+  },
+  "mco_all_aeronautical": {
+    "value": 387102211.0,
+    "unit": "usd",
+    "description": "ORLANDO INTL (MCO): all aeronautical revenue (3.0)"
+  },
+  "clt_parking": {
+    "value": 134667994.0,
+    "unit": "usd",
+    "description": "CHARLOTTE/DOUGLAS INTL (CLT): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "clt_parking_per_passenger": {
+    "value": 4.79809007018919,
+    "unit": "usd per enplaned passenger",
+    "description": "CHARLOTTE/DOUGLAS INTL (CLT): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "clt_landing_fees": {
+    "value": 66689772.0,
+    "unit": "usd",
+    "description": "CHARLOTTE/DOUGLAS INTL (CLT): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "clt_landing_fees_per_passenger": {
+    "value": 2.376091922898778,
+    "unit": "usd per enplaned passenger",
+    "description": "CHARLOTTE/DOUGLAS INTL (CLT): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "clt_airline_payments": {
+    "value": 182118642.0,
+    "unit": "usd",
+    "description": "CHARLOTTE/DOUGLAS INTL (CLT): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "clt_airline_payments_per_passenger": {
+    "value": 6.488710656643033,
+    "unit": "usd per enplaned passenger",
+    "description": "CHARLOTTE/DOUGLAS INTL (CLT): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "clt_enplanements": {
+    "value": 28067000.0,
+    "unit": "passengers",
+    "description": "CHARLOTTE/DOUGLAS INTL (CLT): enplanements (16.1)"
+  },
+  "clt_cargo_landing_fees": {
+    "value": 1600304.0,
+    "unit": "usd",
+    "description": "CHARLOTTE/DOUGLAS INTL (CLT): cargo landing fees (2.1)"
+  },
+  "clt_all_aeronautical": {
+    "value": 224037649.0,
+    "unit": "usd",
+    "description": "CHARLOTTE/DOUGLAS INTL (CLT): all aeronautical revenue (3.0)"
+  },
+  "tpa_parking": {
+    "value": 127887978.0,
+    "unit": "usd",
+    "description": "TAMPA INTL (TPA): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "tpa_parking_per_passenger": {
+    "value": 10.432082836729572,
+    "unit": "usd per enplaned passenger",
+    "description": "TAMPA INTL (TPA): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "tpa_landing_fees": {
+    "value": 36891804.0,
+    "unit": "usd",
+    "description": "TAMPA INTL (TPA): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "tpa_landing_fees_per_passenger": {
+    "value": 3.0093395903436,
+    "unit": "usd per enplaned passenger",
+    "description": "TAMPA INTL (TPA): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "tpa_airline_payments": {
+    "value": 156622271.0,
+    "unit": "usd",
+    "description": "TAMPA INTL (TPA): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "tpa_airline_payments_per_passenger": {
+    "value": 12.775997640284121,
+    "unit": "usd per enplaned passenger",
+    "description": "TAMPA INTL (TPA): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "tpa_enplanements": {
+    "value": 12259103.0,
+    "unit": "passengers",
+    "description": "TAMPA INTL (TPA): enplanements (16.1)"
+  },
+  "tpa_cargo_landing_fees": {
+    "value": 1718390.0,
+    "unit": "usd",
+    "description": "TAMPA INTL (TPA): cargo landing fees (2.1)"
+  },
+  "tpa_all_aeronautical": {
+    "value": 177959645.0,
+    "unit": "usd",
+    "description": "TAMPA INTL (TPA): all aeronautical revenue (3.0)"
+  },
+  "atl_parking": {
+    "value": 194167483.0,
+    "unit": "usd",
+    "description": "Hartsfield-Jackson Atlanta International (ATL): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "atl_parking_per_passenger": {
+    "value": 3.636127939654288,
+    "unit": "usd per enplaned passenger",
+    "description": "Hartsfield-Jackson Atlanta International (ATL): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "atl_landing_fees": {
+    "value": 84969434.0,
+    "unit": "usd",
+    "description": "Hartsfield-Jackson Atlanta International (ATL): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "atl_landing_fees_per_passenger": {
+    "value": 1.591202235360959,
+    "unit": "usd per enplaned passenger",
+    "description": "Hartsfield-Jackson Atlanta International (ATL): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "atl_airline_payments": {
+    "value": 239125731.0,
+    "unit": "usd",
+    "description": "Hartsfield-Jackson Atlanta International (ATL): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "atl_airline_payments_per_passenger": {
+    "value": 4.478050279816191,
+    "unit": "usd per enplaned passenger",
+    "description": "Hartsfield-Jackson Atlanta International (ATL): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "atl_enplanements": {
+    "value": 53399519.0,
+    "unit": "passengers",
+    "description": "Hartsfield-Jackson Atlanta International (ATL): enplanements (16.1)"
+  },
+  "atl_cargo_landing_fees": {
+    "value": 4127740.0,
+    "unit": "usd",
+    "description": "Hartsfield-Jackson Atlanta International (ATL): cargo landing fees (2.1)"
+  },
+  "atl_all_aeronautical": {
+    "value": 279083662.0,
+    "unit": "usd",
+    "description": "Hartsfield-Jackson Atlanta International (ATL): all aeronautical revenue (3.0)"
+  },
+  "aus_parking": {
+    "value": 90500357.0,
+    "unit": "usd",
+    "description": "AUSTIN-BERGSTROM INTL (AUS): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "aus_parking_per_passenger": {
+    "value": 8.454488035592039,
+    "unit": "usd per enplaned passenger",
+    "description": "AUSTIN-BERGSTROM INTL (AUS): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "aus_landing_fees": {
+    "value": 59743775.0,
+    "unit": "usd",
+    "description": "AUSTIN-BERGSTROM INTL (AUS): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "aus_landing_fees_per_passenger": {
+    "value": 5.5812269440948485,
+    "unit": "usd per enplaned passenger",
+    "description": "AUSTIN-BERGSTROM INTL (AUS): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "aus_airline_payments": {
+    "value": 172093027.0,
+    "unit": "usd",
+    "description": "AUSTIN-BERGSTROM INTL (AUS): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "aus_airline_payments_per_passenger": {
+    "value": 16.076825396172943,
+    "unit": "usd per enplaned passenger",
+    "description": "AUSTIN-BERGSTROM INTL (AUS): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "aus_enplanements": {
+    "value": 10704416.0,
+    "unit": "passengers",
+    "description": "AUSTIN-BERGSTROM INTL (AUS): enplanements (16.1)"
+  },
+  "aus_cargo_landing_fees": {
+    "value": 3335253.0,
+    "unit": "usd",
+    "description": "AUSTIN-BERGSTROM INTL (AUS): cargo landing fees (2.1)"
+  },
+  "aus_all_aeronautical": {
+    "value": 186215025.0,
+    "unit": "usd",
+    "description": "AUSTIN-BERGSTROM INTL (AUS): all aeronautical revenue (3.0)"
+  },
+  "dfw_parking": {
+    "value": 270960663.0,
+    "unit": "usd",
+    "description": "DALLAS/FORT WORTH INTL (DFW): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "dfw_parking_per_passenger": {
+    "value": 6.290863914640225,
+    "unit": "usd per enplaned passenger",
+    "description": "DALLAS/FORT WORTH INTL (DFW): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "dfw_landing_fees": {
+    "value": 144395268.0,
+    "unit": "usd",
+    "description": "DALLAS/FORT WORTH INTL (DFW): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "dfw_landing_fees_per_passenger": {
+    "value": 3.3524090576424532,
+    "unit": "usd per enplaned passenger",
+    "description": "DALLAS/FORT WORTH INTL (DFW): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "dfw_airline_payments": {
+    "value": 596884468.0,
+    "unit": "usd",
+    "description": "DALLAS/FORT WORTH INTL (DFW): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "dfw_airline_payments_per_passenger": {
+    "value": 13.857801052658438,
+    "unit": "usd per enplaned passenger",
+    "description": "DALLAS/FORT WORTH INTL (DFW): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "dfw_enplanements": {
+    "value": 43072091.0,
+    "unit": "passengers",
+    "description": "DALLAS/FORT WORTH INTL (DFW): enplanements (16.1)"
+  },
+  "dfw_cargo_landing_fees": {
+    "value": 11559857.0,
+    "unit": "usd",
+    "description": "DALLAS/FORT WORTH INTL (DFW): cargo landing fees (2.1)"
+  },
+  "dfw_all_aeronautical": {
+    "value": 639459338.0,
+    "unit": "usd",
+    "description": "DALLAS/FORT WORTH INTL (DFW): all aeronautical revenue (3.0)"
+  },
+  "iah_parking": {
+    "value": 123610159.0,
+    "unit": "usd",
+    "description": "GEORGE BUSH INTERCONTINENTAL (IAH): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "iah_parking_per_passenger": {
+    "value": 5.121121514640274,
+    "unit": "usd per enplaned passenger",
+    "description": "GEORGE BUSH INTERCONTINENTAL (IAH): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "iah_landing_fees": {
+    "value": 66538926.0,
+    "unit": "usd",
+    "description": "GEORGE BUSH INTERCONTINENTAL (IAH): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "iah_landing_fees_per_passenger": {
+    "value": 2.756682203601543,
+    "unit": "usd per enplaned passenger",
+    "description": "GEORGE BUSH INTERCONTINENTAL (IAH): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "iah_airline_payments": {
+    "value": 269540564.0,
+    "unit": "usd",
+    "description": "GEORGE BUSH INTERCONTINENTAL (IAH): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "iah_airline_payments_per_passenger": {
+    "value": 11.166962266982228,
+    "unit": "usd per enplaned passenger",
+    "description": "GEORGE BUSH INTERCONTINENTAL (IAH): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "iah_enplanements": {
+    "value": 24137322.0,
+    "unit": "passengers",
+    "description": "GEORGE BUSH INTERCONTINENTAL (IAH): enplanements (16.1)"
+  },
+  "iah_cargo_landing_fees": {
+    "value": 5025452.0,
+    "unit": "usd",
+    "description": "GEORGE BUSH INTERCONTINENTAL (IAH): cargo landing fees (2.1)"
+  },
+  "iah_all_aeronautical": {
+    "value": 280770402.0,
+    "unit": "usd",
+    "description": "GEORGE BUSH INTERCONTINENTAL (IAH): all aeronautical revenue (3.0)"
+  },
+  "phx_parking": {
+    "value": 177324225.0,
+    "unit": "usd",
+    "description": "PHOENIX SKY HARBOR INTL (PHX): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "phx_parking_per_passenger": {
+    "value": 6.784328459882033,
+    "unit": "usd per enplaned passenger",
+    "description": "PHOENIX SKY HARBOR INTL (PHX): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "phx_landing_fees": {
+    "value": 62214692.0,
+    "unit": "usd",
+    "description": "PHOENIX SKY HARBOR INTL (PHX): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "phx_landing_fees_per_passenger": {
+    "value": 2.3803002977083083,
+    "unit": "usd per enplaned passenger",
+    "description": "PHOENIX SKY HARBOR INTL (PHX): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "phx_airline_payments": {
+    "value": 225384700.0,
+    "unit": "usd",
+    "description": "PHOENIX SKY HARBOR INTL (PHX): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "phx_airline_payments_per_passenger": {
+    "value": 8.623096109017107,
+    "unit": "usd per enplaned passenger",
+    "description": "PHOENIX SKY HARBOR INTL (PHX): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "phx_enplanements": {
+    "value": 26137329.0,
+    "unit": "passengers",
+    "description": "PHOENIX SKY HARBOR INTL (PHX): enplanements (16.1)"
+  },
+  "phx_cargo_landing_fees": {
+    "value": 3937922.0,
+    "unit": "usd",
+    "description": "PHOENIX SKY HARBOR INTL (PHX): cargo landing fees (2.1)"
+  },
+  "phx_all_aeronautical": {
+    "value": 254613206.0,
+    "unit": "usd",
+    "description": "PHOENIX SKY HARBOR INTL (PHX): all aeronautical revenue (3.0)"
+  },
+  "lax_parking": {
+    "value": 228747092.0,
+    "unit": "usd",
+    "description": "LOS ANGELES INTL (LAX): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "lax_parking_per_passenger": {
+    "value": 6.07218519712767,
+    "unit": "usd per enplaned passenger",
+    "description": "LOS ANGELES INTL (LAX): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "lax_landing_fees": {
+    "value": 328576475.0,
+    "unit": "usd",
+    "description": "LOS ANGELES INTL (LAX): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "lax_landing_fees_per_passenger": {
+    "value": 8.722197035052973,
+    "unit": "usd per enplaned passenger",
+    "description": "LOS ANGELES INTL (LAX): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "lax_airline_payments": {
+    "value": 1275199009.0,
+    "unit": "usd",
+    "description": "LOS ANGELES INTL (LAX): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "lax_airline_payments_per_passenger": {
+    "value": 33.85067970980665,
+    "unit": "usd per enplaned passenger",
+    "description": "LOS ANGELES INTL (LAX): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "lax_enplanements": {
+    "value": 37671297.0,
+    "unit": "passengers",
+    "description": "LOS ANGELES INTL (LAX): enplanements (16.1)"
+  },
+  "lax_cargo_landing_fees": {
+    "value": 40039152.0,
+    "unit": "usd",
+    "description": "LOS ANGELES INTL (LAX): cargo landing fees (2.1)"
+  },
+  "lax_all_aeronautical": {
+    "value": 1493127729.0,
+    "unit": "usd",
+    "description": "LOS ANGELES INTL (LAX): all aeronautical revenue (3.0)"
+  },
+  "las_parking": {
+    "value": 109126414.0,
+    "unit": "usd",
+    "description": "HARRY REID INTL (LAS): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "las_parking_per_passenger": {
+    "value": 3.8099713225036003,
+    "unit": "usd per enplaned passenger",
+    "description": "HARRY REID INTL (LAS): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "las_landing_fees": {
+    "value": 38632505.0,
+    "unit": "usd",
+    "description": "HARRY REID INTL (LAS): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "las_landing_fees_per_passenger": {
+    "value": 1.3487911017260859,
+    "unit": "usd per enplaned passenger",
+    "description": "HARRY REID INTL (LAS): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "las_airline_payments": {
+    "value": 204336430.0,
+    "unit": "usd",
+    "description": "HARRY REID INTL (LAS): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "las_airline_payments_per_passenger": {
+    "value": 7.1340742347014565,
+    "unit": "usd per enplaned passenger",
+    "description": "HARRY REID INTL (LAS): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "las_enplanements": {
+    "value": 28642319.0,
+    "unit": "passengers",
+    "description": "HARRY REID INTL (LAS): enplanements (16.1)"
+  },
+  "las_cargo_landing_fees": {
+    "value": 599302.0,
+    "unit": "usd",
+    "description": "HARRY REID INTL (LAS): cargo landing fees (2.1)"
+  },
+  "las_all_aeronautical": {
+    "value": 246071156.0,
+    "unit": "usd",
+    "description": "HARRY REID INTL (LAS): all aeronautical revenue (3.0)"
+  },
+  "san_parking": {
+    "value": 81256686.0,
+    "unit": "usd",
+    "description": "SAN DIEGO INTL (SAN): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "san_parking_per_passenger": {
+    "value": 6.426501581777918,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN DIEGO INTL (SAN): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "san_landing_fees": {
+    "value": 56918652.0,
+    "unit": "usd",
+    "description": "SAN DIEGO INTL (SAN): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "san_landing_fees_per_passenger": {
+    "value": 4.501633343878519,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN DIEGO INTL (SAN): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "san_airline_payments": {
+    "value": 234203999.0,
+    "unit": "usd",
+    "description": "SAN DIEGO INTL (SAN): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "san_airline_payments_per_passenger": {
+    "value": 18.52293570072762,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN DIEGO INTL (SAN): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "san_enplanements": {
+    "value": 12644000.0,
+    "unit": "passengers",
+    "description": "SAN DIEGO INTL (SAN): enplanements (16.1)"
+  },
+  "san_cargo_landing_fees": {
+    "value": 2127505.0,
+    "unit": "usd",
+    "description": "SAN DIEGO INTL (SAN): cargo landing fees (2.1)"
+  },
+  "san_all_aeronautical": {
+    "value": 252374449.0,
+    "unit": "usd",
+    "description": "SAN DIEGO INTL (SAN): all aeronautical revenue (3.0)"
+  },
+  "sfo_parking": {
+    "value": 205091479.0,
+    "unit": "usd",
+    "description": "SAN FRANCISCO INTL (SFO): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "sfo_parking_per_passenger": {
+    "value": 7.6055828929501805,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN FRANCISCO INTL (SFO): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "sfo_landing_fees": {
+    "value": 252979379.0,
+    "unit": "usd",
+    "description": "SAN FRANCISCO INTL (SFO): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "sfo_landing_fees_per_passenger": {
+    "value": 9.381450885102643,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN FRANCISCO INTL (SFO): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "sfo_airline_payments": {
+    "value": 758116273.0,
+    "unit": "usd",
+    "description": "SAN FRANCISCO INTL (SFO): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "sfo_airline_payments_per_passenger": {
+    "value": 28.11387476900466,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN FRANCISCO INTL (SFO): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "sfo_enplanements": {
+    "value": 26965912.0,
+    "unit": "passengers",
+    "description": "SAN FRANCISCO INTL (SFO): enplanements (16.1)"
+  },
+  "sfo_cargo_landing_fees": {
+    "value": 3479535.0,
+    "unit": "usd",
+    "description": "SAN FRANCISCO INTL (SFO): cargo landing fees (2.1)"
+  },
+  "sfo_all_aeronautical": {
+    "value": 849995800.0,
+    "unit": "usd",
+    "description": "SAN FRANCISCO INTL (SFO): all aeronautical revenue (3.0)"
+  },
+  "large_hubs_airports_2019": {
+    "value": 30,
+    "unit": "airports",
+    "description": "Large hubs in the Form 127 for fiscal 2019"
+  },
+  "large_hubs_parking_beats_airline_payments_2019": {
+    "value": 3,
+    "unit": "airports",
+    "description": "Large hubs where 4.6 beats 1.6, fiscal 2019"
+  },
+  "large_hubs_parking_beats_landing_fees_2019": {
+    "value": 22,
+    "unit": "airports",
+    "description": "Large hubs where 4.6 beats 1.1, fiscal 2019"
+  },
+  "large_hubs_airports_2024": {
+    "value": 30,
+    "unit": "airports",
+    "description": "Large hubs in the Form 127 for fiscal 2024"
+  },
+  "large_hubs_parking_beats_airline_payments_2024": {
+    "value": 2,
+    "unit": "airports",
+    "description": "Large hubs where 4.6 beats 1.6, fiscal 2024"
+  },
+  "large_hubs_parking_beats_landing_fees_2024": {
+    "value": 22,
+    "unit": "airports",
+    "description": "Large hubs where 4.6 beats 1.1, fiscal 2024"
+  },
+  "medium_hubs_airports": {
+    "value": 35,
+    "unit": "airports",
+    "description": "Medium hubs that filed a Form 127 for fiscal 2025"
+  },
+  "medium_hubs_parking_beats_airline_payments": {
+    "value": 13,
+    "unit": "airports",
+    "description": "Medium hubs where parking and ground transportation (4.6) beat everything passenger airlines pay (1.6)"
+  },
+  "medium_hubs_parking_beats_landing_fees": {
+    "value": 31,
+    "unit": "airports",
+    "description": "Medium hubs where parking and ground transportation (4.6) beat passenger airline landing fees (1.1)"
+  },
+  "medium_hubs_parking_beats_airlines_plus_cargo": {
+    "value": 9,
+    "unit": "airports",
+    "description": "Medium hubs where 4.6 beats 1.6 plus cargo landing fees (2.1) and cargo and hangar rentals (2.4)"
+  },
+  "medium_hubs_parking_beats_all_aeronautical": {
+    "value": 8,
+    "unit": "airports",
+    "description": "Medium hubs where 4.6 beats all aeronautical revenue (3.0)"
+  },
+  "medium_hubs_parking_loses_to_airline_payments": {
+    "value": 22,
+    "unit": "airports",
+    "description": "Medium hubs where parking and ground transportation bring in less than everything airlines pay"
+  },
+  "medium_hubs_parking": {
+    "value": 1554214659.0,
+    "unit": "usd",
+    "description": "Medium hubs, all 35 together: parking and ground transportation (4.6), fiscal 2025"
+  },
+  "medium_hubs_landing_fees": {
+    "value": 759643306.0,
+    "unit": "usd",
+    "description": "Medium hubs, all 35 together: passenger airline landing fees (1.1), fiscal 2025"
+  },
+  "medium_hubs_terminal_rents": {
+    "value": 1351931867.0,
+    "unit": "usd",
+    "description": "Medium hubs, all 35 together: terminal rents paid by airlines (1.2), fiscal 2025"
+  },
+  "medium_hubs_airline_payments": {
+    "value": 2282383959.0,
+    "unit": "usd",
+    "description": "Medium hubs, all 35 together: everything passenger airlines pay (1.6), fiscal 2025"
+  },
+  "medium_hubs_rental_cars": {
+    "value": 529954777.0,
+    "unit": "usd",
+    "description": "Medium hubs, all 35 together: rental cars, without customer facility charges (4.5), fiscal 2025"
+  },
+  "medium_hubs_enplanements": {
+    "value": 173927594.0,
+    "unit": "passengers",
+    "description": "Medium hubs, all 35 together: enplanements (16.1)"
+  },
+  "medium_hubs_parking_per_passenger": {
+    "value": 8.935986655458478,
+    "unit": "usd per enplaned passenger",
+    "description": "Medium hubs, all together: parking and ground transportation per enplaned passenger"
+  },
+  "medium_hubs_landing_fees_per_passenger": {
+    "value": 4.367583593434864,
+    "unit": "usd per enplaned passenger",
+    "description": "Medium hubs, all together: landing fees per enplaned passenger"
+  },
+  "medium_hubs_airline_payments_per_passenger": {
+    "value": 13.122609854535215,
+    "unit": "usd per enplaned passenger",
+    "description": "Medium hubs, all together: everything passenger airlines pay per enplaned passenger"
+  },
+  "medium_hubs_landing_share_of_airline_payments": {
+    "value": 0.33282888402914856,
+    "unit": "share",
+    "description": "Medium hubs, all together: landing fees as a share of everything passenger airlines pay"
+  },
+  "anc_parking": {
+    "value": 10771173.0,
+    "unit": "usd",
+    "description": "ANCHORAGE INTL (ANC): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "anc_parking_per_passenger": {
+    "value": 4.0309873196778705,
+    "unit": "usd per enplaned passenger",
+    "description": "ANCHORAGE INTL (ANC): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "anc_landing_fees": {
+    "value": 8297467.0,
+    "unit": "usd",
+    "description": "ANCHORAGE INTL (ANC): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "anc_landing_fees_per_passenger": {
+    "value": 3.105231367321422,
+    "unit": "usd per enplaned passenger",
+    "description": "ANCHORAGE INTL (ANC): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "anc_airline_payments": {
+    "value": 34947803.0,
+    "unit": "usd",
+    "description": "ANCHORAGE INTL (ANC): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "anc_airline_payments_per_passenger": {
+    "value": 13.078812376665034,
+    "unit": "usd per enplaned passenger",
+    "description": "ANCHORAGE INTL (ANC): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "anc_enplanements": {
+    "value": 2672093.0,
+    "unit": "passengers",
+    "description": "ANCHORAGE INTL (ANC): enplanements (16.1)"
+  },
+  "anc_cargo_landing_fees": {
+    "value": 61670209.0,
+    "unit": "usd",
+    "description": "ANCHORAGE INTL (ANC): cargo landing fees (2.1)"
+  },
+  "anc_all_aeronautical": {
+    "value": 134465280.0,
+    "unit": "usd",
+    "description": "ANCHORAGE INTL (ANC): all aeronautical revenue (3.0)"
+  },
+  "stl_parking": {
+    "value": 48275771.0,
+    "unit": "usd",
+    "description": "LAMBERT-ST LOUIS INTL (STL): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "stl_parking_per_passenger": {
+    "value": 6.231722530321639,
+    "unit": "usd per enplaned passenger",
+    "description": "LAMBERT-ST LOUIS INTL (STL): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "stl_landing_fees": {
+    "value": 56849786.0,
+    "unit": "usd",
+    "description": "LAMBERT-ST LOUIS INTL (STL): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "stl_landing_fees_per_passenger": {
+    "value": 7.338507183244441,
+    "unit": "usd per enplaned passenger",
+    "description": "LAMBERT-ST LOUIS INTL (STL): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "stl_airline_payments": {
+    "value": 83366327.0,
+    "unit": "usd",
+    "description": "LAMBERT-ST LOUIS INTL (STL): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "stl_airline_payments_per_passenger": {
+    "value": 10.761419392681706,
+    "unit": "usd per enplaned passenger",
+    "description": "LAMBERT-ST LOUIS INTL (STL): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "stl_enplanements": {
+    "value": 7746778.0,
+    "unit": "passengers",
+    "description": "LAMBERT-ST LOUIS INTL (STL): enplanements (16.1)"
+  },
+  "stl_cargo_landing_fees": {
+    "value": 3033654.0,
+    "unit": "usd",
+    "description": "LAMBERT-ST LOUIS INTL (STL): cargo landing fees (2.1)"
+  },
+  "stl_all_aeronautical": {
+    "value": 92208043.0,
+    "unit": "usd",
+    "description": "LAMBERT-ST LOUIS INTL (STL): all aeronautical revenue (3.0)"
+  },
+  "oma_parking": {
+    "value": 40372318.0,
+    "unit": "usd",
+    "description": "EPPLEY AIRFIELD (OMA): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "oma_parking_per_passenger": {
+    "value": 15.470324509457546,
+    "unit": "usd per enplaned passenger",
+    "description": "EPPLEY AIRFIELD (OMA): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "oma_landing_fees": {
+    "value": 12243461.0,
+    "unit": "usd",
+    "description": "EPPLEY AIRFIELD (OMA): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "oma_landing_fees_per_passenger": {
+    "value": 4.6915887957904125,
+    "unit": "usd per enplaned passenger",
+    "description": "EPPLEY AIRFIELD (OMA): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "oma_airline_payments": {
+    "value": 25016770.0,
+    "unit": "usd",
+    "description": "EPPLEY AIRFIELD (OMA): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "oma_airline_payments_per_passenger": {
+    "value": 9.586210781319574,
+    "unit": "usd per enplaned passenger",
+    "description": "EPPLEY AIRFIELD (OMA): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "oma_enplanements": {
+    "value": 2609662.0,
+    "unit": "passengers",
+    "description": "EPPLEY AIRFIELD (OMA): enplanements (16.1)"
+  },
+  "oma_cargo_landing_fees": {
+    "value": 1807480.0,
+    "unit": "usd",
+    "description": "EPPLEY AIRFIELD (OMA): cargo landing fees (2.1)"
+  },
+  "oma_all_aeronautical": {
+    "value": 32427471.0,
+    "unit": "usd",
+    "description": "EPPLEY AIRFIELD (OMA): all aeronautical revenue (3.0)"
+  },
+  "mci_parking": {
+    "value": 77070849.0,
+    "unit": "usd",
+    "description": "KANSAS CITY INTL (MCI): parking and ground transportation (4.6), fiscal year ending 04/30/2025"
+  },
+  "mci_parking_per_passenger": {
+    "value": 13.030504773910467,
+    "unit": "usd per enplaned passenger",
+    "description": "KANSAS CITY INTL (MCI): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "mci_landing_fees": {
+    "value": 25553876.0,
+    "unit": "usd",
+    "description": "KANSAS CITY INTL (MCI): passenger airline landing fees (1.1), fiscal year ending 04/30/2025"
+  },
+  "mci_landing_fees_per_passenger": {
+    "value": 4.320439018518092,
+    "unit": "usd per enplaned passenger",
+    "description": "KANSAS CITY INTL (MCI): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "mci_airline_payments": {
+    "value": 90920517.0,
+    "unit": "usd",
+    "description": "KANSAS CITY INTL (MCI): everything passenger airlines pay (1.6), fiscal year ending 04/30/2025"
+  },
+  "mci_airline_payments_per_passenger": {
+    "value": 15.372092641861359,
+    "unit": "usd per enplaned passenger",
+    "description": "KANSAS CITY INTL (MCI): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "mci_enplanements": {
+    "value": 5914648.0,
+    "unit": "passengers",
+    "description": "KANSAS CITY INTL (MCI): enplanements (16.1)"
+  },
+  "mci_cargo_landing_fees": {
+    "value": 3115274.0,
+    "unit": "usd",
+    "description": "KANSAS CITY INTL (MCI): cargo landing fees (2.1)"
+  },
+  "mci_all_aeronautical": {
+    "value": 95194896.0,
+    "unit": "usd",
+    "description": "KANSAS CITY INTL (MCI): all aeronautical revenue (3.0)"
+  },
+  "pit_parking": {
+    "value": 67567714.0,
+    "unit": "usd",
+    "description": "PITTSBURGH INTERNATIONAL (PIT): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "pit_parking_per_passenger": {
+    "value": 13.736349130161038,
+    "unit": "usd per enplaned passenger",
+    "description": "PITTSBURGH INTERNATIONAL (PIT): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "pit_landing_fees": {
+    "value": 24210026.0,
+    "unit": "usd",
+    "description": "PITTSBURGH INTERNATIONAL (PIT): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "pit_landing_fees_per_passenger": {
+    "value": 4.921838403268699,
+    "unit": "usd per enplaned passenger",
+    "description": "PITTSBURGH INTERNATIONAL (PIT): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "pit_airline_payments": {
+    "value": 79170075.0,
+    "unit": "usd",
+    "description": "PITTSBURGH INTERNATIONAL (PIT): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "pit_airline_payments_per_passenger": {
+    "value": 16.095080423485012,
+    "unit": "usd per enplaned passenger",
+    "description": "PITTSBURGH INTERNATIONAL (PIT): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "pit_enplanements": {
+    "value": 4918899.0,
+    "unit": "passengers",
+    "description": "PITTSBURGH INTERNATIONAL (PIT): enplanements (16.1)"
+  },
+  "pit_cargo_landing_fees": {
+    "value": 2399082.0,
+    "unit": "usd",
+    "description": "PITTSBURGH INTERNATIONAL (PIT): cargo landing fees (2.1)"
+  },
+  "pit_all_aeronautical": {
+    "value": 97150886.0,
+    "unit": "usd",
+    "description": "PITTSBURGH INTERNATIONAL (PIT): all aeronautical revenue (3.0)"
+  },
+  "orf_parking": {
+    "value": 30159804.0,
+    "unit": "usd",
+    "description": "NORFOLK INTERNATIONAL (ORF): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "orf_parking_per_passenger": {
+    "value": 12.389681004720927,
+    "unit": "usd per enplaned passenger",
+    "description": "NORFOLK INTERNATIONAL (ORF): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "orf_landing_fees": {
+    "value": 10385818.0,
+    "unit": "usd",
+    "description": "NORFOLK INTERNATIONAL (ORF): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "orf_landing_fees_per_passenger": {
+    "value": 4.266505577857491,
+    "unit": "usd per enplaned passenger",
+    "description": "NORFOLK INTERNATIONAL (ORF): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "orf_airline_payments": {
+    "value": 25040887.0,
+    "unit": "usd",
+    "description": "NORFOLK INTERNATIONAL (ORF): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "orf_airline_payments_per_passenger": {
+    "value": 10.286824211631586,
+    "unit": "usd per enplaned passenger",
+    "description": "NORFOLK INTERNATIONAL (ORF): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "orf_enplanements": {
+    "value": 2434268.0,
+    "unit": "passengers",
+    "description": "NORFOLK INTERNATIONAL (ORF): enplanements (16.1)"
+  },
+  "orf_cargo_landing_fees": {
+    "value": 471346.0,
+    "unit": "usd",
+    "description": "NORFOLK INTERNATIONAL (ORF): cargo landing fees (2.1)"
+  },
+  "orf_all_aeronautical": {
+    "value": 29731114.0,
+    "unit": "usd",
+    "description": "NORFOLK INTERNATIONAL (ORF): all aeronautical revenue (3.0)"
+  },
+  "mke_parking": {
+    "value": 35641734.0,
+    "unit": "usd",
+    "description": "GENERAL MITCHELL INTL (MKE): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "mke_parking_per_passenger": {
+    "value": 12.157538893533589,
+    "unit": "usd per enplaned passenger",
+    "description": "GENERAL MITCHELL INTL (MKE): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "mke_landing_fees": {
+    "value": 23784294.0,
+    "unit": "usd",
+    "description": "GENERAL MITCHELL INTL (MKE): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "mke_landing_fees_per_passenger": {
+    "value": 8.11291839393217,
+    "unit": "usd per enplaned passenger",
+    "description": "GENERAL MITCHELL INTL (MKE): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "mke_airline_payments": {
+    "value": 26384519.0,
+    "unit": "usd",
+    "description": "GENERAL MITCHELL INTL (MKE): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "mke_airline_payments_per_passenger": {
+    "value": 8.999865605014502,
+    "unit": "usd per enplaned passenger",
+    "description": "GENERAL MITCHELL INTL (MKE): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "mke_enplanements": {
+    "value": 2931657.0,
+    "unit": "passengers",
+    "description": "GENERAL MITCHELL INTL (MKE): enplanements (16.1)"
+  },
+  "mke_cargo_landing_fees": {
+    "value": 2435693.0,
+    "unit": "usd",
+    "description": "GENERAL MITCHELL INTL (MKE): cargo landing fees (2.1)"
+  },
+  "mke_all_aeronautical": {
+    "value": 32428338.0,
+    "unit": "usd",
+    "description": "GENERAL MITCHELL INTL (MKE): all aeronautical revenue (3.0)"
+  },
+  "cmh_parking": {
+    "value": 58447633.0,
+    "unit": "usd",
+    "description": "PORT COLUMBUS INTL (CMH): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "cmh_parking_per_passenger": {
+    "value": 12.977268766012699,
+    "unit": "usd per enplaned passenger",
+    "description": "PORT COLUMBUS INTL (CMH): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "cmh_landing_fees": {
+    "value": 17722368.0,
+    "unit": "usd",
+    "description": "PORT COLUMBUS INTL (CMH): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "cmh_landing_fees_per_passenger": {
+    "value": 3.934940063461303,
+    "unit": "usd per enplaned passenger",
+    "description": "PORT COLUMBUS INTL (CMH): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "cmh_airline_payments": {
+    "value": 41094676.0,
+    "unit": "usd",
+    "description": "PORT COLUMBUS INTL (CMH): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "cmh_airline_payments_per_passenger": {
+    "value": 9.124349916859964,
+    "unit": "usd per enplaned passenger",
+    "description": "PORT COLUMBUS INTL (CMH): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "cmh_enplanements": {
+    "value": 4503847.0,
+    "unit": "passengers",
+    "description": "PORT COLUMBUS INTL (CMH): enplanements (16.1)"
+  },
+  "cmh_cargo_landing_fees": {
+    "value": 17641.0,
+    "unit": "usd",
+    "description": "PORT COLUMBUS INTL (CMH): cargo landing fees (2.1)"
+  },
+  "cmh_all_aeronautical": {
+    "value": 48059453.0,
+    "unit": "usd",
+    "description": "PORT COLUMBUS INTL (CMH): all aeronautical revenue (3.0)"
+  },
+  "cle_parking": {
+    "value": 53818084.0,
+    "unit": "usd",
+    "description": "CLEVELAND-HOPKINS INTL (CLE): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "cle_parking_per_passenger": {
+    "value": 11.01953898111296,
+    "unit": "usd per enplaned passenger",
+    "description": "CLEVELAND-HOPKINS INTL (CLE): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "cle_landing_fees": {
+    "value": 16804458.0,
+    "unit": "usd",
+    "description": "CLEVELAND-HOPKINS INTL (CLE): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "cle_landing_fees_per_passenger": {
+    "value": 3.440802165819867,
+    "unit": "usd per enplaned passenger",
+    "description": "CLEVELAND-HOPKINS INTL (CLE): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "cle_airline_payments": {
+    "value": 60172376.0,
+    "unit": "usd",
+    "description": "CLEVELAND-HOPKINS INTL (CLE): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "cle_airline_payments_per_passenger": {
+    "value": 12.320614069393216,
+    "unit": "usd per enplaned passenger",
+    "description": "CLEVELAND-HOPKINS INTL (CLE): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "cle_enplanements": {
+    "value": 4883878.0,
+    "unit": "passengers",
+    "description": "CLEVELAND-HOPKINS INTL (CLE): enplanements (16.1)"
+  },
+  "cle_cargo_landing_fees": {
+    "value": 1390370.0,
+    "unit": "usd",
+    "description": "CLEVELAND-HOPKINS INTL (CLE): cargo landing fees (2.1)"
+  },
+  "cle_all_aeronautical": {
+    "value": 73639978.0,
+    "unit": "usd",
+    "description": "CLEVELAND-HOPKINS INTL (CLE): all aeronautical revenue (3.0)"
+  },
+  "ind_parking": {
+    "value": 77915557.0,
+    "unit": "usd",
+    "description": "INDIANAPOLIS INTL (IND): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "ind_parking_per_passenger": {
+    "value": 14.700515943573365,
+    "unit": "usd per enplaned passenger",
+    "description": "INDIANAPOLIS INTL (IND): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "ind_landing_fees": {
+    "value": 26362964.0,
+    "unit": "usd",
+    "description": "INDIANAPOLIS INTL (IND): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "ind_landing_fees_per_passenger": {
+    "value": 4.9739639620602425,
+    "unit": "usd per enplaned passenger",
+    "description": "INDIANAPOLIS INTL (IND): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "ind_airline_payments": {
+    "value": 76485456.0,
+    "unit": "usd",
+    "description": "INDIANAPOLIS INTL (IND): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "ind_airline_payments_per_passenger": {
+    "value": 14.430695340848029,
+    "unit": "usd per enplaned passenger",
+    "description": "INDIANAPOLIS INTL (IND): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "ind_enplanements": {
+    "value": 5300192.0,
+    "unit": "passengers",
+    "description": "INDIANAPOLIS INTL (IND): enplanements (16.1)"
+  },
+  "ind_cargo_landing_fees": {
+    "value": 19605511.0,
+    "unit": "usd",
+    "description": "INDIANAPOLIS INTL (IND): cargo landing fees (2.1)"
+  },
+  "ind_all_aeronautical": {
+    "value": 102928921.0,
+    "unit": "usd",
+    "description": "INDIANAPOLIS INTL (IND): all aeronautical revenue (3.0)"
+  },
+  "bdl_parking": {
+    "value": 43836031.0,
+    "unit": "usd",
+    "description": "BRADLEY INTL (BDL): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "bdl_parking_per_passenger": {
+    "value": 12.97447195422296,
+    "unit": "usd per enplaned passenger",
+    "description": "BRADLEY INTL (BDL): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "bdl_landing_fees": {
+    "value": 19674091.0,
+    "unit": "usd",
+    "description": "BRADLEY INTL (BDL): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "bdl_landing_fees_per_passenger": {
+    "value": 5.823085167184281,
+    "unit": "usd per enplaned passenger",
+    "description": "BRADLEY INTL (BDL): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "bdl_airline_payments": {
+    "value": 25763207.0,
+    "unit": "usd",
+    "description": "BRADLEY INTL (BDL): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "bdl_airline_payments_per_passenger": {
+    "value": 7.625325538079409,
+    "unit": "usd per enplaned passenger",
+    "description": "BRADLEY INTL (BDL): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "bdl_enplanements": {
+    "value": 3378637.0,
+    "unit": "passengers",
+    "description": "BRADLEY INTL (BDL): enplanements (16.1)"
+  },
+  "bdl_cargo_landing_fees": {
+    "value": 5854453.0,
+    "unit": "usd",
+    "description": "BRADLEY INTL (BDL): cargo landing fees (2.1)"
+  },
+  "bdl_all_aeronautical": {
+    "value": 43941553.0,
+    "unit": "usd",
+    "description": "BRADLEY INTL (BDL): all aeronautical revenue (3.0)"
+  },
+  "boi_parking": {
+    "value": 25082299.0,
+    "unit": "usd",
+    "description": "BOISE AIR TERMINAL/GOWEN FIELD (BOI): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "boi_parking_per_passenger": {
+    "value": 9.625635845836623,
+    "unit": "usd per enplaned passenger",
+    "description": "BOISE AIR TERMINAL/GOWEN FIELD (BOI): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "boi_landing_fees": {
+    "value": 13994514.0,
+    "unit": "usd",
+    "description": "BOISE AIR TERMINAL/GOWEN FIELD (BOI): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "boi_landing_fees_per_passenger": {
+    "value": 5.370564141806238,
+    "unit": "usd per enplaned passenger",
+    "description": "BOISE AIR TERMINAL/GOWEN FIELD (BOI): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "boi_airline_payments": {
+    "value": 20448976.0,
+    "unit": "usd",
+    "description": "BOISE AIR TERMINAL/GOWEN FIELD (BOI): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "boi_airline_payments_per_passenger": {
+    "value": 7.847542061286041,
+    "unit": "usd per enplaned passenger",
+    "description": "BOISE AIR TERMINAL/GOWEN FIELD (BOI): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "boi_enplanements": {
+    "value": 2605781.0,
+    "unit": "passengers",
+    "description": "BOISE AIR TERMINAL/GOWEN FIELD (BOI): enplanements (16.1)"
+  },
+  "boi_cargo_landing_fees": {
+    "value": 1737258.0,
+    "unit": "usd",
+    "description": "BOISE AIR TERMINAL/GOWEN FIELD (BOI): cargo landing fees (2.1)"
+  },
+  "boi_all_aeronautical": {
+    "value": 24555390.0,
+    "unit": "usd",
+    "description": "BOISE AIR TERMINAL/GOWEN FIELD (BOI): all aeronautical revenue (3.0)"
+  },
+  "pdx_parking": {
+    "value": 98390804.0,
+    "unit": "usd",
+    "description": "PORTLAND INTL (PDX): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "pdx_parking_per_passenger": {
+    "value": 10.87303418938485,
+    "unit": "usd per enplaned passenger",
+    "description": "PORTLAND INTL (PDX): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "pdx_landing_fees": {
+    "value": 39718976.0,
+    "unit": "usd",
+    "description": "PORTLAND INTL (PDX): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "pdx_landing_fees_per_passenger": {
+    "value": 4.389290121212509,
+    "unit": "usd per enplaned passenger",
+    "description": "PORTLAND INTL (PDX): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "pdx_airline_payments": {
+    "value": 214295730.0,
+    "unit": "usd",
+    "description": "PORTLAND INTL (PDX): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "pdx_airline_payments_per_passenger": {
+    "value": 23.68153022643442,
+    "unit": "usd per enplaned passenger",
+    "description": "PORTLAND INTL (PDX): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "pdx_enplanements": {
+    "value": 9049066.0,
+    "unit": "passengers",
+    "description": "PORTLAND INTL (PDX): enplanements (16.1)"
+  },
+  "pdx_cargo_landing_fees": {
+    "value": 7511198.0,
+    "unit": "usd",
+    "description": "PORTLAND INTL (PDX): cargo landing fees (2.1)"
+  },
+  "pdx_all_aeronautical": {
+    "value": 239159800.0,
+    "unit": "usd",
+    "description": "PORTLAND INTL (PDX): all aeronautical revenue (3.0)"
+  },
+  "mem_parking": {
+    "value": 29823000.0,
+    "unit": "usd",
+    "description": "MEMPHIS INTL (MEM): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "mem_parking_per_passenger": {
+    "value": 12.54961797368885,
+    "unit": "usd per enplaned passenger",
+    "description": "MEMPHIS INTL (MEM): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "mem_landing_fees": {
+    "value": 6644000.0,
+    "unit": "usd",
+    "description": "MEMPHIS INTL (MEM): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "mem_landing_fees_per_passenger": {
+    "value": 2.7958173831334445,
+    "unit": "usd per enplaned passenger",
+    "description": "MEMPHIS INTL (MEM): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "mem_airline_payments": {
+    "value": 27768000.0,
+    "unit": "usd",
+    "description": "MEMPHIS INTL (MEM): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "mem_airline_payments_per_passenger": {
+    "value": 11.684867112409616,
+    "unit": "usd per enplaned passenger",
+    "description": "MEMPHIS INTL (MEM): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "mem_enplanements": {
+    "value": 2376407.0,
+    "unit": "passengers",
+    "description": "MEMPHIS INTL (MEM): enplanements (16.1)"
+  },
+  "mem_cargo_landing_fees": {
+    "value": 41490000.0,
+    "unit": "usd",
+    "description": "MEMPHIS INTL (MEM): cargo landing fees (2.1)"
+  },
+  "mem_all_aeronautical": {
+    "value": 88665000.0,
+    "unit": "usd",
+    "description": "MEMPHIS INTL (MEM): all aeronautical revenue (3.0)"
+  },
+  "chs_parking": {
+    "value": 36503400.0,
+    "unit": "usd",
+    "description": "CHARLESTON INTL (CHS): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "chs_parking_per_passenger": {
+    "value": 11.57316683052533,
+    "unit": "usd per enplaned passenger",
+    "description": "CHARLESTON INTL (CHS): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "chs_landing_fees": {
+    "value": 848719.0,
+    "unit": "usd",
+    "description": "CHARLESTON INTL (CHS): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "chs_landing_fees_per_passenger": {
+    "value": 0.26908086861050284,
+    "unit": "usd per enplaned passenger",
+    "description": "CHARLESTON INTL (CHS): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "chs_airline_payments": {
+    "value": 38303351.0,
+    "unit": "usd",
+    "description": "CHARLESTON INTL (CHS): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "chs_airline_payments_per_passenger": {
+    "value": 12.143829651242605,
+    "unit": "usd per enplaned passenger",
+    "description": "CHARLESTON INTL (CHS): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "chs_enplanements": {
+    "value": 3154141.0,
+    "unit": "passengers",
+    "description": "CHARLESTON INTL (CHS): enplanements (16.1)"
+  },
+  "chs_cargo_landing_fees": {
+    "value": 70364.0,
+    "unit": "usd",
+    "description": "CHARLESTON INTL (CHS): cargo landing fees (2.1)"
+  },
+  "chs_all_aeronautical": {
+    "value": 44146240.0,
+    "unit": "usd",
+    "description": "CHARLESTON INTL (CHS): all aeronautical revenue (3.0)"
+  },
+  "pbi_parking": {
+    "value": 26633724.0,
+    "unit": "usd",
+    "description": "PALM BEACH INTL (PBI): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "pbi_parking_per_passenger": {
+    "value": 6.190652886583944,
+    "unit": "usd per enplaned passenger",
+    "description": "PALM BEACH INTL (PBI): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "pbi_landing_fees": {
+    "value": 1263295.0,
+    "unit": "usd",
+    "description": "PALM BEACH INTL (PBI): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "pbi_landing_fees_per_passenger": {
+    "value": 0.2936360247015049,
+    "unit": "usd per enplaned passenger",
+    "description": "PALM BEACH INTL (PBI): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "pbi_airline_payments": {
+    "value": 8131902.0,
+    "unit": "usd",
+    "description": "PALM BEACH INTL (PBI): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "pbi_airline_payments_per_passenger": {
+    "value": 1.8901518461976157,
+    "unit": "usd per enplaned passenger",
+    "description": "PALM BEACH INTL (PBI): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "pbi_enplanements": {
+    "value": 4302248.0,
+    "unit": "passengers",
+    "description": "PALM BEACH INTL (PBI): enplanements (16.1)"
+  },
+  "pbi_cargo_landing_fees": {
+    "value": 502533.0,
+    "unit": "usd",
+    "description": "PALM BEACH INTL (PBI): cargo landing fees (2.1)"
+  },
+  "pbi_all_aeronautical": {
+    "value": 19930197.0,
+    "unit": "usd",
+    "description": "PALM BEACH INTL (PBI): all aeronautical revenue (3.0)"
+  },
+  "sju_parking": {
+    "value": 21589734.0,
+    "unit": "usd",
+    "description": "LUIS MUNOZ MARIN INTL (SJU): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "sju_parking_per_passenger": {
+    "value": 3.174092208000134,
+    "unit": "usd per enplaned passenger",
+    "description": "LUIS MUNOZ MARIN INTL (SJU): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "sju_landing_fees": {
+    "value": 33371081.0,
+    "unit": "usd",
+    "description": "LUIS MUNOZ MARIN INTL (SJU): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "sju_landing_fees_per_passenger": {
+    "value": 4.906169208691563,
+    "unit": "usd per enplaned passenger",
+    "description": "LUIS MUNOZ MARIN INTL (SJU): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "sju_airline_payments": {
+    "value": 76799304.0,
+    "unit": "usd",
+    "description": "LUIS MUNOZ MARIN INTL (SJU): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "sju_airline_payments_per_passenger": {
+    "value": 11.290925233550054,
+    "unit": "usd per enplaned passenger",
+    "description": "LUIS MUNOZ MARIN INTL (SJU): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "sju_enplanements": {
+    "value": 6801861.0,
+    "unit": "passengers",
+    "description": "LUIS MUNOZ MARIN INTL (SJU): enplanements (16.1)"
+  },
+  "sju_cargo_landing_fees": {
+    "value": 0,
+    "unit": "usd",
+    "description": "LUIS MUNOZ MARIN INTL (SJU): cargo landing fees (2.1)"
+  },
+  "sju_all_aeronautical": {
+    "value": 97353313.0,
+    "unit": "usd",
+    "description": "LUIS MUNOZ MARIN INTL (SJU): all aeronautical revenue (3.0)"
+  },
+  "cvg_parking": {
+    "value": 70379882.0,
+    "unit": "usd",
+    "description": "CINCINNATI/NORTHERN KENTUCKY (CVG): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "cvg_parking_per_passenger": {
+    "value": 15.690017961734394,
+    "unit": "usd per enplaned passenger",
+    "description": "CINCINNATI/NORTHERN KENTUCKY (CVG): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "cvg_landing_fees": {
+    "value": 16360513.0,
+    "unit": "usd",
+    "description": "CINCINNATI/NORTHERN KENTUCKY (CVG): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "cvg_landing_fees_per_passenger": {
+    "value": 3.647302830561567,
+    "unit": "usd per enplaned passenger",
+    "description": "CINCINNATI/NORTHERN KENTUCKY (CVG): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "cvg_airline_payments": {
+    "value": 47489031.0,
+    "unit": "usd",
+    "description": "CINCINNATI/NORTHERN KENTUCKY (CVG): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "cvg_airline_payments_per_passenger": {
+    "value": 10.586885459332846,
+    "unit": "usd per enplaned passenger",
+    "description": "CINCINNATI/NORTHERN KENTUCKY (CVG): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "cvg_enplanements": {
+    "value": 4485647.0,
+    "unit": "passengers",
+    "description": "CINCINNATI/NORTHERN KENTUCKY (CVG): enplanements (16.1)"
+  },
+  "cvg_cargo_landing_fees": {
+    "value": 26076603.0,
+    "unit": "usd",
+    "description": "CINCINNATI/NORTHERN KENTUCKY (CVG): cargo landing fees (2.1)"
+  },
+  "cvg_all_aeronautical": {
+    "value": 80496956.0,
+    "unit": "usd",
+    "description": "CINCINNATI/NORTHERN KENTUCKY (CVG): all aeronautical revenue (3.0)"
+  },
+  "jax_parking": {
+    "value": 36264119.0,
+    "unit": "usd",
+    "description": "JACKSONVILLE INTL (JAX): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "jax_parking_per_passenger": {
+    "value": 9.60610159219075,
+    "unit": "usd per enplaned passenger",
+    "description": "JACKSONVILLE INTL (JAX): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "jax_landing_fees": {
+    "value": 15708828.0,
+    "unit": "usd",
+    "description": "JACKSONVILLE INTL (JAX): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "jax_landing_fees_per_passenger": {
+    "value": 4.161154381339049,
+    "unit": "usd per enplaned passenger",
+    "description": "JACKSONVILLE INTL (JAX): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "jax_airline_payments": {
+    "value": 38712203.0,
+    "unit": "usd",
+    "description": "JACKSONVILLE INTL (JAX): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "jax_airline_payments_per_passenger": {
+    "value": 10.254581253594264,
+    "unit": "usd per enplaned passenger",
+    "description": "JACKSONVILLE INTL (JAX): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "jax_enplanements": {
+    "value": 3775113.0,
+    "unit": "passengers",
+    "description": "JACKSONVILLE INTL (JAX): enplanements (16.1)"
+  },
+  "jax_cargo_landing_fees": {
+    "value": 1398213.0,
+    "unit": "usd",
+    "description": "JACKSONVILLE INTL (JAX): cargo landing fees (2.1)"
+  },
+  "jax_all_aeronautical": {
+    "value": 63602284.0,
+    "unit": "usd",
+    "description": "JACKSONVILLE INTL (JAX): all aeronautical revenue (3.0)"
+  },
+  "rdu_parking": {
+    "value": 115923349.0,
+    "unit": "usd",
+    "description": "RALEIGH-DURHAM INTL (RDU): parking and ground transportation (4.6), fiscal year ending 03/31/2025"
+  },
+  "rdu_parking_per_passenger": {
+    "value": 14.89655647876756,
+    "unit": "usd per enplaned passenger",
+    "description": "RALEIGH-DURHAM INTL (RDU): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "rdu_landing_fees": {
+    "value": 22161514.0,
+    "unit": "usd",
+    "description": "RALEIGH-DURHAM INTL (RDU): passenger airline landing fees (1.1), fiscal year ending 03/31/2025"
+  },
+  "rdu_landing_fees_per_passenger": {
+    "value": 2.847832190872936,
+    "unit": "usd per enplaned passenger",
+    "description": "RALEIGH-DURHAM INTL (RDU): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "rdu_airline_payments": {
+    "value": 77023333.0,
+    "unit": "usd",
+    "description": "RALEIGH-DURHAM INTL (RDU): everything passenger airlines pay (1.6), fiscal year ending 03/31/2025"
+  },
+  "rdu_airline_payments_per_passenger": {
+    "value": 9.897768138301638,
+    "unit": "usd per enplaned passenger",
+    "description": "RALEIGH-DURHAM INTL (RDU): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "rdu_enplanements": {
+    "value": 7781889.0,
+    "unit": "passengers",
+    "description": "RALEIGH-DURHAM INTL (RDU): enplanements (16.1)"
+  },
+  "rdu_cargo_landing_fees": {
+    "value": 1341925.0,
+    "unit": "usd",
+    "description": "RALEIGH-DURHAM INTL (RDU): cargo landing fees (2.1)"
+  },
+  "rdu_all_aeronautical": {
+    "value": 89512333.0,
+    "unit": "usd",
+    "description": "RALEIGH-DURHAM INTL (RDU): all aeronautical revenue (3.0)"
+  },
+  "rsw_parking": {
+    "value": 33083676.0,
+    "unit": "usd",
+    "description": "SOUTHWEST FLORIDA INTL (RSW): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "rsw_parking_per_passenger": {
+    "value": 5.986364981122789,
+    "unit": "usd per enplaned passenger",
+    "description": "SOUTHWEST FLORIDA INTL (RSW): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "rsw_landing_fees": {
+    "value": 21599425.0,
+    "unit": "usd",
+    "description": "SOUTHWEST FLORIDA INTL (RSW): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "rsw_landing_fees_per_passenger": {
+    "value": 3.90833356705549,
+    "unit": "usd per enplaned passenger",
+    "description": "SOUTHWEST FLORIDA INTL (RSW): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "rsw_airline_payments": {
+    "value": 72095828.0,
+    "unit": "usd",
+    "description": "SOUTHWEST FLORIDA INTL (RSW): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "rsw_airline_payments_per_passenger": {
+    "value": 13.045465081457449,
+    "unit": "usd per enplaned passenger",
+    "description": "SOUTHWEST FLORIDA INTL (RSW): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "rsw_enplanements": {
+    "value": 5526505.0,
+    "unit": "passengers",
+    "description": "SOUTHWEST FLORIDA INTL (RSW): enplanements (16.1)"
+  },
+  "rsw_cargo_landing_fees": {
+    "value": 682276.0,
+    "unit": "usd",
+    "description": "SOUTHWEST FLORIDA INTL (RSW): cargo landing fees (2.1)"
+  },
+  "rsw_all_aeronautical": {
+    "value": 84691309.0,
+    "unit": "usd",
+    "description": "SOUTHWEST FLORIDA INTL (RSW): all aeronautical revenue (3.0)"
+  },
+  "dal_parking": {
+    "value": 53341939.0,
+    "unit": "usd",
+    "description": "DALLAS LOVE FIELD (DAL): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "dal_parking_per_passenger": {
+    "value": 6.237071788378492,
+    "unit": "usd per enplaned passenger",
+    "description": "DALLAS LOVE FIELD (DAL): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "dal_landing_fees": {
+    "value": 36663353.0,
+    "unit": "usd",
+    "description": "DALLAS LOVE FIELD (DAL): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "dal_landing_fees_per_passenger": {
+    "value": 4.286907618106307,
+    "unit": "usd per enplaned passenger",
+    "description": "DALLAS LOVE FIELD (DAL): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "dal_airline_payments": {
+    "value": 97001841.0,
+    "unit": "usd",
+    "description": "DALLAS LOVE FIELD (DAL): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "dal_airline_payments_per_passenger": {
+    "value": 11.342059498847165,
+    "unit": "usd per enplaned passenger",
+    "description": "DALLAS LOVE FIELD (DAL): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "dal_enplanements": {
+    "value": 8552401.0,
+    "unit": "passengers",
+    "description": "DALLAS LOVE FIELD (DAL): enplanements (16.1)"
+  },
+  "dal_cargo_landing_fees": {
+    "value": 0,
+    "unit": "usd",
+    "description": "DALLAS LOVE FIELD (DAL): cargo landing fees (2.1)"
+  },
+  "dal_all_aeronautical": {
+    "value": 105971173.0,
+    "unit": "usd",
+    "description": "DALLAS LOVE FIELD (DAL): all aeronautical revenue (3.0)"
+  },
+  "abq_parking": {
+    "value": 17148256.0,
+    "unit": "usd",
+    "description": "ALBUQUERQUE INTL (ABQ): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "abq_parking_per_passenger": {
+    "value": 6.401275756556562,
+    "unit": "usd per enplaned passenger",
+    "description": "ALBUQUERQUE INTL (ABQ): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "abq_landing_fees": {
+    "value": 10910840.0,
+    "unit": "usd",
+    "description": "ALBUQUERQUE INTL (ABQ): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "abq_landing_fees_per_passenger": {
+    "value": 4.072909546933962,
+    "unit": "usd per enplaned passenger",
+    "description": "ALBUQUERQUE INTL (ABQ): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "abq_airline_payments": {
+    "value": 24943557.0,
+    "unit": "usd",
+    "description": "ALBUQUERQUE INTL (ABQ): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "abq_airline_payments_per_passenger": {
+    "value": 9.31118515529432,
+    "unit": "usd per enplaned passenger",
+    "description": "ALBUQUERQUE INTL (ABQ): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "abq_enplanements": {
+    "value": 2678881.0,
+    "unit": "passengers",
+    "description": "ALBUQUERQUE INTL (ABQ): enplanements (16.1)"
+  },
+  "abq_cargo_landing_fees": {
+    "value": 1457103.0,
+    "unit": "usd",
+    "description": "ALBUQUERQUE INTL (ABQ): cargo landing fees (2.1)"
+  },
+  "abq_all_aeronautical": {
+    "value": 30975131.0,
+    "unit": "usd",
+    "description": "ALBUQUERQUE INTL (ABQ): all aeronautical revenue (3.0)"
+  },
+  "sat_parking": {
+    "value": 37700809.0,
+    "unit": "usd",
+    "description": "SAN ANTONIO INTL (SAT): parking and ground transportation (4.6), fiscal year ending 09/30/2025"
+  },
+  "sat_parking_per_passenger": {
+    "value": 6.932089960048483,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN ANTONIO INTL (SAT): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "sat_landing_fees": {
+    "value": 18412700.0,
+    "unit": "usd",
+    "description": "SAN ANTONIO INTL (SAT): passenger airline landing fees (1.1), fiscal year ending 09/30/2025"
+  },
+  "sat_landing_fees_per_passenger": {
+    "value": 3.3855637635623337,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN ANTONIO INTL (SAT): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "sat_airline_payments": {
+    "value": 72406026.0,
+    "unit": "usd",
+    "description": "SAN ANTONIO INTL (SAT): everything passenger airlines pay (1.6), fiscal year ending 09/30/2025"
+  },
+  "sat_airline_payments_per_passenger": {
+    "value": 13.313377065240415,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN ANTONIO INTL (SAT): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "sat_enplanements": {
+    "value": 5438592.0,
+    "unit": "passengers",
+    "description": "SAN ANTONIO INTL (SAT): enplanements (16.1)"
+  },
+  "sat_cargo_landing_fees": {
+    "value": 2352967.0,
+    "unit": "usd",
+    "description": "SAN ANTONIO INTL (SAT): cargo landing fees (2.1)"
+  },
+  "sat_all_aeronautical": {
+    "value": 84640774.0,
+    "unit": "usd",
+    "description": "SAN ANTONIO INTL (SAT): all aeronautical revenue (3.0)"
+  },
+  "hou_parking": {
+    "value": 37031310.0,
+    "unit": "usd",
+    "description": "WILLIAM P HOBBY (HOU): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "hou_parking_per_passenger": {
+    "value": 5.288063607599862,
+    "unit": "usd per enplaned passenger",
+    "description": "WILLIAM P HOBBY (HOU): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "hou_landing_fees": {
+    "value": 24748593.0,
+    "unit": "usd",
+    "description": "WILLIAM P HOBBY (HOU): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "hou_landing_fees_per_passenger": {
+    "value": 3.5340940945000514,
+    "unit": "usd per enplaned passenger",
+    "description": "WILLIAM P HOBBY (HOU): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "hou_airline_payments": {
+    "value": 61466462.0,
+    "unit": "usd",
+    "description": "WILLIAM P HOBBY (HOU): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "hou_airline_payments_per_passenger": {
+    "value": 8.77739839044635,
+    "unit": "usd per enplaned passenger",
+    "description": "WILLIAM P HOBBY (HOU): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "hou_enplanements": {
+    "value": 7002811.0,
+    "unit": "passengers",
+    "description": "WILLIAM P HOBBY (HOU): enplanements (16.1)"
+  },
+  "hou_cargo_landing_fees": {
+    "value": 257.0,
+    "unit": "usd",
+    "description": "WILLIAM P HOBBY (HOU): cargo landing fees (2.1)"
+  },
+  "hou_all_aeronautical": {
+    "value": 66971564.0,
+    "unit": "usd",
+    "description": "WILLIAM P HOBBY (HOU): all aeronautical revenue (3.0)"
+  },
+  "msy_parking": {
+    "value": 25689298.0,
+    "unit": "usd",
+    "description": "NEW ORLEANS INTL (MSY): parking and ground transportation (4.6), fiscal year ending 12/31/2025"
+  },
+  "msy_parking_per_passenger": {
+    "value": 4.13162404764187,
+    "unit": "usd per enplaned passenger",
+    "description": "NEW ORLEANS INTL (MSY): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "msy_landing_fees": {
+    "value": 13610575.0,
+    "unit": "usd",
+    "description": "NEW ORLEANS INTL (MSY): passenger airline landing fees (1.1), fiscal year ending 12/31/2025"
+  },
+  "msy_landing_fees_per_passenger": {
+    "value": 2.1889963272734523,
+    "unit": "usd per enplaned passenger",
+    "description": "NEW ORLEANS INTL (MSY): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "msy_airline_payments": {
+    "value": 82604877.0,
+    "unit": "usd",
+    "description": "NEW ORLEANS INTL (MSY): everything passenger airlines pay (1.6), fiscal year ending 12/31/2025"
+  },
+  "msy_airline_payments_per_passenger": {
+    "value": 13.285388190276699,
+    "unit": "usd per enplaned passenger",
+    "description": "NEW ORLEANS INTL (MSY): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "msy_enplanements": {
+    "value": 6217724.0,
+    "unit": "passengers",
+    "description": "NEW ORLEANS INTL (MSY): enplanements (16.1)"
+  },
+  "msy_cargo_landing_fees": {
+    "value": 966945.0,
+    "unit": "usd",
+    "description": "NEW ORLEANS INTL (MSY): cargo landing fees (2.1)"
+  },
+  "msy_all_aeronautical": {
+    "value": 84965544.0,
+    "unit": "usd",
+    "description": "NEW ORLEANS INTL (MSY): all aeronautical revenue (3.0)"
+  },
+  "ont_parking": {
+    "value": 41027139.0,
+    "unit": "usd",
+    "description": "ONTARIO INTL (ONT): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "ont_parking_per_passenger": {
+    "value": 11.586225973425224,
+    "unit": "usd per enplaned passenger",
+    "description": "ONTARIO INTL (ONT): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "ont_landing_fees": {
+    "value": 7947254.0,
+    "unit": "usd",
+    "description": "ONTARIO INTL (ONT): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "ont_landing_fees_per_passenger": {
+    "value": 2.2443358946429948,
+    "unit": "usd per enplaned passenger",
+    "description": "ONTARIO INTL (ONT): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "ont_airline_payments": {
+    "value": 27392418.0,
+    "unit": "usd",
+    "description": "ONTARIO INTL (ONT): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "ont_airline_payments_per_passenger": {
+    "value": 7.735726951531293,
+    "unit": "usd per enplaned passenger",
+    "description": "ONTARIO INTL (ONT): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "ont_enplanements": {
+    "value": 3541027.0,
+    "unit": "passengers",
+    "description": "ONTARIO INTL (ONT): enplanements (16.1)"
+  },
+  "ont_cargo_landing_fees": {
+    "value": 9090905.0,
+    "unit": "usd",
+    "description": "ONTARIO INTL (ONT): cargo landing fees (2.1)"
+  },
+  "ont_all_aeronautical": {
+    "value": 56131671.0,
+    "unit": "usd",
+    "description": "ONTARIO INTL (ONT): all aeronautical revenue (3.0)"
+  },
+  "ogg_parking": {
+    "value": 5695119.0,
+    "unit": "usd",
+    "description": "KAHULUI (OGG): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "ogg_parking_per_passenger": {
+    "value": 1.597530345429616,
+    "unit": "usd per enplaned passenger",
+    "description": "KAHULUI (OGG): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "ogg_landing_fees": {
+    "value": 19548787.0,
+    "unit": "usd",
+    "description": "KAHULUI (OGG): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "ogg_landing_fees_per_passenger": {
+    "value": 5.483604547831219,
+    "unit": "usd per enplaned passenger",
+    "description": "KAHULUI (OGG): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "ogg_airline_payments": {
+    "value": 37600799.0,
+    "unit": "usd",
+    "description": "KAHULUI (OGG): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "ogg_airline_payments_per_passenger": {
+    "value": 10.547350707667313,
+    "unit": "usd per enplaned passenger",
+    "description": "KAHULUI (OGG): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "ogg_enplanements": {
+    "value": 3564952.0,
+    "unit": "passengers",
+    "description": "KAHULUI (OGG): enplanements (16.1)"
+  },
+  "ogg_cargo_landing_fees": {
+    "value": 1579679.0,
+    "unit": "usd",
+    "description": "KAHULUI (OGG): cargo landing fees (2.1)"
+  },
+  "ogg_all_aeronautical": {
+    "value": 42894097.0,
+    "unit": "usd",
+    "description": "KAHULUI (OGG): all aeronautical revenue (3.0)"
+  },
+  "smf_parking": {
+    "value": 81325509.0,
+    "unit": "usd",
+    "description": "SACRAMENTO INTERNATIONAL AIRPORT (SMF): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "smf_parking_per_passenger": {
+    "value": 11.777494720616257,
+    "unit": "usd per enplaned passenger",
+    "description": "SACRAMENTO INTERNATIONAL AIRPORT (SMF): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "smf_landing_fees": {
+    "value": 42661898.0,
+    "unit": "usd",
+    "description": "SACRAMENTO INTERNATIONAL AIRPORT (SMF): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "smf_landing_fees_per_passenger": {
+    "value": 6.178261712035141,
+    "unit": "usd per enplaned passenger",
+    "description": "SACRAMENTO INTERNATIONAL AIRPORT (SMF): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "smf_airline_payments": {
+    "value": 127129521.0,
+    "unit": "usd",
+    "description": "SACRAMENTO INTERNATIONAL AIRPORT (SMF): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "smf_airline_payments_per_passenger": {
+    "value": 18.410794851735556,
+    "unit": "usd per enplaned passenger",
+    "description": "SACRAMENTO INTERNATIONAL AIRPORT (SMF): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "smf_enplanements": {
+    "value": 6905162.0,
+    "unit": "passengers",
+    "description": "SACRAMENTO INTERNATIONAL AIRPORT (SMF): enplanements (16.1)"
+  },
+  "smf_cargo_landing_fees": {
+    "value": 5112274.0,
+    "unit": "usd",
+    "description": "SACRAMENTO INTERNATIONAL AIRPORT (SMF): cargo landing fees (2.1)"
+  },
+  "smf_all_aeronautical": {
+    "value": 139025625.0,
+    "unit": "usd",
+    "description": "SACRAMENTO INTERNATIONAL AIRPORT (SMF): all aeronautical revenue (3.0)"
+  },
+  "oak_parking": {
+    "value": 43109000.0,
+    "unit": "usd",
+    "description": "OAKLAND INTERNATIONAL AIRPORT (OAK): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "oak_parking_per_passenger": {
+    "value": 8.679288132876923,
+    "unit": "usd per enplaned passenger",
+    "description": "OAKLAND INTERNATIONAL AIRPORT (OAK): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "oak_landing_fees": {
+    "value": 29488847.0,
+    "unit": "usd",
+    "description": "OAKLAND INTERNATIONAL AIRPORT (OAK): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "oak_landing_fees_per_passenger": {
+    "value": 5.937094338057558,
+    "unit": "usd per enplaned passenger",
+    "description": "OAKLAND INTERNATIONAL AIRPORT (OAK): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "oak_airline_payments": {
+    "value": 89500320.0,
+    "unit": "usd",
+    "description": "OAKLAND INTERNATIONAL AIRPORT (OAK): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "oak_airline_payments_per_passenger": {
+    "value": 18.019417413177926,
+    "unit": "usd per enplaned passenger",
+    "description": "OAKLAND INTERNATIONAL AIRPORT (OAK): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "oak_enplanements": {
+    "value": 4966882.0,
+    "unit": "passengers",
+    "description": "OAKLAND INTERNATIONAL AIRPORT (OAK): enplanements (16.1)"
+  },
+  "oak_cargo_landing_fees": {
+    "value": 16460391.0,
+    "unit": "usd",
+    "description": "OAKLAND INTERNATIONAL AIRPORT (OAK): cargo landing fees (2.1)"
+  },
+  "oak_all_aeronautical": {
+    "value": 141964121.0,
+    "unit": "usd",
+    "description": "OAKLAND INTERNATIONAL AIRPORT (OAK): all aeronautical revenue (3.0)"
+  },
+  "bur_parking": {
+    "value": 39074967.0,
+    "unit": "usd",
+    "description": "BURBANK-GLENDALE-PASADENA (BUR): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "bur_parking_per_passenger": {
+    "value": 11.915010455945069,
+    "unit": "usd per enplaned passenger",
+    "description": "BURBANK-GLENDALE-PASADENA (BUR): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "bur_landing_fees": {
+    "value": 4089953.0,
+    "unit": "usd",
+    "description": "BURBANK-GLENDALE-PASADENA (BUR): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "bur_landing_fees_per_passenger": {
+    "value": 1.2471368884156422,
+    "unit": "usd per enplaned passenger",
+    "description": "BURBANK-GLENDALE-PASADENA (BUR): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "bur_airline_payments": {
+    "value": 6300578.0,
+    "unit": "usd",
+    "description": "BURBANK-GLENDALE-PASADENA (BUR): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "bur_airline_payments_per_passenger": {
+    "value": 1.921216024277064,
+    "unit": "usd per enplaned passenger",
+    "description": "BURBANK-GLENDALE-PASADENA (BUR): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "bur_enplanements": {
+    "value": 3279474.0,
+    "unit": "passengers",
+    "description": "BURBANK-GLENDALE-PASADENA (BUR): enplanements (16.1)"
+  },
+  "bur_cargo_landing_fees": {
+    "value": 344317.0,
+    "unit": "usd",
+    "description": "BURBANK-GLENDALE-PASADENA (BUR): cargo landing fees (2.1)"
+  },
+  "bur_all_aeronautical": {
+    "value": 22541604.0,
+    "unit": "usd",
+    "description": "BURBANK-GLENDALE-PASADENA (BUR): all aeronautical revenue (3.0)"
+  },
+  "hnl_parking": {
+    "value": 23186499.0,
+    "unit": "usd",
+    "description": "HONOLULU INTL (HNL): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "hnl_parking_per_passenger": {
+    "value": 2.103277444590137,
+    "unit": "usd per enplaned passenger",
+    "description": "HONOLULU INTL (HNL): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "hnl_landing_fees": {
+    "value": 72529805.0,
+    "unit": "usd",
+    "description": "HONOLULU INTL (HNL): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "hnl_landing_fees_per_passenger": {
+    "value": 6.579272831013467,
+    "unit": "usd per enplaned passenger",
+    "description": "HONOLULU INTL (HNL): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "hnl_airline_payments": {
+    "value": 237778500.0,
+    "unit": "usd",
+    "description": "HONOLULU INTL (HNL): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "hnl_airline_payments_per_passenger": {
+    "value": 21.569196619915576,
+    "unit": "usd per enplaned passenger",
+    "description": "HONOLULU INTL (HNL): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "hnl_enplanements": {
+    "value": 11023985.0,
+    "unit": "passengers",
+    "description": "HONOLULU INTL (HNL): enplanements (16.1)"
+  },
+  "hnl_cargo_landing_fees": {
+    "value": 18016889.0,
+    "unit": "usd",
+    "description": "HONOLULU INTL (HNL): cargo landing fees (2.1)"
+  },
+  "hnl_all_aeronautical": {
+    "value": 288969238.0,
+    "unit": "usd",
+    "description": "HONOLULU INTL (HNL): all aeronautical revenue (3.0)"
+  },
+  "sna_parking": {
+    "value": 49208892.0,
+    "unit": "usd",
+    "description": "JOHN WAYNE AIRPORT-ORANGE C (SNA): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "sna_parking_per_passenger": {
+    "value": 8.9963006656608,
+    "unit": "usd per enplaned passenger",
+    "description": "JOHN WAYNE AIRPORT-ORANGE C (SNA): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "sna_landing_fees": {
+    "value": 22601795.0,
+    "unit": "usd",
+    "description": "JOHN WAYNE AIRPORT-ORANGE C (SNA): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "sna_landing_fees_per_passenger": {
+    "value": 4.132028483868909,
+    "unit": "usd per enplaned passenger",
+    "description": "JOHN WAYNE AIRPORT-ORANGE C (SNA): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "sna_airline_payments": {
+    "value": 81645269.0,
+    "unit": "usd",
+    "description": "JOHN WAYNE AIRPORT-ORANGE C (SNA): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "sna_airline_payments_per_passenger": {
+    "value": 14.926273646900137,
+    "unit": "usd per enplaned passenger",
+    "description": "JOHN WAYNE AIRPORT-ORANGE C (SNA): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "sna_enplanements": {
+    "value": 5469903.0,
+    "unit": "passengers",
+    "description": "JOHN WAYNE AIRPORT-ORANGE C (SNA): enplanements (16.1)"
+  },
+  "sna_cargo_landing_fees": {
+    "value": 446974.0,
+    "unit": "usd",
+    "description": "JOHN WAYNE AIRPORT-ORANGE C (SNA): cargo landing fees (2.1)"
+  },
+  "sna_all_aeronautical": {
+    "value": 98142401.0,
+    "unit": "usd",
+    "description": "JOHN WAYNE AIRPORT-ORANGE C (SNA): all aeronautical revenue (3.0)"
+  },
+  "rno_parking": {
+    "value": 21734060.0,
+    "unit": "usd",
+    "description": "RENO/TAHOE INTL (RNO): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "rno_parking_per_passenger": {
+    "value": 8.864514102875228,
+    "unit": "usd per enplaned passenger",
+    "description": "RENO/TAHOE INTL (RNO): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "rno_landing_fees": {
+    "value": 7170211.0,
+    "unit": "usd",
+    "description": "RENO/TAHOE INTL (RNO): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "rno_landing_fees_per_passenger": {
+    "value": 2.924462181943507,
+    "unit": "usd per enplaned passenger",
+    "description": "RENO/TAHOE INTL (RNO): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "rno_airline_payments": {
+    "value": 24646530.0,
+    "unit": "usd",
+    "description": "RENO/TAHOE INTL (RNO): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "rno_airline_payments_per_passenger": {
+    "value": 10.052402209800535,
+    "unit": "usd per enplaned passenger",
+    "description": "RENO/TAHOE INTL (RNO): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "rno_enplanements": {
+    "value": 2451805.0,
+    "unit": "passengers",
+    "description": "RENO/TAHOE INTL (RNO): enplanements (16.1)"
+  },
+  "rno_cargo_landing_fees": {
+    "value": 2009296.0,
+    "unit": "usd",
+    "description": "RENO/TAHOE INTL (RNO): cargo landing fees (2.1)"
+  },
+  "rno_all_aeronautical": {
+    "value": 30713145.0,
+    "unit": "usd",
+    "description": "RENO/TAHOE INTL (RNO): all aeronautical revenue (3.0)"
+  },
+  "sjc_parking": {
+    "value": 41391207.0,
+    "unit": "usd",
+    "description": "SAN JOSE INTERNATION (SJC): parking and ground transportation (4.6), fiscal year ending 06/30/2025"
+  },
+  "sjc_parking_per_passenger": {
+    "value": 7.286186328703568,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN JOSE INTERNATION (SJC): parking and ground transportation (4.6) per enplaned passenger"
+  },
+  "sjc_landing_fees": {
+    "value": 35699221.0,
+    "unit": "usd",
+    "description": "SAN JOSE INTERNATION (SJC): passenger airline landing fees (1.1), fiscal year ending 06/30/2025"
+  },
+  "sjc_landing_fees_per_passenger": {
+    "value": 6.2842133595081515,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN JOSE INTERNATION (SJC): passenger airline landing fees (1.1) per enplaned passenger"
+  },
+  "sjc_airline_payments": {
+    "value": 122536990.0,
+    "unit": "usd",
+    "description": "SAN JOSE INTERNATION (SJC): everything passenger airlines pay (1.6), fiscal year ending 06/30/2025"
+  },
+  "sjc_airline_payments_per_passenger": {
+    "value": 21.5704591871043,
+    "unit": "usd per enplaned passenger",
+    "description": "SAN JOSE INTERNATION (SJC): everything passenger airlines pay (1.6) per enplaned passenger"
+  },
+  "sjc_enplanements": {
+    "value": 5680778.0,
+    "unit": "passengers",
+    "description": "SAN JOSE INTERNATION (SJC): enplanements (16.1)"
+  },
+  "sjc_cargo_landing_fees": {
+    "value": 893698.0,
+    "unit": "usd",
+    "description": "SAN JOSE INTERNATION (SJC): cargo landing fees (2.1)"
+  },
+  "sjc_all_aeronautical": {
+    "value": 138472220.0,
+    "unit": "usd",
+    "description": "SAN JOSE INTERNATION (SJC): all aeronautical revenue (3.0)"
+  },
+  "medium_hubs_airports_2019": {
+    "value": 35,
+    "unit": "airports",
+    "description": "Medium hubs in the Form 127 for fiscal 2019"
+  },
+  "medium_hubs_parking_beats_airline_payments_2019": {
+    "value": 13,
+    "unit": "airports",
+    "description": "Medium hubs where 4.6 beats 1.6, fiscal 2019"
+  },
+  "medium_hubs_parking_beats_landing_fees_2019": {
+    "value": 29,
+    "unit": "airports",
+    "description": "Medium hubs where 4.6 beats 1.1, fiscal 2019"
+  },
+  "medium_hubs_airports_2024": {
+    "value": 35,
+    "unit": "airports",
+    "description": "Medium hubs in the Form 127 for fiscal 2024"
+  },
+  "medium_hubs_parking_beats_airline_payments_2024": {
+    "value": 17,
+    "unit": "airports",
+    "description": "Medium hubs where 4.6 beats 1.6, fiscal 2024"
+  },
+  "medium_hubs_parking_beats_landing_fees_2024": {
+    "value": 30,
+    "unit": "airports",
+    "description": "Medium hubs where 4.6 beats 1.1, fiscal 2024"
+  },
+  "winners_count": {
+    "value": 15,
+    "unit": "airports",
+    "description": "Large and medium hubs where parking beats everything airlines pay"
+  },
+  "winners_median_parking_per_passenger": {
+    "value": 12.389681004720927,
+    "unit": "usd per enplaned passenger",
+    "description": "Median parking and ground transportation per enplaned passenger at the airports where parking beats everything airlines pay"
+  },
+  "winners_median_airline_payments_per_passenger": {
+    "value": 9.124349916859964,
+    "unit": "usd per enplaned passenger",
+    "description": "Median of everything airlines pay per enplaned passenger at the airports where parking beats everything airlines pay"
+  },
+  "losers_count": {
+    "value": 50,
+    "unit": "airports",
+    "description": "Large and medium hubs where parking loses"
+  },
+  "losers_median_parking_per_passenger": {
+    "value": 6.346069835598394,
+    "unit": "usd per enplaned passenger",
+    "description": "Median parking and ground transportation per enplaned passenger at the airports where parking loses"
+  },
+  "losers_median_airline_payments_per_passenger": {
+    "value": 13.299382627758558,
+    "unit": "usd per enplaned passenger",
+    "description": "Median of everything airlines pay per enplaned passenger at the airports where parking loses"
+  },
+  "bna_acfr_parking": {
+    "value": 113203532.0,
+    "unit": "usd",
+    "description": "Nashville ACFR, fiscal 2025: parking"
+  },
+  "bna_acfr_ground_transportation": {
+    "value": 18176625.0,
+    "unit": "usd",
+    "description": "Nashville ACFR, fiscal 2025: ground transportation (Uber/Lyft, taxi cab and shuttle fees)"
+  },
+  "bna_acfr_terminal_rents_airlines": {
+    "value": 66386710.0,
+    "unit": "usd",
+    "description": "Nashville ACFR, fiscal 2025: terminal rents and fees paid by the airlines"
+  },
+  "bna_acfr_landing_fees_airlines": {
+    "value": 51726343.0,
+    "unit": "usd",
+    "description": "Nashville ACFR, fiscal 2025: landing and related fees paid by the airlines"
+  },
+  "bna_garage_only_per_passenger": {
+    "value": 9.1400950378745,
+    "unit": "usd per enplaned passenger",
+    "description": "Nashville: the garage alone (ACFR) per enplaned passenger (Form 127)"
+  },
+  "bna_ground_transportation_per_passenger": {
+    "value": 1.4675874244613285,
+    "unit": "usd per enplaned passenger",
+    "description": "Nashville: ground transportation fees alone (ACFR) per enplaned passenger"
+  },
+  "bna_garage_only_minus_airline_payments": {
+    "value": -3318970.0,
+    "unit": "usd",
+    "description": "Nashville: the garage alone (ACFR) minus everything passenger airlines pay (1.6); negative = the garage loses"
+  },
+  "bna_garage_only_minus_airlines_acfr": {
+    "value": -4909521.0,
+    "unit": "usd",
+    "description": "Nashville, ACFR only: the garage minus (terminal rents + landing fees paid by the airlines); negative = the garage loses"
+  },
+  "atl_parking_per_passenger_2019": {
+    "value": 2.927457918796519,
+    "unit": "usd per enplaned passenger",
+    "description": "Atlanta: parking and ground transportation per enplaned passenger, fiscal 2019"
+  },
+  "atl_airline_payments_per_passenger_2019": {
+    "value": 2.8950200531989063,
+    "unit": "usd per enplaned passenger",
+    "description": "Atlanta: everything passenger airlines pay per enplaned passenger, fiscal 2019"
+  }
+}

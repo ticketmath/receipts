@@ -11,6 +11,8 @@ Each video has its own folder:
 | [003-hotel-room](003-hotel-room/) | Who makes money on a hotel room: the owner of the building, or the brand on the door? |
 | [004-shipping-container](004-shipping-container/) | What does it cost to get goods from China to your door? |
 | [005-spirit-airlines](005-spirit-airlines/) | Spirit filled most of its seats and still went under: what did each passenger cost? |
+| [006-cruise-onboard](006-cruise-onboard/) | What does a cruise line earn from you after you board? |
+| [007-airport-parking](007-airport-parking/) | Who pays a US airport more: your car or the airlines? |
 
 Inside each folder:
 
