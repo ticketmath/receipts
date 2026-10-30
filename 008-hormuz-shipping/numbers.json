@@ -1,0 +1,547 @@
+{
+  "strait_oil_2024": {
+    "value": 20.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "east_west_capacity": {
+    "value": 5.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "east_west_capacity_2019": {
+    "value": 7.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "uae_pipeline_capacity": {
+    "value": 1.8,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "eia_spare_pipeline_capacity": {
+    "value": 2.6,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_oil_q1_2025": {
+    "value": 20.9,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_oil_q2_2025": {
+    "value": 21.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_oil_q3_2025": {
+    "value": 21.3,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_oil_q4_2025": {
+    "value": 21.6,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_oil_q1_2026": {
+    "value": 14.9,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_oil_q2_2026": {
+    "value": 4.9,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_lng_q4_2025": {
+    "value": 10.5,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_lng_q2_2026": {
+    "value": 0.8,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "maersk_emergency_increase_20ft": {
+    "value": 1800.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "maersk_emergency_increase_40ft": {
+    "value": 3000.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "maersk_emergency_increase_special": {
+    "value": 3800.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "maersk_hormuz_transit_fee": {
+    "value": 1000.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "maersk_uae_cost_recovery_surcharge": {
+    "value": 500.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "lng_to_asia_share_2024": {
+    "value": 0.83,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_share_of_world_lng_2024": {
+    "value": 0.2,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "war_risk_premium_before": {
+    "value": 0.0025,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "war_risk_premium_july_low": {
+    "value": 0.03,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "war_risk_premium_july_high": {
+    "value": 0.1,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "dpworld_group_teu_h1_2026": {
+    "value": 42826.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "dpworld_group_teu_h1_2025": {
+    "value": 45438.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "dpworld_without_jebel_ali_teu_h1_2026": {
+    "value": 39681.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "dpworld_without_jebel_ali_teu_h1_2025": {
+    "value": 37664.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "iea_strait_exports_2025": {
+    "value": 19.87,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "iea_spare_capacity_low": {
+    "value": 3.5,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "iea_spare_capacity_high": {
+    "value": 5.5,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "iea_east_west_in_use": {
+    "value": 2.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "iea_uae_pipeline_in_use": {
+    "value": 1.1,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "iea_uae_pipeline_spare": {
+    "value": 0.7,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "iea_qatar_lng_share_through_strait": {
+    "value": 0.93,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "aramco_east_west_capacity": {
+    "value": 7.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "aramco_days_to_full_capacity": {
+    "value": 8.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "bypass_exports_feb_2026": {
+    "value": 4.1,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "bypass_exports_peak_jun_2026": {
+    "value": 7.8,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "bypass_exports_aug_2026": {
+    "value": 5.5,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "bypass_offset": {
+    "value": 500.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "bypass_offset_per_day": {
+    "value": 2.8,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_losses": {
+    "value": 2.8,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_oil_aug_2026": {
+    "value": 7.6,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_oil_aug_2026_below_prewar": {
+    "value": 13.1,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "gulf_exports_mar_2026": {
+    "value": 8.7,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "gulf_exports_drop_feb_to_mar_2026": {
+    "value": 15.8,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "gulf_exports_jun_2026": {
+    "value": 16.1,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "gulf_exports_prewar": {
+    "value": 24.0,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_oil_sep_2026": {
+    "value": 10.9,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "strait_oil_rise_aug_to_sep_2026": {
+    "value": 3.7,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "saudi_offshore_shut_in_mar_2026": {
+    "value": 2.5,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "kuwait_oil_through_strait_2025": {
+    "value": 2.5,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "us_crude_imports_via_hormuz_2024": {
+    "value": 0.5,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "us_crude_imports_via_hormuz_share_2024": {
+    "value": 0.07,
+    "unit": "as published",
+    "description": "published figure (see data/published_figures.csv)"
+  },
+  "bypass_share_of_strait_losses": {
+    "value": 0.17857142857142858,
+    "unit": "share",
+    "description": "THE MAIN NUMBER: oil the higher bypass flows made up for, as a share of the oil exports the strait lost (late February to mid-September 2026)"
+  },
+  "strait_losses_per_barrel_offset": {
+    "value": 5.6,
+    "unit": "barrels",
+    "description": "Barrels lost at the strait for every barrel the bypass made up for"
+  },
+  "bypass_increase_to_peak": {
+    "value": 3.7,
+    "unit": "million barrels per day",
+    "description": "Rise in exports via Yanbu and Fujairah from February to the June peak"
+  },
+  "bypass_peak_multiple": {
+    "value": 1.902439024390244,
+    "unit": "times",
+    "description": "June peak exports via Yanbu and Fujairah, in multiples of February's"
+  },
+  "strait_oil_prewar_iea": {
+    "value": 20.7,
+    "unit": "million barrels per day",
+    "description": "Oil through the strait before the war (August + how far August was below)"
+  },
+  "strait_oil_aug_2026_share_of_prewar": {
+    "value": 0.3671497584541063,
+    "unit": "share",
+    "description": "August 2026 flow as a share of pre-war"
+  },
+  "strait_oil_sep_2026_share_of_prewar": {
+    "value": 0.5265700483091788,
+    "unit": "share",
+    "description": "September 2026 flow (October report) as a share of pre-war (September commentary)"
+  },
+  "gulf_exports_feb_2026": {
+    "value": 24.5,
+    "unit": "million barrels per day",
+    "description": "Gulf oil exports in February 2026 (March + the drop)"
+  },
+  "gulf_exports_mar_2026_share_of_feb": {
+    "value": 0.3551020408163265,
+    "unit": "share",
+    "description": "March Gulf exports as a share of February's, bypass included"
+  },
+  "gulf_exports_jun_2026_share_of_prewar": {
+    "value": 0.6708333333333334,
+    "unit": "share",
+    "description": "June Gulf exports as a share of the pre-war average"
+  },
+  "east_west_room_before_war": {
+    "value": 5.0,
+    "unit": "million barrels per day",
+    "description": "East-West: Aramco's 7 minus what the IEA estimated in use in early 2026"
+  },
+  "eia_spare_capacity_share": {
+    "value": 0.12037037037037036,
+    "unit": "share",
+    "description": "EIA spare pipeline room as a share of Q4 2025 flows"
+  },
+  "strait_oil_without_pipeline_room_q4_2025": {
+    "value": 19.0,
+    "unit": "million barrels per day",
+    "description": "Q4 2025 oil with no spare pipe to go around"
+  },
+  "pipelines_combined_capacity": {
+    "value": 6.8,
+    "unit": "million barrels per day",
+    "description": "East-West + UAE pipeline capacity"
+  },
+  "pipelines_capacity_share": {
+    "value": 0.31481481481481477,
+    "unit": "share",
+    "description": "That capacity as a share of Q4 2025 flows (if the pipes were empty, which they weren't)"
+  },
+  "pipelines_max_capacity_share": {
+    "value": 0.40740740740740744,
+    "unit": "share",
+    "description": "The most ever used (East-West at 7 in 2019 + UAE) as a share of Q4 2025 flows"
+  },
+  "strait_oil_q1_2026_share_of_q4_2025": {
+    "value": 0.6898148148148148,
+    "unit": "share",
+    "description": "Oil through the strait, Q1_2026 as a share of Q4 2025"
+  },
+  "strait_oil_q2_2026_share_of_q4_2025": {
+    "value": 0.22685185185185186,
+    "unit": "share",
+    "description": "Oil through the strait, Q2_2026 as a share of Q4 2025"
+  },
+  "strait_oil_lost_q2_2026": {
+    "value": 16.700000000000003,
+    "unit": "million barrels per day",
+    "description": "Oil that stopped going through the strait, Q2 2026 vs Q4 2025"
+  },
+  "strait_lng_q2_2026_share_of_q4_2025": {
+    "value": 0.0761904761904762,
+    "unit": "share",
+    "description": "LNG through the strait, Q2 2026 as a share of Q4 2025"
+  },
+  "container_ships_per_day_q4_2025": {
+    "value": 12.804347826086957,
+    "unit": "ships per day",
+    "description": "Container ships a day through Hormuz, q4_2025 average"
+  },
+  "ships_per_day_q4_2025": {
+    "value": 70.81521739130434,
+    "unit": "ships per day",
+    "description": "All ships a day through Hormuz, q4_2025 average"
+  },
+  "container_ships_per_day_q2_2026": {
+    "value": 0.7912087912087912,
+    "unit": "ships per day",
+    "description": "Container ships a day through Hormuz, q2_2026 average"
+  },
+  "ships_per_day_q2_2026": {
+    "value": 7.956043956043956,
+    "unit": "ships per day",
+    "description": "All ships a day through Hormuz, q2_2026 average"
+  },
+  "container_ships_per_day_q3_2026": {
+    "value": 0.5108695652173914,
+    "unit": "ships per day",
+    "description": "Container ships a day through Hormuz, q3_2026 average"
+  },
+  "ships_per_day_q3_2026": {
+    "value": 6.206521739130435,
+    "unit": "ships per day",
+    "description": "All ships a day through Hormuz, q3_2026 average"
+  },
+  "days_without_container_ships_q3_2026": {
+    "value": 64,
+    "unit": "days",
+    "description": "Days in Q3 2026 with no container ship recorded in the strait"
+  },
+  "days_without_container_ships_q3_2026_share": {
+    "value": 0.6956521739130435,
+    "unit": "share",
+    "description": "Share of Q3 2026 days with no container ship recorded"
+  },
+  "container_ships_q2_2026_share_of_q4_2025": {
+    "value": 0.061792197615627154,
+    "unit": "share",
+    "description": "Container ships through the strait, q2_2026 as a share of Q4 2025"
+  },
+  "container_ships_q3_2026_share_of_q4_2025": {
+    "value": 0.039898132427843805,
+    "unit": "share",
+    "description": "Container ships through the strait, q3_2026 as a share of Q4 2025"
+  },
+  "tankers_q2_2026_share_of_q4_2025_ais": {
+    "value": 0.082740076126684,
+    "unit": "share",
+    "description": "Tankers through the strait, Q2 2026 as a share of Q4 2025, by AIS count (lower than the EIA flow: AIS undercounts in the crisis)"
+  },
+  "bab_el_mandeb_container_ships_per_day_2023": {
+    "value": 18.46301369863014,
+    "unit": "ships per day",
+    "description": "Container ships a day at Bab el-Mandeb Strait, 2023 average"
+  },
+  "bab_el_mandeb_container_ships_per_day_2024": {
+    "value": 5.3743169398907105,
+    "unit": "ships per day",
+    "description": "Container ships a day at Bab el-Mandeb Strait, 2024 average"
+  },
+  "cape_of_good_hope_container_ships_per_day_2023": {
+    "value": 6.161643835616438,
+    "unit": "ships per day",
+    "description": "Container ships a day at Cape of Good Hope, 2023 average"
+  },
+  "cape_of_good_hope_container_ships_per_day_2024": {
+    "value": 19.01912568306011,
+    "unit": "ships per day",
+    "description": "Container ships a day at Cape of Good Hope, 2024 average"
+  },
+  "jebel_ali_teu_h1_2026": {
+    "value": 3145000.0,
+    "unit": "TEU",
+    "description": "Jebel Ali throughput, first half of 2026"
+  },
+  "jebel_ali_teu_h1_2025": {
+    "value": 7774000.0,
+    "unit": "TEU",
+    "description": "Jebel Ali throughput, first half of 2025"
+  },
+  "jebel_ali_h1_2026_share_of_h1_2025": {
+    "value": 0.4045536403395935,
+    "unit": "share",
+    "description": "Jebel Ali, first half of 2026 as a share of 2025"
+  },
+  "jebel_ali_teu_h1_2026_overland_included": {
+    "value": 3145000.0,
+    "unit": "TEU",
+    "description": "Same count: DP World includes the boxes trucked in from Oman (Dubai Customs Notice 04/2026)"
+  },
+  "maersk_40ft_extra_crossing_hormuz": {
+    "value": 4000.0,
+    "unit": "usd per container",
+    "description": "Maersk: emergency increase for a 40-foot container to the Gulf plus the fee if its ship crosses Hormuz"
+  },
+  "war_risk_premium_multiple_low": {
+    "value": 12.0,
+    "unit": "times",
+    "description": "War-risk insurance in July 2026 (low end) in multiples of the pre-war rate"
+  },
+  "war_risk_premium_multiple_high": {
+    "value": 40.0,
+    "unit": "times",
+    "description": "War-risk insurance in July 2026 (high end) in multiples of the pre-war rate"
+  },
+  "maersk_fm1_days_qingdao_to_khor_fakkan": {
+    "value": 30,
+    "unit": "days",
+    "description": "Maersk FM1 relaunch: Qingdao departure to Khor Fakkan arrival, outside the strait"
+  },
+  "brent_last_day_before_war": {
+    "value": 71.32,
+    "unit": "usd per barrel",
+    "description": "Brent on the last trading day before the war (2026-02-27)"
+  },
+  "brent_peak_since_war": {
+    "value": 138.21,
+    "unit": "usd per barrel",
+    "description": "Highest daily Brent since the war began (2026-04-07)"
+  },
+  "brent_latest": {
+    "value": 115.22,
+    "unit": "usd per barrel",
+    "description": "Brent on the latest day published (2026-10-20)"
+  },
+  "brent_monthly_2026_02": {
+    "value": 70.89,
+    "unit": "usd per barrel",
+    "description": "brent monthly, monthly average, 2026-02"
+  },
+  "brent_monthly_2026_09": {
+    "value": 114.16,
+    "unit": "usd per barrel",
+    "description": "brent monthly, monthly average, 2026-09"
+  },
+  "brent_monthly_rise": {
+    "value": 43.269999999999996,
+    "unit": "usd per barrel",
+    "description": "brent monthly, 2026-09 minus 2026-02"
+  },
+  "us_regular_gasoline_2026_02": {
+    "value": 2.908,
+    "unit": "usd per gallon",
+    "description": "us regular gasoline, monthly average, 2026-02"
+  },
+  "us_regular_gasoline_2026_09": {
+    "value": 4.355,
+    "unit": "usd per gallon",
+    "description": "us regular gasoline, monthly average, 2026-09"
+  },
+  "us_regular_gasoline_rise": {
+    "value": 1.4470000000000005,
+    "unit": "usd per gallon",
+    "description": "us regular gasoline, 2026-09 minus 2026-02"
+  },
+  "us_gulf_coast_jet_fuel_2026_02": {
+    "value": 2.262,
+    "unit": "usd per gallon",
+    "description": "us gulf coast jet fuel, monthly average, 2026-02"
+  },
+  "us_gulf_coast_jet_fuel_2026_09": {
+    "value": 4.388,
+    "unit": "usd per gallon",
+    "description": "us gulf coast jet fuel, monthly average, 2026-09"
+  },
+  "us_gulf_coast_jet_fuel_rise": {
+    "value": 2.126,
+    "unit": "usd per gallon",
+    "description": "us gulf coast jet fuel, 2026-09 minus 2026-02"
+  }
+}

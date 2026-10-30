@@ -13,6 +13,7 @@ Each video has its own folder:
 | [005-spirit-airlines](005-spirit-airlines/) | Spirit filled most of its seats and still went under: what did each passenger cost? |
 | [006-cruise-onboard](006-cruise-onboard/) | What does a cruise line earn from you after you board? |
 | [007-airport-parking](007-airport-parking/) | Who pays a US airport more: your car or the airlines? |
+| [008-hormuz-shipping](008-hormuz-shipping/) | When Hormuz closed, how much of the lost oil did the pipelines around it make up for? |
 
 Inside each folder:
 
