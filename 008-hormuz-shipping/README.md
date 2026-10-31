@@ -1,6 +1,6 @@
 # #008 · The Hormuz bypass: how much of the lost oil did the pipelines make up for?
 
-**Video:** coming soon
+**Video:** https://youtu.be/8SnYlHR36qQ
 
 ## The answer
 
