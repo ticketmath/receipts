@@ -1,0 +1,2462 @@
+{
+  "fy2025_gaming_revenue": {
+    "value": 5509848670.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Revenue: Gaming (net of the casino's complimentary contra revenue) (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_revenue": {
+    "value": 7064968548.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Revenue: Rooms (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_revenue": {
+    "value": 3993791473.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Revenue: Food (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_revenue": {
+    "value": 1579403328.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Revenue: Beverage (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_revenue": {
+    "value": 2929826665.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Revenue: Other (see data/gaming_abstract.csv)"
+  },
+  "fy2025_total_revenue": {
+    "value": 21077838684.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Total Revenue (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_table_games": {
+    "value": 2990691577.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Table Games (keno and bingo included) (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_slot_machines": {
+    "value": 5102997347.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Slot Machines (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_card_games": {
+    "value": 173455229.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Card Games (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_race_book": {
+    "value": 11062023.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Race Book (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_sports_book": {
+    "value": 166591015.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Sports Book (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_contra_revenue": {
+    "value": 2934948521.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Contra Revenue (Complimentary Expense), as a positive amount (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_room_sales": {
+    "value": 5494688267.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Department: Room Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_complimentary_room_sales": {
+    "value": 1716006653.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Department: Complimentary Room Sales (rooms given to players, at list price) (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_contra_revenue": {
+    "value": 145726372.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Department: Contra Revenue, as a positive amount (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_sales": {
+    "value": 3503406765.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Food Department: Food Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_complimentary_sales": {
+    "value": 586505707.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Food Department: Complimentary Food Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_contra_revenue": {
+    "value": 96120999.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Food Department: Contra Revenue, as a positive amount (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_sales": {
+    "value": 1037076831.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Beverage Department: Beverage Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_complimentary_sales": {
+    "value": 574656754.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Beverage Department: Complimentary Beverage Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_contra_revenue": {
+    "value": 32330257.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Beverage Department: Contra Revenue, as a positive amount (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_income_sales": {
+    "value": 2880175595.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Other Income: Other Operating and Non-Operating Income (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_income_complimentary_items": {
+    "value": 124907437.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Other Income: Other Complimentary Items (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_income_contra_revenue": {
+    "value": 75256367.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Other Income: Contra Revenue, as a positive amount (see data/gaming_abstract.csv)"
+  },
+  "fy2025_departmental_income": {
+    "value": 10931439421.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Departmental Income (see data/gaming_abstract.csv)"
+  },
+  "fy2025_total_general_and_administrative": {
+    "value": 10777251030.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Total General & Administrative Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_interest_expense": {
+    "value": 2233595003.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: General and Administrative: Interest Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rent_of_premises": {
+    "value": 274063659.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: General and Administrative: Rent of Premises (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_general_and_administrative": {
+    "value": 3795882567.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: General and Administrative: Other G & A (not broken down) (see data/gaming_abstract.csv)"
+  },
+  "fy2025_net_income_before_federal_income_taxes": {
+    "value": 154188391.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Net Income (Loss) before Federal Income Taxes and Extraordinary Items (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_occupied": {
+    "value": 28759890.0,
+    "unit": "room nights",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Occupied in the fiscal year (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_available": {
+    "value": 32291213.0,
+    "unit": "room nights",
+    "description": "Gaming Abstract, fiscal 2025: Available Rooms in the fiscal year (see data/gaming_abstract.csv)"
+  },
+  "fy2025_occupancy_rate": {
+    "value": 0.891,
+    "unit": "share",
+    "description": "Gaming Abstract, fiscal 2025: % of Occupancy (see data/gaming_abstract.csv)"
+  },
+  "fy2025_average_room_rate_per_day": {
+    "value": 250.72,
+    "unit": "usd per room per day",
+    "description": "Gaming Abstract, fiscal 2025: Average Room Rate Per Day (complimentary rooms included) (see data/gaming_abstract.csv)"
+  },
+  "fy2025_table_revenue_per_room_per_day": {
+    "value": 103.99,
+    "unit": "usd per room per day",
+    "description": "Gaming Abstract, fiscal 2025: Average Table Revenue Per Room Per Day (see data/gaming_abstract.csv)"
+  },
+  "fy2025_slot_revenue_per_room_per_day": {
+    "value": 177.43,
+    "unit": "usd per room per day",
+    "description": "Gaming Abstract, fiscal 2025: Average Slot Revenue Per Room Per Day (see data/gaming_abstract.csv)"
+  },
+  "fy2025_contra_revenue_to_gaming_revenue": {
+    "value": 0.3889,
+    "unit": "share",
+    "description": "Gaming Abstract, fiscal 2025: Total Contra Revenue (Complimentary Expense) to Gaming Revenue (gaming before comps) (see data/gaming_abstract.csv)"
+  },
+  "fy2025_licensees": {
+    "value": 51.0,
+    "unit": "licensees",
+    "description": "Gaming Abstract, fiscal 2025: Number of licensees in the group (see data/gaming_abstract.csv)"
+  },
+  "fy2019_gaming_revenue": {
+    "value": 4467856272.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Revenue: Gaming (net of the casino's complimentary contra revenue) (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_revenue": {
+    "value": 5250234831.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Revenue: Rooms (see data/gaming_abstract.csv)"
+  },
+  "fy2019_food_revenue": {
+    "value": 3035759166.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Revenue: Food (see data/gaming_abstract.csv)"
+  },
+  "fy2019_beverage_revenue": {
+    "value": 1375701950.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Revenue: Beverage (see data/gaming_abstract.csv)"
+  },
+  "fy2019_other_revenue": {
+    "value": 2412339225.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Revenue: Other (see data/gaming_abstract.csv)"
+  },
+  "fy2019_total_revenue": {
+    "value": 16541891444.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Total Revenue (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_contra_revenue": {
+    "value": 1984511272.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Contra Revenue (Complimentary Expense), as a positive amount (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_room_sales": {
+    "value": 4373826113.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Department: Room Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_complimentary_room_sales": {
+    "value": 957748408.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Department: Complimentary Room Sales (rooms given to players, at list price) (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_contra_revenue": {
+    "value": 81339690.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Department: Contra Revenue, as a positive amount (see data/gaming_abstract.csv)"
+  },
+  "fy2019_departmental_income": {
+    "value": 8086718587.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Departmental Income (see data/gaming_abstract.csv)"
+  },
+  "fy2019_total_general_and_administrative": {
+    "value": 7041351351.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Total General & Administrative Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_interest_expense": {
+    "value": 1486727182.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: General and Administrative: Interest Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rent_of_premises": {
+    "value": 84836696.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: General and Administrative: Rent of Premises (see data/gaming_abstract.csv)"
+  },
+  "fy2019_other_general_and_administrative": {
+    "value": 1591125682.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: General and Administrative: Other G & A (not broken down) (see data/gaming_abstract.csv)"
+  },
+  "fy2019_net_income_before_federal_income_taxes": {
+    "value": 1045367236.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Net Income (Loss) before Federal Income Taxes and Extraordinary Items (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_occupied": {
+    "value": 29588129.0,
+    "unit": "room nights",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Occupied in the fiscal year (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_available": {
+    "value": 32113895.0,
+    "unit": "room nights",
+    "description": "Gaming Abstract, fiscal 2019: Available Rooms in the fiscal year (see data/gaming_abstract.csv)"
+  },
+  "fy2019_occupancy_rate": {
+    "value": 0.92,
+    "unit": "share",
+    "description": "Gaming Abstract, fiscal 2019: % of Occupancy (see data/gaming_abstract.csv)"
+  },
+  "fy2019_average_room_rate_per_day": {
+    "value": 180.19,
+    "unit": "usd per room per day",
+    "description": "Gaming Abstract, fiscal 2019: Average Room Rate Per Day (complimentary rooms included) (see data/gaming_abstract.csv)"
+  },
+  "fy2019_table_revenue_per_room_per_day": {
+    "value": 89.29,
+    "unit": "usd per room per day",
+    "description": "Gaming Abstract, fiscal 2019: Average Table Revenue Per Room Per Day (see data/gaming_abstract.csv)"
+  },
+  "fy2019_slot_revenue_per_room_per_day": {
+    "value": 120.06,
+    "unit": "usd per room per day",
+    "description": "Gaming Abstract, fiscal 2019: Average Slot Revenue Per Room Per Day (see data/gaming_abstract.csv)"
+  },
+  "fy2019_contra_revenue_to_gaming_revenue": {
+    "value": 0.3367,
+    "unit": "share",
+    "description": "Gaming Abstract, fiscal 2019: Total Contra Revenue (Complimentary Expense) to Gaming Revenue (gaming before comps) (see data/gaming_abstract.csv)"
+  },
+  "fy2019_licensees": {
+    "value": 44.0,
+    "unit": "licensees",
+    "description": "Gaming Abstract, fiscal 2019: Number of licensees in the group (see data/gaming_abstract.csv)"
+  },
+  "fy2019_cost_of_sales": {
+    "value": 1059945064.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Cost of Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2019_departmental_expenses": {
+    "value": 7395227793.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_ga_payroll_taxes": {
+    "value": 69318331.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: General and Administrative: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2019_ga_payroll_employee_benefits": {
+    "value": 259621318.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: General and Administrative: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2019_ga_payroll_officers": {
+    "value": 24529175.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: General and Administrative: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2019_ga_payroll_other_employees": {
+    "value": 854248677.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: General and Administrative: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_bad_debt_expense": {
+    "value": 42360150.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_commissions": {
+    "value": 18027115.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Commissions (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_gaming_taxes_and_licenses": {
+    "value": 468672803.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Gaming Taxes and Licenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_preferred_guest_expenses": {
+    "value": 126793598.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Preferred Guest Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_payroll_taxes": {
+    "value": 111928752.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_payroll_employee_benefits": {
+    "value": 179712485.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_payroll_officers": {
+    "value": 24395758.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_payroll_other_employees": {
+    "value": 778962111.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_race_wire_fees": {
+    "value": 3467865.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Race Wire Fees (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_other_departmental_expenses": {
+    "value": 561972797.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_casino_total_departmental_expenses": {
+    "value": 2316293434.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Casino Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_bad_debt_expense": {
+    "value": 8060826.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_payroll_taxes": {
+    "value": 83424331.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_payroll_employee_benefits": {
+    "value": 255239576.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_payroll_officers": {
+    "value": 3847469.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_payroll_other_employees": {
+    "value": 847282886.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_other_departmental_expenses": {
+    "value": 585908080.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_rooms_total_departmental_expenses": {
+    "value": 1783763168.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Rooms Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_food_bad_debt_expense": {
+    "value": 2112610.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Food Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2019_food_payroll_taxes": {
+    "value": 118400859.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Food Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2019_food_payroll_employee_benefits": {
+    "value": 288239453.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Food Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2019_food_payroll_officers": {
+    "value": 11890200.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Food Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2019_food_payroll_other_employees": {
+    "value": 1104403812.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Food Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2019_food_other_departmental_expenses": {
+    "value": 230786315.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Food Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_food_total_departmental_expenses": {
+    "value": 1755833249.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Food Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_beverage_bad_debt_expense": {
+    "value": 446729.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Beverage Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2019_beverage_payroll_taxes": {
+    "value": 32072828.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Beverage Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2019_beverage_payroll_employee_benefits": {
+    "value": 70166045.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Beverage Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2019_beverage_payroll_officers": {
+    "value": 389100.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Beverage Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2019_beverage_payroll_other_employees": {
+    "value": 227550944.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Beverage Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2019_beverage_other_departmental_expenses": {
+    "value": 274074815.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Beverage Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_beverage_total_departmental_expenses": {
+    "value": 604700461.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Beverage Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_other_income_bad_debt_expense": {
+    "value": 4149920.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Other Income: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2019_other_income_payroll_taxes": {
+    "value": 31762097.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Other Income: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2019_other_income_payroll_employee_benefits": {
+    "value": 56548128.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Other Income: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2019_other_income_payroll_officers": {
+    "value": 3851731.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Other Income: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2019_other_income_payroll_other_employees": {
+    "value": 330917265.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Other Income: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2019_other_income_other_departmental_expenses": {
+    "value": 507408340.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Other Income: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_other_income_total_departmental_expenses": {
+    "value": 934637481.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2019: Other Income: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2019_average_number_of_employees": {
+    "value": 96037.0,
+    "unit": "employees",
+    "description": "Gaming Abstract, fiscal 2019: Average Number of Employees (total) (see data/gaming_abstract.csv)"
+  },
+  "fy2022_gaming_revenue": {
+    "value": 5581279524.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Revenue: Gaming (net of the casino's complimentary contra revenue) (see data/gaming_abstract.csv)"
+  },
+  "fy2022_rooms_revenue": {
+    "value": 5618003923.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Revenue: Rooms (see data/gaming_abstract.csv)"
+  },
+  "fy2022_food_revenue": {
+    "value": 2996110893.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Revenue: Food (see data/gaming_abstract.csv)"
+  },
+  "fy2022_beverage_revenue": {
+    "value": 1465403523.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Revenue: Beverage (see data/gaming_abstract.csv)"
+  },
+  "fy2022_other_revenue": {
+    "value": 2690072216.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Revenue: Other (see data/gaming_abstract.csv)"
+  },
+  "fy2022_total_revenue": {
+    "value": 18350870079.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Total Revenue (see data/gaming_abstract.csv)"
+  },
+  "fy2022_cost_of_sales": {
+    "value": 1055750802.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Cost of Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2022_departmental_expenses": {
+    "value": 6857440790.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_departmental_income": {
+    "value": 10437678487.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Departmental Income (see data/gaming_abstract.csv)"
+  },
+  "fy2022_interest_expense": {
+    "value": 1578719250.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: General and Administrative: Interest Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2022_ga_payroll_taxes": {
+    "value": 69404395.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: General and Administrative: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2022_ga_payroll_employee_benefits": {
+    "value": 278051505.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: General and Administrative: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2022_ga_payroll_officers": {
+    "value": 60381118.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: General and Administrative: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2022_ga_payroll_other_employees": {
+    "value": 772844693.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: General and Administrative: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2022_rent_of_premises": {
+    "value": 199012600.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: General and Administrative: Rent of Premises (see data/gaming_abstract.csv)"
+  },
+  "fy2022_other_general_and_administrative": {
+    "value": 2869810526.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: General and Administrative: Other G & A (not broken down) (see data/gaming_abstract.csv)"
+  },
+  "fy2022_total_general_and_administrative": {
+    "value": 8364720884.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Total General & Administrative Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_net_income_before_federal_income_taxes": {
+    "value": 2072957603.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Net Income (Loss) before Federal Income Taxes and Extraordinary Items (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_bad_debt_expense": {
+    "value": 20205639.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_commissions": {
+    "value": 20363807.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Commissions (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_gaming_taxes_and_licenses": {
+    "value": 586641722.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Gaming Taxes and Licenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_preferred_guest_expenses": {
+    "value": 87147090.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Preferred Guest Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_payroll_taxes": {
+    "value": 113057667.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_payroll_employee_benefits": {
+    "value": 156760399.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_payroll_officers": {
+    "value": 36820554.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_payroll_other_employees": {
+    "value": 713012121.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_race_wire_fees": {
+    "value": 2506496.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Race Wire Fees (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_other_departmental_expenses": {
+    "value": 545622740.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_casino_total_departmental_expenses": {
+    "value": 2282138235.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Casino Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_rooms_bad_debt_expense": {
+    "value": 12751548.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Rooms Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2022_rooms_payroll_taxes": {
+    "value": 78030742.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Rooms Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2022_rooms_payroll_employee_benefits": {
+    "value": 285002493.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Rooms Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2022_rooms_payroll_officers": {
+    "value": 14633320.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Rooms Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2022_rooms_payroll_other_employees": {
+    "value": 743336760.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Rooms Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2022_rooms_other_departmental_expenses": {
+    "value": 536595100.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Rooms Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_rooms_total_departmental_expenses": {
+    "value": 1670349963.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Rooms Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_food_bad_debt_expense": {
+    "value": 2352304.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Food Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2022_food_payroll_taxes": {
+    "value": 102403936.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Food Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2022_food_payroll_employee_benefits": {
+    "value": 283635255.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Food Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2022_food_payroll_officers": {
+    "value": 26493137.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Food Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2022_food_payroll_other_employees": {
+    "value": 907417037.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Food Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2022_food_other_departmental_expenses": {
+    "value": 378750052.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Food Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_food_total_departmental_expenses": {
+    "value": 1701051721.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Food Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_beverage_bad_debt_expense": {
+    "value": 880011.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Beverage Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2022_beverage_payroll_taxes": {
+    "value": 27504336.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Beverage Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2022_beverage_payroll_employee_benefits": {
+    "value": 77262117.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Beverage Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2022_beverage_payroll_officers": {
+    "value": 1224958.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Beverage Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2022_beverage_payroll_other_employees": {
+    "value": 171512747.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Beverage Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2022_beverage_other_departmental_expenses": {
+    "value": 208890753.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Beverage Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_beverage_total_departmental_expenses": {
+    "value": 487274922.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Beverage Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_other_income_bad_debt_expense": {
+    "value": -1923392.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Other Income: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2022_other_income_payroll_taxes": {
+    "value": 23345570.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Other Income: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2022_other_income_payroll_employee_benefits": {
+    "value": 44227533.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Other Income: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2022_other_income_payroll_officers": {
+    "value": 6184218.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Other Income: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2022_other_income_payroll_other_employees": {
+    "value": 233892472.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Other Income: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2022_other_income_other_departmental_expenses": {
+    "value": 410899548.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Other Income: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_other_income_total_departmental_expenses": {
+    "value": 716625949.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2022: Other Income: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2022_rooms_occupied": {
+    "value": 27262858.0,
+    "unit": "room nights",
+    "description": "Gaming Abstract, fiscal 2022: Rooms Occupied in the fiscal year (see data/gaming_abstract.csv)"
+  },
+  "fy2022_licensees": {
+    "value": 48.0,
+    "unit": "licensees",
+    "description": "Gaming Abstract, fiscal 2022: Number of licensees in the group (see data/gaming_abstract.csv)"
+  },
+  "fy2022_average_number_of_employees": {
+    "value": 83186.0,
+    "unit": "employees",
+    "description": "Gaming Abstract, fiscal 2022: Average Number of Employees (total) (see data/gaming_abstract.csv)"
+  },
+  "fy2023_gaming_revenue": {
+    "value": 5453478234.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Revenue: Gaming (net of the casino's complimentary contra revenue) (see data/gaming_abstract.csv)"
+  },
+  "fy2023_rooms_revenue": {
+    "value": 6764893951.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Revenue: Rooms (see data/gaming_abstract.csv)"
+  },
+  "fy2023_food_revenue": {
+    "value": 3653227330.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Revenue: Food (see data/gaming_abstract.csv)"
+  },
+  "fy2023_beverage_revenue": {
+    "value": 1619772190.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Revenue: Beverage (see data/gaming_abstract.csv)"
+  },
+  "fy2023_other_revenue": {
+    "value": 2993497795.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Revenue: Other (see data/gaming_abstract.csv)"
+  },
+  "fy2023_total_revenue": {
+    "value": 20484869500.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Total Revenue (see data/gaming_abstract.csv)"
+  },
+  "fy2023_cost_of_sales": {
+    "value": 1228714755.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Cost of Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2023_departmental_expenses": {
+    "value": 7946725976.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_departmental_income": {
+    "value": 11309428769.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Departmental Income (see data/gaming_abstract.csv)"
+  },
+  "fy2023_interest_expense": {
+    "value": 2032359442.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: General and Administrative: Interest Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2023_ga_payroll_taxes": {
+    "value": 74637743.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: General and Administrative: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2023_ga_payroll_employee_benefits": {
+    "value": 333694505.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: General and Administrative: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2023_ga_payroll_officers": {
+    "value": 65851462.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: General and Administrative: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2023_ga_payroll_other_employees": {
+    "value": 761591386.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: General and Administrative: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2023_rent_of_premises": {
+    "value": 420031951.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: General and Administrative: Rent of Premises (see data/gaming_abstract.csv)"
+  },
+  "fy2023_other_general_and_administrative": {
+    "value": 3340484644.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: General and Administrative: Other G & A (not broken down) (see data/gaming_abstract.csv)"
+  },
+  "fy2023_total_general_and_administrative": {
+    "value": 9932189123.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Total General & Administrative Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_net_income_before_federal_income_taxes": {
+    "value": 1377239646.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Net Income (Loss) before Federal Income Taxes and Extraordinary Items (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_bad_debt_expense": {
+    "value": 53103604.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_commissions": {
+    "value": 46964414.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Commissions (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_gaming_taxes_and_licenses": {
+    "value": 594640978.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Gaming Taxes and Licenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_preferred_guest_expenses": {
+    "value": 78957486.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Preferred Guest Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_payroll_taxes": {
+    "value": 117456354.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_payroll_employee_benefits": {
+    "value": 183884580.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_payroll_officers": {
+    "value": 40173680.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_payroll_other_employees": {
+    "value": 736569070.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_race_wire_fees": {
+    "value": 2582547.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Race Wire Fees (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_other_departmental_expenses": {
+    "value": 596392285.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_casino_total_departmental_expenses": {
+    "value": 2450724998.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Casino Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_rooms_bad_debt_expense": {
+    "value": 16555295.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Rooms Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2023_rooms_payroll_taxes": {
+    "value": 83108085.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Rooms Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2023_rooms_payroll_employee_benefits": {
+    "value": 334030587.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Rooms Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2023_rooms_payroll_officers": {
+    "value": 22661323.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Rooms Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2023_rooms_payroll_other_employees": {
+    "value": 796447983.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Rooms Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2023_rooms_other_departmental_expenses": {
+    "value": 674084434.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Rooms Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_rooms_total_departmental_expenses": {
+    "value": 1926887707.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Rooms Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_food_bad_debt_expense": {
+    "value": 2270830.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Food Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2023_food_payroll_taxes": {
+    "value": 125106047.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Food Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2023_food_payroll_employee_benefits": {
+    "value": 355825019.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Food Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2023_food_payroll_officers": {
+    "value": 44005070.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Food Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2023_food_payroll_other_employees": {
+    "value": 1089820957.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Food Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2023_food_other_departmental_expenses": {
+    "value": 457693073.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Food Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_food_total_departmental_expenses": {
+    "value": 2074720996.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Food Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_beverage_bad_debt_expense": {
+    "value": 520491.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Beverage Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2023_beverage_payroll_taxes": {
+    "value": 33026441.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Beverage Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2023_beverage_payroll_employee_benefits": {
+    "value": 87051931.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Beverage Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2023_beverage_payroll_officers": {
+    "value": 4725861.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Beverage Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2023_beverage_payroll_other_employees": {
+    "value": 196221776.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Beverage Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2023_beverage_other_departmental_expenses": {
+    "value": 235162084.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Beverage Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_beverage_total_departmental_expenses": {
+    "value": 556708584.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Beverage Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_other_income_bad_debt_expense": {
+    "value": 4532696.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Other Income: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2023_other_income_payroll_taxes": {
+    "value": 25202912.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Other Income: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2023_other_income_payroll_employee_benefits": {
+    "value": 53401074.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Other Income: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2023_other_income_payroll_officers": {
+    "value": 11946083.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Other Income: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2023_other_income_payroll_other_employees": {
+    "value": 269479209.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Other Income: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2023_other_income_other_departmental_expenses": {
+    "value": 573121717.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Other Income: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_other_income_total_departmental_expenses": {
+    "value": 937683691.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2023: Other Income: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2023_rooms_occupied": {
+    "value": 29308096.0,
+    "unit": "room nights",
+    "description": "Gaming Abstract, fiscal 2023: Rooms Occupied in the fiscal year (see data/gaming_abstract.csv)"
+  },
+  "fy2023_licensees": {
+    "value": 50.0,
+    "unit": "licensees",
+    "description": "Gaming Abstract, fiscal 2023: Number of licensees in the group (see data/gaming_abstract.csv)"
+  },
+  "fy2023_average_number_of_employees": {
+    "value": 89807.0,
+    "unit": "employees",
+    "description": "Gaming Abstract, fiscal 2023: Average Number of Employees (total) (see data/gaming_abstract.csv)"
+  },
+  "fy2024_gaming_revenue": {
+    "value": 5721528309.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Revenue: Gaming (net of the casino's complimentary contra revenue) (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rooms_revenue": {
+    "value": 7445169666.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Revenue: Rooms (see data/gaming_abstract.csv)"
+  },
+  "fy2024_food_revenue": {
+    "value": 4049284203.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Revenue: Food (see data/gaming_abstract.csv)"
+  },
+  "fy2024_beverage_revenue": {
+    "value": 1631062533.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Revenue: Beverage (see data/gaming_abstract.csv)"
+  },
+  "fy2024_other_revenue": {
+    "value": 3038144478.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Revenue: Other (see data/gaming_abstract.csv)"
+  },
+  "fy2024_total_revenue": {
+    "value": 21885189189.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Total Revenue (see data/gaming_abstract.csv)"
+  },
+  "fy2024_cost_of_sales": {
+    "value": 1298945428.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Cost of Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2024_departmental_expenses": {
+    "value": 9035177973.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_departmental_income": {
+    "value": 11551065788.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Departmental Income (see data/gaming_abstract.csv)"
+  },
+  "fy2024_interest_expense": {
+    "value": 2182092980.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: General and Administrative: Interest Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2024_ga_payroll_taxes": {
+    "value": 80353682.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: General and Administrative: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2024_ga_payroll_employee_benefits": {
+    "value": 351702275.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: General and Administrative: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2024_ga_payroll_officers": {
+    "value": 76139231.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: General and Administrative: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2024_ga_payroll_other_employees": {
+    "value": 816244747.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: General and Administrative: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rent_of_premises": {
+    "value": 259906578.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: General and Administrative: Rent of Premises (see data/gaming_abstract.csv)"
+  },
+  "fy2024_other_general_and_administrative": {
+    "value": 3818514789.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: General and Administrative: Other G & A (not broken down) (see data/gaming_abstract.csv)"
+  },
+  "fy2024_total_general_and_administrative": {
+    "value": 10730855865.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Total General & Administrative Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_net_income_before_federal_income_taxes": {
+    "value": 820209923.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Net Income (Loss) before Federal Income Taxes and Extraordinary Items (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_bad_debt_expense": {
+    "value": 77732202.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_commissions": {
+    "value": 43370124.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Commissions (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_gaming_taxes_and_licenses": {
+    "value": 646430217.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Gaming Taxes and Licenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_preferred_guest_expenses": {
+    "value": 130774165.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Preferred Guest Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_payroll_taxes": {
+    "value": 122890458.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_payroll_employee_benefits": {
+    "value": 191508369.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_payroll_officers": {
+    "value": 61290023.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_payroll_other_employees": {
+    "value": 799446824.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_race_wire_fees": {
+    "value": 2429012.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Race Wire Fees (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_other_departmental_expenses": {
+    "value": 660947665.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_casino_total_departmental_expenses": {
+    "value": 2736819059.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Casino Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rooms_bad_debt_expense": {
+    "value": 21498092.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Rooms Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rooms_payroll_taxes": {
+    "value": 94683868.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Rooms Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rooms_payroll_employee_benefits": {
+    "value": 357060399.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Rooms Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rooms_payroll_officers": {
+    "value": 28755503.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Rooms Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rooms_payroll_other_employees": {
+    "value": 927765535.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Rooms Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rooms_other_departmental_expenses": {
+    "value": 745668890.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Rooms Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rooms_total_departmental_expenses": {
+    "value": 2175432287.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Rooms Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_food_bad_debt_expense": {
+    "value": 7995579.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Food Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2024_food_payroll_taxes": {
+    "value": 139122002.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Food Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2024_food_payroll_employee_benefits": {
+    "value": 403993850.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Food Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2024_food_payroll_officers": {
+    "value": 59576160.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Food Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2024_food_payroll_other_employees": {
+    "value": 1239771173.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Food Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2024_food_other_departmental_expenses": {
+    "value": 543046527.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Food Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_food_total_departmental_expenses": {
+    "value": 2393505291.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Food Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_beverage_bad_debt_expense": {
+    "value": 431373.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Beverage Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2024_beverage_payroll_taxes": {
+    "value": 34242894.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Beverage Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2024_beverage_payroll_employee_benefits": {
+    "value": 93721447.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Beverage Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2024_beverage_payroll_officers": {
+    "value": 6116388.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Beverage Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2024_beverage_payroll_other_employees": {
+    "value": 223055982.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Beverage Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2024_beverage_other_departmental_expenses": {
+    "value": 237612057.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Beverage Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_beverage_total_departmental_expenses": {
+    "value": 595180141.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Beverage Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_other_income_bad_debt_expense": {
+    "value": 9511818.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Other Income: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2024_other_income_payroll_taxes": {
+    "value": 34953760.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Other Income: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2024_other_income_payroll_employee_benefits": {
+    "value": 70117732.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Other Income: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2024_other_income_payroll_officers": {
+    "value": 14293193.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Other Income: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2024_other_income_payroll_other_employees": {
+    "value": 315110583.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Other Income: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2024_other_income_other_departmental_expenses": {
+    "value": 690254109.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Other Income: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_other_income_total_departmental_expenses": {
+    "value": 1134241195.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2024: Other Income: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rooms_occupied": {
+    "value": 29776358.0,
+    "unit": "room nights",
+    "description": "Gaming Abstract, fiscal 2024: Rooms Occupied in the fiscal year (see data/gaming_abstract.csv)"
+  },
+  "fy2024_rooms_available": {
+    "value": 33476548.0,
+    "unit": "room nights",
+    "description": "Gaming Abstract, fiscal 2024: Available Rooms in the fiscal year (see data/gaming_abstract.csv)"
+  },
+  "fy2024_occupancy_rate": {
+    "value": 0.889,
+    "unit": "share",
+    "description": "Gaming Abstract, fiscal 2024: % of Occupancy (see data/gaming_abstract.csv)"
+  },
+  "fy2024_licensees": {
+    "value": 54.0,
+    "unit": "licensees",
+    "description": "Gaming Abstract, fiscal 2024: Number of licensees in the group (see data/gaming_abstract.csv)"
+  },
+  "fy2024_average_number_of_employees": {
+    "value": 95195.0,
+    "unit": "employees",
+    "description": "Gaming Abstract, fiscal 2024: Average Number of Employees (total) (see data/gaming_abstract.csv)"
+  },
+  "fy2025_cost_of_sales": {
+    "value": 1232156462.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Cost of Sales (see data/gaming_abstract.csv)"
+  },
+  "fy2025_departmental_expenses": {
+    "value": 8914242801.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_ga_payroll_taxes": {
+    "value": 89503184.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: General and Administrative: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2025_ga_payroll_employee_benefits": {
+    "value": 360028738.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: General and Administrative: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2025_ga_payroll_officers": {
+    "value": 113848128.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: General and Administrative: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2025_ga_payroll_other_employees": {
+    "value": 955436855.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: General and Administrative: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_bad_debt_expense": {
+    "value": 112139896.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_commissions": {
+    "value": 42993154.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Commissions (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_gaming_taxes_and_licenses": {
+    "value": 618012306.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Gaming Taxes and Licenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_preferred_guest_expenses": {
+    "value": 144927086.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Preferred Guest Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_payroll_taxes": {
+    "value": 123995204.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_payroll_employee_benefits": {
+    "value": 193432841.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_payroll_officers": {
+    "value": 60273696.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_payroll_other_employees": {
+    "value": 820120552.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_race_wire_fees": {
+    "value": 2587103.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Race Wire Fees (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_other_departmental_expenses": {
+    "value": 616567088.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_casino_total_departmental_expenses": {
+    "value": 2735048926.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Casino Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_bad_debt_expense": {
+    "value": 12570171.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_payroll_taxes": {
+    "value": 96468860.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_payroll_employee_benefits": {
+    "value": 318286173.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_payroll_officers": {
+    "value": 32099186.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_payroll_other_employees": {
+    "value": 975411728.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_other_departmental_expenses": {
+    "value": 775687933.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_rooms_total_departmental_expenses": {
+    "value": 2210524051.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Rooms Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_bad_debt_expense": {
+    "value": 2697771.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Food Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_payroll_taxes": {
+    "value": 138948018.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Food Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_payroll_employee_benefits": {
+    "value": 349536326.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Food Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_payroll_officers": {
+    "value": 61898576.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Food Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_payroll_other_employees": {
+    "value": 1237616739.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Food Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_other_departmental_expenses": {
+    "value": 538807398.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Food Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_food_total_departmental_expenses": {
+    "value": 2329504828.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Food Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_bad_debt_expense": {
+    "value": 390221.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Beverage Department: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_payroll_taxes": {
+    "value": 36986522.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Beverage Department: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_payroll_employee_benefits": {
+    "value": 84178492.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Beverage Department: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_payroll_officers": {
+    "value": 16080977.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Beverage Department: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_payroll_other_employees": {
+    "value": 245813483.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Beverage Department: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_other_departmental_expenses": {
+    "value": 221572475.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Beverage Department: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_beverage_total_departmental_expenses": {
+    "value": 605022170.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Beverage Department: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_income_bad_debt_expense": {
+    "value": 4228056.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Other Income: Bad Debt Expense (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_income_payroll_taxes": {
+    "value": 31259183.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Other Income: Payroll - Taxes (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_income_payroll_employee_benefits": {
+    "value": 59416398.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Other Income: Payroll - Employee Benefits (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_income_payroll_officers": {
+    "value": 16604545.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Other Income: Payroll - Officers (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_income_payroll_other_employees": {
+    "value": 312727216.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Other Income: Payroll - Other Employees (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_income_other_departmental_expenses": {
+    "value": 609907428.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Other Income: Other Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_other_income_total_departmental_expenses": {
+    "value": 1034142826.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2025: Other Income: Total Departmental Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2025_average_number_of_employees": {
+    "value": 92130.0,
+    "unit": "employees",
+    "description": "Gaming Abstract, fiscal 2025: Average Number of Employees (total) (see data/gaming_abstract.csv)"
+  },
+  "fy2018_departmental_income": {
+    "value": 8282872501.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2018: Departmental Income (see data/gaming_abstract.csv)"
+  },
+  "fy2018_total_general_and_administrative": {
+    "value": 9979655991.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2018: Total General & Administrative Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2018_net_income_before_federal_income_taxes": {
+    "value": -1696783490.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2018: Net Income (Loss) before Federal Income Taxes and Extraordinary Items (see data/gaming_abstract.csv)"
+  },
+  "fy2020_departmental_income": {
+    "value": 5401647940.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2020: Departmental Income (see data/gaming_abstract.csv)"
+  },
+  "fy2020_other_general_and_administrative": {
+    "value": -1712728687.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2020: General and Administrative: Other G & A (not broken down) (see data/gaming_abstract.csv)"
+  },
+  "fy2020_total_general_and_administrative": {
+    "value": 2661427602.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2020: Total General & Administrative Expenses (see data/gaming_abstract.csv)"
+  },
+  "fy2020_net_income_before_federal_income_taxes": {
+    "value": 2740220338.0,
+    "unit": "usd",
+    "description": "Gaming Abstract, fiscal 2020: Net Income (Loss) before Federal Income Taxes and Extraordinary Items (see data/gaming_abstract.csv)"
+  },
+  "ngcb_strip_profit_change_fy2024_to_fy2025": {
+    "value": -0.812,
+    "unit": "share",
+    "description": "Las Vegas Strip net income, % change from fiscal 2024 (published with one decimal) (see data/published_figures.csv)"
+  },
+  "cdc_strip_profit_change_fy2023_to_fy2024": {
+    "value": -0.404,
+    "unit": "share",
+    "description": "Las Vegas Strip net income, fiscal 2024 against fiscal 2023 (see data/published_figures.csv)"
+  },
+  "culinary_raise_first_year": {
+    "value": 0.1,
+    "unit": "share",
+    "description": "Culinary Union contracts with MGM, Caesars and Wynn (November 2023): wage increase in the first year, retroactive to June 1, 2023 (see data/published_figures.csv)"
+  },
+  "culinary_raise_over_five_years": {
+    "value": 0.32,
+    "unit": "share",
+    "description": "The same contracts: wage increase over five years (see data/published_figures.csv)"
+  },
+  "lvcva_visitors_2019": {
+    "value": 42523700.0,
+    "unit": "visitors",
+    "description": "Las Vegas visitor volume, 2019 (see data/published_figures.csv)"
+  },
+  "lvcva_visitors_2022": {
+    "value": 38829300.0,
+    "unit": "visitors",
+    "description": "Las Vegas visitor volume, 2022 (see data/published_figures.csv)"
+  },
+  "lvcva_visitors_2023": {
+    "value": 40829900.0,
+    "unit": "visitors",
+    "description": "Las Vegas visitor volume, 2023 (see data/published_figures.csv)"
+  },
+  "lvcva_visitors_2024": {
+    "value": 41676300.0,
+    "unit": "visitors",
+    "description": "Las Vegas visitor volume, 2024 (see data/published_figures.csv)"
+  },
+  "lvcva_visitors_2025": {
+    "value": 38545700.0,
+    "unit": "visitors",
+    "description": "Las Vegas visitor volume, 2025 (see data/published_figures.csv)"
+  },
+  "lvcva_visitors_jan_sep_2026": {
+    "value": 28886300.0,
+    "unit": "visitors",
+    "description": "Visitor volume, January to September 2026 (see data/published_figures.csv)"
+  },
+  "lvcva_visitors_jan_sep_2025": {
+    "value": 28903500.0,
+    "unit": "visitors",
+    "description": "Visitor volume, January to September 2025 (revised) (see data/published_figures.csv)"
+  },
+  "lvcva_strip_gaming_revenue_jan_sep_2026": {
+    "value": 6629813000.0,
+    "unit": "usd",
+    "description": "Gaming revenue, Las Vegas Strip, January to September 2026 (see data/published_figures.csv)"
+  },
+  "lvcva_strip_gaming_revenue_jan_sep_2025": {
+    "value": 6454244000.0,
+    "unit": "usd",
+    "description": "Gaming revenue, Las Vegas Strip, January to September 2025 (revised) (see data/published_figures.csv)"
+  },
+  "lvcva_strip_gaming_revenue_2025": {
+    "value": 8800000000.0,
+    "unit": "usd",
+    "description": "Gaming revenue, Las Vegas Strip, calendar 2025 ('$8.8 Billion') (see data/published_figures.csv)"
+  },
+  "lvcva_visitors_who_gambled_2025": {
+    "value": 0.81,
+    "unit": "share",
+    "description": "Visitors who gambled during their stay, 2025 (see data/published_figures.csv)"
+  },
+  "lvcva_visitors_who_gambled_2021": {
+    "value": 0.76,
+    "unit": "share",
+    "description": "Visitors who gambled during their stay, 2021 (see data/published_figures.csv)"
+  },
+  "lvcva_gambling_budget_per_trip_2025": {
+    "value": 848.95,
+    "unit": "usd per trip",
+    "description": "Average gambling budget per trip, among visitors who gambled, 2025 (see data/published_figures.csv)"
+  },
+  "lvcva_gambling_budget_per_trip_2021": {
+    "value": 717.51,
+    "unit": "usd per trip",
+    "description": "Average gambling budget per trip, among visitors who gambled, 2021 (see data/published_figures.csv)"
+  },
+  "revenue_per_night_fy2025": {
+    "value": 732.8901009009422,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: total_revenue / rooms occupied"
+  },
+  "gaming_per_night_fy2025": {
+    "value": 191.5810063946698,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: gaming_revenue / rooms occupied"
+  },
+  "rooms_per_night_fy2025": {
+    "value": 245.65353163729068,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: rooms_revenue / rooms occupied"
+  },
+  "food_and_beverage_per_night_fy2025": {
+    "value": 193.78359239204323,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: food_revenue + beverage_revenue / rooms occupied"
+  },
+  "other_per_night_fy2025": {
+    "value": 101.87197047693854,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: other_revenue / rooms occupied"
+  },
+  "interest_per_night_fy2025": {
+    "value": 77.66354471453124,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: interest_expense / rooms occupied"
+  },
+  "other_ga_per_night_fy2025": {
+    "value": 131.98529504111454,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: other_general_and_administrative / rooms occupied"
+  },
+  "profit_per_night_fy2025": {
+    "value": 5.361230206374224,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: net_income_before_federal_income_taxes / rooms occupied (THE MAIN NUMBER)"
+  },
+  "casino_comps_per_night_fy2025": {
+    "value": 102.05006072693602,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: casino_contra_revenue / rooms occupied"
+  },
+  "profit_before_interest_per_night_fy2025": {
+    "value": 83.02477492090547,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: (net income + interest expense) / rooms occupied"
+  },
+  "gaming_share_of_revenue_fy2025": {
+    "value": 0.2614048220315149,
+    "unit": "share",
+    "description": "Fiscal 2025: gaming_revenue as a share of total revenue"
+  },
+  "rooms_share_of_revenue_fy2025": {
+    "value": 0.33518467685033354,
+    "unit": "share",
+    "description": "Fiscal 2025: rooms_revenue as a share of total revenue"
+  },
+  "profit_share_of_revenue_fy2025": {
+    "value": 0.007315189821480275,
+    "unit": "share",
+    "description": "Fiscal 2025: net_income_before_federal_income_taxes as a share of total revenue"
+  },
+  "paid_rooms_per_night_fy2025": {
+    "value": 191.05386936459075,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: room sales (paid rooms only) / rooms occupied"
+  },
+  "comp_rooms_per_night_fy2025": {
+    "value": 59.6666625985009,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: rooms given to players, at list price / rooms occupied"
+  },
+  "casino_comps_share_of_casino_win_fy2025": {
+    "value": 0.34754517540431956,
+    "unit": "share",
+    "description": "Fiscal 2025: the casino's complimentaries as a share of what it won before them"
+  },
+  "revenue_per_night_fy2019": {
+    "value": 559.071898192684,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: total_revenue / rooms occupied"
+  },
+  "gaming_per_night_fy2019": {
+    "value": 151.00164907351865,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: gaming_revenue / rooms occupied"
+  },
+  "rooms_per_night_fy2019": {
+    "value": 177.44396176588253,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: rooms_revenue / rooms occupied"
+  },
+  "food_and_beverage_per_night_fy2019": {
+    "value": 149.09564291814465,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: food_revenue + beverage_revenue / rooms occupied"
+  },
+  "other_per_night_fy2019": {
+    "value": 81.53064443513816,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: other_revenue / rooms occupied"
+  },
+  "interest_per_night_fy2019": {
+    "value": 50.2474212546525,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: interest_expense / rooms occupied"
+  },
+  "other_ga_per_night_fy2019": {
+    "value": 53.77581265783991,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: other_general_and_administrative / rooms occupied"
+  },
+  "profit_per_night_fy2019": {
+    "value": 35.330629929320644,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: net_income_before_federal_income_taxes / rooms occupied"
+  },
+  "casino_comps_per_night_fy2019": {
+    "value": 67.07119845259564,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: casino_contra_revenue / rooms occupied"
+  },
+  "profit_before_interest_per_night_fy2019": {
+    "value": 85.57805118397314,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: (net income + interest expense) / rooms occupied"
+  },
+  "gaming_share_of_revenue_fy2019": {
+    "value": 0.2700934344252731,
+    "unit": "share",
+    "description": "Fiscal 2019: gaming_revenue as a share of total revenue"
+  },
+  "rooms_share_of_revenue_fy2019": {
+    "value": 0.31739023610291806,
+    "unit": "share",
+    "description": "Fiscal 2019: rooms_revenue as a share of total revenue"
+  },
+  "profit_share_of_revenue_fy2019": {
+    "value": 0.06319514546077927,
+    "unit": "share",
+    "description": "Fiscal 2019: net_income_before_federal_income_taxes as a share of total revenue"
+  },
+  "paid_rooms_per_night_fy2019": {
+    "value": 147.82367999679872,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: room sales (paid rooms only) / rooms occupied"
+  },
+  "comp_rooms_per_night_fy2019": {
+    "value": 32.3693467741742,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: rooms given to players, at list price / rooms occupied"
+  },
+  "casino_comps_share_of_casino_win_fy2019": {
+    "value": 0.30756327169325304,
+    "unit": "share",
+    "description": "Fiscal 2019: the casino's complimentaries as a share of what it won before them"
+  },
+  "gaming_before_comps_per_night_fy2025": {
+    "value": 293.63106712160584,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: what the casino won on tables, slots, cards and books before comps / rooms occupied"
+  },
+  "gaming_before_comps_share_fy2025": {
+    "value": 0.3953529964224916,
+    "unit": "share",
+    "description": "Fiscal 2025, the count most favorable to gaming: casino win before comps / (that + what guests and customers paid for rooms, food, beverage and other)"
+  },
+  "interest_per_dollar_of_profit_fy2025": {
+    "value": 14.486142494346414,
+    "unit": "dollars",
+    "description": "Fiscal 2025: interest paid for every dollar of net income"
+  },
+  "inflation_fy2019_to_fy2025": {
+    "value": 0.2545232000315871,
+    "unit": "share",
+    "description": "CPI-U, fiscal 2025 average / fiscal 2019 average - 1"
+  },
+  "revenue_per_night_fy2019_in_fy2025_dollars": {
+    "value": 701.3686667684196,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019 revenue per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "revenue_per_night_real_change_fy2019_to_fy2025": {
+    "value": 0.044942746412893975,
+    "unit": "share",
+    "description": "Real change in revenue per night, fiscal 2019 to fiscal 2025"
+  },
+  "gaming_per_night_fy2019_in_fy2025_dollars": {
+    "value": 189.43507200575735,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019 gaming per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "gaming_per_night_real_change_fy2019_to_fy2025": {
+    "value": 0.011328073340332923,
+    "unit": "share",
+    "description": "Real change in gaming per night, fiscal 2019 to fiscal 2025"
+  },
+  "rooms_per_night_fy2019_in_fy2025_dollars": {
+    "value": 222.60756674081756,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019 rooms per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "rooms_per_night_real_change_fy2019_to_fy2025": {
+    "value": 0.10352732044955859,
+    "unit": "share",
+    "description": "Real change in rooms per night, fiscal 2019 to fiscal 2025"
+  },
+  "profit_per_night_fy2019_in_fy2025_dollars": {
+    "value": 44.3230949180631,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019 profit per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "profit_per_night_real_change_fy2019_to_fy2025": {
+    "value": -0.8790420611131704,
+    "unit": "share",
+    "description": "Real change in profit per night, fiscal 2019 to fiscal 2025"
+  },
+  "profit_before_interest_per_night_fy2019_in_fy2025_dollars": {
+    "value": 107.35965062378494,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019 profit_before_interest per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "profit_before_interest_per_night_real_change_fy2019_to_fy2025": {
+    "value": -0.2266668675008543,
+    "unit": "share",
+    "description": "Real change in profit_before_interest per night, fiscal 2019 to fiscal 2025"
+  },
+  "interest_per_night_fy2019_in_fy2025_dollars": {
+    "value": 63.036555705721845,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019 interest per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "interest_per_night_real_change_fy2019_to_fy2025": {
+    "value": 0.2320397877874807,
+    "unit": "share",
+    "description": "Real change in interest per night, fiscal 2019 to fiscal 2025"
+  },
+  "visitors_change_2019_to_2025": {
+    "value": -0.09354783332588645,
+    "unit": "share",
+    "description": "lvcva_visitors_2025 / lvcva_visitors_2019 - 1"
+  },
+  "visitors_change_2024_to_2025": {
+    "value": -0.0751170329419838,
+    "unit": "share",
+    "description": "lvcva_visitors_2025 / lvcva_visitors_2024 - 1"
+  },
+  "visitors_change_jan_sep_2025_to_2026": {
+    "value": -0.0005950836403896265,
+    "unit": "share",
+    "description": "lvcva_visitors_jan_sep_2026 / lvcva_visitors_jan_sep_2025 - 1"
+  },
+  "strip_gaming_revenue_change_jan_sep_2025_to_2026": {
+    "value": 0.027202101438991155,
+    "unit": "share",
+    "description": "lvcva_strip_gaming_revenue_jan_sep_2026 / lvcva_strip_gaming_revenue_jan_sep_2025 - 1"
+  },
+  "visitors_who_gambled_change_2021_to_2025": {
+    "value": 0.06578947368421062,
+    "unit": "share",
+    "description": "lvcva_visitors_who_gambled_2025 / lvcva_visitors_who_gambled_2021 - 1"
+  },
+  "revenue_change_fy2019_to_fy2025": {
+    "value": 0.27420970905024644,
+    "unit": "share",
+    "description": "total_revenue, fiscal 2019 to 2025"
+  },
+  "profit_change_fy2019_to_fy2025": {
+    "value": -0.8525031341234804,
+    "unit": "share",
+    "description": "net_income_before_federal_income_taxes, fiscal 2019 to 2025"
+  },
+  "rooms_occupied_change_fy2019_to_fy2025": {
+    "value": -0.02799227352293887,
+    "unit": "share",
+    "description": "rooms_occupied, fiscal 2019 to 2025"
+  },
+  "payroll_per_night_fy2019": {
+    "value": 194.9668169623027,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: payroll (taxes, benefits, officers, other employees) of the five departments and of general and administrative / rooms occupied"
+  },
+  "operating_cost_per_night_fy2019": {
+    "value": 285.7623358678746,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: (cost of sales + departmental expenses) / rooms occupied"
+  },
+  "total_cost_per_night_fy2019": {
+    "value": 523.7412682633633,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2019: everything that went out (revenue - net income) / rooms occupied"
+  },
+  "payroll_per_night_fy2022": {
+    "value": 191.70547280846344,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022: payroll (taxes, benefits, officers, other employees) of the five departments and of general and administrative / rooms occupied"
+  },
+  "operating_cost_per_night_fy2022": {
+    "value": 290.2553940602999,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022: (cost of sales + departmental expenses) / rooms occupied"
+  },
+  "total_cost_per_night_fy2022": {
+    "value": 597.0728555311406,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022: everything that went out (revenue - net income) / rooms occupied"
+  },
+  "revenue_per_night_fy2022": {
+    "value": 673.1088163610726,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022: total_revenue / rooms occupied"
+  },
+  "profit_per_night_fy2022": {
+    "value": 76.03596082993207,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022: net_income_before_federal_income_taxes / rooms occupied"
+  },
+  "interest_per_night_fy2022": {
+    "value": 57.90732761766943,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022: interest_expense / rooms occupied"
+  },
+  "other_ga_per_night_fy2022": {
+    "value": 105.26447836099942,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022: other_general_and_administrative / rooms occupied"
+  },
+  "gaming_per_night_fy2022": {
+    "value": 204.72099895029348,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022: gaming_revenue / rooms occupied"
+  },
+  "rooms_per_night_fy2022": {
+    "value": 206.06804770798425,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022: rooms_revenue / rooms occupied"
+  },
+  "payroll_per_night_fy2023": {
+    "value": 199.46430972520358,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2023: payroll (taxes, benefits, officers, other employees) of the five departments and of general and administrative / rooms occupied"
+  },
+  "operating_cost_per_night_fy2023": {
+    "value": 313.06846855558274,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2023: (cost of sales + departmental expenses) / rooms occupied"
+  },
+  "total_cost_per_night_fy2023": {
+    "value": 651.9573927286167,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2023: everything that went out (revenue - net income) / rooms occupied"
+  },
+  "revenue_per_night_fy2023": {
+    "value": 698.949174316885,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2023: total_revenue / rooms occupied"
+  },
+  "profit_per_night_fy2023": {
+    "value": 46.9917815882683,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2023: net_income_before_federal_income_taxes / rooms occupied"
+  },
+  "interest_per_night_fy2023": {
+    "value": 69.34464258613046,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2023: interest_expense / rooms occupied"
+  },
+  "other_ga_per_night_fy2023": {
+    "value": 113.97822103489766,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2023: other_general_and_administrative / rooms occupied"
+  },
+  "gaming_per_night_fy2023": {
+    "value": 186.07412211287965,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2023: gaming_revenue / rooms occupied"
+  },
+  "rooms_per_night_fy2023": {
+    "value": 230.81997380519022,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2023: rooms_revenue / rooms occupied"
+  },
+  "payroll_per_night_fy2024": {
+    "value": 219.70168675430352,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2024: payroll (taxes, benefits, officers, other employees) of the five departments and of general and administrative / rooms occupied"
+  },
+  "operating_cost_per_night_fy2024": {
+    "value": 347.0580049111446,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2024: (cost of sales + departmental expenses) / rooms occupied"
+  },
+  "total_cost_per_night_fy2024": {
+    "value": 707.4397502206281,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2024: everything that went out (revenue - net income) / rooms occupied"
+  },
+  "revenue_per_night_fy2024": {
+    "value": 734.9854266596338,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2024: total_revenue / rooms occupied"
+  },
+  "profit_per_night_fy2024": {
+    "value": 27.54567643900574,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2024: net_income_before_federal_income_taxes / rooms occupied"
+  },
+  "interest_per_night_fy2024": {
+    "value": 73.28273592089401,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2024: interest_expense / rooms occupied"
+  },
+  "other_ga_per_night_fy2024": {
+    "value": 128.23981996052035,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2024: other_general_and_administrative / rooms occupied"
+  },
+  "gaming_per_night_fy2024": {
+    "value": 192.1500375902251,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2024: gaming_revenue / rooms occupied"
+  },
+  "rooms_per_night_fy2024": {
+    "value": 250.03627596094861,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2024: rooms_revenue / rooms occupied"
+  },
+  "payroll_per_night_fy2025": {
+    "value": 234.0054715091052,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: payroll (taxes, benefits, officers, other employees) of the five departments and of general and administrative / rooms occupied"
+  },
+  "operating_cost_per_night_fy2025": {
+    "value": 352.7968731104326,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: (cost of sales + departmental expenses) / rooms occupied"
+  },
+  "total_cost_per_night_fy2025": {
+    "value": 727.528870694568,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2025: everything that went out (revenue - net income) / rooms occupied"
+  },
+  "inflation_fy2022_to_fy2025": {
+    "value": 0.12660479868380592,
+    "unit": "share",
+    "description": "CPI-U, fiscal 2025 average / fiscal 2022 average - 1"
+  },
+  "revenue_per_night_difference_fy2022_to_fy2025": {
+    "value": 59.7812845398696,
+    "unit": "usd per occupied room night",
+    "description": "revenue per night, fiscal 2025 minus fiscal 2022 (dollars of each year)"
+  },
+  "revenue_per_night_change_fy2022_to_fy2025": {
+    "value": 0.08881370008352607,
+    "unit": "share",
+    "description": "revenue per night, fiscal 2022 to fiscal 2025 (dollars of each year)"
+  },
+  "revenue_per_night_fy2022_in_fy2025_dollars": {
+    "value": 758.3276225487612,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022 revenue per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "revenue_per_night_real_change_fy2022_to_fy2025": {
+    "value": -0.033544237202282945,
+    "unit": "share",
+    "description": "Real change in revenue per night, fiscal 2022 to fiscal 2025"
+  },
+  "operating_cost_per_night_difference_fy2022_to_fy2025": {
+    "value": 62.54147905013269,
+    "unit": "usd per occupied room night",
+    "description": "operating_cost per night, fiscal 2025 minus fiscal 2022 (dollars of each year)"
+  },
+  "operating_cost_per_night_change_fy2022_to_fy2025": {
+    "value": 0.21547051434689224,
+    "unit": "share",
+    "description": "operating_cost per night, fiscal 2022 to fiscal 2025 (dollars of each year)"
+  },
+  "operating_cost_per_night_fy2022_in_fy2025_dollars": {
+    "value": 327.00311979219293,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022 operating_cost per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "operating_cost_per_night_real_change_fy2022_to_fy2025": {
+    "value": 0.07887922700747119,
+    "unit": "share",
+    "description": "Real change in operating_cost per night, fiscal 2022 to fiscal 2025"
+  },
+  "payroll_per_night_difference_fy2022_to_fy2025": {
+    "value": 42.299998700641765,
+    "unit": "usd per occupied room night",
+    "description": "payroll per night, fiscal 2025 minus fiscal 2022 (dollars of each year)"
+  },
+  "payroll_per_night_change_fy2022_to_fy2025": {
+    "value": 0.22065097089275332,
+    "unit": "share",
+    "description": "payroll per night, fiscal 2022 to fiscal 2025 (dollars of each year)"
+  },
+  "payroll_per_night_fy2022_in_fy2025_dollars": {
+    "value": 215.97630559996279,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022 payroll per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "payroll_per_night_real_change_fy2022_to_fy2025": {
+    "value": 0.08347751786502244,
+    "unit": "share",
+    "description": "Real change in payroll per night, fiscal 2022 to fiscal 2025"
+  },
+  "interest_per_night_difference_fy2022_to_fy2025": {
+    "value": 19.75621709686181,
+    "unit": "usd per occupied room night",
+    "description": "interest per night, fiscal 2025 minus fiscal 2022 (dollars of each year)"
+  },
+  "interest_per_night_change_fy2022_to_fy2025": {
+    "value": 0.3411695533128616,
+    "unit": "share",
+    "description": "interest per night, fiscal 2022 to fiscal 2025 (dollars of each year)"
+  },
+  "interest_per_night_fy2022_in_fy2025_dollars": {
+    "value": 65.23867317302167,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022 interest per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "interest_per_night_real_change_fy2022_to_fy2025": {
+    "value": 0.1904525481160102,
+    "unit": "share",
+    "description": "Real change in interest per night, fiscal 2022 to fiscal 2025"
+  },
+  "other_ga_per_night_difference_fy2022_to_fy2025": {
+    "value": 26.72081668011512,
+    "unit": "usd per occupied room night",
+    "description": "other_ga per night, fiscal 2025 minus fiscal 2022 (dollars of each year)"
+  },
+  "other_ga_per_night_change_fy2022_to_fy2025": {
+    "value": 0.2538445741257309,
+    "unit": "share",
+    "description": "other_ga per night, fiscal 2022 to fiscal 2025 (dollars of each year)"
+  },
+  "other_ga_per_night_fy2022_in_fy2025_dollars": {
+    "value": 118.5914664524496,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022 other_ga per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "other_ga_per_night_real_change_fy2022_to_fy2025": {
+    "value": 0.1129409137885593,
+    "unit": "share",
+    "description": "Real change in other_ga per night, fiscal 2022 to fiscal 2025"
+  },
+  "profit_per_night_difference_fy2022_to_fy2025": {
+    "value": -70.67473062355783,
+    "unit": "usd per occupied room night",
+    "description": "profit per night, fiscal 2025 minus fiscal 2022 (dollars of each year)"
+  },
+  "profit_per_night_change_fy2022_to_fy2025": {
+    "value": -0.9294908600107576,
+    "unit": "share",
+    "description": "profit per night, fiscal 2022 to fiscal 2025 (dollars of each year)"
+  },
+  "profit_per_night_fy2022_in_fy2025_dollars": {
+    "value": 85.66247834353537,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022 profit per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "profit_per_night_real_change_fy2022_to_fy2025": {
+    "value": -0.937414486365035,
+    "unit": "share",
+    "description": "Real change in profit per night, fiscal 2022 to fiscal 2025"
+  },
+  "total_cost_per_night_difference_fy2022_to_fy2025": {
+    "value": 130.45601516342742,
+    "unit": "usd per occupied room night",
+    "description": "total_cost per night, fiscal 2025 minus fiscal 2022 (dollars of each year)"
+  },
+  "total_cost_per_night_change_fy2022_to_fy2025": {
+    "value": 0.21849262440071415,
+    "unit": "share",
+    "description": "total_cost per night, fiscal 2022 to fiscal 2025 (dollars of each year)"
+  },
+  "total_cost_per_night_fy2022_in_fy2025_dollars": {
+    "value": 672.6651442052258,
+    "unit": "usd per occupied room night",
+    "description": "Fiscal 2022 total_cost per night in fiscal 2025 dollars (CPI-U)"
+  },
+  "total_cost_per_night_real_change_fy2022_to_fy2025": {
+    "value": 0.08156172051127353,
+    "unit": "share",
+    "description": "Real change in total_cost per night, fiscal 2022 to fiscal 2025"
+  },
+  "payroll_share_of_cost_increase": {
+    "value": 0.32424720813103847,
+    "unit": "share",
+    "description": "Part of the rise in everything that went out per night (fiscal 2022 to 2025) that came from payroll"
+  },
+  "interest_share_of_cost_increase": {
+    "value": 0.15143967928280205,
+    "unit": "share",
+    "description": "Part of the rise in everything that went out per night (fiscal 2022 to 2025) that came from interest"
+  },
+  "other_ga_share_of_cost_increase": {
+    "value": 0.2048262523321818,
+    "unit": "share",
+    "description": "Part of the rise in everything that went out per night (fiscal 2022 to 2025) that came from other_ga"
+  },
+  "payroll_share_of_new_revenue": {
+    "value": 0.7075792871668868,
+    "unit": "share",
+    "description": "Rise in payroll per night as a share of the rise in revenue per night, fiscal 2022 to 2025"
+  },
+  "rooms_occupied_change_fy2022_to_fy2024": {
+    "value": 0.092195029589341,
+    "unit": "share",
+    "description": "rooms_occupied, fiscal 2022 to 2024"
+  },
+  "rooms_occupied_change_fy2022_to_fy2025": {
+    "value": 0.05491104417592618,
+    "unit": "share",
+    "description": "rooms_occupied, fiscal 2022 to 2025"
+  },
+  "rooms_occupied_change_fy2024_to_fy2025": {
+    "value": -0.03413674701251246,
+    "unit": "share",
+    "description": "rooms_occupied, fiscal 2024 to 2025"
+  },
+  "rooms_available_change_fy2024_to_fy2025": {
+    "value": -0.03540792198765541,
+    "unit": "share",
+    "description": "rooms_available, fiscal 2024 to 2025"
+  },
+  "employees_change_fy2022_to_fy2025": {
+    "value": 0.10751809198663231,
+    "unit": "share",
+    "description": "average_number_of_employees, fiscal 2022 to 2025"
+  },
+  "profit_change_fy2022_to_fy2024": {
+    "value": -0.6043286549551299,
+    "unit": "share",
+    "description": "net_income_before_federal_income_taxes, fiscal 2022 to 2024"
+  },
+  "profit_change_fy2022_to_fy2025": {
+    "value": -0.9256191295100018,
+    "unit": "share",
+    "description": "net_income_before_federal_income_taxes, fiscal 2022 to 2025"
+  },
+  "revenue_change_fy2022_to_fy2024": {
+    "value": 0.1925968139267975,
+    "unit": "share",
+    "description": "total_revenue, fiscal 2022 to 2024"
+  },
+  "visitors_change_2022_to_2024": {
+    "value": 0.07332092002688695,
+    "unit": "share",
+    "description": "lvcva_visitors_2024 / lvcva_visitors_2022 - 1"
+  }
+}

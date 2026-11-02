@@ -1,0 +1,344 @@
+fiscal_year,line,value,unit,description,url
+2025,gaming_revenue,5509848670.0,usd,Revenue: Gaming (net of the casino's complimentary contra revenue),https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_revenue,7064968548.0,usd,Revenue: Rooms,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_revenue,3993791473.0,usd,Revenue: Food,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_revenue,1579403328.0,usd,Revenue: Beverage,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_revenue,2929826665.0,usd,Revenue: Other,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,total_revenue,21077838684.0,usd,Total Revenue,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_table_games,2990691577.0,usd,Casino Department: Table Games (keno and bingo included),https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_slot_machines,5102997347.0,usd,Casino Department: Slot Machines,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_card_games,173455229.0,usd,Casino Department: Card Games,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_race_book,11062023.0,usd,Casino Department: Race Book,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_sports_book,166591015.0,usd,Casino Department: Sports Book,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_contra_revenue,2934948521.0,usd,"Casino Department: Contra Revenue (Complimentary Expense), as a positive amount",https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_room_sales,5494688267.0,usd,Rooms Department: Room Sales,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_complimentary_room_sales,1716006653.0,usd,"Rooms Department: Complimentary Room Sales (rooms given to players, at list price)",https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_contra_revenue,145726372.0,usd,"Rooms Department: Contra Revenue, as a positive amount",https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_sales,3503406765.0,usd,Food Department: Food Sales,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_complimentary_sales,586505707.0,usd,Food Department: Complimentary Food Sales,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_contra_revenue,96120999.0,usd,"Food Department: Contra Revenue, as a positive amount",https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_sales,1037076831.0,usd,Beverage Department: Beverage Sales,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_complimentary_sales,574656754.0,usd,Beverage Department: Complimentary Beverage Sales,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_contra_revenue,32330257.0,usd,"Beverage Department: Contra Revenue, as a positive amount",https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_income_sales,2880175595.0,usd,Other Income: Other Operating and Non-Operating Income,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_income_complimentary_items,124907437.0,usd,Other Income: Other Complimentary Items,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_income_contra_revenue,75256367.0,usd,"Other Income: Contra Revenue, as a positive amount",https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,departmental_income,10931439421.0,usd,Departmental Income,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,total_general_and_administrative,10777251030.0,usd,Total General & Administrative Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,interest_expense,2233595003.0,usd,General and Administrative: Interest Expense,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rent_of_premises,274063659.0,usd,General and Administrative: Rent of Premises,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_general_and_administrative,3795882567.0,usd,General and Administrative: Other G & A (not broken down),https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,net_income_before_federal_income_taxes,154188391.0,usd,Net Income (Loss) before Federal Income Taxes and Extraordinary Items,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_occupied,28759890.0,room nights,Rooms Occupied in the fiscal year,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_available,32291213.0,room nights,Available Rooms in the fiscal year,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,occupancy_rate,0.891,share,% of Occupancy,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,average_room_rate_per_day,250.72,usd per room per day,Average Room Rate Per Day (complimentary rooms included),https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,table_revenue_per_room_per_day,103.99,usd per room per day,Average Table Revenue Per Room Per Day,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,slot_revenue_per_room_per_day,177.43,usd per room per day,Average Slot Revenue Per Room Per Day,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,contra_revenue_to_gaming_revenue,0.3889,share,Total Contra Revenue (Complimentary Expense) to Gaming Revenue (gaming before comps),https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,licensees,51.0,licensees,Number of licensees in the group,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2019,gaming_revenue,4467856272.0,usd,Revenue: Gaming (net of the casino's complimentary contra revenue),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_revenue,5250234831.0,usd,Revenue: Rooms,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,food_revenue,3035759166.0,usd,Revenue: Food,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,beverage_revenue,1375701950.0,usd,Revenue: Beverage,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,other_revenue,2412339225.0,usd,Revenue: Other,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,total_revenue,16541891444.0,usd,Total Revenue,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_contra_revenue,1984511272.0,usd,"Casino Department: Contra Revenue (Complimentary Expense), as a positive amount",https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_room_sales,4373826113.0,usd,Rooms Department: Room Sales,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_complimentary_room_sales,957748408.0,usd,"Rooms Department: Complimentary Room Sales (rooms given to players, at list price)",https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_contra_revenue,81339690.0,usd,"Rooms Department: Contra Revenue, as a positive amount",https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,departmental_income,8086718587.0,usd,Departmental Income,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,total_general_and_administrative,7041351351.0,usd,Total General & Administrative Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,interest_expense,1486727182.0,usd,General and Administrative: Interest Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rent_of_premises,84836696.0,usd,General and Administrative: Rent of Premises,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,other_general_and_administrative,1591125682.0,usd,General and Administrative: Other G & A (not broken down),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,net_income_before_federal_income_taxes,1045367236.0,usd,Net Income (Loss) before Federal Income Taxes and Extraordinary Items,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_occupied,29588129.0,room nights,Rooms Occupied in the fiscal year,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_available,32113895.0,room nights,Available Rooms in the fiscal year,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,occupancy_rate,0.92,share,% of Occupancy,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,average_room_rate_per_day,180.19,usd per room per day,Average Room Rate Per Day (complimentary rooms included),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,table_revenue_per_room_per_day,89.29,usd per room per day,Average Table Revenue Per Room Per Day,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,slot_revenue_per_room_per_day,120.06,usd per room per day,Average Slot Revenue Per Room Per Day,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,contra_revenue_to_gaming_revenue,0.3367,share,Total Contra Revenue (Complimentary Expense) to Gaming Revenue (gaming before comps),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,licensees,44.0,licensees,Number of licensees in the group,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,cost_of_sales,1059945064.0,usd,Cost of Sales,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,departmental_expenses,7395227793.0,usd,Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,ga_payroll_taxes,69318331.0,usd,General and Administrative: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,ga_payroll_employee_benefits,259621318.0,usd,General and Administrative: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,ga_payroll_officers,24529175.0,usd,General and Administrative: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,ga_payroll_other_employees,854248677.0,usd,General and Administrative: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_bad_debt_expense,42360150.0,usd,Casino Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_commissions,18027115.0,usd,Casino Department: Commissions,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_gaming_taxes_and_licenses,468672803.0,usd,Casino Department: Gaming Taxes and Licenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_preferred_guest_expenses,126793598.0,usd,Casino Department: Preferred Guest Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_payroll_taxes,111928752.0,usd,Casino Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_payroll_employee_benefits,179712485.0,usd,Casino Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_payroll_officers,24395758.0,usd,Casino Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_payroll_other_employees,778962111.0,usd,Casino Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_race_wire_fees,3467865.0,usd,Casino Department: Race Wire Fees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_other_departmental_expenses,561972797.0,usd,Casino Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,casino_total_departmental_expenses,2316293434.0,usd,Casino Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_bad_debt_expense,8060826.0,usd,Rooms Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_payroll_taxes,83424331.0,usd,Rooms Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_payroll_employee_benefits,255239576.0,usd,Rooms Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_payroll_officers,3847469.0,usd,Rooms Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_payroll_other_employees,847282886.0,usd,Rooms Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_other_departmental_expenses,585908080.0,usd,Rooms Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,rooms_total_departmental_expenses,1783763168.0,usd,Rooms Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,food_bad_debt_expense,2112610.0,usd,Food Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,food_payroll_taxes,118400859.0,usd,Food Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,food_payroll_employee_benefits,288239453.0,usd,Food Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,food_payroll_officers,11890200.0,usd,Food Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,food_payroll_other_employees,1104403812.0,usd,Food Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,food_other_departmental_expenses,230786315.0,usd,Food Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,food_total_departmental_expenses,1755833249.0,usd,Food Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,beverage_bad_debt_expense,446729.0,usd,Beverage Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,beverage_payroll_taxes,32072828.0,usd,Beverage Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,beverage_payroll_employee_benefits,70166045.0,usd,Beverage Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,beverage_payroll_officers,389100.0,usd,Beverage Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,beverage_payroll_other_employees,227550944.0,usd,Beverage Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,beverage_other_departmental_expenses,274074815.0,usd,Beverage Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,beverage_total_departmental_expenses,604700461.0,usd,Beverage Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,other_income_bad_debt_expense,4149920.0,usd,Other Income: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,other_income_payroll_taxes,31762097.0,usd,Other Income: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,other_income_payroll_employee_benefits,56548128.0,usd,Other Income: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,other_income_payroll_officers,3851731.0,usd,Other Income: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,other_income_payroll_other_employees,330917265.0,usd,Other Income: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,other_income_other_departmental_expenses,507408340.0,usd,Other Income: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,other_income_total_departmental_expenses,934637481.0,usd,Other Income: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2019,average_number_of_employees,96037.0,employees,Average Number of Employees (total),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2019-abstract.pdf
+2022,gaming_revenue,5581279524.0,usd,Revenue: Gaming (net of the casino's complimentary contra revenue),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,rooms_revenue,5618003923.0,usd,Revenue: Rooms,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,food_revenue,2996110893.0,usd,Revenue: Food,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,beverage_revenue,1465403523.0,usd,Revenue: Beverage,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,other_revenue,2690072216.0,usd,Revenue: Other,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,total_revenue,18350870079.0,usd,Total Revenue,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,cost_of_sales,1055750802.0,usd,Cost of Sales,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,departmental_expenses,6857440790.0,usd,Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,departmental_income,10437678487.0,usd,Departmental Income,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,interest_expense,1578719250.0,usd,General and Administrative: Interest Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,ga_payroll_taxes,69404395.0,usd,General and Administrative: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,ga_payroll_employee_benefits,278051505.0,usd,General and Administrative: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,ga_payroll_officers,60381118.0,usd,General and Administrative: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,ga_payroll_other_employees,772844693.0,usd,General and Administrative: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,rent_of_premises,199012600.0,usd,General and Administrative: Rent of Premises,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,other_general_and_administrative,2869810526.0,usd,General and Administrative: Other G & A (not broken down),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,total_general_and_administrative,8364720884.0,usd,Total General & Administrative Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,net_income_before_federal_income_taxes,2072957603.0,usd,Net Income (Loss) before Federal Income Taxes and Extraordinary Items,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_bad_debt_expense,20205639.0,usd,Casino Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_commissions,20363807.0,usd,Casino Department: Commissions,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_gaming_taxes_and_licenses,586641722.0,usd,Casino Department: Gaming Taxes and Licenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_preferred_guest_expenses,87147090.0,usd,Casino Department: Preferred Guest Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_payroll_taxes,113057667.0,usd,Casino Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_payroll_employee_benefits,156760399.0,usd,Casino Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_payroll_officers,36820554.0,usd,Casino Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_payroll_other_employees,713012121.0,usd,Casino Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_race_wire_fees,2506496.0,usd,Casino Department: Race Wire Fees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_other_departmental_expenses,545622740.0,usd,Casino Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,casino_total_departmental_expenses,2282138235.0,usd,Casino Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,rooms_bad_debt_expense,12751548.0,usd,Rooms Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,rooms_payroll_taxes,78030742.0,usd,Rooms Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,rooms_payroll_employee_benefits,285002493.0,usd,Rooms Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,rooms_payroll_officers,14633320.0,usd,Rooms Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,rooms_payroll_other_employees,743336760.0,usd,Rooms Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,rooms_other_departmental_expenses,536595100.0,usd,Rooms Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,rooms_total_departmental_expenses,1670349963.0,usd,Rooms Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,food_bad_debt_expense,2352304.0,usd,Food Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,food_payroll_taxes,102403936.0,usd,Food Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,food_payroll_employee_benefits,283635255.0,usd,Food Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,food_payroll_officers,26493137.0,usd,Food Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,food_payroll_other_employees,907417037.0,usd,Food Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,food_other_departmental_expenses,378750052.0,usd,Food Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,food_total_departmental_expenses,1701051721.0,usd,Food Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,beverage_bad_debt_expense,880011.0,usd,Beverage Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,beverage_payroll_taxes,27504336.0,usd,Beverage Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,beverage_payroll_employee_benefits,77262117.0,usd,Beverage Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,beverage_payroll_officers,1224958.0,usd,Beverage Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,beverage_payroll_other_employees,171512747.0,usd,Beverage Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,beverage_other_departmental_expenses,208890753.0,usd,Beverage Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,beverage_total_departmental_expenses,487274922.0,usd,Beverage Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,other_income_bad_debt_expense,-1923392.0,usd,Other Income: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,other_income_payroll_taxes,23345570.0,usd,Other Income: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,other_income_payroll_employee_benefits,44227533.0,usd,Other Income: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,other_income_payroll_officers,6184218.0,usd,Other Income: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,other_income_payroll_other_employees,233892472.0,usd,Other Income: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,other_income_other_departmental_expenses,410899548.0,usd,Other Income: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,other_income_total_departmental_expenses,716625949.0,usd,Other Income: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,rooms_occupied,27262858.0,room nights,Rooms Occupied in the fiscal year,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,licensees,48.0,licensees,Number of licensees in the group,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2022,average_number_of_employees,83186.0,employees,Average Number of Employees (total),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2022-abstract.pdf
+2023,gaming_revenue,5453478234.0,usd,Revenue: Gaming (net of the casino's complimentary contra revenue),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,rooms_revenue,6764893951.0,usd,Revenue: Rooms,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,food_revenue,3653227330.0,usd,Revenue: Food,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,beverage_revenue,1619772190.0,usd,Revenue: Beverage,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,other_revenue,2993497795.0,usd,Revenue: Other,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,total_revenue,20484869500.0,usd,Total Revenue,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,cost_of_sales,1228714755.0,usd,Cost of Sales,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,departmental_expenses,7946725976.0,usd,Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,departmental_income,11309428769.0,usd,Departmental Income,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,interest_expense,2032359442.0,usd,General and Administrative: Interest Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,ga_payroll_taxes,74637743.0,usd,General and Administrative: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,ga_payroll_employee_benefits,333694505.0,usd,General and Administrative: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,ga_payroll_officers,65851462.0,usd,General and Administrative: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,ga_payroll_other_employees,761591386.0,usd,General and Administrative: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,rent_of_premises,420031951.0,usd,General and Administrative: Rent of Premises,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,other_general_and_administrative,3340484644.0,usd,General and Administrative: Other G & A (not broken down),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,total_general_and_administrative,9932189123.0,usd,Total General & Administrative Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,net_income_before_federal_income_taxes,1377239646.0,usd,Net Income (Loss) before Federal Income Taxes and Extraordinary Items,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_bad_debt_expense,53103604.0,usd,Casino Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_commissions,46964414.0,usd,Casino Department: Commissions,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_gaming_taxes_and_licenses,594640978.0,usd,Casino Department: Gaming Taxes and Licenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_preferred_guest_expenses,78957486.0,usd,Casino Department: Preferred Guest Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_payroll_taxes,117456354.0,usd,Casino Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_payroll_employee_benefits,183884580.0,usd,Casino Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_payroll_officers,40173680.0,usd,Casino Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_payroll_other_employees,736569070.0,usd,Casino Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_race_wire_fees,2582547.0,usd,Casino Department: Race Wire Fees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_other_departmental_expenses,596392285.0,usd,Casino Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,casino_total_departmental_expenses,2450724998.0,usd,Casino Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,rooms_bad_debt_expense,16555295.0,usd,Rooms Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,rooms_payroll_taxes,83108085.0,usd,Rooms Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,rooms_payroll_employee_benefits,334030587.0,usd,Rooms Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,rooms_payroll_officers,22661323.0,usd,Rooms Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,rooms_payroll_other_employees,796447983.0,usd,Rooms Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,rooms_other_departmental_expenses,674084434.0,usd,Rooms Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,rooms_total_departmental_expenses,1926887707.0,usd,Rooms Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,food_bad_debt_expense,2270830.0,usd,Food Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,food_payroll_taxes,125106047.0,usd,Food Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,food_payroll_employee_benefits,355825019.0,usd,Food Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,food_payroll_officers,44005070.0,usd,Food Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,food_payroll_other_employees,1089820957.0,usd,Food Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,food_other_departmental_expenses,457693073.0,usd,Food Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,food_total_departmental_expenses,2074720996.0,usd,Food Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,beverage_bad_debt_expense,520491.0,usd,Beverage Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,beverage_payroll_taxes,33026441.0,usd,Beverage Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,beverage_payroll_employee_benefits,87051931.0,usd,Beverage Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,beverage_payroll_officers,4725861.0,usd,Beverage Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,beverage_payroll_other_employees,196221776.0,usd,Beverage Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,beverage_other_departmental_expenses,235162084.0,usd,Beverage Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,beverage_total_departmental_expenses,556708584.0,usd,Beverage Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,other_income_bad_debt_expense,4532696.0,usd,Other Income: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,other_income_payroll_taxes,25202912.0,usd,Other Income: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,other_income_payroll_employee_benefits,53401074.0,usd,Other Income: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,other_income_payroll_officers,11946083.0,usd,Other Income: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,other_income_payroll_other_employees,269479209.0,usd,Other Income: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,other_income_other_departmental_expenses,573121717.0,usd,Other Income: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,other_income_total_departmental_expenses,937683691.0,usd,Other Income: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,rooms_occupied,29308096.0,room nights,Rooms Occupied in the fiscal year,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,licensees,50.0,licensees,Number of licensees in the group,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2023,average_number_of_employees,89807.0,employees,Average Number of Employees (total),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2023-abstract.pdf
+2024,gaming_revenue,5721528309.0,usd,Revenue: Gaming (net of the casino's complimentary contra revenue),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rooms_revenue,7445169666.0,usd,Revenue: Rooms,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,food_revenue,4049284203.0,usd,Revenue: Food,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,beverage_revenue,1631062533.0,usd,Revenue: Beverage,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,other_revenue,3038144478.0,usd,Revenue: Other,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,total_revenue,21885189189.0,usd,Total Revenue,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,cost_of_sales,1298945428.0,usd,Cost of Sales,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,departmental_expenses,9035177973.0,usd,Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,departmental_income,11551065788.0,usd,Departmental Income,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,interest_expense,2182092980.0,usd,General and Administrative: Interest Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,ga_payroll_taxes,80353682.0,usd,General and Administrative: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,ga_payroll_employee_benefits,351702275.0,usd,General and Administrative: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,ga_payroll_officers,76139231.0,usd,General and Administrative: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,ga_payroll_other_employees,816244747.0,usd,General and Administrative: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rent_of_premises,259906578.0,usd,General and Administrative: Rent of Premises,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,other_general_and_administrative,3818514789.0,usd,General and Administrative: Other G & A (not broken down),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,total_general_and_administrative,10730855865.0,usd,Total General & Administrative Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,net_income_before_federal_income_taxes,820209923.0,usd,Net Income (Loss) before Federal Income Taxes and Extraordinary Items,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_bad_debt_expense,77732202.0,usd,Casino Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_commissions,43370124.0,usd,Casino Department: Commissions,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_gaming_taxes_and_licenses,646430217.0,usd,Casino Department: Gaming Taxes and Licenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_preferred_guest_expenses,130774165.0,usd,Casino Department: Preferred Guest Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_payroll_taxes,122890458.0,usd,Casino Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_payroll_employee_benefits,191508369.0,usd,Casino Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_payroll_officers,61290023.0,usd,Casino Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_payroll_other_employees,799446824.0,usd,Casino Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_race_wire_fees,2429012.0,usd,Casino Department: Race Wire Fees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_other_departmental_expenses,660947665.0,usd,Casino Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,casino_total_departmental_expenses,2736819059.0,usd,Casino Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rooms_bad_debt_expense,21498092.0,usd,Rooms Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rooms_payroll_taxes,94683868.0,usd,Rooms Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rooms_payroll_employee_benefits,357060399.0,usd,Rooms Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rooms_payroll_officers,28755503.0,usd,Rooms Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rooms_payroll_other_employees,927765535.0,usd,Rooms Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rooms_other_departmental_expenses,745668890.0,usd,Rooms Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rooms_total_departmental_expenses,2175432287.0,usd,Rooms Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,food_bad_debt_expense,7995579.0,usd,Food Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,food_payroll_taxes,139122002.0,usd,Food Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,food_payroll_employee_benefits,403993850.0,usd,Food Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,food_payroll_officers,59576160.0,usd,Food Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,food_payroll_other_employees,1239771173.0,usd,Food Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,food_other_departmental_expenses,543046527.0,usd,Food Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,food_total_departmental_expenses,2393505291.0,usd,Food Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,beverage_bad_debt_expense,431373.0,usd,Beverage Department: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,beverage_payroll_taxes,34242894.0,usd,Beverage Department: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,beverage_payroll_employee_benefits,93721447.0,usd,Beverage Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,beverage_payroll_officers,6116388.0,usd,Beverage Department: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,beverage_payroll_other_employees,223055982.0,usd,Beverage Department: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,beverage_other_departmental_expenses,237612057.0,usd,Beverage Department: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,beverage_total_departmental_expenses,595180141.0,usd,Beverage Department: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,other_income_bad_debt_expense,9511818.0,usd,Other Income: Bad Debt Expense,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,other_income_payroll_taxes,34953760.0,usd,Other Income: Payroll - Taxes,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,other_income_payroll_employee_benefits,70117732.0,usd,Other Income: Payroll - Employee Benefits,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,other_income_payroll_officers,14293193.0,usd,Other Income: Payroll - Officers,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,other_income_payroll_other_employees,315110583.0,usd,Other Income: Payroll - Other Employees,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,other_income_other_departmental_expenses,690254109.0,usd,Other Income: Other Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,other_income_total_departmental_expenses,1134241195.0,usd,Other Income: Total Departmental Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rooms_occupied,29776358.0,room nights,Rooms Occupied in the fiscal year,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,rooms_available,33476548.0,room nights,Available Rooms in the fiscal year,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,occupancy_rate,0.889,share,% of Occupancy,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,licensees,54.0,licensees,Number of licensees in the group,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2024,average_number_of_employees,95195.0,employees,Average Number of Employees (total),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/Nevada%20Gaming%20Abstract%202024.pdf
+2025,cost_of_sales,1232156462.0,usd,Cost of Sales,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,departmental_expenses,8914242801.0,usd,Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,ga_payroll_taxes,89503184.0,usd,General and Administrative: Payroll - Taxes,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,ga_payroll_employee_benefits,360028738.0,usd,General and Administrative: Payroll - Employee Benefits,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,ga_payroll_officers,113848128.0,usd,General and Administrative: Payroll - Officers,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,ga_payroll_other_employees,955436855.0,usd,General and Administrative: Payroll - Other Employees,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_bad_debt_expense,112139896.0,usd,Casino Department: Bad Debt Expense,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_commissions,42993154.0,usd,Casino Department: Commissions,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_gaming_taxes_and_licenses,618012306.0,usd,Casino Department: Gaming Taxes and Licenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_preferred_guest_expenses,144927086.0,usd,Casino Department: Preferred Guest Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_payroll_taxes,123995204.0,usd,Casino Department: Payroll - Taxes,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_payroll_employee_benefits,193432841.0,usd,Casino Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_payroll_officers,60273696.0,usd,Casino Department: Payroll - Officers,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_payroll_other_employees,820120552.0,usd,Casino Department: Payroll - Other Employees,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_race_wire_fees,2587103.0,usd,Casino Department: Race Wire Fees,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_other_departmental_expenses,616567088.0,usd,Casino Department: Other Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,casino_total_departmental_expenses,2735048926.0,usd,Casino Department: Total Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_bad_debt_expense,12570171.0,usd,Rooms Department: Bad Debt Expense,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_payroll_taxes,96468860.0,usd,Rooms Department: Payroll - Taxes,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_payroll_employee_benefits,318286173.0,usd,Rooms Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_payroll_officers,32099186.0,usd,Rooms Department: Payroll - Officers,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_payroll_other_employees,975411728.0,usd,Rooms Department: Payroll - Other Employees,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_other_departmental_expenses,775687933.0,usd,Rooms Department: Other Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,rooms_total_departmental_expenses,2210524051.0,usd,Rooms Department: Total Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_bad_debt_expense,2697771.0,usd,Food Department: Bad Debt Expense,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_payroll_taxes,138948018.0,usd,Food Department: Payroll - Taxes,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_payroll_employee_benefits,349536326.0,usd,Food Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_payroll_officers,61898576.0,usd,Food Department: Payroll - Officers,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_payroll_other_employees,1237616739.0,usd,Food Department: Payroll - Other Employees,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_other_departmental_expenses,538807398.0,usd,Food Department: Other Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,food_total_departmental_expenses,2329504828.0,usd,Food Department: Total Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_bad_debt_expense,390221.0,usd,Beverage Department: Bad Debt Expense,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_payroll_taxes,36986522.0,usd,Beverage Department: Payroll - Taxes,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_payroll_employee_benefits,84178492.0,usd,Beverage Department: Payroll - Employee Benefits,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_payroll_officers,16080977.0,usd,Beverage Department: Payroll - Officers,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_payroll_other_employees,245813483.0,usd,Beverage Department: Payroll - Other Employees,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_other_departmental_expenses,221572475.0,usd,Beverage Department: Other Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,beverage_total_departmental_expenses,605022170.0,usd,Beverage Department: Total Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_income_bad_debt_expense,4228056.0,usd,Other Income: Bad Debt Expense,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_income_payroll_taxes,31259183.0,usd,Other Income: Payroll - Taxes,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_income_payroll_employee_benefits,59416398.0,usd,Other Income: Payroll - Employee Benefits,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_income_payroll_officers,16604545.0,usd,Other Income: Payroll - Officers,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_income_payroll_other_employees,312727216.0,usd,Other Income: Payroll - Other Employees,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_income_other_departmental_expenses,609907428.0,usd,Other Income: Other Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,other_income_total_departmental_expenses,1034142826.0,usd,Other Income: Total Departmental Expenses,https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2025,average_number_of_employees,92130.0,employees,Average Number of Employees (total),https://www.gaming.nv.gov/siteassets/content/about/abstract/abstract-fy-2025.pdf
+2018,departmental_income,8282872501.0,usd,Departmental Income,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2018-abstract.pdf
+2018,total_general_and_administrative,9979655991.0,usd,Total General & Administrative Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2018-abstract.pdf
+2018,net_income_before_federal_income_taxes,-1696783490.0,usd,Net Income (Loss) before Federal Income Taxes and Extraordinary Items,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2018-abstract.pdf
+2020,departmental_income,5401647940.0,usd,Departmental Income,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2020-abstract.pdf
+2020,other_general_and_administrative,-1712728687.0,usd,General and Administrative: Other G & A (not broken down),https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2020-abstract.pdf
+2020,total_general_and_administrative,2661427602.0,usd,Total General & Administrative Expenses,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2020-abstract.pdf
+2020,net_income_before_federal_income_taxes,2740220338.0,usd,Net Income (Loss) before Federal Income Taxes and Extraordinary Items,https://www.gaming.nv.gov/uploadedFiles/gamingnvgov/content/about/abstract/2020-abstract.pdf
