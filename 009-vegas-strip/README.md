@@ -1,6 +1,6 @@
 # #009 · The Las Vegas Strip: how much profit is left from each night a room has a guest?
 
-**Video:** coming soon
+**Video:** https://youtu.be/p7bUjTgAi_c
 
 ## The answer
 
