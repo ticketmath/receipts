@@ -1,6 +1,6 @@
 # #010 · JetBlue: of every passenger it flew from July to September 2026, how much came in, how much went out, and to whom?
 
-**Video:** coming soon
+**Video:** https://youtu.be/9X-9esbQRwE
 
 ## The answer
 
