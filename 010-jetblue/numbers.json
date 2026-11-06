@@ -1,0 +1,1552 @@
+{
+  "note_price_july_2026": {
+    "value": 0.84,
+    "unit": "dollars per dollar of face value",
+    "description": "JetBlue's 2031 TrueBlue-backed notes, around July 23, 2026 (see data/published_figures.csv)"
+  },
+  "note_price_september_2026": {
+    "value": 0.8,
+    "unit": "dollars per dollar of face value",
+    "description": "The same notes in September 2026 (see data/published_figures.csv)"
+  },
+  "note_price_october_22_2026": {
+    "value": 0.42,
+    "unit": "dollars per dollar of face value",
+    "description": "The same notes on October 22, 2026 (see data/published_figures.csv)"
+  },
+  "stock_close_october_22_2026": {
+    "value": 2.65,
+    "unit": "usd per share",
+    "description": "JetBlue's stock: close on October 22, 2026, the lowest since its 2002 listing (see data/published_figures.csv)"
+  },
+  "stock_intraday_low_october_26_2026": {
+    "value": 2.16,
+    "unit": "usd per share",
+    "description": "JetBlue's stock: intraday low on October 26, 2026, its lowest ever (see data/published_figures.csv)"
+  },
+  "stock_close_november_3_2026": {
+    "value": 3.18,
+    "unit": "usd per share",
+    "description": "JetBlue's stock: close on November 3, 2026, the last full session when this count was closed (see data/published_figures.csv)"
+  },
+  "icahn_stake_february_2024": {
+    "value": 0.0991,
+    "unit": "share",
+    "description": "Carl Icahn's stake in JetBlue, February 2024 (see data/published_figures.csv)"
+  },
+  "icahn_stake_august_2026": {
+    "value": 0.0332,
+    "unit": "share",
+    "description": "Carl Icahn's stake in JetBlue, August 20, 2026 (see data/published_figures.csv)"
+  },
+  "analyst_loss_projection_2026": {
+    "value": 1300000000.0,
+    "unit": "usd",
+    "description": "2026 loss in an analyst projection that David Neeleman cited to Breeze pilots on April 14, 2026 (see data/published_figures.csv)"
+  },
+  "passengers_q3_2026": {
+    "value": 10607000.0,
+    "unit": "passengers",
+    "description": "JetBlue: revenue passengers, q3_2026"
+  },
+  "revenue_per_passenger_q3_2026": {
+    "value": 265.1079475817856,
+    "unit": "usd per passenger",
+    "description": "Operating revenue / passengers, q3_2026"
+  },
+  "cost_per_passenger_q3_2026": {
+    "value": 278.68388799849157,
+    "unit": "usd per passenger",
+    "description": "Operating expenses / passengers, q3_2026"
+  },
+  "operating_result_per_passenger_q3_2026": {
+    "value": -13.575940416705949,
+    "unit": "usd per passenger",
+    "description": "Operating result / passengers, q3_2026"
+  },
+  "interest_per_passenger_q3_2026": {
+    "value": 14.04732723673046,
+    "unit": "usd per passenger",
+    "description": "Interest expense / passengers, q3_2026"
+  },
+  "pretax_result_per_passenger_q3_2026": {
+    "value": -25.454888281323655,
+    "unit": "usd per passenger",
+    "description": "Result before income taxes / passengers, q3_2026"
+  },
+  "fuel_per_passenger_q3_2026": {
+    "value": 81.83275195625531,
+    "unit": "usd per passenger",
+    "description": "fuel / passengers, q3_2026"
+  },
+  "payroll_per_passenger_q3_2026": {
+    "value": 89.1863863486377,
+    "unit": "usd per passenger",
+    "description": "payroll / passengers, q3_2026"
+  },
+  "airports_per_passenger_q3_2026": {
+    "value": 18.761195436975584,
+    "unit": "usd per passenger",
+    "description": "airports / passengers, q3_2026"
+  },
+  "depreciation_per_passenger_q3_2026": {
+    "value": 17.53558970491185,
+    "unit": "usd per passenger",
+    "description": "depreciation / passengers, q3_2026"
+  },
+  "aircraft_rent_per_passenger_q3_2026": {
+    "value": 1.791269916093146,
+    "unit": "usd per passenger",
+    "description": "aircraft_rent / passengers, q3_2026"
+  },
+  "sales_and_marketing_per_passenger_q3_2026": {
+    "value": 8.673517488451022,
+    "unit": "usd per passenger",
+    "description": "sales_and_marketing / passengers, q3_2026"
+  },
+  "maintenance_per_passenger_q3_2026": {
+    "value": 19.232582257000093,
+    "unit": "usd per passenger",
+    "description": "maintenance / passengers, q3_2026"
+  },
+  "special_items_per_passenger_q3_2026": {
+    "value": 3.11115301216178,
+    "unit": "usd per passenger",
+    "description": "special_items / passengers, q3_2026"
+  },
+  "other_expenses_per_passenger_q3_2026": {
+    "value": 38.55944187800509,
+    "unit": "usd per passenger",
+    "description": "other_expenses / passengers, q3_2026"
+  },
+  "passengers_q3_2025": {
+    "value": 10381000.0,
+    "unit": "passengers",
+    "description": "JetBlue: revenue passengers, q3_2025"
+  },
+  "revenue_per_passenger_q3_2025": {
+    "value": 223.67787303727965,
+    "unit": "usd per passenger",
+    "description": "Operating revenue / passengers, q3_2025"
+  },
+  "cost_per_passenger_q3_2025": {
+    "value": 233.31085637221847,
+    "unit": "usd per passenger",
+    "description": "Operating expenses / passengers, q3_2025"
+  },
+  "operating_result_per_passenger_q3_2025": {
+    "value": -9.63298333493883,
+    "unit": "usd per passenger",
+    "description": "Operating result / passengers, q3_2025"
+  },
+  "interest_per_passenger_q3_2025": {
+    "value": 14.064155669010693,
+    "unit": "usd per passenger",
+    "description": "Interest expense / passengers, q3_2025"
+  },
+  "pretax_result_per_passenger_q3_2025": {
+    "value": -18.88064733648011,
+    "unit": "usd per passenger",
+    "description": "Result before income taxes / passengers, q3_2025"
+  },
+  "fuel_per_passenger_q3_2025": {
+    "value": 51.92178017532029,
+    "unit": "usd per passenger",
+    "description": "fuel / passengers, q3_2025"
+  },
+  "payroll_per_passenger_q3_2025": {
+    "value": 83.32530584722089,
+    "unit": "usd per passenger",
+    "description": "payroll / passengers, q3_2025"
+  },
+  "airports_per_passenger_q3_2025": {
+    "value": 17.243040169540507,
+    "unit": "usd per passenger",
+    "description": "airports / passengers, q3_2025"
+  },
+  "depreciation_per_passenger_q3_2025": {
+    "value": 16.665061169444176,
+    "unit": "usd per passenger",
+    "description": "depreciation / passengers, q3_2025"
+  },
+  "aircraft_rent_per_passenger_q3_2025": {
+    "value": 2.0229265003371544,
+    "unit": "usd per passenger",
+    "description": "aircraft_rent / passengers, q3_2025"
+  },
+  "sales_and_marketing_per_passenger_q3_2025": {
+    "value": 7.513727001252287,
+    "unit": "usd per passenger",
+    "description": "sales_and_marketing / passengers, q3_2025"
+  },
+  "maintenance_per_passenger_q3_2025": {
+    "value": 20.229265003371545,
+    "unit": "usd per passenger",
+    "description": "maintenance / passengers, q3_2025"
+  },
+  "special_items_per_passenger_q3_2025": {
+    "value": 0.4816491667469415,
+    "unit": "usd per passenger",
+    "description": "special_items / passengers, q3_2025"
+  },
+  "other_expenses_per_passenger_q3_2025": {
+    "value": 33.908101338984686,
+    "unit": "usd per passenger",
+    "description": "other_expenses / passengers, q3_2025"
+  },
+  "passengers_nine_months_2026": {
+    "value": 30416000.0,
+    "unit": "passengers",
+    "description": "JetBlue: revenue passengers, nine_months_2026"
+  },
+  "revenue_per_passenger_nine_months_2026": {
+    "value": 254.76722777485534,
+    "unit": "usd per passenger",
+    "description": "Operating revenue / passengers, nine_months_2026"
+  },
+  "cost_per_passenger_nine_months_2026": {
+    "value": 271.5018411362441,
+    "unit": "usd per passenger",
+    "description": "Operating expenses / passengers, nine_months_2026"
+  },
+  "operating_result_per_passenger_nine_months_2026": {
+    "value": -16.734613361388742,
+    "unit": "usd per passenger",
+    "description": "Operating result / passengers, nine_months_2026"
+  },
+  "interest_per_passenger_nine_months_2026": {
+    "value": 14.466070489216202,
+    "unit": "usd per passenger",
+    "description": "Interest expense / passengers, nine_months_2026"
+  },
+  "pretax_result_per_passenger_nine_months_2026": {
+    "value": -28.833508679642293,
+    "unit": "usd per passenger",
+    "description": "Result before income taxes / passengers, nine_months_2026"
+  },
+  "fuel_per_passenger_nine_months_2026": {
+    "value": 77.3277222514466,
+    "unit": "usd per passenger",
+    "description": "fuel / passengers, nine_months_2026"
+  },
+  "payroll_per_passenger_nine_months_2026": {
+    "value": 89.32798527091005,
+    "unit": "usd per passenger",
+    "description": "payroll / passengers, nine_months_2026"
+  },
+  "airports_per_passenger_nine_months_2026": {
+    "value": 18.115465544450288,
+    "unit": "usd per passenger",
+    "description": "airports / passengers, nine_months_2026"
+  },
+  "depreciation_per_passenger_nine_months_2026": {
+    "value": 18.01683324566018,
+    "unit": "usd per passenger",
+    "description": "depreciation / passengers, nine_months_2026"
+  },
+  "aircraft_rent_per_passenger_nine_months_2026": {
+    "value": 1.6109942135718043,
+    "unit": "usd per passenger",
+    "description": "aircraft_rent / passengers, nine_months_2026"
+  },
+  "sales_and_marketing_per_passenger_nine_months_2026": {
+    "value": 8.28511309836928,
+    "unit": "usd per passenger",
+    "description": "sales_and_marketing / passengers, nine_months_2026"
+  },
+  "maintenance_per_passenger_nine_months_2026": {
+    "value": 19.792214623882167,
+    "unit": "usd per passenger",
+    "description": "maintenance / passengers, nine_months_2026"
+  },
+  "special_items_per_passenger_nine_months_2026": {
+    "value": 1.084955286691215,
+    "unit": "usd per passenger",
+    "description": "special_items / passengers, nine_months_2026"
+  },
+  "other_expenses_per_passenger_nine_months_2026": {
+    "value": 37.94055760126249,
+    "unit": "usd per passenger",
+    "description": "other_expenses / passengers, nine_months_2026"
+  },
+  "passengers_nine_months_2025": {
+    "value": 29618000.0,
+    "unit": "passengers",
+    "description": "JetBlue: revenue passengers, nine_months_2025"
+  },
+  "revenue_per_passenger_nine_months_2025": {
+    "value": 230.19785265716794,
+    "unit": "usd per passenger",
+    "description": "Operating revenue / passengers, nine_months_2025"
+  },
+  "cost_per_passenger_nine_months_2025": {
+    "value": 239.24640421365385,
+    "unit": "usd per passenger",
+    "description": "Operating expenses / passengers, nine_months_2025"
+  },
+  "operating_result_per_passenger_nine_months_2025": {
+    "value": -9.04855155648592,
+    "unit": "usd per passenger",
+    "description": "Operating result / passengers, nine_months_2025"
+  },
+  "interest_per_passenger_nine_months_2025": {
+    "value": 14.889594165710042,
+    "unit": "usd per passenger",
+    "description": "Interest expense / passengers, nine_months_2025"
+  },
+  "pretax_result_per_passenger_nine_months_2025": {
+    "value": -18.94118441488284,
+    "unit": "usd per passenger",
+    "description": "Result before income taxes / passengers, nine_months_2025"
+  },
+  "fuel_per_passenger_nine_months_2025": {
+    "value": 52.468093726787764,
+    "unit": "usd per passenger",
+    "description": "fuel / passengers, nine_months_2025"
+  },
+  "payroll_per_passenger_nine_months_2025": {
+    "value": 87.07542710513877,
+    "unit": "usd per passenger",
+    "description": "payroll / passengers, nine_months_2025"
+  },
+  "airports_per_passenger_nine_months_2025": {
+    "value": 17.18549530690796,
+    "unit": "usd per passenger",
+    "description": "airports / passengers, nine_months_2025"
+  },
+  "depreciation_per_passenger_nine_months_2025": {
+    "value": 17.28678506313728,
+    "unit": "usd per passenger",
+    "description": "depreciation / passengers, nine_months_2025"
+  },
+  "aircraft_rent_per_passenger_nine_months_2025": {
+    "value": 2.0257951245864003,
+    "unit": "usd per passenger",
+    "description": "aircraft_rent / passengers, nine_months_2025"
+  },
+  "sales_and_marketing_per_passenger_nine_months_2025": {
+    "value": 7.596731717199001,
+    "unit": "usd per passenger",
+    "description": "sales_and_marketing / passengers, nine_months_2025"
+  },
+  "maintenance_per_passenger_nine_months_2025": {
+    "value": 20.190424741711123,
+    "unit": "usd per passenger",
+    "description": "maintenance / passengers, nine_months_2025"
+  },
+  "special_items_per_passenger_nine_months_2025": {
+    "value": 0.9791343102167601,
+    "unit": "usd per passenger",
+    "description": "special_items / passengers, nine_months_2025"
+  },
+  "other_expenses_per_passenger_nine_months_2025": {
+    "value": 34.4385171179688,
+    "unit": "usd per passenger",
+    "description": "other_expenses / passengers, nine_months_2025"
+  },
+  "operating_loss_per_passenger_q3_2026": {
+    "value": 13.575940416705949,
+    "unit": "usd per passenger",
+    "description": "Loss from running the airline, before interest (as a positive amount), Q3 2026"
+  },
+  "loss_per_passenger_q3_2026": {
+    "value": 24.229282549259924,
+    "unit": "usd per passenger",
+    "description": "Net loss / passengers, Q3 2026 (THE MAIN NUMBER)"
+  },
+  "loss_per_passenger_q3_2025": {
+    "value": 13.775166168962528,
+    "unit": "usd per passenger",
+    "description": "Net loss / passengers, Q3 2025"
+  },
+  "loss_per_passenger_increase_q3": {
+    "value": 10.454116380297396,
+    "unit": "usd per passenger",
+    "description": "Net loss per passenger, Q3 2026 minus Q3 2025"
+  },
+  "other_costs_per_passenger_q3_2026": {
+    "value": 107.66474969359857,
+    "unit": "usd per passenger",
+    "description": "(Operating expenses - payroll - fuel) / passengers, Q3 2026"
+  },
+  "loss_per_passenger_nine_months_2026": {
+    "value": 27.058127301420306,
+    "unit": "usd per passenger",
+    "description": "Net loss / passengers, nine months of 2026"
+  },
+  "loss_per_passenger_times_q3": {
+    "value": 1.7589103646424284,
+    "unit": "times",
+    "description": "Net loss per passenger, Q3 2026 / Q3 2025"
+  },
+  "pretax_loss_per_passenger_change_q3": {
+    "value": 0.34819997575724915,
+    "unit": "share",
+    "description": "Pretax loss per passenger, Q3 2026 / Q3 2025 - 1"
+  },
+  "net_loss_q3_2026": {
+    "value": 257000000.0,
+    "unit": "usd",
+    "description": "NET LOSS, Q3 2026"
+  },
+  "net_loss_q3_2025": {
+    "value": 143000000.0,
+    "unit": "usd",
+    "description": "NET LOSS, Q3 2025"
+  },
+  "net_loss_nine_months_2026": {
+    "value": 823000000.0,
+    "unit": "usd",
+    "description": "NET LOSS, nine months of 2026"
+  },
+  "tax_benefit_q3_2026": {
+    "value": 13000000.0,
+    "unit": "usd",
+    "description": "Income tax benefit, Q3 2026"
+  },
+  "tax_benefit_q3_2025": {
+    "value": 53000000.0,
+    "unit": "usd",
+    "description": "Income tax benefit, Q3 2025"
+  },
+  "special_items_q3_2026": {
+    "value": 33000000.0,
+    "unit": "usd",
+    "description": "Special items, Q3 2026"
+  },
+  "special_items_q3_2025": {
+    "value": 5000000.0,
+    "unit": "usd",
+    "description": "Special items, Q3 2025"
+  },
+  "net_loss_increase_q3": {
+    "value": 114000000.0,
+    "unit": "usd",
+    "description": "Net loss, Q3 2026 minus Q3 2025"
+  },
+  "loss_increase_share_from_tax_and_special_items": {
+    "value": 0.5964912280701754,
+    "unit": "share",
+    "description": "(Fall in the tax benefit + rise in special items) / rise in the net loss, Q3"
+  },
+  "operating_result_ex_special_items_q3_2026": {
+    "value": -111000000.0,
+    "unit": "usd",
+    "description": "Operating result + special items, q3_2026"
+  },
+  "operating_result_ex_special_items_q3_2025": {
+    "value": -95000000.0,
+    "unit": "usd",
+    "description": "Operating result + special items, q3_2025"
+  },
+  "operating_margin_q3_2026": {
+    "value": -0.051209103840682786,
+    "unit": "share",
+    "description": "Operating result / revenue, Q3 2026"
+  },
+  "average_fare_q3_2026": {
+    "value": 245.11,
+    "unit": "usd per ticket",
+    "description": "Average fare (10-Q), Q3 2026"
+  },
+  "average_fare_q3_2025": {
+    "value": 205.67,
+    "unit": "usd per ticket",
+    "description": "Average fare (10-Q), Q3 2025"
+  },
+  "fare_change_q3": {
+    "value": 39.440000000000026,
+    "unit": "usd per ticket",
+    "description": "Average fare, Q3 2026 minus Q3 2025"
+  },
+  "fare_change_pct_q3": {
+    "value": 0.19176350464336078,
+    "unit": "share",
+    "description": "Average fare, Q3 2026 / Q3 2025 - 1"
+  },
+  "average_fare_nine_months_2026": {
+    "value": 234.59,
+    "unit": "usd per ticket",
+    "description": "Average fare (10-Q), nine months of 2026"
+  },
+  "revenue_per_passenger_change_q3": {
+    "value": 41.43007454450594,
+    "unit": "usd per passenger",
+    "description": "Revenue per passenger, Q3 2026 minus Q3 2025"
+  },
+  "cost_per_passenger_change_q3": {
+    "value": 45.373031626273104,
+    "unit": "usd per passenger",
+    "description": "Cost per passenger, Q3 2026 minus Q3 2025"
+  },
+  "fuel_per_passenger_change_q3": {
+    "value": 29.910971780935014,
+    "unit": "usd per passenger",
+    "description": "fuel per passenger, Q3 2026 minus Q3 2025"
+  },
+  "payroll_per_passenger_change_q3": {
+    "value": 5.861080501416808,
+    "unit": "usd per passenger",
+    "description": "payroll per passenger, Q3 2026 minus Q3 2025"
+  },
+  "airports_per_passenger_change_q3": {
+    "value": 1.518155267435077,
+    "unit": "usd per passenger",
+    "description": "airports per passenger, Q3 2026 minus Q3 2025"
+  },
+  "depreciation_per_passenger_change_q3": {
+    "value": 0.870528535467674,
+    "unit": "usd per passenger",
+    "description": "depreciation per passenger, Q3 2026 minus Q3 2025"
+  },
+  "aircraft_rent_per_passenger_change_q3": {
+    "value": -0.23165658424400837,
+    "unit": "usd per passenger",
+    "description": "aircraft_rent per passenger, Q3 2026 minus Q3 2025"
+  },
+  "sales_and_marketing_per_passenger_change_q3": {
+    "value": 1.1597904871987348,
+    "unit": "usd per passenger",
+    "description": "sales_and_marketing per passenger, Q3 2026 minus Q3 2025"
+  },
+  "maintenance_per_passenger_change_q3": {
+    "value": -0.9966827463714516,
+    "unit": "usd per passenger",
+    "description": "maintenance per passenger, Q3 2026 minus Q3 2025"
+  },
+  "special_items_per_passenger_change_q3": {
+    "value": 2.6295038454148383,
+    "unit": "usd per passenger",
+    "description": "special_items per passenger, Q3 2026 minus Q3 2025"
+  },
+  "other_expenses_per_passenger_change_q3": {
+    "value": 4.651340539020403,
+    "unit": "usd per passenger",
+    "description": "other_expenses per passenger, Q3 2026 minus Q3 2025"
+  },
+  "interest_income_q3_2026": {
+    "value": 17000000.0,
+    "unit": "usd",
+    "description": "Interest income, Q3 2026"
+  },
+  "interest_expense_q3_2026": {
+    "value": 149000000.0,
+    "unit": "usd",
+    "description": "Interest expense, Q3 2026"
+  },
+  "jetblue_interest_per_100": {
+    "value": 5.298719772403983,
+    "unit": "usd of every $100 of revenue",
+    "description": "JetBlue: interest / revenue x 100, Q3 2026"
+  },
+  "jetblue_fuel_per_100": {
+    "value": 30.867709815078236,
+    "unit": "usd of every $100 of revenue",
+    "description": "JetBlue: fuel / revenue x 100, Q3 2026"
+  },
+  "jetblue_net_per_100": {
+    "value": -9.139402560455192,
+    "unit": "usd of every $100 of revenue",
+    "description": "JetBlue: net result / revenue x 100, Q3 2026"
+  },
+  "jetblue_operating_per_100": {
+    "value": -5.120910384068279,
+    "unit": "usd of every $100 of revenue",
+    "description": "JetBlue: operating result / revenue x 100, Q3 2026"
+  },
+  "load_factor_q3_2026": {
+    "value": 0.836,
+    "unit": "share",
+    "description": "Load factor (10-Q), Q3 2026"
+  },
+  "load_factor_q3_2025": {
+    "value": 0.851,
+    "unit": "share",
+    "description": "Load factor (10-Q), Q3 2025"
+  },
+  "net_loss_q1_2026": {
+    "value": 319000000.0,
+    "unit": "usd",
+    "description": "NET LOSS (10-Q), q1 2026"
+  },
+  "loss_per_passenger_q1_2026": {
+    "value": 34.19078242229368,
+    "unit": "usd per passenger",
+    "description": "Net loss / passengers, q1 2026"
+  },
+  "average_fare_q1_2026": {
+    "value": 219.49,
+    "unit": "usd per ticket",
+    "description": "Average fare (10-Q), q1 2026"
+  },
+  "fare_change_q1_2026": {
+    "value": 6.91,
+    "unit": "usd per ticket",
+    "description": "Average fare, $ change column (10-Q), q1 2026"
+  },
+  "net_loss_q2_2026": {
+    "value": 247000000.0,
+    "unit": "usd",
+    "description": "NET LOSS (10-Q), q2 2026"
+  },
+  "loss_per_passenger_q2_2026": {
+    "value": 23.570951426662848,
+    "unit": "usd per passenger",
+    "description": "Net loss / passengers, q2 2026"
+  },
+  "average_fare_q2_2026": {
+    "value": 237.38,
+    "unit": "usd per ticket",
+    "description": "Average fare (10-Q), q2 2026"
+  },
+  "fare_change_q2_2026": {
+    "value": 18.86,
+    "unit": "usd per ticket",
+    "description": "Average fare, $ change column (10-Q), q2 2026"
+  },
+  "fuel_recaptured_share": {
+    "value": 0.87,
+    "unit": "share",
+    "description": "Share of higher fuel costs JetBlue says it recaptured, Q3 (8-K)"
+  },
+  "fuel_per_gallon_q3_2026": {
+    "value": 3.91,
+    "unit": "usd per gallon",
+    "description": "Average fuel price, Q3 2026 (8-K)"
+  },
+  "fuel_per_gallon_change_q3": {
+    "value": 0.57,
+    "unit": "share",
+    "description": "Rise in the fuel price from a year earlier, Q3 (8-K)"
+  },
+  "fuel_per_gallon_q4_2026_forecast": {
+    "value": 4.64,
+    "unit": "usd per gallon",
+    "description": "JetBlue's Q4 2026 fuel price estimate (8-K)"
+  },
+  "fll_capacity_growth_q3": {
+    "value": 0.65,
+    "unit": "share",
+    "description": "JetBlue's capacity growth at Fort Lauderdale, Q3, 'more than' (8-K)"
+  },
+  "fll_rasm_growth_q3": {
+    "value": 0.15,
+    "unit": "share",
+    "description": "Revenue per seat mile at Fort Lauderdale, Q3, 'nearly' (8-K)"
+  },
+  "fll_seat_share_q4_forecast": {
+    "value": 0.37,
+    "unit": "share",
+    "description": "JetBlue's expected seat share at Fort Lauderdale, Q4 (8-K)"
+  },
+  "fll_seat_share_points_up": {
+    "value": 14.0,
+    "unit": "points",
+    "description": "Points that share is up from a year earlier (8-K)"
+  },
+  "unencumbered_assets": {
+    "value": 7000000000.0,
+    "unit": "usd",
+    "description": "Unencumbered assets, approximate, per JetBlue (8-K)"
+  },
+  "undrawn_credit_line": {
+    "value": 600000000.0,
+    "unit": "usd",
+    "description": "Undrawn credit facility (8-K)"
+  },
+  "liquidity_september_30_2026": {
+    "value": 2200000000.0,
+    "unit": "usd",
+    "description": "Liquidity: cash, investment securities and the credit line (10-Q)"
+  },
+  "cash_and_investments_september_30_2026": {
+    "value": 1600000000.0,
+    "unit": "usd",
+    "description": "Unrestricted cash, equivalents and investment securities (10-Q)"
+  },
+  "january_plan_fuel_per_gallon_low": {
+    "value": 2.17,
+    "unit": "usd per gallon",
+    "description": "January 2026 guidance: fuel price for the year, low (8-K)"
+  },
+  "january_plan_fuel_per_gallon_high": {
+    "value": 2.37,
+    "unit": "usd per gallon",
+    "description": "January 2026 guidance: fuel price for the year, high (8-K)"
+  },
+  "october_forecast_fuel_per_gallon_2026": {
+    "value": 3.95,
+    "unit": "usd per gallon",
+    "description": "October 2026 guidance: fuel price for the year (8-K)"
+  },
+  "october_forecast_margin_best": {
+    "value": -0.045,
+    "unit": "share",
+    "description": "October 2026 guidance: adjusted operating margin for the year, best case (8-K)"
+  },
+  "october_forecast_margin_worst": {
+    "value": -0.065,
+    "unit": "share",
+    "description": "October 2026 guidance: adjusted operating margin for the year, worst case (8-K)"
+  },
+  "october_forecast_interest_2026": {
+    "value": 590000000.0,
+    "unit": "usd",
+    "description": "October 2026 guidance: interest expense for the year (8-K)"
+  },
+  "jetforward_target_2027_low": {
+    "value": 850000000.0,
+    "unit": "usd",
+    "description": "JetForward: 2027 target, low (8-K)"
+  },
+  "jetforward_target_2027_high": {
+    "value": 950000000.0,
+    "unit": "usd",
+    "description": "JetForward: 2027 target, high (8-K)"
+  },
+  "jetforward_delivered_2025": {
+    "value": 305000000.0,
+    "unit": "usd",
+    "description": "JetForward: incremental EBIT delivered in 2025 (8-K)"
+  },
+  "forecast_interest_vs_jetforward_high": {
+    "value": 0.6210526315789474,
+    "unit": "share",
+    "description": "Interest forecast for 2026 / top of the JetForward target"
+  },
+  "cash_and_investments_end_2025": {
+    "value": 2500000000.0,
+    "unit": "usd",
+    "description": "Liquidity at the end of 2025, without the credit line (8-K)"
+  },
+  "fuel_sensitivity_10_percent": {
+    "value": 376000000.0,
+    "unit": "usd a year",
+    "description": "Fuel expense over 12 months if the gallon rises 10% (10-Q, market risk)"
+  },
+  "loyalty_total_revenue_q3_2026": {
+    "value": 330000000.0,
+    "unit": "usd",
+    "description": "Loyalty revenue - air transportation + loyalty and related revenue, Q3 2026"
+  },
+  "loyalty_total_revenue_per_passenger_q3_2026": {
+    "value": 31.1115301216178,
+    "unit": "usd per passenger",
+    "description": "That / passengers, Q3 2026"
+  },
+  "loyalty_total_revenue_change_q3": {
+    "value": 0.19999999999999996,
+    "unit": "share",
+    "description": "That, Q3 2026 / Q3 2025 - 1"
+  },
+  "loyalty_and_related_revenue_q3_2026": {
+    "value": 148000000.0,
+    "unit": "usd",
+    "description": "Loyalty and related revenue, Q3 2026"
+  },
+  "loyalty_and_related_per_passenger_q3_2026": {
+    "value": 13.95304987272556,
+    "unit": "usd per passenger",
+    "description": "Loyalty and related revenue / passengers, Q3 2026"
+  },
+  "passengers_2019": {
+    "value": 42728000.0,
+    "unit": "passengers",
+    "description": "Revenue passengers (10-K), 2019"
+  },
+  "average_fare_2019": {
+    "value": 182.23,
+    "unit": "usd per ticket",
+    "description": "Average fare (10-K), 2019"
+  },
+  "stage_length_2019": {
+    "value": 1140.0,
+    "unit": "miles",
+    "description": "Average stage length (10-K), 2019"
+  },
+  "load_factor_2019": {
+    "value": 0.84,
+    "unit": "share",
+    "description": "Load factor (10-K), 2019"
+  },
+  "employees_2019": {
+    "value": 18535.0,
+    "unit": "full-time equivalents",
+    "description": "Sum of the employee groups (10-K), 2019"
+  },
+  "payroll_per_employee_2019": {
+    "value": 125168.59994604802,
+    "unit": "usd per employee",
+    "description": "Salaries, wages and benefits / employees, 2019"
+  },
+  "passengers_per_employee_2019": {
+    "value": 2305.260318316698,
+    "unit": "passengers per employee",
+    "description": "Passengers / employees, 2019"
+  },
+  "revenue_per_passenger_2019": {
+    "value": 189.43081819883918,
+    "unit": "usd per passenger",
+    "description": "Operating revenue / passengers, 2019"
+  },
+  "cost_per_passenger_2019": {
+    "value": 170.70773263433813,
+    "unit": "usd per passenger",
+    "description": "Operating expenses / passengers, 2019"
+  },
+  "interest_per_passenger_2019": {
+    "value": 1.8489046994944767,
+    "unit": "usd per passenger",
+    "description": "Interest expense / passengers, 2019"
+  },
+  "net_result_per_passenger_2019": {
+    "value": 13.316794607751357,
+    "unit": "usd per passenger",
+    "description": "Net income / passengers, 2019"
+  },
+  "interest_expense_2019": {
+    "value": 79000000.0,
+    "unit": "usd",
+    "description": "Interest expense (10-K), 2019"
+  },
+  "net_income_2019": {
+    "value": 569000000.0,
+    "unit": "usd",
+    "description": "Net income (10-K), 2019"
+  },
+  "fuel_per_passenger_2019": {
+    "value": 43.22692379704175,
+    "unit": "usd per passenger",
+    "description": "fuel / passengers, 2019"
+  },
+  "payroll_per_passenger_2019": {
+    "value": 54.296948137052986,
+    "unit": "usd per passenger",
+    "description": "payroll / passengers, 2019"
+  },
+  "airports_per_passenger_2019": {
+    "value": 11.09342819696686,
+    "unit": "usd per passenger",
+    "description": "airports / passengers, 2019"
+  },
+  "depreciation_per_passenger_2019": {
+    "value": 12.2870249017038,
+    "unit": "usd per passenger",
+    "description": "depreciation / passengers, 2019"
+  },
+  "aircraft_rent_per_passenger_2019": {
+    "value": 2.3169818386070022,
+    "unit": "usd per passenger",
+    "description": "aircraft_rent / passengers, 2019"
+  },
+  "sales_and_marketing_per_passenger_2019": {
+    "value": 6.787118517131623,
+    "unit": "usd per passenger",
+    "description": "sales_and_marketing / passengers, 2019"
+  },
+  "maintenance_per_passenger_2019": {
+    "value": 14.486987455532672,
+    "unit": "usd per passenger",
+    "description": "maintenance / passengers, 2019"
+  },
+  "special_items_per_passenger_2019": {
+    "value": 0.32765399737876805,
+    "unit": "usd per passenger",
+    "description": "special_items / passengers, 2019"
+  },
+  "other_expenses_per_passenger_2019": {
+    "value": 25.884665792922675,
+    "unit": "usd per passenger",
+    "description": "other_expenses / passengers, 2019"
+  },
+  "passengers_2025": {
+    "value": 39336000.0,
+    "unit": "passengers",
+    "description": "Revenue passengers (10-K), 2025"
+  },
+  "average_fare_2025": {
+    "value": 211.93,
+    "unit": "usd per ticket",
+    "description": "Average fare (10-K), 2025"
+  },
+  "stage_length_2025": {
+    "value": 1301.0,
+    "unit": "miles",
+    "description": "Average stage length (10-K), 2025"
+  },
+  "load_factor_2025": {
+    "value": 0.8240000000000001,
+    "unit": "share",
+    "description": "Load factor (10-K), 2025"
+  },
+  "employees_2025": {
+    "value": 19259.0,
+    "unit": "full-time equivalents",
+    "description": "Sum of the employee groups (10-K), 2025"
+  },
+  "payroll_per_employee_2025": {
+    "value": 179292.7981722831,
+    "unit": "usd per employee",
+    "description": "Salaries, wages and benefits / employees, 2025"
+  },
+  "passengers_per_employee_2025": {
+    "value": 2042.4736486837323,
+    "unit": "passengers per employee",
+    "description": "Passengers / employees, 2025"
+  },
+  "revenue_per_passenger_2025": {
+    "value": 230.37421191783608,
+    "unit": "usd per passenger",
+    "description": "Operating revenue / passengers, 2025"
+  },
+  "cost_per_passenger_2025": {
+    "value": 239.72950986373806,
+    "unit": "usd per passenger",
+    "description": "Operating expenses / passengers, 2025"
+  },
+  "interest_per_passenger_2025": {
+    "value": 14.948139109212935,
+    "unit": "usd per passenger",
+    "description": "Interest expense / passengers, 2025"
+  },
+  "net_result_per_passenger_2025": {
+    "value": -15.304047183241813,
+    "unit": "usd per passenger",
+    "description": "Net income / passengers, 2025"
+  },
+  "interest_expense_2025": {
+    "value": 588000000.0,
+    "unit": "usd",
+    "description": "Interest expense (10-K), 2025"
+  },
+  "net_income_2025": {
+    "value": -602000000.0,
+    "unit": "usd",
+    "description": "Net income (10-K), 2025"
+  },
+  "fuel_per_passenger_2025": {
+    "value": 52.293064876957494,
+    "unit": "usd per passenger",
+    "description": "fuel / passengers, 2025"
+  },
+  "payroll_per_passenger_2025": {
+    "value": 87.78218425869433,
+    "unit": "usd per passenger",
+    "description": "payroll / passengers, 2025"
+  },
+  "airports_per_passenger_2025": {
+    "value": 16.72767947935733,
+    "unit": "usd per passenger",
+    "description": "airports / passengers, 2025"
+  },
+  "depreciation_per_passenger_2025": {
+    "value": 17.490339637990644,
+    "unit": "usd per passenger",
+    "description": "depreciation / passengers, 2025"
+  },
+  "aircraft_rent_per_passenger_2025": {
+    "value": 1.8812283912955055,
+    "unit": "usd per passenger",
+    "description": "aircraft_rent / passengers, 2025"
+  },
+  "sales_and_marketing_per_passenger_2025": {
+    "value": 7.753711612772015,
+    "unit": "usd per passenger",
+    "description": "sales_and_marketing / passengers, 2025"
+  },
+  "maintenance_per_passenger_2025": {
+    "value": 20.108806182631685,
+    "unit": "usd per passenger",
+    "description": "maintenance / passengers, 2025"
+  },
+  "special_items_per_passenger_2025": {
+    "value": 0.762660158633313,
+    "unit": "usd per passenger",
+    "description": "special_items / passengers, 2025"
+  },
+  "other_expenses_per_passenger_2025": {
+    "value": 34.929835265405735,
+    "unit": "usd per passenger",
+    "description": "other_expenses / passengers, 2025"
+  },
+  "loss_per_passenger_2025": {
+    "value": 15.304047183241813,
+    "unit": "usd per passenger",
+    "description": "Net loss / passengers, 2025 (as a positive amount)"
+  },
+  "interest_per_passenger_times_2019_to_2025": {
+    "value": 8.084861871625954,
+    "unit": "times",
+    "description": "Interest per passenger, 2025 / 2019"
+  },
+  "revenue_per_passenger_change_2019_to_2025": {
+    "value": 40.9433937189969,
+    "unit": "usd per passenger",
+    "description": "Revenue per passenger, 2025 minus 2019"
+  },
+  "cost_per_passenger_change_2019_to_2025": {
+    "value": 69.02177722939993,
+    "unit": "usd per passenger",
+    "description": "Cost per passenger, 2025 minus 2019"
+  },
+  "interest_per_passenger_change_2019_to_2025": {
+    "value": 13.09923440971846,
+    "unit": "usd per passenger",
+    "description": "Interest per passenger, 2025 minus 2019"
+  },
+  "fuel_per_passenger_change_2019_to_2025": {
+    "value": 9.066141079915745,
+    "unit": "usd per passenger",
+    "description": "fuel per passenger, 2025 minus 2019"
+  },
+  "payroll_per_passenger_change_2019_to_2025": {
+    "value": 33.48523612164134,
+    "unit": "usd per passenger",
+    "description": "payroll per passenger, 2025 minus 2019"
+  },
+  "airports_per_passenger_change_2019_to_2025": {
+    "value": 5.634251282390471,
+    "unit": "usd per passenger",
+    "description": "airports per passenger, 2025 minus 2019"
+  },
+  "depreciation_per_passenger_change_2019_to_2025": {
+    "value": 5.203314736286844,
+    "unit": "usd per passenger",
+    "description": "depreciation per passenger, 2025 minus 2019"
+  },
+  "aircraft_rent_per_passenger_change_2019_to_2025": {
+    "value": -0.4357534473114968,
+    "unit": "usd per passenger",
+    "description": "aircraft_rent per passenger, 2025 minus 2019"
+  },
+  "sales_and_marketing_per_passenger_change_2019_to_2025": {
+    "value": 0.9665930956403921,
+    "unit": "usd per passenger",
+    "description": "sales_and_marketing per passenger, 2025 minus 2019"
+  },
+  "maintenance_per_passenger_change_2019_to_2025": {
+    "value": 5.621818727099013,
+    "unit": "usd per passenger",
+    "description": "maintenance per passenger, 2025 minus 2019"
+  },
+  "special_items_per_passenger_change_2019_to_2025": {
+    "value": 0.435006161254545,
+    "unit": "usd per passenger",
+    "description": "special_items per passenger, 2025 minus 2019"
+  },
+  "other_expenses_per_passenger_change_2019_to_2025": {
+    "value": 9.04516947248306,
+    "unit": "usd per passenger",
+    "description": "other_expenses per passenger, 2025 minus 2019"
+  },
+  "payroll_per_employee_change_2019_to_2025": {
+    "value": 0.4324103509152013,
+    "unit": "share",
+    "description": "Payroll per employee, 2025 / 2019 - 1"
+  },
+  "passengers_per_employee_change_2019_to_2025": {
+    "value": -0.11399435783671175,
+    "unit": "share",
+    "description": "Passengers per employee, 2025 / 2019 - 1"
+  },
+  "pilot_raise_march_2023": {
+    "value": 0.14,
+    "unit": "share",
+    "description": "Pilot contract of March 1, 2023: initial raise (10-K)"
+  },
+  "pilot_raise_august_2023": {
+    "value": 0.03,
+    "unit": "share",
+    "description": "Pilot contract: raise of August 2023 (10-K)"
+  },
+  "pilot_raise_august_2024": {
+    "value": 0.09,
+    "unit": "share",
+    "description": "Pilot contract: raise of August 2024 (10-K)"
+  },
+  "pilot_raises_compounded": {
+    "value": 0.2798780000000003,
+    "unit": "share",
+    "description": "The three raises, compounded"
+  },
+  "stage_length_change_2019_to_2025": {
+    "value": 0.1412280701754387,
+    "unit": "share",
+    "description": "Average stage length, 2025 / 2019 - 1"
+  },
+  "inflation_2019_to_2025": {
+    "value": 0.2592750259217331,
+    "unit": "share",
+    "description": "CPI-U, average of the published months of 2025 / of 2019 - 1"
+  },
+  "average_fare_change_2019_to_2025": {
+    "value": 0.16298084837842297,
+    "unit": "share",
+    "description": "Average fare, 2025 / 2019 - 1"
+  },
+  "loss_years_2020_to_2025": {
+    "value": 6,
+    "unit": "years",
+    "description": "Years in a row with a net loss, 2020 to 2025"
+  },
+  "losses_2020_to_september_2026": {
+    "value": 4428000000.0,
+    "unit": "usd",
+    "description": "Sum of net losses, 2020 to September 30, 2026"
+  },
+  "retained_earnings_end_2019": {
+    "value": 4322000000.0,
+    "unit": "usd",
+    "description": "Retained earnings, end of 2019 (10-K)"
+  },
+  "retained_earnings_end_2025": {
+    "value": 717000000.0,
+    "unit": "usd",
+    "description": "Retained earnings, end of 2025 (10-Q)"
+  },
+  "retained_earnings_june_30_2026": {
+    "value": 151000000.0,
+    "unit": "usd",
+    "description": "Retained earnings, June 30, 2026 (10-Q)"
+  },
+  "retained_earnings_september_30_2026": {
+    "value": -106000000.0,
+    "unit": "usd",
+    "description": "Retained (deficit) earnings, September 30, 2026 (10-Q)"
+  },
+  "retained_deficit_september_30_2026": {
+    "value": 106000000.0,
+    "unit": "usd",
+    "description": "How far retained earnings were below zero, September 30, 2026"
+  },
+  "delta_net_income_q3_2026": {
+    "value": 756000000.0,
+    "unit": "usd",
+    "description": "delta: net income, Q3 2026 (10-Q)"
+  },
+  "delta_net_per_100": {
+    "value": 4.299118566960478,
+    "unit": "usd of every $100 of revenue",
+    "description": "delta: net income / revenue x 100"
+  },
+  "delta_interest_per_100": {
+    "value": 0.8302530565823144,
+    "unit": "usd of every $100 of revenue",
+    "description": "delta: interest / revenue x 100"
+  },
+  "delta_fuel_per_100": {
+    "value": 24.742678419107193,
+    "unit": "usd of every $100 of revenue",
+    "description": "delta: fuel / revenue x 100"
+  },
+  "delta_operating_per_100": {
+    "value": 8.268410577196473,
+    "unit": "usd of every $100 of revenue",
+    "description": "delta: operating income / revenue x 100"
+  },
+  "united_net_income_q3_2026": {
+    "value": 1029000000.0,
+    "unit": "usd",
+    "description": "united: net income, Q3 2026 (10-Q)"
+  },
+  "united_net_per_100": {
+    "value": 5.756643356643357,
+    "unit": "usd of every $100 of revenue",
+    "description": "united: net income / revenue x 100"
+  },
+  "united_interest_per_100": {
+    "value": 2.0083916083916082,
+    "unit": "usd of every $100 of revenue",
+    "description": "united: interest / revenue x 100"
+  },
+  "united_fuel_per_100": {
+    "value": 27.093706293706294,
+    "unit": "usd of every $100 of revenue",
+    "description": "united: fuel / revenue x 100"
+  },
+  "united_operating_per_100": {
+    "value": 8.08951048951049,
+    "unit": "usd of every $100 of revenue",
+    "description": "united: operating income / revenue x 100"
+  },
+  "united_net_per_passenger": {
+    "value": 20.77654612635532,
+    "unit": "usd per passenger",
+    "description": "united: net income / passengers"
+  },
+  "united_interest_per_passenger": {
+    "value": 7.24857148626002,
+    "unit": "usd per passenger",
+    "description": "united: interest / passengers"
+  },
+  "american_net_income_q3_2026": {
+    "value": -269000000.0,
+    "unit": "usd",
+    "description": "american: net income, Q3 2026 (10-Q)"
+  },
+  "american_net_per_100": {
+    "value": -1.6467707376798284,
+    "unit": "usd of every $100 of revenue",
+    "description": "american: net income / revenue x 100"
+  },
+  "american_interest_per_100": {
+    "value": 2.6629935720844813,
+    "unit": "usd of every $100 of revenue",
+    "description": "american: interest / revenue x 100"
+  },
+  "american_fuel_per_100": {
+    "value": 28.37465564738292,
+    "unit": "usd of every $100 of revenue",
+    "description": "american: fuel / revenue x 100"
+  },
+  "american_operating_per_100": {
+    "value": 0.7040097949188858,
+    "unit": "usd of every $100 of revenue",
+    "description": "american: operating income / revenue x 100"
+  },
+  "southwest_net_income_q3_2026": {
+    "value": 270000000.0,
+    "unit": "usd",
+    "description": "southwest: net income, Q3 2026 (10-Q)"
+  },
+  "southwest_net_per_100": {
+    "value": 3.205889337449537,
+    "unit": "usd of every $100 of revenue",
+    "description": "southwest: net income / revenue x 100"
+  },
+  "southwest_interest_per_100": {
+    "value": 0.8311564948943244,
+    "unit": "usd of every $100 of revenue",
+    "description": "southwest: interest / revenue x 100"
+  },
+  "southwest_fuel_per_100": {
+    "value": 25.552125385894087,
+    "unit": "usd of every $100 of revenue",
+    "description": "southwest: fuel / revenue x 100"
+  },
+  "southwest_operating_per_100": {
+    "value": 4.500118736642128,
+    "unit": "usd of every $100 of revenue",
+    "description": "southwest: operating income / revenue x 100"
+  },
+  "southwest_net_per_passenger": {
+    "value": 6.234126067882706,
+    "unit": "usd per passenger",
+    "description": "southwest: net income / passengers"
+  },
+  "southwest_interest_per_passenger": {
+    "value": 1.6162549064881089,
+    "unit": "usd per passenger",
+    "description": "southwest: interest / passengers"
+  },
+  "frontier_net_income_q3_2026": {
+    "value": -104000000.0,
+    "unit": "usd",
+    "description": "frontier: net income, Q3 2026 (10-Q)"
+  },
+  "frontier_net_per_100": {
+    "value": -7.675276752767528,
+    "unit": "usd of every $100 of revenue",
+    "description": "frontier: net income / revenue x 100"
+  },
+  "frontier_interest_per_100": {
+    "value": 0.8856088560885609,
+    "unit": "usd of every $100 of revenue",
+    "description": "frontier: interest / revenue x 100"
+  },
+  "frontier_fuel_per_100": {
+    "value": 31.365313653136536,
+    "unit": "usd of every $100 of revenue",
+    "description": "frontier: fuel / revenue x 100"
+  },
+  "frontier_operating_per_100": {
+    "value": -7.970479704797048,
+    "unit": "usd of every $100 of revenue",
+    "description": "frontier: operating income / revenue x 100"
+  },
+  "frontier_net_per_passenger": {
+    "value": -10.606833248342681,
+    "unit": "usd per passenger",
+    "description": "frontier: net income / passengers"
+  },
+  "frontier_interest_per_passenger": {
+    "value": 1.2238653748087711,
+    "unit": "usd per passenger",
+    "description": "frontier: interest / passengers"
+  },
+  "frontier_loss_per_passenger": {
+    "value": 10.606833248342681,
+    "unit": "usd per passenger",
+    "description": "Frontier: net loss / passengers (as a positive amount)"
+  },
+  "amex_paid_delta_q3_2026": {
+    "value": 2300000000.0,
+    "unit": "usd",
+    "description": "Remuneration from American Express to Delta, Q3 2026 (10-Q)"
+  },
+  "amex_vs_jetblue_revenue": {
+    "value": 0.817923186344239,
+    "unit": "share",
+    "description": "That / all of JetBlue's revenue in the same quarter"
+  },
+  "jetblue_fuel_per_gallon_q2_2026": {
+    "value": 4.234035603164821,
+    "unit": "usd per gallon",
+    "description": "jetblue: total cost / total gallons, April to June 2026 (Form 41)"
+  },
+  "delta_fuel_per_gallon_q2_2026": {
+    "value": 3.912528293186495,
+    "unit": "usd per gallon",
+    "description": "delta: total cost / total gallons, April to June 2026 (Form 41)"
+  },
+  "united_fuel_per_gallon_q2_2026": {
+    "value": 4.035607090192003,
+    "unit": "usd per gallon",
+    "description": "united: total cost / total gallons, April to June 2026 (Form 41)"
+  },
+  "american_fuel_per_gallon_q2_2026": {
+    "value": 3.883598241418912,
+    "unit": "usd per gallon",
+    "description": "american: total cost / total gallons, April to June 2026 (Form 41)"
+  },
+  "southwest_fuel_per_gallon_q2_2026": {
+    "value": 3.801009027282209,
+    "unit": "usd per gallon",
+    "description": "southwest: total cost / total gallons, April to June 2026 (Form 41)"
+  },
+  "frontier_fuel_per_gallon_q2_2026": {
+    "value": 3.8480315223023087,
+    "unit": "usd per gallon",
+    "description": "frontier: total cost / total gallons, April to June 2026 (Form 41)"
+  },
+  "jetblue_fuel_per_gallon_february_2026": {
+    "value": 2.6439611914710324,
+    "unit": "usd per gallon",
+    "description": "JetBlue: total cost / total gallons, february 2026 (Form 41)"
+  },
+  "jetblue_fuel_per_gallon_april_2026": {
+    "value": 4.70937917888852,
+    "unit": "usd per gallon",
+    "description": "JetBlue: total cost / total gallons, april 2026 (Form 41)"
+  },
+  "debt_september_30_2026": {
+    "value": 8393000000.0,
+    "unit": "usd",
+    "description": "Current + long-term debt and finance leases, balance sheet, September 30, 2026"
+  },
+  "trueblue_debt": {
+    "value": 2733000000.0,
+    "unit": "usd",
+    "description": "Debt backed by the TrueBlue collateral: the 2031 notes + the 2029 term loan"
+  },
+  "trueblue_notes": {
+    "value": 1991000000.0,
+    "unit": "usd",
+    "description": "2031 senior secured notes (10-Q)"
+  },
+  "trueblue_term_loan": {
+    "value": 742000000.0,
+    "unit": "usd",
+    "description": "2029 senior secured term loan (10-Q)"
+  },
+  "sale_leaseback_debt": {
+    "value": 2011000000.0,
+    "unit": "usd",
+    "description": "Aircraft failed sale-leaseback transactions (10-Q)"
+  },
+  "government_loans": {
+    "value": 535000000.0,
+    "unit": "usd",
+    "description": "The three payroll support loans (10-Q)"
+  },
+  "trueblue_notes_coupon": {
+    "value": 0.09875,
+    "unit": "share",
+    "description": "Interest rate on the 2031 notes (8-K of September 3, 2024)"
+  },
+  "trueblue_raised_2024": {
+    "value": 2765000000.0,
+    "unit": "usd",
+    "description": "Notes + term loan issued in 2024 (8-K)"
+  },
+  "trueblue_notes_interest_per_year": {
+    "value": 197500000.0,
+    "unit": "usd a year",
+    "description": "Notes issued x interest rate"
+  },
+  "trueblue_notes_interest_per_passenger": {
+    "value": 5.020846044335977,
+    "unit": "usd per passenger",
+    "description": "That / passengers of 2025"
+  },
+  "debt_end_2019": {
+    "value": 2334000000.0,
+    "unit": "usd",
+    "description": "Current + long-term debt and finance leases, end of 2019 (10-K)"
+  },
+  "debt_times_2019_to_september_2026": {
+    "value": 3.595972579263068,
+    "unit": "times",
+    "description": "Debt on September 30, 2026 / at the end of 2019"
+  },
+  "debt_due_2027": {
+    "value": 1043000000.0,
+    "unit": "usd",
+    "description": "Debt due, principal and interest, 2027 (10-Q, contractual obligations)"
+  },
+  "debt_due_2028": {
+    "value": 1116000000.0,
+    "unit": "usd",
+    "description": "Debt due, principal and interest, 2028 (10-Q, contractual obligations)"
+  },
+  "debt_due_2029": {
+    "value": 2313000000.0,
+    "unit": "usd",
+    "description": "Debt due, principal and interest, 2029 (10-Q, contractual obligations)"
+  },
+  "debt_due_total": {
+    "value": 11078000000.0,
+    "unit": "usd",
+    "description": "Debt due, principal and interest, total (10-Q, contractual obligations)"
+  },
+  "debt_repaid_nine_months_2026": {
+    "value": 658000000.0,
+    "unit": "usd",
+    "description": "Repayment of debt, nine months of 2026 (10-Q)"
+  },
+  "new_debt_nine_months_2026": {
+    "value": 495000000.0,
+    "unit": "usd",
+    "description": "Proceeds from new debt, nine months of 2026 (10-Q)"
+  },
+  "operating_cash_flow_nine_months_2026": {
+    "value": -273000000.0,
+    "unit": "usd",
+    "description": "Net cash used in operating activities, nine months of 2026 (10-Q)"
+  },
+  "investments_nine_months_2026": {
+    "value": 624000000.0,
+    "unit": "usd",
+    "description": "Capital expenditures + pre-delivery deposits, nine months of 2026 (10-Q)"
+  },
+  "cash_burn_per_month": {
+    "value": 99666666.66666667,
+    "unit": "usd a month",
+    "description": "(Operating cash flow + investments) / 9, before new loans or debt repayments"
+  },
+  "months_of_liquidity": {
+    "value": 22.073578595317723,
+    "unit": "months",
+    "description": "Liquidity / cash burn per month: arithmetic, not a forecast"
+  },
+  "unused_points_liability": {
+    "value": 1342000000.0,
+    "unit": "usd",
+    "description": "Air traffic liability - loyalty program, September 30, 2026 (10-Q)"
+  },
+  "shares_outstanding": {
+    "value": 377351854.0,
+    "unit": "shares",
+    "description": "Shares outstanding (cover of the 10-Q)"
+  },
+  "market_value_at_low": {
+    "value": 815080004.6400001,
+    "unit": "usd",
+    "description": "Intraday low of October 26, 2026 x shares"
+  },
+  "market_value_november_3": {
+    "value": 1199978895.72,
+    "unit": "usd",
+    "description": "Close of November 3, 2026 x shares"
+  },
+  "stock_rebound_low_to_november_3": {
+    "value": 0.4722222222222221,
+    "unit": "share",
+    "description": "Close of November 3 / low of October 26 - 1"
+  },
+  "trueblue_debt_vs_market_value": {
+    "value": 3.353045080779642,
+    "unit": "times",
+    "description": "TrueBlue-backed debt / market value at the low"
+  },
+  "spirit_costs_2024": {
+    "value": 532000000.0,
+    "unit": "usd",
+    "description": "Spirit-related costs, 2024 (10-K of 2024)"
+  },
+  "spirit_costs_2023": {
+    "value": 92000000.0,
+    "unit": "usd",
+    "description": "Spirit-related costs, 2023 (10-K of 2024)"
+  },
+  "spirit_costs_2022": {
+    "value": 28000000.0,
+    "unit": "usd",
+    "description": "Spirit costs, 2022 (10-K of 2023)"
+  },
+  "spirit_costs_total": {
+    "value": 652000000.0,
+    "unit": "usd",
+    "description": "Spirit costs, 2022 to 2024"
+  },
+  "spirit_prepayments": {
+    "value": 403000000.0,
+    "unit": "usd",
+    "description": "Prepayments to Spirit shareholders by December 31, 2023 (10-K of 2023)"
+  },
+  "laguardia_slots": {
+    "value": 22.0,
+    "unit": "slots",
+    "description": "Spirit's LaGuardia operating authorizations bought by JetBlue (10-Q)"
+  },
+  "laguardia_slots_price": {
+    "value": 58500000.0,
+    "unit": "usd",
+    "description": "Aggregate purchase price of those slots (10-Q)"
+  },
+  "spirit_deal_value": {
+    "value": 3800000000.0,
+    "unit": "usd",
+    "description": "Spirit deal: aggregate fully diluted equity value, July 2022 (8-K)"
+  },
+  "spirit_deal_vs_market_value": {
+    "value": 4.662119029258192,
+    "unit": "times",
+    "description": "Spirit deal / JetBlue's market value at the October 2026 low"
+  },
+  "spirit_breakup_fee": {
+    "value": 69000000.0,
+    "unit": "usd",
+    "description": "What JetBlue paid Spirit on ending the deal, March 2024 (Spirit's 10-K)"
+  },
+  "fll_jetblue_seat_share_july_2025": {
+    "value": 0.1942019173966889,
+    "unit": "share",
+    "description": "JetBlue's seats / all domestic seats leaving FLL, July 2025"
+  },
+  "fll_spirit_seat_share_july_2025": {
+    "value": 0.27489141207429385,
+    "unit": "share",
+    "description": "Spirit's seats / all domestic seats leaving FLL, July 2025"
+  },
+  "fll_domestic_seats_july_2025": {
+    "value": 1228958.0,
+    "unit": "seats",
+    "description": "All domestic seats leaving FLL, July 2025"
+  },
+  "fll_jetblue_seat_share_july_2026": {
+    "value": 0.3477683332537446,
+    "unit": "share",
+    "description": "JetBlue's seats / all domestic seats leaving FLL, July 2026"
+  },
+  "fll_spirit_seat_share_july_2026": {
+    "value": 0.0,
+    "unit": "share",
+    "description": "Spirit's seats / all domestic seats leaving FLL, July 2026"
+  },
+  "fll_domestic_seats_july_2026": {
+    "value": 1256460.0,
+    "unit": "seats",
+    "description": "All domestic seats leaving FLL, July 2026"
+  }
+}
