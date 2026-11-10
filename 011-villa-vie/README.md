@@ -1,6 +1,6 @@
 # #011 · Villa Vie Odyssey: what did a day on board cost, and what did the ship cost to run?
 
-**Video:** coming soon
+**Video:** https://youtu.be/A8VJXPM9Ys8
 
 ## The answer
 
