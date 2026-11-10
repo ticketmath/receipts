@@ -1,0 +1,577 @@
+{
+  "villa_vie_fuel_per_ton_before_war": {
+    "value": 700.0,
+    "unit": "usd a ton",
+    "description": "What Villa Vie says it paid for a ton of fuel before the war, on average (founder Mikael Petterson to CBS) (CBS News, the Odyssey's never-ending cruise ends over fuel costs (October 28, 2026))"
+  },
+  "villa_vie_fuel_per_ton_since_war_low": {
+    "value": 2000.0,
+    "unit": "usd a ton",
+    "description": "The low end of what it says it has paid a ton since the war: 'anywhere from $2,000 to $3,000' (Petterson to CBS) (CBS News, the Odyssey's never-ending cruise ends over fuel costs (October 28, 2026))"
+  },
+  "villa_vie_fuel_per_ton_since_war_high": {
+    "value": 3000.0,
+    "unit": "usd a ton",
+    "description": "The high end of the same range (Petterson to CBS) (CBS News, the Odyssey's never-ending cruise ends over fuel costs (October 28, 2026))"
+  },
+  "villa_vie_fuel_per_ton_cambodia": {
+    "value": 2200.0,
+    "unit": "usd a ton",
+    "description": "Marine diesel in Cambodia, about $2,200 a ton (Petterson to Business Insider) (The Walking Cruiser, Villa Vie Odyssey in Cambodia and fuel costs (citing Business Insider and Cambodian authorities))"
+  },
+  "odyssey_fuel_tons_a_month_low": {
+    "value": 700.0,
+    "unit": "tons a month",
+    "description": "Fuel burned by the Odyssey, low end: 'between 700 and 800 tons per month' (Petterson to CBS) (CBS News, the Odyssey's never-ending cruise ends over fuel costs (October 28, 2026))"
+  },
+  "odyssey_fuel_tons_a_month_high": {
+    "value": 800.0,
+    "unit": "tons a month",
+    "description": "Fuel burned by the Odyssey, high end (Petterson to CBS) (CBS News, the Odyssey's never-ending cruise ends over fuel costs (October 28, 2026))"
+  },
+  "villa_vie_monthly_spend_before_war": {
+    "value": 400000.0,
+    "unit": "usd a month",
+    "description": "Monthly spending before the war, as Petterson told CBS (CBS News, the Odyssey's never-ending cruise ends over fuel costs (October 28, 2026))"
+  },
+  "villa_vie_monthly_spend_after_war": {
+    "value": 2000000.0,
+    "unit": "usd a month",
+    "description": "Monthly spending after the war, as Petterson told CBS (CBS News, the Odyssey's never-ending cruise ends over fuel costs (October 28, 2026))"
+  },
+  "fuel_per_cabin_a_month_before_war": {
+    "value": 1800.0,
+    "unit": "usd per cabin a month",
+    "description": "Fuel per cabin per month before the war (company statement to CBS) (CBS News, the Odyssey's never-ending cruise ends over fuel costs (October 28, 2026))"
+  },
+  "fuel_per_cabin_a_month_after_war_low": {
+    "value": 6000.0,
+    "unit": "usd per cabin a month",
+    "description": "Fuel per cabin per month after the war, low end (company statement to CBS) (CBS News, the Odyssey's never-ending cruise ends over fuel costs (October 28, 2026))"
+  },
+  "fuel_per_cabin_a_month_after_war_high": {
+    "value": 8000.0,
+    "unit": "usd per cabin a month",
+    "description": "Fuel per cabin per month after the war, high end (company statement to CBS) (CBS News, the Odyssey's never-ending cruise ends over fuel costs (October 28, 2026))"
+  },
+  "residents_sent_ashore": {
+    "value": 203.0,
+    "unit": "residents",
+    "description": "Residents who went ashore in Cambodia (Captain Emanuele Giudice; the same figure Cambodian authorities gave on arrival, October 23, 2026) (Cruise Industry News, Villa Vie captain: guests sent ashore due to critical fuel situation (October 2026))"
+  },
+  "crew_aboard_in_cambodia": {
+    "value": 156.0,
+    "unit": "crew",
+    "description": "Crew aboard on arrival in Cambodia, October 23, 2026 (Cambodian authorities) (The Walking Cruiser, Villa Vie Odyssey in Cambodia and fuel costs (citing Business Insider and Cambodian authorities))"
+  },
+  "odyssey_passenger_capacity": {
+    "value": 929.0,
+    "unit": "passengers",
+    "description": "Passenger capacity of the Odyssey, built in 1993 as the Braemar (Fred. Olsen) (Wikipedia, Villa Vie Odyssey (citing Fred. Olsen and seereisenportal.de))"
+  },
+  "odyssey_cabins": {
+    "value": 485.0,
+    "unit": "cabins",
+    "description": "Cabins on the ship (seereisenportal.de, January 17, 2024) (Wikipedia, Villa Vie Odyssey (citing Fred. Olsen and seereisenportal.de))"
+  },
+  "hours_of_notice": {
+    "value": 36.0,
+    "unit": "hours",
+    "description": "Hours of notice the residents had to leave the ship (Cruise Industry News, Villa Vie captain: guests sent ashore due to critical fuel situation (October 2026))"
+  },
+  "fuel_surcharge_a_month": {
+    "value": 1500.0,
+    "unit": "usd a month",
+    "description": "The extra monthly fuel charge the company tried to collect (Petterson) (Eye of the Flyer, the Villa Vie Odyssey nightmare for cabin buyers (November 5, 2026))"
+  },
+  "residents_who_refused_surcharge": {
+    "value": 0.7,
+    "unit": "share",
+    "description": "Residents who refused to pay the surcharge (Petterson) (Eye of the Flyer, the Villa Vie Odyssey nightmare for cabin buyers (November 5, 2026))"
+  },
+  "emergency_loan_requested": {
+    "value": 3000000.0,
+    "unit": "usd",
+    "description": "Emergency loan the company asked its residents for in April 2026 (The Walking Cruiser, Villa Vie Odyssey in Cambodia and fuel costs (citing Business Insider and Cambodian authorities))"
+  },
+  "emergency_loan_interest_low": {
+    "value": 0.12,
+    "unit": "share",
+    "description": "Lowest interest rate offered on that loan (The Walking Cruiser, Villa Vie Odyssey in Cambodia and fuel costs (citing Business Insider and Cambodian authorities))"
+  },
+  "emergency_loan_interest_high": {
+    "value": 0.24,
+    "unit": "share",
+    "description": "Highest interest rate offered on that loan (The Walking Cruiser, Villa Vie Odyssey in Cambodia and fuel costs (citing Business Insider and Cambodian authorities))"
+  },
+  "permanent_cabin_price_low": {
+    "value": 119999.0,
+    "unit": "usd",
+    "description": "Lowest price of a permanent cabin (Eye of the Flyer, the Villa Vie Odyssey nightmare for cabin buyers (November 5, 2026))"
+  },
+  "permanent_cabin_price_high": {
+    "value": 439999.0,
+    "unit": "usd",
+    "description": "Highest price of a permanent cabin (Eye of the Flyer, the Villa Vie Odyssey nightmare for cabin buyers (November 5, 2026))"
+  },
+  "years_aboard_promised": {
+    "value": 15.0,
+    "unit": "years",
+    "description": "Minimum years aboard promised to cabin buyers (CBS: a '15-year minimum guarantee') (Eye of the Flyer, the Villa Vie Odyssey nightmare for cabin buyers (November 5, 2026))"
+  },
+  "ship_price_2023_reported": {
+    "value": 13000000.0,
+    "unit": "usd",
+    "description": "What Villa Vie reportedly paid for the ship in 2023 (Eye of the Flyer, the Villa Vie Odyssey nightmare for cabin buyers (November 5, 2026))"
+  },
+  "singapore_mgo_february_27_2026": {
+    "value": 709.5,
+    "unit": "usd a ton",
+    "description": "Marine gasoil (MGO) in Singapore, February 27, 2026, the last session before the rise (Ship & Bunker, Singapore bunker prices (read November 8, 2026))"
+  },
+  "singapore_mgo_peak_april_6_2026": {
+    "value": 2064.0,
+    "unit": "usd a ton",
+    "description": "Marine gasoil in Singapore, April 6, 2026: the year's high, and the only day of 2026 at $2,000 or more in the daily series (Ship & Bunker, Singapore bunker prices (read November 8, 2026))"
+  },
+  "singapore_mgo_october_27_2026": {
+    "value": 1342.0,
+    "unit": "usd a ton",
+    "description": "Marine gasoil in Singapore, October 27, 2026, the day the residents were sent ashore (Ship & Bunker, Singapore bunker prices (read November 8, 2026))"
+  },
+  "singapore_mgo_q4_2025": {
+    "value": 681.5,
+    "unit": "usd a ton",
+    "description": "Marine gasoil in Singapore, average of the fourth quarter of 2025 (Ship & Bunker, Singapore bunker prices (read November 8, 2026))"
+  },
+  "singapore_mgo_q3_2025": {
+    "value": 674.5,
+    "unit": "usd a ton",
+    "description": "Marine gasoil in Singapore, average of the third quarter of 2025 (Ship & Bunker, Singapore bunker prices (read November 8, 2026))"
+  },
+  "singapore_mgo_q2_2026": {
+    "value": 1238.0,
+    "unit": "usd a ton",
+    "description": "Marine gasoil in Singapore, average of the second quarter of 2026 (Ship & Bunker, Singapore bunker prices (read November 8, 2026))"
+  },
+  "singapore_mgo_q3_2026": {
+    "value": 1201.5,
+    "unit": "usd a ton",
+    "description": "Marine gasoil in Singapore, average of the third quarter of 2026 (Ship & Bunker, Singapore bunker prices (read November 8, 2026))"
+  },
+  "singapore_mgo_q4_2026_to_november_6": {
+    "value": 1285.5,
+    "unit": "usd a ton",
+    "description": "Marine gasoil in Singapore, average of the fourth quarter of 2026 through November 6 (Ship & Bunker, Singapore bunker prices (read November 8, 2026))"
+  },
+  "singapore_hsfo_q3_2026": {
+    "value": 622.5,
+    "unit": "usd a ton",
+    "description": "High-sulfur heavy fuel oil (HSFO) in Singapore, average of the third quarter of 2026 (Ship & Bunker, Singapore bunker prices (read November 8, 2026))"
+  },
+  "singapore_vlsfo_q3_2026": {
+    "value": 814.5,
+    "unit": "usd a ton",
+    "description": "Very-low-sulfur fuel oil (VLSFO) in Singapore, average of the third quarter of 2026 (Ship & Bunker, Singapore bunker prices (read November 8, 2026))"
+  },
+  "inside_cabin_rent_a_month": {
+    "value": 3499.0,
+    "unit": "usd per person a month",
+    "description": "Rent for an inside cabin, per person per month, with meals, cleaning, internet and a doctor on board ('Inside Villa $3,499/month per person') (Villa Vie Residences, rent-to-own page (read November 8, 2026))"
+  },
+  "permanent_residency_from": {
+    "value": 119999.0,
+    "unit": "usd",
+    "description": "Permanent residency 'from $119,999' (Villa Vie Residences, residency options (read November 8, 2026))"
+  },
+  "five_year_residency_from": {
+    "value": 59999.0,
+    "unit": "usd",
+    "description": "Five-year residency 'from $59,999' (Villa Vie Residences, residency options (read November 8, 2026))"
+  },
+  "owner_monthly_fee_from": {
+    "value": 3500.0,
+    "unit": "usd a month",
+    "description": "Owners' monthly fee 'From $3,500/mo' (the page doesn't say per person or per cabin) (Villa Vie Residences, residency options (read November 8, 2026))"
+  },
+  "residents_advertised": {
+    "value": 650.0,
+    "unit": "residents",
+    "description": "'Up to 650 people', the resident capacity the company advertises (Villa Vie Residences, home page (read November 8, 2026))"
+  },
+  "internal_documents_cost_a_month": {
+    "value": 3100000.0,
+    "unit": "usd a month",
+    "description": "Average monthly operating cost in the internal documents CBS reviewed (a source close to the company says it was under $1 million) (CBS News, the Villa Vie internal documents (October 30, 2026))"
+  },
+  "internal_documents_full_ship_revenue_a_month": {
+    "value": 2500000.0,
+    "unit": "usd a month",
+    "description": "Monthly revenue with the ship 100% full and everyone paying the full fee, in the same documents (CBS News, the Villa Vie internal documents (October 30, 2026))"
+  },
+  "internal_documents_cabins": {
+    "value": 490.0,
+    "unit": "cabins",
+    "description": "Cabins on the Odyssey in the internal documents (CBS News, the Villa Vie internal documents (October 30, 2026))"
+  },
+  "cabins_without_owner_august_2026": {
+    "value": 139.0,
+    "unit": "cabins",
+    "description": "Cabins with no owner in August 2026, in the internal documents (CBS News, the Villa Vie internal documents (October 30, 2026))"
+  },
+  "hong_kong_fuel_payment": {
+    "value": 167844.48,
+    "unit": "usd",
+    "description": "What the company paid a fuel supplier for the ship to be released in Hong Kong (court records, via CBS) (CBS News, the Villa Vie internal documents (October 30, 2026))"
+  },
+  "resident_paid_fuel_supplier": {
+    "value": 400000.0,
+    "unit": "usd",
+    "description": "Paid to a fuel supplier straight from a resident's personal checking account (CBS's sources) (CBS News, the Villa Vie internal documents (October 30, 2026))"
+  },
+  "darrell_carp_loss": {
+    "value": 250000.0,
+    "unit": "usd",
+    "description": "What resident Darrell Carp says he lost (CBS News, the Villa Vie internal documents (October 30, 2026))"
+  },
+  "assisted_living_median_a_month": {
+    "value": 6200.0,
+    "unit": "usd a month",
+    "description": "Assisted living in the U.S., median monthly cost, survey of July to November 2025 (CareScout, Cost of Care Survey (July to November 2025))"
+  },
+  "average_retirement_benefit_a_month": {
+    "value": 2088.79,
+    "unit": "usd a month",
+    "description": "Average Social Security benefit of a retired worker, September 2026 (Social Security Administration, Monthly Statistical Snapshot (September 2026))"
+  },
+  "life_at_sea_cabins_sold": {
+    "value": 111.0,
+    "unit": "cabins",
+    "description": "Life at Sea: cabins sold for the three-year cruise canceled on November 17, 2023 (ABC13, citing CNN: the three-year Life at Sea cruise canceled (November 25, 2023))"
+  },
+  "fuel_price_rise_times": {
+    "value": 2.857142857142857,
+    "unit": "times",
+    "description": "Low end of the price since the war / the price before the war"
+  },
+  "residents_vs_capacity": {
+    "value": 0.2185145317545748,
+    "unit": "share",
+    "description": "Residents at the end / the ship's passenger capacity"
+  },
+  "monthly_fuel_bill_low": {
+    "value": 1400000.0,
+    "unit": "usd a month",
+    "description": "Fuel bill a month at the lowest consumption and price Villa Vie gives"
+  },
+  "monthly_fuel_bill_high": {
+    "value": 2400000.0,
+    "unit": "usd a month",
+    "description": "Fuel bill a month at the highest consumption and price Villa Vie gives"
+  },
+  "monthly_fuel_bill_before_war": {
+    "value": 490000.0,
+    "unit": "usd a month",
+    "description": "Fuel bill a month before the war, at the lowest consumption"
+  },
+  "carnival_fuel_per_ton_q3_2026": {
+    "value": 826.0,
+    "unit": "usd a ton",
+    "description": "Carnival: fuel cost per metric ton consumed, June to August 2026 (10-Q)"
+  },
+  "carnival_fuel_per_ton_q3_2025": {
+    "value": 607.0,
+    "unit": "usd a ton",
+    "description": "Carnival: the same, June to August 2025 (10-Q)"
+  },
+  "carnival_fuel_expense_q3_2026": {
+    "value": 615000000.0,
+    "unit": "usd",
+    "description": "Carnival: fuel expense, June to August 2026 (10-Q)"
+  },
+  "carnival_net_income_q3_2026": {
+    "value": 1920000000.0,
+    "unit": "usd",
+    "description": "Carnival: net income, June to August 2026 (10-Q)"
+  },
+  "carnival_net_income_q3_2025": {
+    "value": 1852000000.0,
+    "unit": "usd",
+    "description": "Carnival: net income, June to August 2025 (10-Q)"
+  },
+  "carnival_higher_fuel_prices_q3_2026": {
+    "value": 149000000.0,
+    "unit": "usd",
+    "description": "Carnival: what higher fuel prices added to fuel expense (10-Q)"
+  },
+  "carnival_occupancy_q3_2026": {
+    "value": 1.1179999999999999,
+    "unit": "share",
+    "description": "Carnival: occupancy (above 100% means more than two per cabin)"
+  },
+  "carnival_fuel_per_passenger_day_q3_2026": {
+    "value": 22.043010752688172,
+    "unit": "usd per passenger a day",
+    "description": "Carnival: fuel expense / passenger cruise days, 2026"
+  },
+  "carnival_fuel_per_passenger_day_q3_2025": {
+    "value": 16.4,
+    "unit": "usd per passenger a day",
+    "description": "Carnival: fuel expense / passenger cruise days, 2025"
+  },
+  "carnival_fuel_kg_per_passenger_day": {
+    "value": 24.00752688172043,
+    "unit": "kg per passenger a day",
+    "description": "Carnival: tons per thousand ALBDs x ALBDs / passenger cruise days"
+  },
+  "royal_caribbean_fuel_per_ton_q3_2026": {
+    "value": 778.0,
+    "unit": "usd a ton",
+    "description": "Royal Caribbean: bunker price net of hedging, July to September 2026 (8-K)"
+  },
+  "royal_caribbean_hedged_share_2026": {
+    "value": 0.59,
+    "unit": "share",
+    "description": "Royal Caribbean: share of 2026 fuel hedged, September 30, 2026 (10-Q)"
+  },
+  "royal_caribbean_fuel_per_passenger_day": {
+    "value": 20.787913439847326,
+    "unit": "usd per passenger a day",
+    "description": "Royal Caribbean: fuel expense / passenger cruise days"
+  },
+  "royal_caribbean_fuel_kg_per_passenger_day": {
+    "value": 26.718759061014143,
+    "unit": "kg per passenger a day",
+    "description": "Royal Caribbean: tons / passenger cruise days"
+  },
+  "norwegian_fuel_per_ton_q3_2026": {
+    "value": 819.0,
+    "unit": "usd a ton",
+    "description": "Norwegian: fuel price per metric ton net of hedges, July to September 2026 (8-K)"
+  },
+  "norwegian_fuel_per_ton_q3_2025": {
+    "value": 744.0,
+    "unit": "usd a ton",
+    "description": "Norwegian: the same, July to September 2025 (8-K)"
+  },
+  "norwegian_hedged_share_2026": {
+    "value": 0.48,
+    "unit": "share",
+    "description": "Norwegian: share of 2026 fuel hedged, October 15, 2026 (8-K)"
+  },
+  "norwegian_hedge_price_per_ton": {
+    "value": 506.0,
+    "unit": "usd a ton",
+    "description": "Norwegian: blended HFO and MGO hedge price for 2026 (8-K)"
+  },
+  "norwegian_fuel_per_passenger_day": {
+    "value": 27.166507192705893,
+    "unit": "usd per passenger a day",
+    "description": "Norwegian: fuel expense / passenger cruise days"
+  },
+  "norwegian_fuel_kg_per_passenger_day": {
+    "value": 33.17169419084522,
+    "unit": "kg per passenger a day",
+    "description": "Norwegian: tons / passenger cruise days"
+  },
+  "villa_vie_vs_carnival_price_times": {
+    "value": 2.4213075060532687,
+    "unit": "times",
+    "description": "Low end of Villa Vie's price since the war / Carnival's price per ton"
+  },
+  "villa_vie_vs_carnival_price_times_high": {
+    "value": 3.6319612590799033,
+    "unit": "times",
+    "description": "High end of Villa Vie's price / Carnival's price per ton"
+  },
+  "villa_vie_vs_carnival_price_times_before_war": {
+    "value": 1.1532125205930808,
+    "unit": "times",
+    "description": "Villa Vie's pre-war price / Carnival's a year earlier"
+  },
+  "mgo_vs_hsfo_times_q3": {
+    "value": 1.930120481927711,
+    "unit": "times",
+    "description": "Singapore marine gasoil / heavy fuel oil, third quarter of 2026"
+  },
+  "mgo_vs_carnival_times_q3": {
+    "value": 1.4546004842615012,
+    "unit": "times",
+    "description": "Singapore marine gasoil, third quarter / Carnival's average price"
+  },
+  "villa_vie_vs_singapore_mgo_times_q3": {
+    "value": 1.6645859342488556,
+    "unit": "times",
+    "description": "Low end of Villa Vie's price / Singapore marine gasoil, third quarter"
+  },
+  "villa_vie_vs_singapore_mgo_times_october_27": {
+    "value": 1.4903129657228018,
+    "unit": "times",
+    "description": "Low end of Villa Vie's price / Singapore marine gasoil, October 27"
+  },
+  "villa_vie_above_singapore_mgo_per_ton_q4": {
+    "value": 714.5,
+    "unit": "usd a ton",
+    "description": "Low end of Villa Vie's price - Singapore marine gasoil, fourth quarter through November 6"
+  },
+  "odyssey_fuel_per_resident_day": {
+    "value": 226.7359470949457,
+    "unit": "usd per resident a day",
+    "description": "700 tons x $2,000 / 203 residents / days in a month"
+  },
+  "odyssey_fuel_per_resident_day_high": {
+    "value": 388.6901950199068,
+    "unit": "usd per resident a day",
+    "description": "800 tons x $3,000 / 203 residents / days in a month"
+  },
+  "odyssey_fuel_per_resident_day_at_singapore_price": {
+    "value": 145.73452999527632,
+    "unit": "usd per resident a day",
+    "description": "The same at Singapore marine gasoil, fourth quarter"
+  },
+  "odyssey_fuel_per_resident_day_at_carnival_price": {
+    "value": 93.64194615021256,
+    "unit": "usd per resident a day",
+    "description": "The same at Carnival's average price"
+  },
+  "odyssey_fuel_per_resident_day_before_war": {
+    "value": 79.35758148323099,
+    "unit": "usd per resident a day",
+    "description": "The same at the pre-war price"
+  },
+  "odyssey_fuel_kg_per_resident_day": {
+    "value": 113.36797354747283,
+    "unit": "kg per resident a day",
+    "description": "700 tons / 203 residents / days in a month"
+  },
+  "odyssey_vs_carnival_kg_times": {
+    "value": 4.722184592607593,
+    "unit": "times",
+    "description": "Odyssey kg per resident / Carnival kg per passenger"
+  },
+  "odyssey_vs_carnival_fuel_dollars_times": {
+    "value": 10.286069795039,
+    "unit": "times",
+    "description": "Odyssey fuel per resident a day / Carnival fuel per passenger a day"
+  },
+  "odyssey_vs_carnival_fuel_dollars_times_same_price": {
+    "value": 4.248146825351107,
+    "unit": "times",
+    "description": "The same, if the Odyssey paid Carnival's price"
+  },
+  "odyssey_fuel_per_resident_month": {
+    "value": 6896.551724137931,
+    "unit": "usd per resident a month",
+    "description": "Monthly fuel bill (low end) / residents"
+  },
+  "surcharge_share_of_fuel_bill": {
+    "value": 0.2175,
+    "unit": "share",
+    "description": "The $1,500 surcharge / fuel per resident a month"
+  },
+  "rent_per_person_day": {
+    "value": 115.03561643835616,
+    "unit": "usd per person a day",
+    "description": "Inside cabin rent per person a month / days in a month"
+  },
+  "royal_caribbean_net_yield_per_day": {
+    "value": 304.41,
+    "unit": "usd per berth a day",
+    "description": "Royal Caribbean: Net Yield, July to September 2026 (10-Q)"
+  },
+  "royal_caribbean_net_cruise_cost_per_day": {
+    "value": 144.79,
+    "unit": "usd per berth a day",
+    "description": "Royal Caribbean: Net Cruise Costs per APCD, with fuel (10-Q)"
+  },
+  "royal_caribbean_net_cruise_cost_per_day_ex_fuel": {
+    "value": 121.38,
+    "unit": "usd per berth a day",
+    "description": "Royal Caribbean: Net Cruise Costs excluding Fuel per APCD (10-Q)"
+  },
+  "royal_caribbean_gross_cruise_cost_per_day": {
+    "value": 217.64,
+    "unit": "usd per berth a day",
+    "description": "Royal Caribbean: Gross Cruise Costs per APCD (10-Q)"
+  },
+  "norwegian_net_cruise_cost_per_day": {
+    "value": 184.87,
+    "unit": "usd per berth a day",
+    "description": "Norwegian: Net Cruise Cost per Capacity Day (8-K)"
+  },
+  "royal_caribbean_cost_vs_rent_times": {
+    "value": 1.2586536629513194,
+    "unit": "times",
+    "description": "Royal Caribbean's cost per berth a day / Villa Vie's rent a day"
+  },
+  "royal_caribbean_yield_vs_rent_times": {
+    "value": 2.6462239211203205,
+    "unit": "times",
+    "description": "Royal Caribbean's net yield per berth a day / Villa Vie's rent a day"
+  },
+  "rent_below_royal_caribbean_cost_per_day": {
+    "value": 29.754383561643834,
+    "unit": "usd a day",
+    "description": "Royal Caribbean's cost per berth a day - Villa Vie's rent a day"
+  },
+  "fuel_before_war_share_of_rent": {
+    "value": 0.6898522730632398,
+    "unit": "share",
+    "description": "Pre-war fuel per resident a day (203 aboard) / rent a day"
+  },
+  "fuel_after_war_vs_rent_times": {
+    "value": 1.9710064944663994,
+    "unit": "times",
+    "description": "Fuel per resident a day since the war (low end) / rent a day"
+  },
+  "internal_documents_monthly_gap_full_ship": {
+    "value": 600000.0,
+    "unit": "usd a month",
+    "description": "Internal documents: cost a month - revenue a month with the ship full"
+  },
+  "cabins_with_owner_august_2026": {
+    "value": 351.0,
+    "unit": "cabins",
+    "description": "Cabins in the documents - cabins with no owner"
+  },
+  "internal_documents_cost_per_cabin_month": {
+    "value": 6326.530612244898,
+    "unit": "usd per cabin a month",
+    "description": "Internal documents: cost a month / cabins"
+  },
+  "internal_documents_revenue_per_cabin_month": {
+    "value": 5102.040816326531,
+    "unit": "usd per cabin a month",
+    "description": "Internal documents: full-ship revenue a month / cabins"
+  },
+  "internal_documents_cost_per_resident_day": {
+    "value": 502.05816856737965,
+    "unit": "usd per resident a day",
+    "description": "Internal documents: cost a month / 203 residents / days in a month"
+  },
+  "residents_vs_advertised": {
+    "value": 0.3123076923076923,
+    "unit": "share",
+    "description": "Residents at the end / the 650 the company advertises"
+  },
+  "assisted_living_per_day": {
+    "value": 203.83561643835617,
+    "unit": "usd a day",
+    "description": "Assisted living median a month / days in a month"
+  },
+  "retirement_benefit_per_day": {
+    "value": 68.67254794520548,
+    "unit": "usd a day",
+    "description": "Average retirement benefit a month / days in a month"
+  },
+  "rent_vs_retirement_benefit_times": {
+    "value": 1.6751324929744016,
+    "unit": "times",
+    "description": "Villa Vie's rent a month / the average retirement benefit"
+  },
+  "rent_vs_assisted_living": {
+    "value": 0.5643548387096774,
+    "unit": "share",
+    "description": "Villa Vie's rent a month / assisted living median a month"
+  }
+}
