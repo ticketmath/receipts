@@ -1,6 +1,6 @@
 # #012 · Laughlin's casinos: where did the profit from each night with a guest go?
 
-**Video:** coming soon
+**Video:** https://youtu.be/pvtBetVs0sU
 
 ## The answer
 
