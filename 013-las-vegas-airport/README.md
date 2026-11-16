@@ -1,6 +1,6 @@
 # #013 · Las Vegas airport: fewer passengers, and the airlines pay more for each one
 
-**Video:** coming soon
+**Video:** https://youtu.be/QqbY0PaNKEs
 
 ## The answer
 
