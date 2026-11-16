@@ -1,0 +1,1877 @@
+{
+  "las_cpe_fy2012": {
+    "value": 6.149692824001733,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2012: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2012": {
+    "value": 20962087.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2012: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2012": {
+    "value": 2.53,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2012: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2012": {
+    "value": 128910396.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2012": {
+    "value": 37556982.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2012": {
+    "value": 83650382.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2012": {
+    "value": 42272269.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2012": {
+    "value": 175287141.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2012": {
+    "value": 328388324.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2012": {
+    "value": 27455088.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: federal grant receipts"
+  },
+  "las_operating_expenses_fy2012": {
+    "value": 215007535.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: operating expenses before depreciation"
+  },
+  "las_debt_fy2012": {
+    "value": 4514590000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2012": {
+    "value": 222702395.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2012": {
+    "value": 160446494.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: interest expense"
+  },
+  "las_debt_service_fy2012": {
+    "value": 433732223.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2012: debt service, excluding coverage"
+  },
+  "las_cpe_fy2013": {
+    "value": 12.339560195062159,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2013: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2013": {
+    "value": 20872526.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2013: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2013": {
+    "value": 2.32,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2013: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2013": {
+    "value": 257557791.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2013": {
+    "value": 52570523.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2013": {
+    "value": 195867524.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2013": {
+    "value": 45604297.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2013": {
+    "value": 186673696.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2013": {
+    "value": 472142231.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2013": {
+    "value": 10467403.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: federal grant receipts"
+  },
+  "las_operating_expenses_fy2013": {
+    "value": 226849484.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: operating expenses before depreciation"
+  },
+  "las_debt_fy2013": {
+    "value": 4473605000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2013": {
+    "value": 240892403.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2013": {
+    "value": 235311031.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: interest expense"
+  },
+  "las_debt_service_fy2013": {
+    "value": 350228633.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2013: debt service, excluding coverage"
+  },
+  "las_cpe_fy2014": {
+    "value": 11.896662364905241,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2014: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2014": {
+    "value": 21224639.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2014: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2014": {
+    "value": 2.39,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2014: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2014": {
+    "value": 252502364.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2014": {
+    "value": 53982944.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2014": {
+    "value": 188039681.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2014": {
+    "value": 49577815.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2014": {
+    "value": 200104827.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2014": {
+    "value": 481077190.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2014": {
+    "value": 9793840.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: federal grant receipts"
+  },
+  "las_operating_expenses_fy2014": {
+    "value": 226555110.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: operating expenses before depreciation"
+  },
+  "las_debt_fy2014": {
+    "value": 4374835000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2014": {
+    "value": 294371705.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2014": {
+    "value": 213922070.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: interest expense"
+  },
+  "las_debt_service_fy2014": {
+    "value": 292725622.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2014: debt service, excluding coverage"
+  },
+  "las_cpe_fy2015": {
+    "value": 11.786875780338137,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2015: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2015": {
+    "value": 21879137.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2015: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2015": {
+    "value": 2.33,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2015: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2015": {
+    "value": 257886670.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2015": {
+    "value": 53481468.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2015": {
+    "value": 192539261.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2015": {
+    "value": 52801079.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2015": {
+    "value": 207292917.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2015": {
+    "value": 494288311.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2015": {
+    "value": 30013133.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: federal grant receipts"
+  },
+  "las_operating_expenses_fy2015": {
+    "value": 227199370.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: operating expenses before depreciation"
+  },
+  "las_debt_fy2015": {
+    "value": 4287115000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2015": {
+    "value": 389699684.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2015": {
+    "value": 193252348.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: interest expense"
+  },
+  "las_debt_service_fy2015": {
+    "value": 274905462.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2015: debt service, excluding coverage"
+  },
+  "las_cpe_fy2016": {
+    "value": 11.238301504182893,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2016: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2016": {
+    "value": 23343172.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2016: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2016": {
+    "value": 1.93,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2016: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2016": {
+    "value": 262337605.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2016": {
+    "value": 50113116.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2016": {
+    "value": 200268157.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2016": {
+    "value": 58093770.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2016": {
+    "value": 216833609.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2016": {
+    "value": 511540994.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2016": {
+    "value": 19222402.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: federal grant receipts"
+  },
+  "las_operating_expenses_fy2016": {
+    "value": 231583729.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: operating expenses before depreciation"
+  },
+  "las_debt_fy2016": {
+    "value": 4203395000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2016": {
+    "value": 439857551.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2016": {
+    "value": 183010125.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: interest expense"
+  },
+  "las_debt_service_fy2016": {
+    "value": 266713301.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2016: debt service, excluding coverage"
+  },
+  "las_cpe_fy2017": {
+    "value": 10.748068687657423,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2017: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2017": {
+    "value": 24004662.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2017: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2017": {
+    "value": 1.73,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2017: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2017": {
+    "value": 258003756.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2017": {
+    "value": 48095995.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2017": {
+    "value": 197926844.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2017": {
+    "value": 63477178.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2017": {
+    "value": 232803462.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2017": {
+    "value": 522297238.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2017": {
+    "value": 4546226.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: federal grant receipts"
+  },
+  "las_operating_expenses_fy2017": {
+    "value": 247455918.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: operating expenses before depreciation"
+  },
+  "las_debt_fy2017": {
+    "value": 3980835000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2017": {
+    "value": 438475253.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2017": {
+    "value": 182445372.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: interest expense"
+  },
+  "las_debt_service_fy2017": {
+    "value": 329305846.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2017: debt service, excluding coverage"
+  },
+  "las_cpe_fy2018": {
+    "value": 10.053780789790183,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2018: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2018": {
+    "value": 24632922.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2018: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2018": {
+    "value": 1.93,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2018: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2018": {
+    "value": 247653998.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2018": {
+    "value": 42995474.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2018": {
+    "value": 192445949.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2018": {
+    "value": 66413216.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2018": {
+    "value": 251273799.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2018": {
+    "value": 530799843.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2018": {
+    "value": 1243362.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: federal grant receipts"
+  },
+  "las_operating_expenses_fy2018": {
+    "value": 263219301.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: operating expenses before depreciation"
+  },
+  "las_debt_fy2018": {
+    "value": 3882145000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2018": {
+    "value": 523452140.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2018": {
+    "value": 147608578.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: interest expense"
+  },
+  "las_debt_service_fy2018": {
+    "value": 260406777.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2018: debt service, excluding coverage"
+  },
+  "las_cpe_fy2019": {
+    "value": 10.058704635697001,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2019: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2019": {
+    "value": 25223715.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2019: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2019": {
+    "value": 1.7,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2019: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2019": {
+    "value": 253717899.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2019": {
+    "value": 42836974.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2019": {
+    "value": 198058827.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2019": {
+    "value": 71893482.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2019": {
+    "value": 251741720.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2019": {
+    "value": 537780891.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2019": {
+    "value": 14622017.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: federal grant receipts"
+  },
+  "las_operating_expenses_fy2019": {
+    "value": 271118008.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: operating expenses before depreciation"
+  },
+  "las_debt_fy2019": {
+    "value": 3751690000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2019": {
+    "value": 492838234.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2019": {
+    "value": 160194049.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: interest expense"
+  },
+  "las_debt_service_fy2019": {
+    "value": 304484295.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2019: debt service, excluding coverage"
+  },
+  "las_cpe_fy2020": {
+    "value": 12.78884801942407,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2020: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2020": {
+    "value": 19040295.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2020: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2020": {
+    "value": 1.68,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2020: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2020": {
+    "value": 243503439.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2020": {
+    "value": 35530785.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2020": {
+    "value": 196950236.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2020": {
+    "value": 59168982.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2020": {
+    "value": 203034713.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2020": {
+    "value": 475702632.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2020": {
+    "value": 60622312.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: federal grant receipts"
+  },
+  "las_operating_expenses_fy2020": {
+    "value": 278542279.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: operating expenses before depreciation"
+  },
+  "las_debt_fy2020": {
+    "value": 3239535000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2020": {
+    "value": 450665391.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2020": {
+    "value": 122953017.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: interest expense"
+  },
+  "las_debt_service_fy2020": {
+    "value": 285427958.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2020: debt service, excluding coverage"
+  },
+  "las_cpe_fy2021": {
+    "value": 16.711477436393373,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2021: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2021": {
+    "value": 13187187.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2021: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2021": {
+    "value": 1.88,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2021: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2021": {
+    "value": 220377378.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2021": {
+    "value": 24915566.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2021": {
+    "value": 187632118.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2021": {
+    "value": 46524483.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2021": {
+    "value": 150774383.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2021": {
+    "value": 397584691.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2021": {
+    "value": 165994707.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: federal grant receipts"
+  },
+  "las_operating_expenses_fy2021": {
+    "value": 226541394.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: operating expenses before depreciation"
+  },
+  "las_debt_fy2021": {
+    "value": 3019895000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2021": {
+    "value": 642792685.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2021": {
+    "value": 98366052.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: interest expense"
+  },
+  "las_debt_service_fy2021": {
+    "value": 327545546.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2021: debt service, excluding coverage"
+  },
+  "las_cpe_fy2022": {
+    "value": 7.086203597600723,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2022: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2022": {
+    "value": 24025401.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2022: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2022": {
+    "value": 1.33,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2022: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2022": {
+    "value": 170248883.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2022": {
+    "value": 19602139.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2022": {
+    "value": 142626039.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2022": {
+    "value": 83158832.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2022": {
+    "value": 280609288.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2022": {
+    "value": 487722080.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2022": {
+    "value": 62457831.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: federal grant receipts"
+  },
+  "las_operating_expenses_fy2022": {
+    "value": 216244025.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: operating expenses before depreciation"
+  },
+  "las_debt_fy2022": {
+    "value": 2779475000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2022": {
+    "value": 621276855.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2022": {
+    "value": 94050221.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: interest expense"
+  },
+  "las_debt_service_fy2022": {
+    "value": 322633284.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2022: debt service, excluding coverage"
+  },
+  "las_cpe_fy2023": {
+    "value": 7.166666572359464,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2023: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2023": {
+    "value": 28276384.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2023: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2023": {
+    "value": 1.32,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2023: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2023": {
+    "value": 202647416.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2023": {
+    "value": 14899107.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2023": {
+    "value": 176734464.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2023": {
+    "value": 100240826.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2023": {
+    "value": 317102600.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2023": {
+    "value": 560699521.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2023": {
+    "value": 176477860.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: federal grant receipts"
+  },
+  "las_operating_expenses_fy2023": {
+    "value": 296086806.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: operating expenses before depreciation"
+  },
+  "las_debt_fy2023": {
+    "value": 2440045000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2023": {
+    "value": 647958296.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2023": {
+    "value": 87916359.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: interest expense"
+  },
+  "las_debt_service_fy2023": {
+    "value": 274307763.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2023: debt service, excluding coverage"
+  },
+  "las_cpe_fy2024": {
+    "value": 5.363465252602932,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2024: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2024": {
+    "value": 29145881.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2024: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2024": {
+    "value": 0.94,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2024: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2024": {
+    "value": 156322920.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2024": {
+    "value": 14883351.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2024": {
+    "value": 128856242.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2024": {
+    "value": 105644465.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2024": {
+    "value": 352590648.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2024": {
+    "value": 549696903.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2024": {
+    "value": 96437825.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: federal grant receipts"
+  },
+  "las_operating_expenses_fy2024": {
+    "value": 326789428.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: operating expenses before depreciation"
+  },
+  "las_debt_fy2024": {
+    "value": 2408090000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2024": {
+    "value": 500203737.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2024": {
+    "value": 86992099.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: interest expense"
+  },
+  "las_debt_service_fy2024": {
+    "value": 282274050.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2024: debt service, excluding coverage"
+  },
+  "las_cpe_fy2025": {
+    "value": 7.1340742347014565,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal year ending 06/30/2025: everything passenger airlines pay the airport per enplaned passenger"
+  },
+  "las_enplanements_fy2025": {
+    "value": 28642319.0,
+    "unit": "passengers",
+    "description": "LAS, fiscal year ending 06/30/2025: enplanements (16.1)"
+  },
+  "las_signatory_landing_fee_rate_fy2025": {
+    "value": 1.2,
+    "unit": "usd per 1,000 lbs",
+    "description": "LAS, fiscal year ending 06/30/2025: signatory landing fee rate per 1,000 lbs of landed weight"
+  },
+  "las_airline_payments_fy2025": {
+    "value": 204336430.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: everything passenger airlines pay (1.6)"
+  },
+  "las_landing_fees_fy2025": {
+    "value": 38632505.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: passenger airline landing fees (1.1)"
+  },
+  "las_terminal_rents_fy2025": {
+    "value": 149954020.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: terminal rents and fees paid by airlines (1.2)"
+  },
+  "las_parking_fy2025": {
+    "value": 109126414.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: parking and ground transportation (4.6)"
+  },
+  "las_non_aeronautical_revenue_fy2025": {
+    "value": 358967921.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: all revenue that doesn't come from airlines (4.9)"
+  },
+  "las_operating_revenue_fy2025": {
+    "value": 605039077.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: operating revenue (5.0)"
+  },
+  "las_grant_receipts_fy2025": {
+    "value": 66928607.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: federal grant receipts"
+  },
+  "las_operating_expenses_fy2025": {
+    "value": 343278720.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: operating expenses before depreciation"
+  },
+  "las_debt_fy2025": {
+    "value": 2272815000.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: debt at the end of the fiscal year"
+  },
+  "las_unrestricted_cash_fy2025": {
+    "value": 685072178.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: unrestricted cash and investments"
+  },
+  "las_interest_expense_fy2025": {
+    "value": 82057952.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: interest expense"
+  },
+  "las_debt_service_fy2025": {
+    "value": 248927151.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal year ending 06/30/2025: debt service, excluding coverage"
+  },
+  "las_parking_per_passenger_fy2025": {
+    "value": 3.8099713225036003,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal 2025: parking and ground transportation (taxi, shuttle and ride-share fees included), per enplaned passenger"
+  },
+  "las_rental_cars_per_passenger_fy2025": {
+    "value": 1.9606100679208271,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal 2025: rental cars, without the customer facility charge, per enplaned passenger"
+  },
+  "las_rental_cars_fy2025": {
+    "value": 56156419.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal 2025: rental cars, without the customer facility charge"
+  },
+  "las_food_and_beverage_per_passenger_fy2025": {
+    "value": 1.3659146453888737,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal 2025: food and beverage in the terminal, per enplaned passenger"
+  },
+  "las_food_and_beverage_fy2025": {
+    "value": 39122963.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal 2025: food and beverage in the terminal"
+  },
+  "las_retail_per_passenger_fy2025": {
+    "value": 1.287419325229916,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal 2025: retail stores and duty free, per enplaned passenger"
+  },
+  "las_retail_fy2025": {
+    "value": 36874675.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal 2025: retail stores and duty free"
+  },
+  "las_terminal_services_per_passenger_fy2025": {
+    "value": 3.2758760908989246,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal 2025: terminal services and other, per enplaned passenger"
+  },
+  "las_terminal_services_fy2025": {
+    "value": 93828688.0,
+    "unit": "usd per year",
+    "description": "LAS, fiscal 2025: terminal services and other"
+  },
+  "las_non_aeronautical_revenue_per_passenger_fy2025": {
+    "value": 12.532781336594986,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal 2025: all revenue that doesn't come from airlines, per enplaned passenger"
+  },
+  "las_operating_revenue_per_passenger_fy2025": {
+    "value": 21.123955675516356,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal 2025: operating revenue, per enplaned passenger"
+  },
+  "las_operating_expenses_per_passenger_fy2025": {
+    "value": 11.985018391841805,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal 2025: operating expenses before depreciation, per enplaned passenger"
+  },
+  "las_debt_service_per_passenger_fy2025": {
+    "value": 8.690886760949768,
+    "unit": "usd per enplaned passenger",
+    "description": "LAS, fiscal 2025: debt service, per enplaned passenger"
+  },
+  "las_airline_share_of_operating_revenue_fy2019": {
+    "value": 0.4717867504146777,
+    "unit": "share",
+    "description": "LAS, fiscal 2019: share of operating revenue paid by passenger airlines (1.6 / 5.0)"
+  },
+  "las_airline_share_of_operating_revenue_fy2024": {
+    "value": 0.2843802087056692,
+    "unit": "share",
+    "description": "LAS, fiscal 2024: share of operating revenue paid by passenger airlines (1.6 / 5.0)"
+  },
+  "las_airline_share_of_operating_revenue_fy2025": {
+    "value": 0.3377243516454723,
+    "unit": "share",
+    "description": "LAS, fiscal 2025: share of operating revenue paid by passenger airlines (1.6 / 5.0)"
+  },
+  "large_hubs_fy2019": {
+    "value": 30,
+    "unit": "airports",
+    "description": "Large hubs (CATS label) in the Form 127 of fiscal 2019"
+  },
+  "las_rank_among_large_hubs_fy2019": {
+    "value": 14,
+    "unit": "place",
+    "description": "LAS among the large hubs in fiscal 2019, from the one that charges airlines least per passenger (1) to the one that charges most"
+  },
+  "large_hubs_median_cpe_fy2019": {
+    "value": 10.521380651538244,
+    "unit": "usd per enplaned passenger",
+    "description": "Median cost per enplanement of the large hubs, fiscal 2019"
+  },
+  "large_hubs_fy2024": {
+    "value": 30,
+    "unit": "airports",
+    "description": "Large hubs (CATS label) in the Form 127 of fiscal 2024"
+  },
+  "las_rank_among_large_hubs_fy2024": {
+    "value": 3,
+    "unit": "place",
+    "description": "LAS among the large hubs in fiscal 2024, from the one that charges airlines least per passenger (1) to the one that charges most"
+  },
+  "large_hubs_median_cpe_fy2024": {
+    "value": 12.822912087634876,
+    "unit": "usd per enplaned passenger",
+    "description": "Median cost per enplanement of the large hubs, fiscal 2024"
+  },
+  "large_hubs_fy2025": {
+    "value": 30,
+    "unit": "airports",
+    "description": "Large hubs (CATS label) in the Form 127 of fiscal 2025"
+  },
+  "las_rank_among_large_hubs_fy2025": {
+    "value": 3,
+    "unit": "place",
+    "description": "LAS among the large hubs in fiscal 2025, from the one that charges airlines least per passenger (1) to the one that charges most"
+  },
+  "large_hubs_median_cpe_fy2025": {
+    "value": 14.830630787687761,
+    "unit": "usd per enplaned passenger",
+    "description": "Median cost per enplanement of the large hubs, fiscal 2025"
+  },
+  "atl_cpe_fy2025": {
+    "value": 4.478050279816191,
+    "unit": "usd per enplaned passenger",
+    "description": "Hartsfield-Jackson Atlanta International (ATL), fiscal year ending 06/30/2025: cost per enplanement"
+  },
+  "clt_cpe_fy2025": {
+    "value": 6.488710656643033,
+    "unit": "usd per enplaned passenger",
+    "description": "Charlotte/Douglas Intl (CLT), fiscal year ending 06/30/2025: cost per enplanement"
+  },
+  "las_passengers_2019": {
+    "value": 24901367.0,
+    "unit": "passengers",
+    "description": "Passengers on flights leaving LAS in 2019, all airlines"
+  },
+  "las_spirit_passengers_2019": {
+    "value": 2691547.0,
+    "unit": "passengers",
+    "description": "Spirit passengers on flights leaving LAS in 2019"
+  },
+  "las_spirit_share_2019": {
+    "value": 0.10808832302258747,
+    "unit": "share",
+    "description": "Spirit's share of passengers leaving LAS in 2019"
+  },
+  "las_passengers_2024": {
+    "value": 28336523.0,
+    "unit": "passengers",
+    "description": "Passengers on flights leaving LAS in 2024, all airlines"
+  },
+  "las_spirit_passengers_2024": {
+    "value": 3954404.0,
+    "unit": "passengers",
+    "description": "Spirit passengers on flights leaving LAS in 2024"
+  },
+  "las_spirit_share_2024": {
+    "value": 0.13955148978581458,
+    "unit": "share",
+    "description": "Spirit's share of passengers leaving LAS in 2024"
+  },
+  "las_passengers_2025": {
+    "value": 26666224.0,
+    "unit": "passengers",
+    "description": "Passengers on flights leaving LAS in 2025, all airlines"
+  },
+  "las_spirit_passengers_2025": {
+    "value": 2300975.0,
+    "unit": "passengers",
+    "description": "Spirit passengers on flights leaving LAS in 2025"
+  },
+  "las_spirit_share_2025": {
+    "value": 0.08628799488071502,
+    "unit": "share",
+    "description": "Spirit's share of passengers leaving LAS in 2025"
+  },
+  "las_passengers_lost_2025": {
+    "value": 1670299.0,
+    "unit": "passengers",
+    "description": "Fewer passengers leaving LAS, 2025 against 2024"
+  },
+  "las_spirit_passengers_lost_2025": {
+    "value": 1653429.0,
+    "unit": "passengers",
+    "description": "Fewer Spirit passengers leaving LAS, 2025 against 2024"
+  },
+  "spirit_share_of_passengers_lost_2025": {
+    "value": 0.9899000119140345,
+    "unit": "share",
+    "description": "Spirit's loss as a share of the whole airport's loss, 2025 against 2024"
+  },
+  "las_other_airlines_passenger_change_2025": {
+    "value": -16870.0,
+    "unit": "passengers",
+    "description": "Change in passengers of every airline except Spirit leaving LAS, 2025 against 2024 (negative = they lost)"
+  },
+  "las_spirit_best_month": {
+    "value": 384196.0,
+    "unit": "passengers a month",
+    "description": "Spirit passengers leaving LAS in its best month of 2024-2025 (7/2024)"
+  },
+  "las_spirit_december_2025": {
+    "value": 69468.0,
+    "unit": "passengers a month",
+    "description": "Spirit passengers leaving LAS in December 2025"
+  },
+  "las_passengers_ytd_2025": {
+    "value": 17975830.0,
+    "unit": "passengers",
+    "description": "Passengers leaving LAS, January to month 8 of 2025: all airlines"
+  },
+  "las_seats_ytd_2025": {
+    "value": 23174878.0,
+    "unit": "seats",
+    "description": "Seats on flights leaving LAS, January to month 8 of 2025: all airlines"
+  },
+  "las_passengers_ytd_2026": {
+    "value": 16650429.0,
+    "unit": "passengers",
+    "description": "Passengers leaving LAS, January to month 8 of 2026: all airlines"
+  },
+  "las_seats_ytd_2026": {
+    "value": 21148035.0,
+    "unit": "seats",
+    "description": "Seats on flights leaving LAS, January to month 8 of 2026: all airlines"
+  },
+  "las_spirit_passengers_ytd_2025": {
+    "value": 1805928.0,
+    "unit": "passengers",
+    "description": "Passengers leaving LAS, January to month 8 of 2025: Spirit"
+  },
+  "las_spirit_seats_ytd_2025": {
+    "value": 2300502.0,
+    "unit": "seats",
+    "description": "Seats on flights leaving LAS, January to month 8 of 2025: Spirit"
+  },
+  "las_spirit_passengers_ytd_2026": {
+    "value": 248306.0,
+    "unit": "passengers",
+    "description": "Passengers leaving LAS, January to month 8 of 2026: Spirit"
+  },
+  "las_spirit_seats_ytd_2026": {
+    "value": 336028.0,
+    "unit": "seats",
+    "description": "Seats on flights leaving LAS, January to month 8 of 2026: Spirit"
+  },
+  "las_other_airlines_passengers_ytd_2025": {
+    "value": 16169902.0,
+    "unit": "passengers",
+    "description": "Passengers leaving LAS, January to month 8 of 2025: every airline except Spirit"
+  },
+  "las_other_airlines_seats_ytd_2025": {
+    "value": 20874376.0,
+    "unit": "seats",
+    "description": "Seats on flights leaving LAS, January to month 8 of 2025: every airline except Spirit"
+  },
+  "las_other_airlines_passengers_ytd_2026": {
+    "value": 16402123.0,
+    "unit": "passengers",
+    "description": "Passengers leaving LAS, January to month 8 of 2026: every airline except Spirit"
+  },
+  "las_other_airlines_seats_ytd_2026": {
+    "value": 20812007.0,
+    "unit": "seats",
+    "description": "Seats on flights leaving LAS, January to month 8 of 2026: every airline except Spirit"
+  },
+  "las_passengers_lost_ytd_2026": {
+    "value": 1325401.0,
+    "unit": "passengers",
+    "description": "Fewer passengers leaving LAS, January to month 8 of 2026 against 2025"
+  },
+  "las_spirit_passengers_lost_ytd_2026": {
+    "value": 1557622.0,
+    "unit": "passengers",
+    "description": "Fewer Spirit passengers leaving LAS, January to month 8 of 2026 against 2025"
+  },
+  "las_spirit_seats_removed_ytd_2026": {
+    "value": 1964474.0,
+    "unit": "seats",
+    "description": "Seats Spirit stopped offering out of LAS, January to month 8 of 2026 against 2025"
+  },
+  "las_other_airlines_seat_change_ytd_2026": {
+    "value": -62369.0,
+    "unit": "seats",
+    "description": "Change in seats of every other airline out of LAS, January to month 8 of 2026 against 2025 (negative = they cut too)"
+  },
+  "las_other_airlines_passenger_change_ytd_2026": {
+    "value": 232221.0,
+    "unit": "passengers",
+    "description": "Change in passengers of every airline except Spirit leaving LAS, January to month 8 of 2026 against 2025"
+  },
+  "months_compared": {
+    "value": 20,
+    "unit": "months",
+    "description": "Months from January 2025 to the last published in 2026"
+  },
+  "months_with_fewer_passengers": {
+    "value": 20,
+    "unit": "months",
+    "description": "Of those months, the ones in which fewer passengers left LAS than in the same month a year earlier"
+  },
+  "other_airlines_worst_month": {
+    "value": -0.04809530075313728,
+    "unit": "share",
+    "description": "Worst month of the airlines other than Spirit against the same month a year earlier, same period"
+  },
+  "other_airlines_best_month": {
+    "value": 0.05929823780444243,
+    "unit": "share",
+    "description": "Best month of the airlines other than Spirit against the same month a year earlier, same period"
+  },
+  "other_airlines_months_up": {
+    "value": 12,
+    "unit": "months",
+    "description": "Months of the same period in which the airlines other than Spirit carried more passengers than a year earlier"
+  },
+  "las_spirit_seats_offered_ytd_2025": {
+    "value": 2300502.0,
+    "unit": "seats",
+    "description": "LAS: Spirit seats leaving the airport, January to month 8 of 2025"
+  },
+  "las_passenger_change_ytd_2026": {
+    "value": -0.07373239511054563,
+    "unit": "share",
+    "description": "LAS: change in passengers leaving the airport, January to month 8 of 2026 against 2025"
+  },
+  "las_seats_added_per_spirit_seat_ytd_2026_vs_2025": {
+    "value": -0.03174844767607003,
+    "unit": "share",
+    "description": "LAS: seats the other airlines added for each seat Spirit removed, January to month 8 of 2026 against 2025 (negative = the others cut too)"
+  },
+  "fll_spirit_seats_offered_ytd_2025": {
+    "value": 3888289.0,
+    "unit": "seats",
+    "description": "FLL: Spirit seats leaving the airport, January to month 8 of 2025"
+  },
+  "fll_passenger_change_ytd_2026": {
+    "value": -0.012763569703100885,
+    "unit": "share",
+    "description": "FLL: change in passengers leaving the airport, January to month 8 of 2026 against 2025"
+  },
+  "fll_spirit_seats_removed_ytd_2026_vs_2025": {
+    "value": 2002656.0,
+    "unit": "seats",
+    "description": "FLL: seats Spirit stopped offering, January to month 8 of 2026 against 2025"
+  },
+  "fll_other_airlines_seats_added_ytd_2026_vs_2025": {
+    "value": 1725970.0,
+    "unit": "seats",
+    "description": "FLL: extra seats from the other airlines, January to month 8 of 2026 against 2025"
+  },
+  "fll_seats_added_per_spirit_seat_ytd_2026_vs_2025": {
+    "value": 0.8618404758480738,
+    "unit": "share",
+    "description": "FLL: seats the other airlines added for each seat Spirit removed, January to month 8 of 2026 against 2025 (negative = the others cut too)"
+  },
+  "mco_spirit_seats_offered_ytd_2025": {
+    "value": 2705624.0,
+    "unit": "seats",
+    "description": "MCO: Spirit seats leaving the airport, January to month 8 of 2025"
+  },
+  "mco_passenger_change_ytd_2026": {
+    "value": -0.003349227405816002,
+    "unit": "share",
+    "description": "MCO: change in passengers leaving the airport, January to month 8 of 2026 against 2025"
+  },
+  "mco_spirit_seats_removed_ytd_2026_vs_2025": {
+    "value": 1563832.0,
+    "unit": "seats",
+    "description": "MCO: seats Spirit stopped offering, January to month 8 of 2026 against 2025"
+  },
+  "mco_other_airlines_seats_added_ytd_2026_vs_2025": {
+    "value": 1193251.0,
+    "unit": "seats",
+    "description": "MCO: extra seats from the other airlines, January to month 8 of 2026 against 2025"
+  },
+  "mco_seats_added_per_spirit_seat_ytd_2026_vs_2025": {
+    "value": 0.7630301720389402,
+    "unit": "share",
+    "description": "MCO: seats the other airlines added for each seat Spirit removed, January to month 8 of 2026 against 2025 (negative = the others cut too)"
+  },
+  "las_spirit_seats_removed_ytd_2026_vs_2024": {
+    "value": 2885457.0,
+    "unit": "seats",
+    "description": "LAS: seats Spirit stopped offering, January to month 8 of 2026 against 2024"
+  },
+  "las_other_airlines_seats_added_ytd_2026_vs_2024": {
+    "value": 833496.0,
+    "unit": "seats",
+    "description": "LAS: extra seats from the other airlines, January to month 8 of 2026 against 2024"
+  },
+  "las_seats_added_per_spirit_seat_ytd_2026_vs_2024": {
+    "value": 0.28886100191408154,
+    "unit": "share",
+    "description": "LAS: seats the other airlines added for each seat Spirit removed, January to month 8 of 2026 against 2024 (negative = the others cut too)"
+  },
+  "fll_spirit_seats_removed_ytd_2026_vs_2024": {
+    "value": 2719820.0,
+    "unit": "seats",
+    "description": "FLL: seats Spirit stopped offering, January to month 8 of 2026 against 2024"
+  },
+  "fll_other_airlines_seats_added_ytd_2026_vs_2024": {
+    "value": 1246020.0,
+    "unit": "seats",
+    "description": "FLL: extra seats from the other airlines, January to month 8 of 2026 against 2024"
+  },
+  "fll_seats_added_per_spirit_seat_ytd_2026_vs_2024": {
+    "value": 0.4581259053907979,
+    "unit": "share",
+    "description": "FLL: seats the other airlines added for each seat Spirit removed, January to month 8 of 2026 against 2024 (negative = the others cut too)"
+  },
+  "mco_spirit_seats_removed_ytd_2026_vs_2024": {
+    "value": 2315748.0,
+    "unit": "seats",
+    "description": "MCO: seats Spirit stopped offering, January to month 8 of 2026 against 2024"
+  },
+  "mco_other_airlines_seats_added_ytd_2026_vs_2024": {
+    "value": 2125563.0,
+    "unit": "seats",
+    "description": "MCO: extra seats from the other airlines, January to month 8 of 2026 against 2024"
+  },
+  "mco_seats_added_per_spirit_seat_ytd_2026_vs_2024": {
+    "value": 0.9178731882743718,
+    "unit": "share",
+    "description": "MCO: seats the other airlines added for each seat Spirit removed, January to month 8 of 2026 against 2024 (negative = the others cut too)"
+  },
+  "las_non_spirit_passengers_ytd_2024": {
+    "value": 16177219.0,
+    "unit": "passengers",
+    "description": "Passengers of every airline except Spirit leaving LAS, January to month 8 of 2024"
+  },
+  "las_load_factor_ytd_2024": {
+    "value": 0.8113767347201267,
+    "unit": "share",
+    "description": "Load factor of flights leaving LAS (passengers / seats), January to month 8 of 2024"
+  },
+  "las_non_spirit_passengers_ytd_2025": {
+    "value": 16169902.0,
+    "unit": "passengers",
+    "description": "Passengers of every airline except Spirit leaving LAS, January to month 8 of 2025"
+  },
+  "las_load_factor_ytd_2025": {
+    "value": 0.7756601782326534,
+    "unit": "share",
+    "description": "Load factor of flights leaving LAS (passengers / seats), January to month 8 of 2025"
+  },
+  "las_non_spirit_passengers_ytd_2026": {
+    "value": 16402123.0,
+    "unit": "passengers",
+    "description": "Passengers of every airline except Spirit leaving LAS, January to month 8 of 2026"
+  },
+  "las_load_factor_ytd_2026": {
+    "value": 0.7873274751058432,
+    "unit": "share",
+    "description": "Load factor of flights leaving LAS (passengers / seats), January to month 8 of 2026"
+  },
+  "las_spirit_passengers_ytd_2024": {
+    "value": 2646718.0,
+    "unit": "passengers",
+    "description": "Spirit passengers leaving LAS, January to month 8 of 2024"
+  },
+  "las_canadian_airlines_passengers_ytd_2024": {
+    "value": 604601.0,
+    "unit": "passengers",
+    "description": "WestJet, Air Canada, Air Canada Rouge, Flair and Porter passengers leaving LAS, January to month 8 of 2024"
+  },
+  "las_canadian_airlines_passengers_ytd_2025": {
+    "value": 490893.0,
+    "unit": "passengers",
+    "description": "WestJet, Air Canada, Air Canada Rouge, Flair and Porter passengers leaving LAS, January to month 8 of 2025"
+  },
+  "las_canadian_airlines_passengers_ytd_2026": {
+    "value": 384531.0,
+    "unit": "passengers",
+    "description": "WestJet, Air Canada, Air Canada Rouge, Flair and Porter passengers leaving LAS, January to month 8 of 2026"
+  },
+  "las_vegas_markets_2019q1": {
+    "value": 64,
+    "unit": "markets",
+    "description": "Markets with Las Vegas among DOT's top 1,000, 2019 Q1"
+  },
+  "las_vegas_average_fare_2019q1": {
+    "value": 187.8082683170572,
+    "unit": "usd per ticket",
+    "description": "Average fare in the markets with Las Vegas, 2019 Q1, weighted by passengers"
+  },
+  "top_1000_average_fare_2019q1": {
+    "value": 209.65168725654937,
+    "unit": "usd per ticket",
+    "description": "Average fare in DOT's top 1,000 markets, 2019 Q1, weighted by passengers"
+  },
+  "las_vegas_fare_below_average_2019q1": {
+    "value": 21.843418939492153,
+    "unit": "usd per ticket",
+    "description": "How far the Las Vegas average fare sits below the top 1,000 average, 2019 Q1"
+  },
+  "las_vegas_markets_spirit_cheapest_2019q1": {
+    "value": 14,
+    "unit": "markets",
+    "description": "Markets with Las Vegas in which Spirit had the lowest average fare, 2019 Q1"
+  },
+  "las_vegas_cheapest_fare_2019q1": {
+    "value": 124.89253120193311,
+    "unit": "usd per ticket",
+    "description": "Average fare of the cheapest airline in each market with Las Vegas, 2019 Q1, weighted by passengers"
+  },
+  "las_vegas_markets_2024q1": {
+    "value": 63,
+    "unit": "markets",
+    "description": "Markets with Las Vegas among DOT's top 1,000, 2024 Q1"
+  },
+  "las_vegas_average_fare_2024q1": {
+    "value": 225.63375417751672,
+    "unit": "usd per ticket",
+    "description": "Average fare in the markets with Las Vegas, 2024 Q1, weighted by passengers"
+  },
+  "top_1000_average_fare_2024q1": {
+    "value": 234.43477283931753,
+    "unit": "usd per ticket",
+    "description": "Average fare in DOT's top 1,000 markets, 2024 Q1, weighted by passengers"
+  },
+  "las_vegas_fare_below_average_2024q1": {
+    "value": 8.80101866180081,
+    "unit": "usd per ticket",
+    "description": "How far the Las Vegas average fare sits below the top 1,000 average, 2024 Q1"
+  },
+  "las_vegas_markets_spirit_cheapest_2024q1": {
+    "value": 29,
+    "unit": "markets",
+    "description": "Markets with Las Vegas in which Spirit had the lowest average fare, 2024 Q1"
+  },
+  "las_vegas_cheapest_fare_2024q1": {
+    "value": 141.60878241923942,
+    "unit": "usd per ticket",
+    "description": "Average fare of the cheapest airline in each market with Las Vegas, 2024 Q1, weighted by passengers"
+  },
+  "las_vegas_markets_2025q1": {
+    "value": 61,
+    "unit": "markets",
+    "description": "Markets with Las Vegas among DOT's top 1,000, 2025 Q1"
+  },
+  "las_vegas_average_fare_2025q1": {
+    "value": 226.6201783824515,
+    "unit": "usd per ticket",
+    "description": "Average fare in the markets with Las Vegas, 2025 Q1, weighted by passengers"
+  },
+  "top_1000_average_fare_2025q1": {
+    "value": 239.91367064649486,
+    "unit": "usd per ticket",
+    "description": "Average fare in DOT's top 1,000 markets, 2025 Q1, weighted by passengers"
+  },
+  "las_vegas_fare_below_average_2025q1": {
+    "value": 13.293492264043351,
+    "unit": "usd per ticket",
+    "description": "How far the Las Vegas average fare sits below the top 1,000 average, 2025 Q1"
+  },
+  "las_vegas_markets_spirit_cheapest_2025q1": {
+    "value": 25,
+    "unit": "markets",
+    "description": "Markets with Las Vegas in which Spirit had the lowest average fare, 2025 Q1"
+  },
+  "las_vegas_cheapest_fare_2025q1": {
+    "value": 141.11994757554578,
+    "unit": "usd per ticket",
+    "description": "Average fare of the cheapest airline in each market with Las Vegas, 2025 Q1, weighted by passengers"
+  },
+  "las_vegas_markets_2026q1": {
+    "value": 63,
+    "unit": "markets",
+    "description": "Markets with Las Vegas among DOT's top 1,000, 2026 Q1"
+  },
+  "las_vegas_average_fare_2026q1": {
+    "value": 256.78370430969403,
+    "unit": "usd per ticket",
+    "description": "Average fare in the markets with Las Vegas, 2026 Q1, weighted by passengers"
+  },
+  "top_1000_average_fare_2026q1": {
+    "value": 258.75028623932747,
+    "unit": "usd per ticket",
+    "description": "Average fare in DOT's top 1,000 markets, 2026 Q1, weighted by passengers"
+  },
+  "las_vegas_fare_below_average_2026q1": {
+    "value": 1.9665819296334348,
+    "unit": "usd per ticket",
+    "description": "How far the Las Vegas average fare sits below the top 1,000 average, 2026 Q1"
+  },
+  "las_vegas_markets_spirit_cheapest_2026q1": {
+    "value": 7,
+    "unit": "markets",
+    "description": "Markets with Las Vegas in which Spirit had the lowest average fare, 2026 Q1"
+  },
+  "las_vegas_cheapest_fare_2026q1": {
+    "value": 166.74515593494436,
+    "unit": "usd per ticket",
+    "description": "Average fare of the cheapest airline in each market with Las Vegas, 2026 Q1, weighted by passengers"
+  },
+  "markets_where_spirit_stopped_being_cheapest": {
+    "value": 18,
+    "unit": "markets",
+    "description": "Markets with Las Vegas in which Spirit was the cheapest airline in 2025 Q1 and no longer was in 2026 Q1"
+  },
+  "those_markets_cheapest_fare_2025q1": {
+    "value": 112.1900654877049,
+    "unit": "usd per ticket",
+    "description": "In those markets, average fare of the cheapest option, 2025 Q1 (weighted by 2026 Q1 passengers)"
+  },
+  "other_las_vegas_markets_cheapest_fare_2025q1": {
+    "value": 176.1868168307812,
+    "unit": "usd per ticket",
+    "description": "Markets with Las Vegas in which Spirit wasn't the cheapest in 2025 Q1: average fare of the cheapest option, 2025 Q1"
+  },
+  "those_markets_cheapest_fare_2026q1": {
+    "value": 187.544801043707,
+    "unit": "usd per ticket",
+    "description": "In those markets, average fare of the cheapest option, 2026 Q1 (weighted by 2026 Q1 passengers)"
+  },
+  "other_las_vegas_markets_cheapest_fare_2026q1": {
+    "value": 178.06031262713373,
+    "unit": "usd per ticket",
+    "description": "Markets with Las Vegas in which Spirit wasn't the cheapest in 2025 Q1: average fare of the cheapest option, 2026 Q1"
+  },
+  "those_markets_cheapest_fare_change": {
+    "value": 0.6716703054626556,
+    "unit": "share",
+    "description": "Change in the cheapest fare in the markets where Spirit stopped being the cheapest"
+  },
+  "other_las_vegas_markets_cheapest_fare_change": {
+    "value": 0.010633575372168247,
+    "unit": "share",
+    "description": "Change in the cheapest fare in the markets where Spirit wasn't the cheapest"
+  },
+  "chicago_cheapest_fare_2025q1": {
+    "value": 122.3006103,
+    "unit": "usd per ticket",
+    "description": "Chicago-Las Vegas, 2025 Q1: average fare of the cheapest airline (NK)"
+  },
+  "chicago_cheapest_fare_2026q1": {
+    "value": 220.2049365,
+    "unit": "usd per ticket",
+    "description": "Chicago-Las Vegas, 2026 Q1: average fare of the cheapest airline (WN)"
+  },
+  "jet_fuel_2025_10": {
+    "value": 2.154,
+    "unit": "usd per gallon",
+    "description": "Jet fuel, U.S. Gulf Coast, spot, average of 2025-10"
+  },
+  "jet_fuel_2026_02": {
+    "value": 2.262,
+    "unit": "usd per gallon",
+    "description": "Jet fuel, U.S. Gulf Coast, spot, average of 2026-02"
+  },
+  "jet_fuel_2026_03": {
+    "value": 3.697,
+    "unit": "usd per gallon",
+    "description": "Jet fuel, U.S. Gulf Coast, spot, average of 2026-03"
+  },
+  "jet_fuel_2026_10": {
+    "value": 4.483,
+    "unit": "usd per gallon",
+    "description": "Jet fuel, U.S. Gulf Coast, spot, average of 2026-10"
+  },
+  "las_cpe_estimate_fy2024": {
+    "value": 6.49,
+    "unit": "usd per enplaned passenger",
+    "description": "Cost per enplanement the Department of Aviation estimated for fiscal 2024 (Clark County, Nevada, Airport System Revenue Bonds, official statement (Series 2024B, March 13, 2024))"
+  },
+  "las_cpe_budget_fy2025": {
+    "value": 7.27,
+    "unit": "usd per enplaned passenger",
+    "description": "Estimated cost per enplanement, fiscal 2025 (Harry Reid International Airport, Rates and Charges (effective July 1, 2025))"
+  },
+  "las_cpe_budget_fy2026": {
+    "value": 8.69,
+    "unit": "usd per enplaned passenger",
+    "description": "Estimated cost per enplanement, fiscal 2026 (Harry Reid International Airport, Rates and Charges (effective July 1, 2025))"
+  },
+  "las_cpe_budget_fy2027": {
+    "value": 9.13,
+    "unit": "usd per enplaned passenger",
+    "description": "Estimated cost per enplanement, fiscal 2027 (Harry Reid International Airport, Rates and Charges (effective July 1, 2026))"
+  },
+  "las_cpe_projection_fy2028": {
+    "value": 10.14,
+    "unit": "usd per enplaned passenger",
+    "description": "Projected cost per enplanement, fiscal 2028 (p. 60) (Clark County, Nevada, Airport System Revenue Bonds, official statement (Series 2026, June 2026))"
+  },
+  "las_cpe_actual_fy2024": {
+    "value": 5.1,
+    "unit": "usd per enplaned passenger",
+    "description": "Actual cost per enplanement, fiscal 2024 (airline rents and fees / enplaned passengers, p. 52) (Clark County Department of Aviation, ACFR fiscal 2025)"
+  },
+  "las_cpe_actual_fy2025": {
+    "value": 6.82,
+    "unit": "usd per enplaned passenger",
+    "description": "Actual cost per enplanement, fiscal 2025 (p. 9 and 52) (Clark County Department of Aviation, ACFR fiscal 2025)"
+  },
+  "las_cpe_jul_mar_fy2026": {
+    "value": 9.45,
+    "unit": "usd per enplaned passenger",
+    "description": "Cost per enplanement, July 2025 to March 2026 (p. 12) (Clark County Department of Aviation, quarterly financial report, Q3 fiscal 2026)"
+  },
+  "las_cpe_jul_mar_fy2025": {
+    "value": 7.61,
+    "unit": "usd per enplaned passenger",
+    "description": "Cost per enplanement, July 2024 to March 2025 (p. 12) (Clark County Department of Aviation, quarterly financial report, Q3 fiscal 2026)"
+  },
+  "las_signatory_landing_rate_fy2026": {
+    "value": 1.49,
+    "unit": "usd per 1,000 lbs",
+    "description": "Signatory landing fee rate, fiscal 2026 (Harry Reid International Airport, Rates and Charges (effective July 1, 2026))"
+  },
+  "las_signatory_landing_rate_fy2027": {
+    "value": 1.78,
+    "unit": "usd per 1,000 lbs",
+    "description": "Signatory landing fee rate, fiscal 2027 (Harry Reid International Airport, Rates and Charges (effective July 1, 2026))"
+  },
+  "passenger_facility_charge": {
+    "value": 4.5,
+    "unit": "usd per enplaned passenger",
+    "description": "Passenger Facility Charge (Harry Reid International Airport, Rates and Charges (effective July 1, 2026))"
+  },
+  "las_slot_machine_revenue_fy2025": {
+    "value": 59600000.0,
+    "unit": "usd per year",
+    "description": "Revenue from the airport's slot machines, fiscal 2025 (86.5% of the net concession revenue) (Clark County, Nevada, Airport System Revenue Bonds, official statement (Series 2026, June 2026))"
+  },
+  "las_passengers_jan_sep_2026": {
+    "value": 38429929.0,
+    "unit": "passengers",
+    "description": "Passengers arriving and departing, January to September 2026 (Clark County Department of Aviation, monthly traffic report)"
+  },
+  "las_passengers_jan_sep_2025": {
+    "value": 41449838.0,
+    "unit": "passengers",
+    "description": "Passengers arriving and departing, January to September 2025 (Clark County Department of Aviation, monthly traffic report)"
+  },
+  "las_vegas_visitors_jan_sep_2026": {
+    "value": 28886300.0,
+    "unit": "visitors",
+    "description": "Las Vegas visitor volume, January to September 2026 (p. 2) (LVCVA, Executive Summary, September 2026)"
+  },
+  "las_vegas_visitors_change_jan_sep_2026": {
+    "value": -0.001,
+    "unit": "share",
+    "description": "Las Vegas visitor volume, change from January to September 2025 (LVCVA, Executive Summary, September 2026)"
+  },
+  "lvcva_airport_passengers_change_jan_sep_2026": {
+    "value": -0.073,
+    "unit": "share",
+    "description": "Harry Reid passengers, change from January to September 2025 (LVCVA, Executive Summary, September 2026)"
+  },
+  "i15_daily_cars_change_jan_sep_2026": {
+    "value": 0.058,
+    "unit": "share",
+    "description": "Average daily cars on I-15 at the Nevada-California border, change from January to September 2025 (LVCVA, Executive Summary, September 2026)"
+  },
+  "las_vegas_visitors_2024": {
+    "value": 41676300.0,
+    "unit": "visitors",
+    "description": "Las Vegas visitor volume, 2024 (LVCVA, Year to Date Summary 2024)"
+  },
+  "las_vegas_visitors_2025": {
+    "value": 38545700.0,
+    "unit": "visitors",
+    "description": "Las Vegas visitor volume, 2025 (revised) (LVCVA, Year to Date Summary 2025)"
+  },
+  "visitors_arriving_by_air_share_2025": {
+    "value": 0.47,
+    "unit": "share",
+    "description": "Share of Las Vegas visitors who arrived by air (p. 16) (LVCVA, Las Vegas Visitor Profile Study 2025)"
+  },
+  "canada_nonstop_passengers_2024": {
+    "value": 900929.0,
+    "unit": "passengers",
+    "description": "Nonstop air passengers from Canada to Las Vegas, 2024 (LVCVA, 2025 Top Air Markets)"
+  },
+  "canada_nonstop_passengers_2025": {
+    "value": 678803.0,
+    "unit": "passengers",
+    "description": "Nonstop air passengers from Canada to Las Vegas, 2025 (LVCVA, 2025 Top Air Markets)"
+  },
+  "phoenix_passengers_change_jan_jun_2026": {
+    "value": 0.009,
+    "unit": "share",
+    "description": "Phoenix Sky Harbor passengers, January to June 2026 against 2025 (p. 1) (Phoenix Sky Harbor, monthly report, June 2026)"
+  },
+  "reno_passengers_change_jan_sep_2026": {
+    "value": 0.014,
+    "unit": "share",
+    "description": "Reno-Tahoe passengers, January to September 2026 against 2025 (p. 8) (Reno-Tahoe International Airport, monthly report, September 2026)"
+  },
+  "frontier_says_it_replaced": {
+    "value": 0.25,
+    "unit": "share",
+    "description": "Share of the capacity Spirit dropped that Frontier says it replaced, network-wide (about a quarter) (Frontier Group, Q3 2026 earnings call, October 28, 2026)"
+  },
+  "lvcva_consultant_says_replaced": {
+    "value": 0.5,
+    "unit": "share",
+    "description": "Share of Spirit's lost Las Vegas capacity the LVCVA's air service consultant says was replaced, in scheduled seats (more than half, p. 3-4) (LVCVA, board meeting minutes, August 11, 2026)"
+  },
+  "terminal_1_gates_2026": {
+    "value": 39.0,
+    "unit": "gates",
+    "description": "Terminal 1 gates today (Plan presented to the Clark County Commission, October 20, 2026 (KKLZ))"
+  },
+  "terminal_1_gates_planned": {
+    "value": 65.0,
+    "unit": "gates",
+    "description": "Terminal 1 gates in the plan, delivery around late 2034 (Plan presented to the Clark County Commission, October 20, 2026 (KKLZ))"
+  },
+  "las_cpe_rise_fy2024_to_fy2027": {
+    "value": 2.6400000000000006,
+    "unit": "usd per enplaned passenger",
+    "description": "Rise of the budgeted cost per enplanement from fiscal 2024 to fiscal 2027"
+  },
+  "las_passengers_lost_jan_sep_2026": {
+    "value": 3019909.0,
+    "unit": "passengers",
+    "description": "Fewer passengers at LAS (arriving and departing), January to September 2026 against 2025"
+  }
+}
