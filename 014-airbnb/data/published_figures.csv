@@ -1,0 +1,7 @@
+key,value,unit,description,source,url
+split_fee_host_share,0.03,share of subtotal,Split fee: what most hosts pay,"Airbnb Help Center, 'Airbnb service fees' (read November 16, 2026)",https://www.airbnb.com/help/article/1857
+split_fee_guest_share_low,0.141,share of subtotal,"Split fee: what the guest pays, low end (14.1% to 16.5% of the subtotal)","Airbnb Help Center, 'Airbnb service fees' (read November 16, 2026)",https://www.airbnb.com/help/article/1857
+split_fee_guest_share_high,0.165,share of subtotal,"Split fee: what the guest pays, high end","Airbnb Help Center, 'Airbnb service fees' (read November 16, 2026)",https://www.airbnb.com/help/article/1857
+single_fee_host_share,0.155,share of subtotal,"Single fee, which is replacing the split fee: most hosts pay 15.5% and the guest pays no service fee","Airbnb Help Center, 'Airbnb service fees' (read November 16, 2026)",https://www.airbnb.com/help/article/1857
+us_tourism_taxes_remitted_2025,2700000000.0,usd,Tourism taxes Airbnb says it collected and remitted on hosts' behalf in the U.S. in 2025 (not audited),"Airbnb newsroom, April 15, 2026",https://news.airbnb.com/hosts-and-guests-boost-us-economy-by-a-record-93b-in-2025/
+hosts,5000000.0,hosts,'over 5 million hosts',"Airbnb, Form 10-K 2025, Item 1",https://www.sec.gov/Archives/edgar/data/1559720/000155972026000004/abnb-20251231.htm

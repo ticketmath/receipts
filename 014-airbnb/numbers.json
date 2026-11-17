@@ -1,0 +1,422 @@
+{
+  "split_fee_host_share": {
+    "value": 0.03,
+    "unit": "share of subtotal",
+    "description": "Split fee: what most hosts pay (Airbnb Help Center, 'Airbnb service fees' (read November 16, 2026))"
+  },
+  "split_fee_guest_share_low": {
+    "value": 0.141,
+    "unit": "share of subtotal",
+    "description": "Split fee: what the guest pays, low end (14.1% to 16.5% of the subtotal) (Airbnb Help Center, 'Airbnb service fees' (read November 16, 2026))"
+  },
+  "split_fee_guest_share_high": {
+    "value": 0.165,
+    "unit": "share of subtotal",
+    "description": "Split fee: what the guest pays, high end (Airbnb Help Center, 'Airbnb service fees' (read November 16, 2026))"
+  },
+  "single_fee_host_share": {
+    "value": 0.155,
+    "unit": "share of subtotal",
+    "description": "Single fee, which is replacing the split fee: most hosts pay 15.5% and the guest pays no service fee (Airbnb Help Center, 'Airbnb service fees' (read November 16, 2026))"
+  },
+  "us_tourism_taxes_remitted_2025": {
+    "value": 2700000000.0,
+    "unit": "usd",
+    "description": "Tourism taxes Airbnb says it collected and remitted on hosts' behalf in the U.S. in 2025 (not audited) (Airbnb newsroom, April 15, 2026)"
+  },
+  "hosts": {
+    "value": 5000000.0,
+    "unit": "hosts",
+    "description": "'over 5 million hosts' (Airbnb, Form 10-K 2025, Item 1)"
+  },
+  "world_average_night_2019": {
+    "value": 116.1290914652799,
+    "unit": "usd a night",
+    "description": "Worldwide: average value of a night booked on Airbnb in 2019 (fees, cleaning and taxes included): GBV / nights booked"
+  },
+  "world_airbnb_per_night_2019": {
+    "value": 14.699415723462833,
+    "unit": "usd a night",
+    "description": "Worldwide: what Airbnb keeps per night booked in 2019: revenue / nights booked"
+  },
+  "world_airbnb_share_2019": {
+    "value": 0.1265782375285149,
+    "unit": "share",
+    "description": "Worldwide: Airbnb's share of the value of a night in 2019: revenue / GBV"
+  },
+  "world_average_night_2020": {
+    "value": 123.6899585921325,
+    "unit": "usd a night",
+    "description": "Worldwide: average value of a night booked on Airbnb in 2020 (fees, cleaning and taxes included): GBV / nights booked"
+  },
+  "world_airbnb_per_night_2020": {
+    "value": 17.48447204968944,
+    "unit": "usd a night",
+    "description": "Worldwide: what Airbnb keeps per night booked in 2020: revenue / nights booked"
+  },
+  "world_airbnb_share_2020": {
+    "value": 0.1413572471743197,
+    "unit": "share",
+    "description": "Worldwide: Airbnb's share of the value of a night in 2020: revenue / GBV"
+  },
+  "world_average_night_2021": {
+    "value": 155.94477711244178,
+    "unit": "usd a night",
+    "description": "Worldwide: average value of a night booked on Airbnb in 2021 (fees, cleaning and taxes included): GBV / nights booked"
+  },
+  "world_airbnb_per_night_2021": {
+    "value": 19.933466400532268,
+    "unit": "usd a night",
+    "description": "Worldwide: what Airbnb keeps per night booked in 2021: revenue / nights booked"
+  },
+  "world_airbnb_share_2021": {
+    "value": 0.12782387951447405,
+    "unit": "share",
+    "description": "Worldwide: Airbnb's share of the value of a night in 2021: revenue / GBV"
+  },
+  "world_average_night_2022": {
+    "value": 160.43654822335026,
+    "unit": "usd a night",
+    "description": "Worldwide: average value of a night booked on Airbnb in 2022 (fees, cleaning and taxes included): GBV / nights booked"
+  },
+  "world_airbnb_per_night_2022": {
+    "value": 21.31725888324873,
+    "unit": "usd a night",
+    "description": "Worldwide: what Airbnb keeps per night booked in 2022: revenue / nights booked"
+  },
+  "world_airbnb_share_2022": {
+    "value": 0.1328703410744795,
+    "unit": "share",
+    "description": "Worldwide: Airbnb's share of the value of a night in 2022: revenue / GBV"
+  },
+  "world_average_night_2023": {
+    "value": 163.50892857142858,
+    "unit": "usd a night",
+    "description": "Worldwide: average value of a night booked on Airbnb in 2023 (fees, cleaning and taxes included): GBV / nights booked"
+  },
+  "world_airbnb_per_night_2023": {
+    "value": 22.136160714285715,
+    "unit": "usd a night",
+    "description": "Worldwide: what Airbnb keeps per night booked in 2023: revenue / nights booked"
+  },
+  "world_airbnb_share_2023": {
+    "value": 0.13538196909299405,
+    "unit": "share",
+    "description": "Worldwide: Airbnb's share of the value of a night in 2023: revenue / GBV"
+  },
+  "world_average_night_2024": {
+    "value": 166.22764227642276,
+    "unit": "usd a night",
+    "description": "Worldwide: average value of a night booked on Airbnb in 2024 (fees, cleaning and taxes included): GBV / nights booked"
+  },
+  "world_airbnb_per_night_2024": {
+    "value": 22.565040650406505,
+    "unit": "usd a night",
+    "description": "Worldwide: what Airbnb keeps per night booked in 2024: revenue / nights booked"
+  },
+  "world_airbnb_share_2024": {
+    "value": 0.13574782353516582,
+    "unit": "share",
+    "description": "Worldwide: Airbnb's share of the value of a night in 2024: revenue / GBV"
+  },
+  "world_average_night_2025": {
+    "value": 171.2439024390244,
+    "unit": "usd a night",
+    "description": "Worldwide: average value of a night booked on Airbnb in 2025 (fees, cleaning and taxes included): GBV / nights booked"
+  },
+  "world_airbnb_per_night_2025": {
+    "value": 22.96622889305816,
+    "unit": "usd a night",
+    "description": "Worldwide: what Airbnb keeps per night booked in 2025: revenue / nights booked"
+  },
+  "world_airbnb_share_2025": {
+    "value": 0.1341141410932039,
+    "unit": "share",
+    "description": "Worldwide: Airbnb's share of the value of a night in 2025: revenue / GBV"
+  },
+  "na_average_night_2020": {
+    "value": 174.43576158940397,
+    "unit": "usd a night",
+    "description": "North America: average value of a night booked in 2020"
+  },
+  "na_airbnb_per_night_2020": {
+    "value": 23.479470198675497,
+    "unit": "usd a night",
+    "description": "North America: what Airbnb keeps per night in 2020"
+  },
+  "na_airbnb_share_2020": {
+    "value": 0.1346023887804767,
+    "unit": "share",
+    "description": "North America: Airbnb's share of the value of a night in 2020"
+  },
+  "na_average_night_2021": {
+    "value": 221.9780701754386,
+    "unit": "usd a night",
+    "description": "North America: average value of a night booked in 2021"
+  },
+  "na_airbnb_per_night_2021": {
+    "value": 28.07982456140351,
+    "unit": "usd a night",
+    "description": "North America: what Airbnb keeps per night in 2021"
+  },
+  "na_airbnb_share_2021": {
+    "value": 0.12649819209262808,
+    "unit": "share",
+    "description": "North America: Airbnb's share of the value of a night in 2021"
+  },
+  "na_average_night_2022": {
+    "value": 242.45112781954887,
+    "unit": "usd a night",
+    "description": "North America: average value of a night booked in 2022"
+  },
+  "na_airbnb_per_night_2022": {
+    "value": 31.654135338345863,
+    "unit": "usd a night",
+    "description": "North America: what Airbnb keeps per night in 2022"
+  },
+  "na_airbnb_share_2022": {
+    "value": 0.13055882900204677,
+    "unit": "share",
+    "description": "North America: Airbnb's share of the value of a night in 2022"
+  },
+  "na_average_night_2023": {
+    "value": 239.32191780821918,
+    "unit": "usd a night",
+    "description": "North America: average value of a night booked in 2023"
+  },
+  "na_airbnb_per_night_2023": {
+    "value": 31.767123287671232,
+    "unit": "usd a night",
+    "description": "North America: what Airbnb keeps per night in 2023"
+  },
+  "na_airbnb_share_2023": {
+    "value": 0.132738044131536,
+    "unit": "share",
+    "description": "North America: Airbnb's share of the value of a night in 2023"
+  },
+  "na_average_night_2024": {
+    "value": 245.55844155844156,
+    "unit": "usd a night",
+    "description": "North America: average value of a night booked in 2024"
+  },
+  "na_airbnb_per_night_2024": {
+    "value": 32.506493506493506,
+    "unit": "usd a night",
+    "description": "North America: what Airbnb keeps per night in 2024"
+  },
+  "na_airbnb_share_2024": {
+    "value": 0.13237782949016288,
+    "unit": "share",
+    "description": "North America: Airbnb's share of the value of a night in 2024"
+  },
+  "na_average_night_2025": {
+    "value": 255.03164556962025,
+    "unit": "usd a night",
+    "description": "North America: average value of a night booked in 2025"
+  },
+  "na_airbnb_per_night_2025": {
+    "value": 32.88607594936709,
+    "unit": "usd a night",
+    "description": "North America: what Airbnb keeps per night in 2025"
+  },
+  "na_airbnb_share_2025": {
+    "value": 0.12894900111676388,
+    "unit": "share",
+    "description": "North America: Airbnb's share of the value of a night in 2025"
+  },
+  "na_host_side_per_night_2025": {
+    "value": 222.14556962025316,
+    "unit": "usd a night",
+    "description": "North America: the host's side of a night in 2025 (what the host gets, cleaning and taxes): (GBV - revenue) / nights"
+  },
+  "na_nights_booked_2025": {
+    "value": 158000000.0,
+    "unit": "nights",
+    "description": "North America: nights and seats booked in 2025"
+  },
+  "world_nights_booked_2025": {
+    "value": 533000000.0,
+    "unit": "nights",
+    "description": "Worldwide: nights and seats booked in 2025"
+  },
+  "world_nights_booked_2019": {
+    "value": 326900000.0,
+    "unit": "nights",
+    "description": "Worldwide: nights and experiences booked in 2019"
+  },
+  "world_gbv_2025": {
+    "value": 91273000000.0,
+    "unit": "usd",
+    "description": "Worldwide: gross booking value in 2025"
+  },
+  "world_revenue_2025": {
+    "value": 12241000000.0,
+    "unit": "usd",
+    "description": "Airbnb's revenue in 2025"
+  },
+  "world_host_side_per_night_2019": {
+    "value": 101.42967574181706,
+    "unit": "usd a night",
+    "description": "Worldwide: the host's side of a night in 2019"
+  },
+  "world_host_side_per_night_2025": {
+    "value": 148.27767354596622,
+    "unit": "usd a night",
+    "description": "Worldwide: the host's side of a night in 2025"
+  },
+  "world_night_increase_2019_2025": {
+    "value": 55.1148109737445,
+    "unit": "usd a night",
+    "description": "Worldwide: how much more a night cost in 2025 than in 2019"
+  },
+  "world_airbnb_increase_2019_2025": {
+    "value": 8.266813169595329,
+    "unit": "usd a night",
+    "description": "Worldwide: how much of that went to Airbnb"
+  },
+  "world_host_side_increase_2019_2025": {
+    "value": 46.84799780414916,
+    "unit": "usd a night",
+    "description": "Worldwide: how much went to the host's side"
+  },
+  "world_airbnb_share_of_increase_2019_2025": {
+    "value": 0.1499925886261945,
+    "unit": "share",
+    "description": "Worldwide: Airbnb's part of the increase"
+  },
+  "world_night_change_2019_2025": {
+    "value": 0.4745995191930237,
+    "unit": "share",
+    "description": "Worldwide: change in the value of a night, 2019 to 2025"
+  },
+  "world_airbnb_change_2019_2025": {
+    "value": 0.5623905960017208,
+    "unit": "share",
+    "description": "Worldwide: change in Airbnb's part per night, 2019 to 2025"
+  },
+  "world_host_side_change_2019_2025": {
+    "value": 0.4618766397656424,
+    "unit": "share",
+    "description": "Worldwide: change in the host's side per night, 2019 to 2025"
+  },
+  "na_night_change_2021_2025": {
+    "value": 0.14890468850395,
+    "unit": "share",
+    "description": "North America: change in the value of a night, 2021 to 2025"
+  },
+  "na_night_increase_2021_2025": {
+    "value": 33.05357539418165,
+    "unit": "usd a night",
+    "description": "North America: how much more a night cost, 2021 to 2025"
+  },
+  "na_airbnb_increase_2021_2025": {
+    "value": 4.806251387963581,
+    "unit": "usd a night",
+    "description": "North America: how much of that went to Airbnb"
+  },
+  "world_cost_of_revenue_per_night_2019": {
+    "value": 3.659568675435913,
+    "unit": "usd a night",
+    "description": "Worldwide: cost of revenue (payment processing, hosting the systems) per night booked in 2019"
+  },
+  "world_operations_and_support_per_night_2019": {
+    "value": 2.4933435301315385,
+    "unit": "usd a night",
+    "description": "Worldwide: operations and customer support per night booked in 2019"
+  },
+  "world_product_development_per_night_2019": {
+    "value": 2.9877485469562557,
+    "unit": "usd a night",
+    "description": "Worldwide: product development (engineering) per night booked in 2019"
+  },
+  "world_sales_and_marketing_per_night_2019": {
+    "value": 4.960290608748853,
+    "unit": "usd a night",
+    "description": "Worldwide: sales and marketing per night booked in 2019"
+  },
+  "world_general_and_administrative_per_night_2019": {
+    "value": 2.1327041908840623,
+    "unit": "usd a night",
+    "description": "Worldwide: general and administrative per night booked in 2019"
+  },
+  "world_operating_income_per_night_2019": {
+    "value": -1.5342398286937902,
+    "unit": "usd a night",
+    "description": "Worldwide: operating income per night booked in 2019"
+  },
+  "world_net_income_per_night_2019": {
+    "value": -2.0628296115019884,
+    "unit": "usd a night",
+    "description": "Worldwide: net income per night booked in 2019"
+  },
+  "world_net_loss_per_night_2019": {
+    "value": 2.0628296115019884,
+    "unit": "usd a night",
+    "description": "Worldwide: how much Airbnb lost per night booked in 2019 (net income, sign flipped)"
+  },
+  "world_operating_loss_per_night_2019": {
+    "value": 1.5342398286937902,
+    "unit": "usd a night",
+    "description": "Worldwide: operating loss per night booked in 2019 (sign flipped)"
+  },
+  "world_cost_of_revenue_per_night_2025": {
+    "value": 3.9136960600375232,
+    "unit": "usd a night",
+    "description": "Worldwide: cost of revenue (payment processing, hosting the systems) per night booked in 2025"
+  },
+  "world_operations_and_support_per_night_2025": {
+    "value": 2.4896810506566602,
+    "unit": "usd a night",
+    "description": "Worldwide: operations and customer support per night booked in 2025"
+  },
+  "world_product_development_per_night_2025": {
+    "value": 4.416510318949343,
+    "unit": "usd a night",
+    "description": "Worldwide: product development (engineering) per night booked in 2025"
+  },
+  "world_sales_and_marketing_per_night_2025": {
+    "value": 4.855534709193246,
+    "unit": "usd a night",
+    "description": "Worldwide: sales and marketing per night booked in 2025"
+  },
+  "world_general_and_administrative_per_night_2025": {
+    "value": 2.5178236397748592,
+    "unit": "usd a night",
+    "description": "Worldwide: general and administrative per night booked in 2025"
+  },
+  "world_operating_income_per_night_2025": {
+    "value": 4.772983114446529,
+    "unit": "usd a night",
+    "description": "Worldwide: operating income per night booked in 2025"
+  },
+  "world_net_income_per_night_2025": {
+    "value": 4.711069418386492,
+    "unit": "usd a night",
+    "description": "Worldwide: net income per night booked in 2025"
+  },
+  "world_net_income_2025": {
+    "value": 2511000000.0,
+    "unit": "usd",
+    "description": "Airbnb's net income in 2025"
+  },
+  "cpi_all_items_change_2019_2025": {
+    "value": 0.2592750259217331,
+    "unit": "share",
+    "description": "U.S.: change in inflation (CPI-U, all items), 2019 average to 2025 average"
+  },
+  "cpi_lodging_change_2019_2025": {
+    "value": 0.12530029487295358,
+    "unit": "share",
+    "description": "U.S.: change in lodging away from home (CPI-U), 2019 average to 2025 average"
+  },
+  "cpi_lodging_change_2021_2025": {
+    "value": 0.1422819710998111,
+    "unit": "share",
+    "description": "U.S.: change in lodging away from home (CPI-U), 2021 average to 2025 average"
+  },
+  "cpi_all_items_change_2021_2025": {
+    "value": 0.18811417141581277,
+    "unit": "share",
+    "description": "U.S.: change in inflation (CPI-U, all items), 2021 average to 2025 average"
+  }
+}
