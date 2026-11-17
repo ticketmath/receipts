@@ -1,0 +1,1397 @@
+{
+  "air_cargo_expense_increase_q3_2025": {
+    "value": 64000000.0,
+    "unit": "usd",
+    "description": "U.S. Domestic Package: air cargo expense, increase in Q3 2025 over Q3 2024 (UPS, Form 10-Q, Q3 2025 (November 5, 2025))"
+  },
+  "air_cargo_expense_increase_9m_2025": {
+    "value": 490000000.0,
+    "unit": "usd",
+    "description": "U.S. Domestic Package: air cargo expense, increase in the first nine months of 2025 (UPS, Form 10-Q, Q3 2025 (November 5, 2025))"
+  },
+  "air_cargo_expense_increase_fy2025": {
+    "value": 430000000.0,
+    "unit": "usd",
+    "description": "U.S. Domestic Package: air cargo expense, increase in 2025 over 2024 (UPS, Form 10-K 2025 (February 17, 2026))"
+  },
+  "amazon_cut_announced": {
+    "value": 0.5,
+    "unit": "share",
+    "description": "Agreement in principle with its largest customer to lower its volume by more than this share by the second half of 2026 (UPS, Form 8-K, January 30, 2025, exhibit 99.1 (Q4 2024 results))"
+  },
+  "efficiency_reimagined_savings_target": {
+    "value": 1000000000.0,
+    "unit": "usd",
+    "description": "Savings the Efficiency Reimagined initiatives aim for (approximately), announced January 30, 2025 (UPS, Form 8-K, January 30, 2025, exhibit 99.1 (Q4 2024 results))"
+  },
+  "amazon_cut_completed": {
+    "value": 0.5,
+    "unit": "share",
+    "description": "Volume from the largest customer reduced by more than this share from 2024 levels; completed in Q2 2026 (UPS, Form 10-Q, Q3 2026 (November 4, 2026))"
+  },
+  "amazon_share_of_ups_revenue_2024": {
+    "value": 0.11800000000000001,
+    "unit": "share",
+    "description": "Amazon's share of UPS consolidated revenue in 2024 (approximately) (UPS, Form 10-K 2024 (February 18, 2025))"
+  },
+  "amazon_share_of_ups_revenue_2025": {
+    "value": 0.106,
+    "unit": "share",
+    "description": "Amazon's share of UPS consolidated revenue in 2025 (approximately) (UPS, Form 10-K 2025 (February 17, 2026))"
+  },
+  "employees_2024": {
+    "value": 490000.0,
+    "unit": "employees",
+    "description": "UPS employees at the end of 2024, excluding temporary seasonal employees (UPS, Form 10-K 2024 (February 18, 2025))"
+  },
+  "us_employees_2024": {
+    "value": 406000.0,
+    "unit": "employees",
+    "description": "UPS employees in the U.S. at the end of 2024, excluding temporary seasonal employees (UPS, Form 10-K 2024 (February 18, 2025))"
+  },
+  "employees_2025": {
+    "value": 460000.0,
+    "unit": "employees",
+    "description": "UPS employees at the end of 2025, excluding temporary seasonal employees (UPS, Form 10-K 2025 (February 17, 2026))"
+  },
+  "us_employees_2025": {
+    "value": 370000.0,
+    "unit": "employees",
+    "description": "UPS employees in the U.S. at the end of 2025, excluding temporary seasonal employees (UPS, Form 10-K 2025 (February 17, 2026))"
+  },
+  "positions_cut_plan_2025": {
+    "value": 20000.0,
+    "unit": "positions",
+    "description": "Operational positions UPS planned to cut during 2025 (approximately) (UPS, Form 8-K, April 29, 2025, exhibit 99.1 (Q1 2025 results))"
+  },
+  "buildings_plan_june_2025": {
+    "value": 73.0,
+    "unit": "buildings",
+    "description": "Leased and owned buildings UPS planned to close by the end of June 2025 (UPS, Form 8-K, April 29, 2025, exhibit 99.1 (Q1 2025 results))"
+  },
+  "positions_cut_2025": {
+    "value": 48000.0,
+    "unit": "positions",
+    "description": "Operational positions cut in 2025 (approximately), seasonal positions included (UPS, Form 10-K 2025 (February 17, 2026))"
+  },
+  "seasonal_positions_cut_2025": {
+    "value": 15000.0,
+    "unit": "positions",
+    "description": "Fewer seasonal positions, within the positions cut in 2025 (UPS, Form 10-K 2025 (February 17, 2026))"
+  },
+  "buildings_daily_operations_closed_2025": {
+    "value": 93.0,
+    "unit": "buildings",
+    "description": "Buildings where UPS closed daily operations in 2025 (UPS, Form 10-K 2025 (February 17, 2026))"
+  },
+  "buildings_permanently_closed_2025": {
+    "value": 85.0,
+    "unit": "buildings",
+    "description": "Of those, buildings permanently closed in 2025 (UPS, Form 10-K 2025 (February 17, 2026))"
+  },
+  "buildings_identified_h1_2026": {
+    "value": 24.0,
+    "unit": "buildings",
+    "description": "Buildings identified for closure in the first half of 2026 (UPS, Form 10-K 2025 (February 17, 2026))"
+  },
+  "buildings_closed_9m_2026": {
+    "value": 47.0,
+    "unit": "buildings",
+    "description": "Leased or owned buildings closed in the first nine months of 2026 (UPS, Form 10-Q, Q3 2026 (November 4, 2026))"
+  },
+  "buildings_permanently_closed_9m_2026": {
+    "value": 46.0,
+    "unit": "buildings",
+    "description": "Of those, buildings permanently closed (UPS, Form 10-Q, Q3 2026 (November 4, 2026))"
+  },
+  "separation_costs_9m_2026": {
+    "value": 1200000000.0,
+    "unit": "usd",
+    "description": "Separation costs recognized, payroll taxes included, first nine months of 2026 (approximately) (UPS, Form 10-Q, Q3 2026 (November 4, 2026))"
+  },
+  "separation_payments_9m_2026": {
+    "value": 1100000000.0,
+    "unit": "usd",
+    "description": "Separation payments made, first nine months of 2026 (approximately) (UPS, Form 10-Q, Q3 2026 (November 4, 2026))"
+  },
+  "driver_choice_program_cost_2026": {
+    "value": 1200000000.0,
+    "unit": "usd",
+    "description": "Part of the 2026 transformation costs UPS expects that is related to the Driver Choice Program (the driver buyout) (UPS, Form 8-K, October 27, 2026, exhibit 99.1 (Q3 2026 results))"
+  },
+  "program_benefits_9m_2026": {
+    "value": 1800000000.0,
+    "unit": "usd",
+    "description": "Program benefits UPS says it achieved in the first nine months of 2026 (approximately) (UPS, Form 8-K, October 27, 2026, exhibit 99.1 (Q3 2026 results))"
+  },
+  "cost_savings_2025": {
+    "value": 3500000000.0,
+    "unit": "usd",
+    "description": "Year over year cost savings UPS says it computed in 2025 (approximately), based on the change in volume from its largest customer (UPS, Form 8-K, January 27, 2026, exhibit 99.1 (Q4 2025 results))"
+  },
+  "program_costs_2025": {
+    "value": 509000000.0,
+    "unit": "usd",
+    "description": "Network Reconfiguration and Efficiency Reimagined program costs incurred in 2025, whole company (UPS, Form 8-K, January 27, 2026, exhibit 99.1 (Q4 2025 results))"
+  },
+  "program_costs_to_date_2025": {
+    "value": 544000000.0,
+    "unit": "usd",
+    "description": "The same program costs, from the start to the end of 2025 (UPS, Form 8-K, January 27, 2026, exhibit 99.1 (Q4 2025 results))"
+  },
+  "driver_buyout_offer": {
+    "value": 150000.0,
+    "unit": "usd",
+    "description": "Lump sum UPS offers a full-time driver who quits (Driver Choice Program); a federal judge declined to block the offer on February 20, 2026 (FreightWaves, February 21, 2026)"
+  },
+  "drivers_offered": {
+    "value": 105000.0,
+    "unit": "drivers",
+    "description": "Drivers the offer goes to, regardless of seniority (about) (FreightWaves, February 21, 2026)"
+  },
+  "drivers_accepted_2025_offer": {
+    "value": 3000.0,
+    "unit": "drivers",
+    "description": "Drivers who took the earlier offer, in the second half of 2025, citing a UPS court filing (FreightWaves, February 21, 2026)"
+  },
+  "buyout_cap": {
+    "value": 7500.0,
+    "unit": "buyouts",
+    "description": "Cap on the $150,000 buyouts in the settlement with the Teamsters, chosen by seniority (Supply Chain Dive, April 6, 2026)"
+  },
+  "positions_cut_possible_2026": {
+    "value": 30000.0,
+    "unit": "positions",
+    "description": "Operational positions UPS may cut in 2026, according to its CFO on the earnings call (FOX / KTVU, January 27, 2026)"
+  },
+  "op_profit_per_package_q1_2024": {
+    "value": 0.731519901644383,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q1 2024"
+  },
+  "adj_op_profit_per_package_q1_2024": {
+    "value": 0.74381435377286,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q1 2024"
+  },
+  "revenue_per_package_q1_2024": {
+    "value": 12.5,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q1 2024"
+  },
+  "packages_per_day_q1_2024": {
+    "value": 18075000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q1 2024"
+  },
+  "transformation_costs_per_package_q1_2024": {
+    "value": 0.007903576368306658,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q1 2024"
+  },
+  "cargo_revenue_q1_2024": {
+    "value": 32000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q1 2024"
+  },
+  "cargo_revenue_per_package_q1_2024": {
+    "value": 0.028101604865090342,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q1 2024 (cargo is not packages)"
+  },
+  "op_profit_per_package_q2_2024": {
+    "value": 0.8641681594267802,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q2 2024"
+  },
+  "adj_op_profit_per_package_q2_2024": {
+    "value": 0.8711654724585759,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q2 2024"
+  },
+  "revenue_per_package_q2_2024": {
+    "value": 12.35,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q2 2024"
+  },
+  "packages_per_day_q2_2024": {
+    "value": 17864000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q2 2024"
+  },
+  "transformation_costs_per_package_q2_2024": {
+    "value": 0.006997313031795791,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q2 2024"
+  },
+  "cargo_revenue_q2_2024": {
+    "value": 82000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q2 2024"
+  },
+  "cargo_revenue_per_package_q2_2024": {
+    "value": 0.07172245857590685,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q2 2024 (cargo is not packages)"
+  },
+  "op_profit_per_package_q3_2024": {
+    "value": 0.7155905362090509,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q3 2024"
+  },
+  "adj_op_profit_per_package_q3_2024": {
+    "value": 0.7801040365078503,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q3 2024"
+  },
+  "revenue_per_package_q3_2024": {
+    "value": 12.27,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q3 2024"
+  },
+  "packages_per_day_q3_2024": {
+    "value": 18407000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q3 2024"
+  },
+  "transformation_costs_per_package_q3_2024": {
+    "value": 0.06451350029879938,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q3 2024"
+  },
+  "cargo_revenue_q3_2024": {
+    "value": 147000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q3 2024"
+  },
+  "cargo_revenue_per_package_q3_2024": {
+    "value": 0.12478269136741457,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q3 2024 (cargo is not packages)"
+  },
+  "op_profit_per_package_q4_2024": {
+    "value": 1.211464300719888,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q4 2024"
+  },
+  "adj_op_profit_per_package_q4_2024": {
+    "value": 1.264073993731519,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q4 2024"
+  },
+  "revenue_per_package_q4_2024": {
+    "value": 12.254455068079105,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q4 2024"
+  },
+  "packages_per_day_q4_2024": {
+    "value": 22380274.19354839,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q4 2024"
+  },
+  "transformation_costs_per_package_q4_2024": {
+    "value": 0.03891675921408325,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q4 2024"
+  },
+  "cargo_revenue_q4_2024": {
+    "value": 308000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q4 2024"
+  },
+  "cargo_revenue_per_package_q4_2024": {
+    "value": 0.2219696636655119,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q4 2024 (cargo is not packages)"
+  },
+  "op_profit_per_package_q1_2025": {
+    "value": 0.9052526847815835,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q1 2025"
+  },
+  "adj_op_profit_per_package_q1_2025": {
+    "value": 0.9348421494526874,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q1 2025"
+  },
+  "revenue_per_package_q1_2025": {
+    "value": 13.06,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q1 2025"
+  },
+  "packages_per_day_q1_2025": {
+    "value": 17443000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q1 2025"
+  },
+  "transformation_costs_per_package_q1_2025": {
+    "value": 0.029589464671103852,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q1 2025"
+  },
+  "cargo_revenue_q1_2025": {
+    "value": 341000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q1 2025"
+  },
+  "cargo_revenue_per_package_q1_2025": {
+    "value": 0.31531273290145045,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q1 2025 (cargo is not packages)"
+  },
+  "op_profit_per_package_q2_2025": {
+    "value": 0.8646468918020902,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q2 2025"
+  },
+  "adj_op_profit_per_package_q2_2025": {
+    "value": 0.9269467770192714,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q2 2025"
+  },
+  "revenue_per_package_q2_2025": {
+    "value": 13.03,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q2 2025"
+  },
+  "packages_per_day_q2_2025": {
+    "value": 16553000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q2 2025"
+  },
+  "transformation_costs_per_package_q2_2025": {
+    "value": 0.062299885217181175,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q2 2025"
+  },
+  "cargo_revenue_q2_2025": {
+    "value": 282000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q2 2025"
+  },
+  "cargo_revenue_per_package_q2_2025": {
+    "value": 0.26619041865522863,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q2 2025 (cargo is not packages)"
+  },
+  "op_profit_per_package_q3_2025": {
+    "value": 0.5833978328173375,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q3 2025"
+  },
+  "adj_op_profit_per_package_q3_2025": {
+    "value": 0.8755804953560371,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q3 2025"
+  },
+  "revenue_per_package_q3_2025": {
+    "value": 13.47,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q3 2025"
+  },
+  "packages_per_day_q3_2025": {
+    "value": 16150000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q3 2025"
+  },
+  "transformation_costs_per_package_q3_2025": {
+    "value": 0.2921826625386997,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q3 2025"
+  },
+  "cargo_revenue_q3_2025": {
+    "value": 294000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q3 2025"
+  },
+  "cargo_revenue_per_package_q3_2025": {
+    "value": 0.28444272445820434,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q3 2025 (cargo is not packages)"
+  },
+  "op_profit_per_package_q4_2025": {
+    "value": 1.1532963438567587,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q4 2025"
+  },
+  "adj_op_profit_per_package_q4_2025": {
+    "value": 1.377817620882094,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q4 2025"
+  },
+  "revenue_per_package_q4_2025": {
+    "value": 13.273407150760384,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q4 2025"
+  },
+  "packages_per_day_q4_2025": {
+    "value": 19970806.451612905,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q4 2025"
+  },
+  "transformation_costs_per_package_q4_2025": {
+    "value": 0.08480120175417342,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q4 2025"
+  },
+  "cargo_revenue_q4_2025": {
+    "value": 321000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q4 2025"
+  },
+  "cargo_revenue_per_package_q4_2025": {
+    "value": 0.2592493882199016,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q4 2025 (cargo is not packages)"
+  },
+  "op_profit_per_package_q1_2026": {
+    "value": 0.5178585793580565,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q1 2026"
+  },
+  "adj_op_profit_per_package_q1_2026": {
+    "value": 0.5681361113345668,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q1 2026"
+  },
+  "revenue_per_package_q1_2026": {
+    "value": 13.91,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q1 2026"
+  },
+  "packages_per_day_q1_2026": {
+    "value": 16040000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q1 2026"
+  },
+  "transformation_costs_per_package_q1_2026": {
+    "value": 0.05027753197651034,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q1 2026"
+  },
+  "cargo_revenue_q1_2026": {
+    "value": 288000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q1 2026"
+  },
+  "cargo_revenue_per_package_q1_2026": {
+    "value": 0.2895985841846995,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q1 2026 (cargo is not packages)"
+  },
+  "op_profit_per_package_q2_2026": {
+    "value": 0.015623047119110112,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q2 2026"
+  },
+  "adj_op_profit_per_package_q2_2026": {
+    "value": 1.1600112485939258,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q2 2026"
+  },
+  "revenue_per_package_q2_2026": {
+    "value": 14.24,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q2 2026"
+  },
+  "packages_per_day_q2_2026": {
+    "value": 16002000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q2 2026"
+  },
+  "transformation_costs_per_package_q2_2026": {
+    "value": 1.1443882014748157,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q2 2026"
+  },
+  "cargo_revenue_q2_2026": {
+    "value": 342000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q2 2026"
+  },
+  "cargo_revenue_per_package_q2_2026": {
+    "value": 0.33394263217097864,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q2 2026 (cargo is not packages)"
+  },
+  "op_profit_per_package_q3_2026": {
+    "value": 0.8922899646924998,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, Q3 2026"
+  },
+  "adj_op_profit_per_package_q3_2026": {
+    "value": 1.0183530060618595,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), Q3 2026"
+  },
+  "revenue_per_package_q3_2026": {
+    "value": 14.29,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, Q3 2026"
+  },
+  "packages_per_day_q3_2026": {
+    "value": 15621000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, Q3 2026"
+  },
+  "transformation_costs_per_package_q3_2026": {
+    "value": 0.1684123443293791,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, Q3 2026"
+  },
+  "cargo_revenue_q3_2026": {
+    "value": 352000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, Q3 2026"
+  },
+  "cargo_revenue_per_package_q3_2026": {
+    "value": 0.34667336376573943,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, Q3 2026 (cargo is not packages)"
+  },
+  "op_profit_per_package_9m_2024": {
+    "value": 0.7699074839400305,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, January to September 2024"
+  },
+  "adj_op_profit_per_package_9m_2024": {
+    "value": 0.7982299063972839,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), January to September 2024"
+  },
+  "revenue_per_package_9m_2024": {
+    "value": 12.37,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, January to September 2024"
+  },
+  "packages_per_day_9m_2024": {
+    "value": 18116000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, January to September 2024"
+  },
+  "transformation_costs_per_package_9m_2024": {
+    "value": 0.026877400903311872,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, January to September 2024"
+  },
+  "cargo_revenue_9m_2024": {
+    "value": 261000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, January to September 2024"
+  },
+  "cargo_revenue_per_package_9m_2024": {
+    "value": 0.07543012511574623,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, January to September 2024 (cargo is not packages)"
+  },
+  "op_profit_per_package_9m_2025": {
+    "value": 0.786937715990461,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, January to September 2025"
+  },
+  "adj_op_profit_per_package_9m_2025": {
+    "value": 0.9129485592235211,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), January to September 2025"
+  },
+  "revenue_per_package_9m_2025": {
+    "value": 13.18,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, January to September 2025"
+  },
+  "packages_per_day_9m_2025": {
+    "value": 16707000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, January to September 2025"
+  },
+  "transformation_costs_per_package_9m_2025": {
+    "value": 0.1260108432330602,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, January to September 2025"
+  },
+  "cargo_revenue_9m_2025": {
+    "value": 917000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, January to September 2025"
+  },
+  "cargo_revenue_per_package_9m_2025": {
+    "value": 0.2888798581117905,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, January to September 2025 (cargo is not packages)"
+  },
+  "op_profit_per_package_9m_2026": {
+    "value": 0.4736565228798844,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, January to September 2026"
+  },
+  "adj_op_profit_per_package_9m_2026": {
+    "value": 0.9186365548129699,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), January to September 2026"
+  },
+  "revenue_per_package_9m_2026": {
+    "value": 14.15,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, January to September 2026"
+  },
+  "packages_per_day_9m_2026": {
+    "value": 15884000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, January to September 2026"
+  },
+  "transformation_costs_per_package_9m_2026": {
+    "value": 0.4591534699872505,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, January to September 2026"
+  },
+  "cargo_revenue_9m_2026": {
+    "value": 982000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, January to September 2026"
+  },
+  "cargo_revenue_per_package_9m_2026": {
+    "value": 0.3236817713765111,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, January to September 2026 (cargo is not packages)"
+  },
+  "op_profit_per_package_fy2024": {
+    "value": 0.8962952373820918,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, full year 2024"
+  },
+  "adj_op_profit_per_package_fy2024": {
+    "value": 0.9315694573112835,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), full year 2024"
+  },
+  "revenue_per_package_fy2024": {
+    "value": 12.34,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, full year 2024"
+  },
+  "packages_per_day_fy2024": {
+    "value": 19161000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, full year 2024"
+  },
+  "transformation_costs_per_package_fy2024": {
+    "value": 0.030323452219831414,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, full year 2024"
+  },
+  "cargo_revenue_fy2024": {
+    "value": 569000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, full year 2024"
+  },
+  "cargo_revenue_per_package_fy2024": {
+    "value": 0.11737445110941547,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, full year 2024 (cargo is not packages)"
+  },
+  "op_profit_per_package_fy2025": {
+    "value": 0.8897410096724774,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating profit per package, full year 2025"
+  },
+  "adj_op_profit_per_package_fy2025": {
+    "value": 1.0433947041599811,
+    "unit": "usd",
+    "description": "UPS, U.S.: adjusted operating profit per package (UPS's measure, without transformation costs), full year 2025"
+  },
+  "revenue_per_package_fy2025": {
+    "value": 13.21,
+    "unit": "usd",
+    "description": "UPS, U.S.: average revenue per piece, full year 2025"
+  },
+  "packages_per_day_fy2025": {
+    "value": 17510000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: average daily package volume, full year 2025"
+  },
+  "transformation_costs_per_package_fy2025": {
+    "value": 0.11444707332771296,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs (buyouts, consulting) per package, full year 2025"
+  },
+  "cargo_revenue_fy2025": {
+    "value": 1238000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue, full year 2025"
+  },
+  "cargo_revenue_per_package_fy2025": {
+    "value": 0.2805653005538785,
+    "unit": "usd",
+    "description": "UPS, U.S.: Cargo and Other revenue spread over packages, full year 2025 (cargo is not packages)"
+  },
+  "op_profit_q3_2024": {
+    "value": 843000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment operating profit, Q3 2024"
+  },
+  "adj_op_profit_q3_2024": {
+    "value": 919000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment adjusted operating profit, Q3 2024"
+  },
+  "transformation_costs_q3_2024": {
+    "value": 76000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs, Q3 2024"
+  },
+  "packages_q3_2024": {
+    "value": 1178048000.0,
+    "unit": "packages",
+    "description": "UPS, U.S.: packages delivered, Q3 2024"
+  },
+  "opex_per_package_q3_2024": {
+    "value": 11.675245830390612,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating expenses per package, Q3 2024 (air cargo included)"
+  },
+  "package_revenue_q3_2024": {
+    "value": 14450000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: revenue from packages only, without air cargo, Q3 2024"
+  },
+  "segment_revenue_per_package_q3_2024": {
+    "value": 12.390836366599663,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment revenue per package, air cargo included, Q3 2024 (minus expenses per package = profit per package)"
+  },
+  "op_profit_q3_2025": {
+    "value": 603000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment operating profit, Q3 2025"
+  },
+  "adj_op_profit_q3_2025": {
+    "value": 905000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment adjusted operating profit, Q3 2025"
+  },
+  "transformation_costs_q3_2025": {
+    "value": 302000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs, Q3 2025"
+  },
+  "packages_q3_2025": {
+    "value": 1033600000.0,
+    "unit": "packages",
+    "description": "UPS, U.S.: packages delivered, Q3 2025"
+  },
+  "opex_per_package_q3_2025": {
+    "value": 13.174342105263158,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating expenses per package, Q3 2025 (air cargo included)"
+  },
+  "package_revenue_q3_2025": {
+    "value": 13926000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: revenue from packages only, without air cargo, Q3 2025"
+  },
+  "segment_revenue_per_package_q3_2025": {
+    "value": 13.757739938080496,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment revenue per package, air cargo included, Q3 2025 (minus expenses per package = profit per package)"
+  },
+  "op_profit_q3_2026": {
+    "value": 906000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment operating profit, Q3 2026"
+  },
+  "adj_op_profit_q3_2026": {
+    "value": 1034000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment adjusted operating profit, Q3 2026"
+  },
+  "transformation_costs_q3_2026": {
+    "value": 171000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs, Q3 2026"
+  },
+  "packages_q3_2026": {
+    "value": 1015365000.0,
+    "unit": "packages",
+    "description": "UPS, U.S.: packages delivered, Q3 2026"
+  },
+  "opex_per_package_q3_2026": {
+    "value": 13.747765581835104,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating expenses per package, Q3 2026 (air cargo included)"
+  },
+  "package_revenue_q3_2026": {
+    "value": 14513000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: revenue from packages only, without air cargo, Q3 2026"
+  },
+  "segment_revenue_per_package_q3_2026": {
+    "value": 14.640055546527604,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment revenue per package, air cargo included, Q3 2026 (minus expenses per package = profit per package)"
+  },
+  "op_profit_q2_2026": {
+    "value": 16000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment operating profit, Q2 2026"
+  },
+  "adj_op_profit_q2_2026": {
+    "value": 1188000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment adjusted operating profit, Q2 2026"
+  },
+  "transformation_costs_q2_2026": {
+    "value": 1172000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs, Q2 2026"
+  },
+  "packages_q2_2026": {
+    "value": 1024128000.0,
+    "unit": "packages",
+    "description": "UPS, U.S.: packages delivered, Q2 2026"
+  },
+  "opex_per_package_q2_2026": {
+    "value": 14.562632795900512,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating expenses per package, Q2 2026 (air cargo included)"
+  },
+  "package_revenue_q2_2026": {
+    "value": 14588000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: revenue from packages only, without air cargo, Q2 2026"
+  },
+  "segment_revenue_per_package_q2_2026": {
+    "value": 14.578255843019623,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment revenue per package, air cargo included, Q2 2026 (minus expenses per package = profit per package)"
+  },
+  "op_profit_9m_2024": {
+    "value": 2664000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment operating profit, January to September 2024"
+  },
+  "adj_op_profit_9m_2024": {
+    "value": 2762000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment adjusted operating profit, January to September 2024"
+  },
+  "transformation_costs_9m_2024": {
+    "value": 93000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs, January to September 2024"
+  },
+  "packages_9m_2024": {
+    "value": 3460156000.0,
+    "unit": "packages",
+    "description": "UPS, U.S.: packages delivered, January to September 2024"
+  },
+  "opex_per_package_9m_2024": {
+    "value": 11.675774155847309,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating expenses per package, January to September 2024 (air cargo included)"
+  },
+  "package_revenue_9m_2024": {
+    "value": 42803000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: revenue from packages only, without air cargo, January to September 2024"
+  },
+  "segment_revenue_per_package_9m_2024": {
+    "value": 12.445681639787338,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment revenue per package, air cargo included, January to September 2024 (minus expenses per package = profit per package)"
+  },
+  "op_profit_9m_2026": {
+    "value": 1437000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment operating profit, January to September 2026"
+  },
+  "adj_op_profit_9m_2026": {
+    "value": 2787000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment adjusted operating profit, January to September 2026"
+  },
+  "transformation_costs_9m_2026": {
+    "value": 1393000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs, January to September 2026"
+  },
+  "packages_9m_2026": {
+    "value": 3033844000.0,
+    "unit": "packages",
+    "description": "UPS, U.S.: packages delivered, January to September 2026"
+  },
+  "opex_per_package_9m_2026": {
+    "value": 14.0030271826765,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating expenses per package, January to September 2026 (air cargo included)"
+  },
+  "package_revenue_9m_2026": {
+    "value": 42938000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: revenue from packages only, without air cargo, January to September 2026"
+  },
+  "segment_revenue_per_package_9m_2026": {
+    "value": 14.476683705556383,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment revenue per package, air cargo included, January to September 2026 (minus expenses per package = profit per package)"
+  },
+  "op_profit_fy2024": {
+    "value": 4345000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment operating profit, full year 2024"
+  },
+  "adj_op_profit_fy2024": {
+    "value": 4516000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment adjusted operating profit, full year 2024"
+  },
+  "transformation_costs_fy2024": {
+    "value": 147000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs, full year 2024"
+  },
+  "packages_fy2024": {
+    "value": 4847733000.0,
+    "unit": "packages",
+    "description": "UPS, U.S.: packages delivered, full year 2024"
+  },
+  "opex_per_package_fy2024": {
+    "value": 11.55818606346513,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating expenses per package, full year 2024 (air cargo included)"
+  },
+  "package_revenue_fy2024": {
+    "value": 59807000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: revenue from packages only, without air cargo, full year 2024"
+  },
+  "segment_revenue_per_package_fy2024": {
+    "value": 12.45448130084722,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment revenue per package, air cargo included, full year 2024 (minus expenses per package = profit per package)"
+  },
+  "op_profit_fy2025": {
+    "value": 3926000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment operating profit, full year 2025"
+  },
+  "adj_op_profit_fy2025": {
+    "value": 4604000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment adjusted operating profit, full year 2025"
+  },
+  "transformation_costs_fy2025": {
+    "value": 505000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: transformation strategy costs, full year 2025"
+  },
+  "packages_fy2025": {
+    "value": 4412520000.0,
+    "unit": "packages",
+    "description": "UPS, U.S.: packages delivered, full year 2025"
+  },
+  "opex_per_package_fy2025": {
+    "value": 12.59892306437138,
+    "unit": "usd",
+    "description": "UPS, U.S.: operating expenses per package, full year 2025 (air cargo included)"
+  },
+  "package_revenue_fy2025": {
+    "value": 58281000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: revenue from packages only, without air cargo, full year 2025"
+  },
+  "segment_revenue_per_package_fy2025": {
+    "value": 13.488664074043857,
+    "unit": "usd",
+    "description": "UPS, U.S.: segment revenue per package, air cargo included, full year 2025 (minus expenses per package = profit per package)"
+  },
+  "change_op_profit_per_package_q3_2024_to_q3_2026": {
+    "value": 0.2469281237557177,
+    "unit": "share",
+    "description": "UPS, U.S.: change in operating profit per package, Q3 2024 to Q3 2026"
+  },
+  "diff_op_profit_per_package_q3_2024_to_q3_2026": {
+    "value": 0.17669942848344888,
+    "unit": "usd",
+    "description": "UPS, U.S.: difference in operating profit per package, Q3 2024 to Q3 2026"
+  },
+  "change_adj_op_profit_per_package_q3_2024_to_q3_2026": {
+    "value": 0.3054066616813509,
+    "unit": "share",
+    "description": "UPS, U.S.: change in adjusted operating profit per package, Q3 2024 to Q3 2026"
+  },
+  "change_revenue_per_package_q3_2024_to_q3_2026": {
+    "value": 0.1646291768541157,
+    "unit": "share",
+    "description": "UPS, U.S.: change in revenue per piece, Q3 2024 to Q3 2026"
+  },
+  "drop_packages_per_day_q3_2024_to_q3_2026": {
+    "value": 0.1513554625957516,
+    "unit": "share",
+    "description": "UPS, U.S.: drop in packages a day, Q3 2024 to Q3 2026"
+  },
+  "fewer_packages_per_day_q3_2024_to_q3_2026": {
+    "value": 2786000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: fewer packages a day, Q3 2024 to Q3 2026"
+  },
+  "change_op_profit_q3_2024_to_q3_2026": {
+    "value": 0.07473309608540935,
+    "unit": "share",
+    "description": "UPS, U.S.: change in total segment operating profit, Q3 2024 to Q3 2026"
+  },
+  "change_op_profit_per_package_9m_2024_to_9m_2026": {
+    "value": -0.3847877403971587,
+    "unit": "share",
+    "description": "UPS, U.S.: change in operating profit per package, January to September 2024 to January to September 2026"
+  },
+  "diff_op_profit_per_package_9m_2024_to_9m_2026": {
+    "value": -0.2962509610601461,
+    "unit": "usd",
+    "description": "UPS, U.S.: difference in operating profit per package, January to September 2024 to January to September 2026"
+  },
+  "change_adj_op_profit_per_package_9m_2024_to_9m_2026": {
+    "value": 0.15084206624019791,
+    "unit": "share",
+    "description": "UPS, U.S.: change in adjusted operating profit per package, January to September 2024 to January to September 2026"
+  },
+  "change_revenue_per_package_9m_2024_to_9m_2026": {
+    "value": 0.14389652384801943,
+    "unit": "share",
+    "description": "UPS, U.S.: change in revenue per piece, January to September 2024 to January to September 2026"
+  },
+  "drop_packages_per_day_9m_2024_to_9m_2026": {
+    "value": 0.12320600574078167,
+    "unit": "share",
+    "description": "UPS, U.S.: drop in packages a day, January to September 2024 to January to September 2026"
+  },
+  "fewer_packages_per_day_9m_2024_to_9m_2026": {
+    "value": 2232000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: fewer packages a day, January to September 2024 to January to September 2026"
+  },
+  "change_op_profit_9m_2024_to_9m_2026": {
+    "value": -0.4605855855855856,
+    "unit": "share",
+    "description": "UPS, U.S.: change in total segment operating profit, January to September 2024 to January to September 2026"
+  },
+  "change_op_profit_per_package_q3_2025_to_q3_2026": {
+    "value": 0.5294708250516877,
+    "unit": "share",
+    "description": "UPS, U.S.: change in operating profit per package, Q3 2025 to Q3 2026"
+  },
+  "diff_op_profit_per_package_q3_2025_to_q3_2026": {
+    "value": 0.3088921318751623,
+    "unit": "usd",
+    "description": "UPS, U.S.: difference in operating profit per package, Q3 2025 to Q3 2026"
+  },
+  "change_adj_op_profit_per_package_q3_2025_to_q3_2026": {
+    "value": 0.16306040559727952,
+    "unit": "share",
+    "description": "UPS, U.S.: change in adjusted operating profit per package, Q3 2025 to Q3 2026"
+  },
+  "change_revenue_per_package_q3_2025_to_q3_2026": {
+    "value": 0.06087602078693388,
+    "unit": "share",
+    "description": "UPS, U.S.: change in revenue per piece, Q3 2025 to Q3 2026"
+  },
+  "drop_packages_per_day_q3_2025_to_q3_2026": {
+    "value": 0.032755417956656374,
+    "unit": "share",
+    "description": "UPS, U.S.: drop in packages a day, Q3 2025 to Q3 2026"
+  },
+  "fewer_packages_per_day_q3_2025_to_q3_2026": {
+    "value": 529000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: fewer packages a day, Q3 2025 to Q3 2026"
+  },
+  "change_op_profit_q3_2025_to_q3_2026": {
+    "value": 0.5024875621890548,
+    "unit": "share",
+    "description": "UPS, U.S.: change in total segment operating profit, Q3 2025 to Q3 2026"
+  },
+  "change_op_profit_per_package_q1_2024_to_q1_2025": {
+    "value": 0.2374956344272614,
+    "unit": "share",
+    "description": "UPS, U.S.: change in operating profit per package, Q1 2024 to Q1 2025"
+  },
+  "diff_op_profit_per_package_q1_2024_to_q1_2025": {
+    "value": 0.17373278313720053,
+    "unit": "usd",
+    "description": "UPS, U.S.: difference in operating profit per package, Q1 2024 to Q1 2025"
+  },
+  "change_adj_op_profit_per_package_q1_2024_to_q1_2025": {
+    "value": 0.256821873241454,
+    "unit": "share",
+    "description": "UPS, U.S.: change in adjusted operating profit per package, Q1 2024 to Q1 2025"
+  },
+  "change_revenue_per_package_q1_2024_to_q1_2025": {
+    "value": 0.04479999999999995,
+    "unit": "share",
+    "description": "UPS, U.S.: change in revenue per piece, Q1 2024 to Q1 2025"
+  },
+  "drop_packages_per_day_q1_2024_to_q1_2025": {
+    "value": 0.03496542185338869,
+    "unit": "share",
+    "description": "UPS, U.S.: drop in packages a day, Q1 2024 to Q1 2025"
+  },
+  "fewer_packages_per_day_q1_2024_to_q1_2025": {
+    "value": 632000.0,
+    "unit": "packages a day",
+    "description": "UPS, U.S.: fewer packages a day, Q1 2024 to Q1 2025"
+  },
+  "change_op_profit_q1_2024_to_q1_2025": {
+    "value": 0.1752701080432173,
+    "unit": "share",
+    "description": "UPS, U.S.: change in total segment operating profit, Q1 2024 to Q1 2025"
+  },
+  "diff_revenue_per_package_q3_2024_to_q3_2026": {
+    "value": 2.0199999999999996,
+    "unit": "usd",
+    "description": "UPS, U.S.: how much more UPS gets for each package (air cargo not included), Q3 2024 to Q3 2026"
+  },
+  "diff_cargo_revenue_per_package_q3_2024_to_q3_2026": {
+    "value": 0.22189067239832486,
+    "unit": "usd",
+    "description": "UPS, U.S.: increase in cargo revenue spread over packages, Q3 2024 to Q3 2026"
+  },
+  "diff_adj_op_profit_per_package_q3_2024_to_q3_2026": {
+    "value": 0.2382489695540093,
+    "unit": "usd",
+    "description": "UPS, U.S.: difference in adjusted operating profit per package, Q3 2024 to Q3 2026"
+  },
+  "change_cargo_revenue_q3_2024_to_q3_2026": {
+    "value": 1.3945578231292517,
+    "unit": "share",
+    "description": "UPS, U.S.: change in Cargo and Other revenue, Q3 2024 to Q3 2026"
+  },
+  "increase_cargo_revenue_q3_2024_to_q3_2026": {
+    "value": 205000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: more Cargo and Other revenue, Q3 2024 to Q3 2026"
+  },
+  "diff_revenue_per_package_9m_2024_to_9m_2026": {
+    "value": 1.7800000000000011,
+    "unit": "usd",
+    "description": "UPS, U.S.: how much more UPS gets for each package (air cargo not included), January to September 2024 to January to September 2026"
+  },
+  "diff_cargo_revenue_per_package_9m_2024_to_9m_2026": {
+    "value": 0.24825164626076493,
+    "unit": "usd",
+    "description": "UPS, U.S.: increase in cargo revenue spread over packages, January to September 2024 to January to September 2026"
+  },
+  "diff_adj_op_profit_per_package_9m_2024_to_9m_2026": {
+    "value": 0.1204066484156861,
+    "unit": "usd",
+    "description": "UPS, U.S.: difference in adjusted operating profit per package, January to September 2024 to January to September 2026"
+  },
+  "change_cargo_revenue_9m_2024_to_9m_2026": {
+    "value": 2.7624521072796937,
+    "unit": "share",
+    "description": "UPS, U.S.: change in Cargo and Other revenue, January to September 2024 to January to September 2026"
+  },
+  "increase_cargo_revenue_9m_2024_to_9m_2026": {
+    "value": 721000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: more Cargo and Other revenue, January to September 2024 to January to September 2026"
+  },
+  "diff_revenue_per_package_q3_2025_to_q3_2026": {
+    "value": 0.8199999999999985,
+    "unit": "usd",
+    "description": "UPS, U.S.: how much more UPS gets for each package (air cargo not included), Q3 2025 to Q3 2026"
+  },
+  "diff_cargo_revenue_per_package_q3_2025_to_q3_2026": {
+    "value": 0.06223063930753509,
+    "unit": "usd",
+    "description": "UPS, U.S.: increase in cargo revenue spread over packages, Q3 2025 to Q3 2026"
+  },
+  "diff_adj_op_profit_per_package_q3_2025_to_q3_2026": {
+    "value": 0.14277251070582234,
+    "unit": "usd",
+    "description": "UPS, U.S.: difference in adjusted operating profit per package, Q3 2025 to Q3 2026"
+  },
+  "change_cargo_revenue_q3_2025_to_q3_2026": {
+    "value": 0.19727891156462585,
+    "unit": "share",
+    "description": "UPS, U.S.: change in Cargo and Other revenue, Q3 2025 to Q3 2026"
+  },
+  "increase_cargo_revenue_q3_2025_to_q3_2026": {
+    "value": 58000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: more Cargo and Other revenue, Q3 2025 to Q3 2026"
+  },
+  "diff_revenue_per_package_q3_2024_to_q3_2025": {
+    "value": 1.200000000000001,
+    "unit": "usd",
+    "description": "UPS, U.S.: how much more UPS gets for each package (air cargo not included), Q3 2024 to Q3 2025"
+  },
+  "diff_cargo_revenue_per_package_q3_2024_to_q3_2025": {
+    "value": 0.15966003309078977,
+    "unit": "usd",
+    "description": "UPS, U.S.: increase in cargo revenue spread over packages, Q3 2024 to Q3 2025"
+  },
+  "diff_adj_op_profit_per_package_q3_2024_to_q3_2025": {
+    "value": 0.09547645884818695,
+    "unit": "usd",
+    "description": "UPS, U.S.: difference in adjusted operating profit per package, Q3 2024 to Q3 2025"
+  },
+  "change_cargo_revenue_q3_2024_to_q3_2025": {
+    "value": 1.0,
+    "unit": "share",
+    "description": "UPS, U.S.: change in Cargo and Other revenue, Q3 2024 to Q3 2025"
+  },
+  "increase_cargo_revenue_q3_2024_to_q3_2025": {
+    "value": 147000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: more Cargo and Other revenue, Q3 2024 to Q3 2025"
+  },
+  "diff_revenue_per_package_fy2024_to_fy2025": {
+    "value": 0.870000000000001,
+    "unit": "usd",
+    "description": "UPS, U.S.: how much more UPS gets for each package (air cargo not included), full year 2024 to full year 2025"
+  },
+  "diff_cargo_revenue_per_package_fy2024_to_fy2025": {
+    "value": 0.16319084944446305,
+    "unit": "usd",
+    "description": "UPS, U.S.: increase in cargo revenue spread over packages, full year 2024 to full year 2025"
+  },
+  "diff_adj_op_profit_per_package_fy2024_to_fy2025": {
+    "value": 0.11182524684869771,
+    "unit": "usd",
+    "description": "UPS, U.S.: difference in adjusted operating profit per package, full year 2024 to full year 2025"
+  },
+  "change_cargo_revenue_fy2024_to_fy2025": {
+    "value": 1.1757469244288226,
+    "unit": "share",
+    "description": "UPS, U.S.: change in Cargo and Other revenue, full year 2024 to full year 2025"
+  },
+  "increase_cargo_revenue_fy2024_to_fy2025": {
+    "value": 669000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: more Cargo and Other revenue, full year 2024 to full year 2025"
+  },
+  "diff_revenue_per_package_q1_2024_to_q1_2025": {
+    "value": 0.5600000000000005,
+    "unit": "usd",
+    "description": "UPS, U.S.: how much more UPS gets for each package (air cargo not included), Q1 2024 to Q1 2025"
+  },
+  "diff_cargo_revenue_per_package_q1_2024_to_q1_2025": {
+    "value": 0.28721112803636006,
+    "unit": "usd",
+    "description": "UPS, U.S.: increase in cargo revenue spread over packages, Q1 2024 to Q1 2025"
+  },
+  "diff_adj_op_profit_per_package_q1_2024_to_q1_2025": {
+    "value": 0.19102779567982736,
+    "unit": "usd",
+    "description": "UPS, U.S.: difference in adjusted operating profit per package, Q1 2024 to Q1 2025"
+  },
+  "change_cargo_revenue_q1_2024_to_q1_2025": {
+    "value": 9.65625,
+    "unit": "share",
+    "description": "UPS, U.S.: change in Cargo and Other revenue, Q1 2024 to Q1 2025"
+  },
+  "increase_cargo_revenue_q1_2024_to_q1_2025": {
+    "value": 309000000.0,
+    "unit": "usd",
+    "description": "UPS, U.S.: more Cargo and Other revenue, Q1 2024 to Q1 2025"
+  },
+  "cpi_change_q3_2024_to_q3_2026": {
+    "value": 0.06478784972428575,
+    "unit": "share",
+    "description": "U.S. inflation (CPI-U), July-September 2024 average to July-September 2026 average"
+  },
+  "op_profit_per_package_q3_2024_in_2026_dollars": {
+    "value": 0.7619521083330839,
+    "unit": "usd",
+    "description": "UPS, U.S.: Q3 2024 operating profit per package in 2026 dollars"
+  },
+  "real_change_op_profit_per_package_q3_2024_to_q3_2026": {
+    "value": 0.1710578065655004,
+    "unit": "share",
+    "description": "UPS, U.S.: change in operating profit per package after inflation, Q3 2024 to Q3 2026"
+  },
+  "real_change_revenue_per_package_q3_2024_to_q3_2026": {
+    "value": 0.09376640347246878,
+    "unit": "share",
+    "description": "UPS, U.S.: change in revenue per piece after inflation, Q3 2024 to Q3 2026"
+  },
+  "revenue_per_package_q3_2024_in_2026_dollars": {
+    "value": 13.064946916116986,
+    "unit": "usd",
+    "description": "UPS, U.S.: Q3 2024 revenue per piece in 2026 dollars"
+  },
+  "real_diff_revenue_per_package_q3_2024_to_q3_2026": {
+    "value": 1.2250530838830134,
+    "unit": "usd",
+    "description": "UPS, U.S.: how much more UPS gets for each package after inflation, Q3 2024 to Q3 2026"
+  },
+  "ups_revenue_2024": {
+    "value": 91070000000.0,
+    "unit": "usd",
+    "description": "UPS consolidated revenue in 2024 (XBRL)"
+  },
+  "amazon_revenue_to_ups_2024": {
+    "value": 10746260000.0,
+    "unit": "usd",
+    "description": "Revenue Amazon brought UPS in 2024, approximately: Amazon's share x consolidated revenue"
+  },
+  "ups_revenue_2025": {
+    "value": 88661000000.0,
+    "unit": "usd",
+    "description": "UPS consolidated revenue in 2025 (XBRL)"
+  },
+  "amazon_revenue_to_ups_2025": {
+    "value": 9398066000.0,
+    "unit": "usd",
+    "description": "Revenue Amazon brought UPS in 2025, approximately: Amazon's share x consolidated revenue"
+  },
+  "us_employees_fewer_2024_to_2025": {
+    "value": 36000.0,
+    "unit": "employees",
+    "description": "UPS: fewer employees in the U.S., end of 2024 to end of 2025 (temporary seasonal employees excluded)"
+  },
+  "buildings_closed_2025_to_sep_2026": {
+    "value": 140.0,
+    "unit": "buildings",
+    "description": "UPS: buildings closed (2025: daily operations closed) from 2025 to September 2026"
+  },
+  "buildings_permanently_closed_2025_to_sep_2026": {
+    "value": 131.0,
+    "unit": "buildings",
+    "description": "UPS: buildings permanently closed from 2025 to September 2026"
+  },
+  "fedex_op_profit_per_package_q3_2026": {
+    "value": 1.0286186499652052,
+    "unit": "usd",
+    "description": "FedEx, U.S. (Express U.S. Domestic): operating income per package, July to September 2026"
+  },
+  "fedex_revenue_per_package_q3_2026": {
+    "value": 15.32,
+    "unit": "usd",
+    "description": "FedEx, U.S.: composite revenue per package, July to September 2026"
+  },
+  "fedex_packages_per_day_q3_2026": {
+    "value": 14370000.0,
+    "unit": "packages a day",
+    "description": "FedEx, U.S.: average daily packages, July to September 2026"
+  },
+  "fedex_op_profit_per_package_q3_2025": {
+    "value": 0.9800269618277281,
+    "unit": "usd",
+    "description": "FedEx, U.S. (Express U.S. Domestic): operating income per package, July to September 2025"
+  },
+  "fedex_revenue_per_package_q3_2025": {
+    "value": 14.28,
+    "unit": "usd",
+    "description": "FedEx, U.S.: composite revenue per package, July to September 2025"
+  },
+  "fedex_packages_per_day_q3_2025": {
+    "value": 14094000.0,
+    "unit": "packages a day",
+    "description": "FedEx, U.S.: average daily packages, July to September 2025"
+  },
+  "fedex_change_packages_per_day_q3_2025_to_q3_2026": {
+    "value": 0.019582801191996513,
+    "unit": "share",
+    "description": "FedEx, U.S.: change in packages a day, July to September 2025 to 2026"
+  }
+}
