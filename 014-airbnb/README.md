@@ -1,6 +1,6 @@
 # #014 · Airbnb: who gets each part of a night?
 
-**Video:** coming soon
+**Video:** https://youtu.be/8YR0m0rh_TM
 
 ## The answer
 
