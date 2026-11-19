@@ -1,0 +1,327 @@
+{
+  "excalibur_room_rate_nov24": {
+    "value": 6.6,
+    "unit": "usd a night",
+    "description": "Excalibur, Royal Tower Two Queen, Tuesday November 24, 2026: room rate ('avg. room rate') (MGM Resorts booking site, Excalibur, night of November 24, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "excalibur_resort_fee": {
+    "value": 45.0,
+    "unit": "usd a night",
+    "description": "Excalibur: daily resort fee (MGM Resorts booking site, Excalibur, night of November 24, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "excalibur_total_nov24": {
+    "value": 51.6,
+    "unit": "usd a night",
+    "description": "Excalibur, Royal Tower Two Queen, November 24, 2026: total per night shown on the site, before tax (MGM Resorts booking site, Excalibur, night of November 24, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "excalibur_room_rate_weekend": {
+    "value": 134.1,
+    "unit": "usd a night",
+    "description": "Excalibur, Royal Tower Two Queen, November 20 to 22, 2026: average room rate per night (MGM Resorts booking site, Excalibur, nights of November 20 to 22, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "excalibur_total_weekend": {
+    "value": 179.1,
+    "unit": "usd a night",
+    "description": "Excalibur, Royal Tower Two Queen, November 20 to 22, 2026: average total per night shown on the site, before tax (MGM Resorts booking site, Excalibur, nights of November 20 to 22, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "luxor_room_rate_nov24": {
+    "value": 8.4,
+    "unit": "usd a night",
+    "description": "Luxor, cheapest room, November 24, 2026: room rate (MGM Resorts booking site, Luxor, night of November 24, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "luxor_resort_fee": {
+    "value": 45.0,
+    "unit": "usd a night",
+    "description": "Luxor: daily resort fee (MGM Resorts booking site, Luxor, night of November 24, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "luxor_total_nov24": {
+    "value": 53.4,
+    "unit": "usd a night",
+    "description": "Luxor, Pyramid Two Queen, November 24, 2026: total per night shown on the site, before tax (MGM Resorts booking site, Luxor, night of November 24, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "bellagio_total_nov24": {
+    "value": 209.7,
+    "unit": "usd a night",
+    "description": "Bellagio, Premier King, November 24, 2026: total per night shown on the site, before tax (MGM Resorts booking site, Bellagio, night of November 24, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "bellagio_room_rate_nov24": {
+    "value": 154.7,
+    "unit": "usd a night",
+    "description": "Bellagio, cheapest room, November 24, 2026: room rate (MGM Resorts booking site, Bellagio, night of November 24, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "bellagio_resort_fee": {
+    "value": 55.0,
+    "unit": "usd a night",
+    "description": "Bellagio: daily resort fee (MGM Resorts booking site, Bellagio, night of November 24, 2026 (read November 17, 2026; 2 guests, lowest rate, before tax))"
+  },
+  "strip_room_tax_rate": {
+    "value": 0.1338,
+    "unit": "share",
+    "description": "Clark County room tax on the Strip (Primary Gaming Corridor), charged on the room rate and the resort fee (Clark County, transient lodging tax rates (Primary Gaming Corridor))"
+  },
+  "strip_adr_may_2026": {
+    "value": 225.06,
+    "unit": "usd a night",
+    "description": "Strip average daily room rate, May 2026 (the highest month of 2026 through September) (LVCVA, 2026 Las Vegas monthly visitor statistics (Strip average daily room rate))"
+  },
+  "strip_adr_august_2026": {
+    "value": 153.15,
+    "unit": "usd a night",
+    "description": "Strip average daily room rate, August 2026 (the lowest month of 2026 through September) (LVCVA, 2026 Las Vegas monthly visitor statistics (Strip average daily room rate))"
+  },
+  "strip_adr_jan_sep_2026": {
+    "value": 194.89,
+    "unit": "usd a night",
+    "description": "Strip average daily room rate, January to September 2026 (LVCVA, 2026 Las Vegas monthly visitor statistics (Strip average daily room rate))"
+  },
+  "flamingo_room_rate_nov24": {
+    "value": 5.6,
+    "unit": "usd a night",
+    "description": "Flamingo, 'Room type assigned on arrival', November 24, 2026: room rate after the promotions (Caesars booking, Flamingo Las Vegas, night of November 24, 2026 (screenshots of November 17, 2026; 2 adults, Best Available Rate))"
+  },
+  "flamingo_room_rate_before_promos_nov24": {
+    "value": 11.43,
+    "unit": "usd a night",
+    "description": "Flamingo, the same room: room rate before the Cyber Sale and Cyber Monday promotions (Caesars booking, Flamingo Las Vegas, night of November 24, 2026 (screenshots of November 17, 2026; 2 adults, Best Available Rate))"
+  },
+  "flamingo_resort_fee": {
+    "value": 49.95,
+    "unit": "usd a night",
+    "description": "Flamingo: 'Resort fees, $49.95 per room, per night' (Caesars booking, Flamingo Las Vegas, night of November 24, 2026 (screenshots of November 17, 2026; 2 adults, Best Available Rate))"
+  },
+  "flamingo_taxes_nov24": {
+    "value": 7.43,
+    "unit": "usd a night",
+    "description": "Flamingo, the same room: 'Taxes' in the price breakdown (Caesars booking, Flamingo Las Vegas, night of November 24, 2026 (screenshots of November 17, 2026; 2 adults, Best Available Rate))"
+  },
+  "flamingo_total_nov24": {
+    "value": 62.98,
+    "unit": "usd a night",
+    "description": "Flamingo, the same room: 'Total' with room rate, taxes and resort fee (Caesars booking, Flamingo Las Vegas, night of November 24, 2026 (screenshots of November 17, 2026; 2 adults, Best Available Rate))"
+  },
+  "flamingo_fab_room_rate_nov24": {
+    "value": 10.5,
+    "unit": "usd a night",
+    "description": "Flamingo, Fab Room, 2 Queens, November 24, 2026: room rate after the promotions (Caesars booking, Flamingo Las Vegas, night of November 24, 2026 (screenshots of November 17, 2026; 2 adults, Best Available Rate))"
+  },
+  "flamingo_fab_room_taxes_nov24": {
+    "value": 8.09,
+    "unit": "usd a night",
+    "description": "Flamingo, Fab Room, 2 Queens: 'Taxes' (Caesars booking, Flamingo Las Vegas, night of November 24, 2026 (screenshots of November 17, 2026; 2 adults, Best Available Rate))"
+  },
+  "flamingo_fab_room_total_nov24": {
+    "value": 68.54,
+    "unit": "usd a night",
+    "description": "Flamingo, Fab Room, 2 Queens: 'Total' (Caesars booking, Flamingo Las Vegas, night of November 24, 2026 (screenshots of November 17, 2026; 2 adults, Best Available Rate))"
+  },
+  "excalibur_resort_fee_2010": {
+    "value": 4.5,
+    "unit": "usd a night",
+    "description": "Resort fee the Excalibur added to the room rate in May 2010 (Las Vegas Sun, resort fees catch guests by surprise (May 8, 2010))"
+  },
+  "excalibur_room_rate_2010": {
+    "value": 39.0,
+    "unit": "usd a night",
+    "description": "Excalibur room rate in the case the Las Vegas Sun reported, May 2010 (Las Vegas Sun, resort fees catch guests by surprise (May 8, 2010))"
+  },
+  "mgm_resort_fee_revenue_2009": {
+    "value": 15000000.0,
+    "unit": "usd a year",
+    "description": "MGM Resorts: resort fee revenue in 2009 (reclassified to rooms revenue) (MGM Resorts, Form 10-K 2011 (filed February 2012))"
+  },
+  "mgm_resort_fee_revenue_2010": {
+    "value": 70000000.0,
+    "unit": "usd a year",
+    "description": "MGM Resorts: resort fee revenue in 2010, the year most Strip resorts adopted the fee (MGM Resorts, Form 10-K 2011 (filed February 2012))"
+  },
+  "ftc_resort_fee_share_cited": {
+    "value": 0.2,
+    "unit": "share",
+    "description": "The FTC: resort fees 'can exceed 20% of the per-night cost, especially at lower cost hotels' (FTC, Trade Regulation Rule on Unfair or Deceptive Fees (Federal Register, January 10, 2025))"
+  },
+  "mgm_self_parking_per_day": {
+    "value": 20.0,
+    "unit": "usd a day",
+    "description": "MGM Resorts: hotel guest self-parking, 24 hours (MGM Resorts, Las Vegas parking (read November 17, 2026))"
+  },
+  "aria_minibar_water": {
+    "value": 26.0,
+    "unit": "usd a bottle",
+    "description": "A bottle of water from the minibar at Aria (Las Vegas Review-Journal, the $26 minibar water at Aria (June 25, 2025, republished by The Spokesman-Review))"
+  },
+  "aria_starbucks_water": {
+    "value": 7.45,
+    "unit": "usd a bottle",
+    "description": "The same water at the Starbucks in the complex (Las Vegas Review-Journal, the $26 minibar water at Aria (June 25, 2025, republished by The Spokesman-Review))"
+  },
+  "strip_adr_fy2019": {
+    "value": 180.19,
+    "unit": "usd a night",
+    "description": "Average room rate per day, Las Vegas Strip Area, fiscal year 2019 (Nevada Gaming Control Board, Gaming Abstract FY2019 (Las Vegas Strip Area, $1M+))"
+  },
+  "strip_adr_fy2025": {
+    "value": 250.72,
+    "unit": "usd a night",
+    "description": "Average room rate per day, Las Vegas Strip Area, fiscal year 2025 (Nevada Gaming Control Board, Gaming Abstract FY2025 (Las Vegas Strip Area, $1M+))"
+  },
+  "excalibur_nov24_resort_fee_share_of_night": {
+    "value": 0.872093023255814,
+    "unit": "share",
+    "description": "Excalibur, Tuesday November 24, 2026: resort fee / (room rate + resort fee), before tax"
+  },
+  "excalibur_nov24_night_with_tax": {
+    "value": 58.504079999999995,
+    "unit": "usd a night",
+    "description": "Excalibur, Tuesday November 24, 2026: (room rate + resort fee) x (1 + room tax)"
+  },
+  "excalibur_nov24_resort_fee_with_tax": {
+    "value": 51.020999999999994,
+    "unit": "usd a night",
+    "description": "Excalibur, Tuesday November 24, 2026: resort fee x (1 + room tax)"
+  },
+  "excalibur_nov24_resort_fee_vs_room_rate_times": {
+    "value": 6.818181818181818,
+    "unit": "times",
+    "description": "Excalibur, Tuesday November 24, 2026: resort fee / room rate"
+  },
+  "excalibur_weekend_resort_fee_share_of_night": {
+    "value": 0.2512562814070352,
+    "unit": "share",
+    "description": "Excalibur, November 20 to 22, 2026: resort fee / (room rate + resort fee), before tax"
+  },
+  "excalibur_weekend_night_with_tax": {
+    "value": 203.06357999999997,
+    "unit": "usd a night",
+    "description": "Excalibur, November 20 to 22, 2026: (room rate + resort fee) x (1 + room tax)"
+  },
+  "excalibur_weekend_resort_fee_with_tax": {
+    "value": 51.020999999999994,
+    "unit": "usd a night",
+    "description": "Excalibur, November 20 to 22, 2026: resort fee x (1 + room tax)"
+  },
+  "excalibur_weekend_resort_fee_vs_room_rate_times": {
+    "value": 0.33557046979865773,
+    "unit": "times",
+    "description": "Excalibur, November 20 to 22, 2026: resort fee / room rate"
+  },
+  "luxor_nov24_resort_fee_share_of_night": {
+    "value": 0.8426966292134832,
+    "unit": "share",
+    "description": "Luxor, Tuesday November 24, 2026: resort fee / (room rate + resort fee), before tax"
+  },
+  "luxor_nov24_night_with_tax": {
+    "value": 60.54491999999999,
+    "unit": "usd a night",
+    "description": "Luxor, Tuesday November 24, 2026: (room rate + resort fee) x (1 + room tax)"
+  },
+  "luxor_nov24_resort_fee_with_tax": {
+    "value": 51.020999999999994,
+    "unit": "usd a night",
+    "description": "Luxor, Tuesday November 24, 2026: resort fee x (1 + room tax)"
+  },
+  "luxor_nov24_resort_fee_vs_room_rate_times": {
+    "value": 5.357142857142857,
+    "unit": "times",
+    "description": "Luxor, Tuesday November 24, 2026: resort fee / room rate"
+  },
+  "bellagio_nov24_resort_fee_share_of_night": {
+    "value": 0.26227944682880305,
+    "unit": "share",
+    "description": "Bellagio, Tuesday November 24, 2026: resort fee / (room rate + resort fee), before tax"
+  },
+  "bellagio_nov24_night_with_tax": {
+    "value": 237.75785999999997,
+    "unit": "usd a night",
+    "description": "Bellagio, Tuesday November 24, 2026: (room rate + resort fee) x (1 + room tax)"
+  },
+  "bellagio_nov24_resort_fee_with_tax": {
+    "value": 62.358999999999995,
+    "unit": "usd a night",
+    "description": "Bellagio, Tuesday November 24, 2026: resort fee x (1 + room tax)"
+  },
+  "bellagio_nov24_resort_fee_vs_room_rate_times": {
+    "value": 0.3555268261150614,
+    "unit": "times",
+    "description": "Bellagio, Tuesday November 24, 2026: resort fee / room rate"
+  },
+  "excalibur_nov24_tax_on_resort_fee": {
+    "value": 6.021,
+    "unit": "usd a night",
+    "description": "Excalibur: the room tax charged on the resort fee alone"
+  },
+  "flamingo_nov24_resort_fee_share_of_night": {
+    "value": 0.8991899189918992,
+    "unit": "share",
+    "description": "Flamingo, Tuesday November 24, 2026: resort fee / (room rate + resort fee), before tax"
+  },
+  "flamingo_nov24_resort_fee_vs_room_rate_times": {
+    "value": 8.919642857142858,
+    "unit": "times",
+    "description": "Flamingo, November 24, 2026: resort fee / room rate"
+  },
+  "flamingo_nov24_resort_fee_with_tax_share_of_total": {
+    "value": 0.899226897427755,
+    "unit": "share",
+    "description": "Flamingo, November 24, 2026: resort fee with its tax / published total"
+  },
+  "flamingo_promo_discount": {
+    "value": 5.83,
+    "unit": "usd a night",
+    "description": "Flamingo: room rate before the promotions - room rate after ('You saved')"
+  },
+  "flamingo_promo_discount_share_of_room_rate": {
+    "value": 0.510061242344707,
+    "unit": "share",
+    "description": "Flamingo: the discount / the room rate before the promotions"
+  },
+  "flamingo_promo_discount_share_of_full_night": {
+    "value": 0.09498561389246803,
+    "unit": "share",
+    "description": "Flamingo: the discount with the tax it avoids / what the night would cost without the promotion (fee and tax included)"
+  },
+  "excalibur_2010_resort_fee_share_of_night": {
+    "value": 0.10344827586206896,
+    "unit": "share",
+    "description": "Excalibur, May 2010: resort fee / (room rate + resort fee)"
+  },
+  "excalibur_resort_fee_2026_vs_2010_times": {
+    "value": 10.0,
+    "unit": "times",
+    "description": "Excalibur resort fee in 2026 / in 2010"
+  },
+  "mgm_resort_fee_revenue_2010_vs_2009_times": {
+    "value": 4.666666666666667,
+    "unit": "times",
+    "description": "MGM resort fee revenue, 2010 / 2009"
+  },
+  "excalibur_nov24_bill_with_parking": {
+    "value": 78.50407999999999,
+    "unit": "usd a night",
+    "description": "Excalibur, November 24, 2026: (room rate + resort fee) x (1 + room tax) + self-parking"
+  },
+  "excalibur_nov24_room_rate_share_of_bill": {
+    "value": 0.08407206351567971,
+    "unit": "share",
+    "description": "Excalibur, November 24, 2026: room rate / the whole bill with parking"
+  },
+  "aria_water_minibar_vs_starbucks_times": {
+    "value": 3.48993288590604,
+    "unit": "times",
+    "description": "Minibar water at Aria / the same water at the Starbucks in the complex"
+  },
+  "resort_fee_45_on_strip_adr_may_2026": {
+    "value": 0.19994668088509732,
+    "unit": "share",
+    "description": "A $45 resort fee / the Strip's average daily room rate in May 2026 (LVCVA)"
+  },
+  "resort_fee_45_on_strip_adr_august_2026": {
+    "value": 0.2938295788442703,
+    "unit": "share",
+    "description": "A $45 resort fee / the Strip's average daily room rate in August 2026 (LVCVA)"
+  },
+  "strip_adr_change_fy2019_to_fy2025": {
+    "value": 0.39142016760086573,
+    "unit": "share",
+    "description": "Strip average room rate, fiscal 2019 to fiscal 2025 (Gaming Abstract)"
+  }
+}
