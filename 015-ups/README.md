@@ -1,6 +1,6 @@
 # #015 · UPS is shrinking on purpose: what does each package that stayed pay?
 
-**Video:** coming soon
+**Video:** https://youtu.be/C38zxLaXWk8
 
 ## The answer
 
